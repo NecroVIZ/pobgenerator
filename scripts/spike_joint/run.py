@@ -58,10 +58,6 @@ def joint_fixpoint(
     pob.load_build_xml(xml)
     graph = load_tree_graph(pob)
     _, ascend = split_main_ascend(graph)
-    if tree_start == "expert":
-        tree_alloc = set(graph.allocated)
-    else:
-        tree_alloc = set(ascend) | {graph.class_start}
 
     opt_slots = b_ref.rare_core_slots()
     if gear_start == "expert":
@@ -73,6 +69,18 @@ def joint_fixpoint(
     eng = PoolEngine(workers)
     meta = MetaEngine()
     eng.prefer = pick_dps_key(eng.stats(b_ref.xml, list(DPS_KEYS)))
+
+    if tree_start == "expert":
+        tree_alloc = set(graph.allocated)
+    elif tree_start == "ml":
+        from scripts.ml_v0.eval import _load_model, predict_tree_alloc
+        model, meta_info, backend = _load_model()
+        tree_alloc = predict_tree_alloc(
+            xml, model, meta_info, backend, eng.pool,
+            lambda_blend=0.5, prefer=eng.prefer
+        )
+    else:
+        tree_alloc = set(ascend) | {graph.class_start}
 
     ref_dps = float(eng.stats(b_ref.xml, [eng.prefer]).get(eng.prefer) or 0)
     history: list[dict] = []
@@ -137,7 +145,7 @@ def main():
     ap = argparse.ArgumentParser(description="Joint spike: tree <-> gear fixpoint")
     ap.add_argument("builds", nargs="*", default=["builds/10.txt", "builds/8.txt", "builds/2.txt"])
     ap.add_argument("--gear-start", choices=("expert", "stripped"), default="expert")
-    ap.add_argument("--tree-start", choices=("minimal", "expert"), default="minimal")
+    ap.add_argument("--tree-start", choices=("minimal", "expert", "ml"), default="ml")
     ap.add_argument("--joint-iters", type=int, default=2)
     ap.add_argument("--tree-rounds", type=int, default=25)
     ap.add_argument("--tree-candidates", type=int, default=30)
