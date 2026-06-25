@@ -285,7 +285,7 @@ def predict_tree_alloc(
     return alloc
 
 
-def _eval_one(path: str, pool: WorkerPool, model, meta, backend) -> dict:
+def _eval_one(path: str, pool: WorkerPool, model, meta, backend, lambda_blend: float = 0.5) -> dict:
     p = Path(path)
     if not p.is_absolute():
         p = _REPO / p
@@ -299,7 +299,7 @@ def _eval_one(path: str, pool: WorkerPool, model, meta, backend) -> dict:
     ref_dps = _dps_from(ref, prefer, DPS_KEYS)
 
     # ML tree
-    ml_alloc = predict_tree_alloc(xml, model, meta, backend, pool, prefer=prefer)
+    ml_alloc = predict_tree_alloc(xml, model, meta, backend, pool, lambda_blend=lambda_blend, prefer=prefer)
     spec = ET.fromstring(xml).find("Tree").findall("Spec")[0]
     mastery = parse_mastery_effects(spec)
     ml_xml = render_tree_nodes(xml, ml_alloc, {n: e for n, e in mastery.items() if str(n) in ml_alloc})
@@ -332,14 +332,28 @@ def _eval_one(path: str, pool: WorkerPool, model, meta, backend) -> dict:
     }
 
 
-def eval_holdout(builds: list[str] | None = None, workers: int | None = 4) -> dict:
+def eval_holdout(
+    builds: list[str] | None = None,
+    workers: int | None = 4,
+    lambda_blend: float = 0.5,
+    use_ninja: bool = False,
+    out_path: str | None = None,
+) -> dict:
     model_pack, meta, backend = _load_model()
     model = model_pack if backend == "catboost" else model_pack
-    paths = builds or GOLD_EVAL
+    
+    if builds:
+        paths = builds
+    elif use_ninja:
+        manifest = json.loads((OUT_DIR / "manifest.json").read_text(encoding="utf-8"))
+        paths = [str(_REPO / "corpus" / f"{bid}.pob.xml") for bid in manifest["ninja_holdout_ids"]]
+    else:
+        paths = GOLD_EVAL
+
     rows = []
     with WorkerPool(workers) as pool:
         for p in paths:
-            rows.append(_eval_one(p, pool, model, meta, backend))
+            rows.append(_eval_one(p, pool, model, meta, backend, lambda_blend=lambda_blend))
 
     manifest = json.loads((OUT_DIR / "manifest.json").read_text(encoding="utf-8"))
     gate = manifest.get("gate", {})
@@ -355,15 +369,50 @@ def eval_holdout(builds: list[str] | None = None, workers: int | None = 4) -> di
     ovl_pass = ml_ovl_avg >= hc_ovl_avg + ovl_delta
     per_build_dps = all(r["ml_dps_pct"] >= r["hc_dps_pct"] - 5 for r in rows)
 
+    # Calculate median, wins, losses, ties, avg excl outliers
+    dps_deltas = [r["ml_dps_pct"] - r["hc_dps_pct"] for r in rows]
+    dps_deltas_sorted = sorted(dps_deltas)
+    n_rows = len(rows)
+    if n_rows % 2 == 1:
+        median_dps_delta = dps_deltas_sorted[n_rows // 2]
+    else:
+        median_dps_delta = (dps_deltas_sorted[n_rows // 2 - 1] + dps_deltas_sorted[n_rows // 2]) / 2.0
+
+    wins = sum(1 for d in dps_deltas if d > 0.05)
+    losses = sum(1 for d in dps_deltas if d < -0.05)
+    ties = sum(1 for d in dps_deltas if abs(d) <= 0.05)
+
+    outliers = [d for d in dps_deltas if abs(d) > 20.0]
+    non_outliers = [d for d in dps_deltas if abs(d) <= 20.0]
+    avg_delta_excl_outliers = sum(non_outliers) / len(non_outliers) if non_outliers else 0.0
+
     verdict = "PASS" if (dps_pass or ovl_pass) and per_build_dps else "FAIL"
     report = {
         "rows": rows,
-        "avg": {"ml_dps_pct": round(ml_dps_avg, 1), "hc_dps_pct": round(hc_dps_avg, 1),
-                "ml_overlap": round(ml_ovl_avg, 1), "hc_overlap": round(hc_ovl_avg, 1)},
-        "gate": {"dps_primary": dps_pass, "overlap_secondary": ovl_pass, "per_build_dps_floor": per_build_dps},
+        "avg": {
+            "ml_dps_pct": round(ml_dps_avg, 1),
+            "hc_dps_pct": round(hc_dps_avg, 1),
+            "ml_overlap": round(ml_ovl_avg, 1),
+            "hc_overlap": round(hc_ovl_avg, 1),
+        },
+        "robustness": {
+            "median_dps_delta": round(median_dps_delta, 1),
+            "wins": wins,
+            "losses": losses,
+            "ties": ties,
+            "avg_delta_excl_outliers": round(avg_delta_excl_outliers, 1),
+        },
+        "gate": {
+            "dps_primary": dps_pass,
+            "overlap_secondary": ovl_pass,
+            "per_build_dps_floor": per_build_dps,
+        },
         "verdict": verdict,
     }
-    (OUT_DIR / "eval_report.json").write_text(json.dumps(report, indent=2), encoding="utf-8")
+    
+    final_out_path = Path(out_path) if out_path else (OUT_DIR / "eval_report.json")
+    final_out_path.parent.mkdir(parents=True, exist_ok=True)
+    final_out_path.write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
     return report
 
 

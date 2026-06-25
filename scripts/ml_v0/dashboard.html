@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ML-v0 Training & Eval Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --bg-base: #0B0E14;
+            --bg-surface: #131722;
+            --bg-card: #181E2A;
+            --border-color: #262E3F;
+            --text-primary: #F0F4F8;
+            --text-secondary: #8A99AD;
+            --accent-blue: #00E5FF;
+            --accent-green: #39FF14;
+            --accent-red: #FF3B30;
+            --accent-purple: #BD00FF;
+            --accent-yellow: #FFD60A;
+            --font-main: 'Outfit', sans-serif;
+            --font-mono: 'JetBrains Mono', monospace;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-base);
+            color: var(--text-primary);
+            font-family: var(--font-main);
+            padding: 24px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 16px;
+        }
+
+        h1 {
+            font-size: 24px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        h1::before {
+            content: '';
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple));
+            border-radius: 50%;
+            box-shadow: 0 0 10px var(--accent-blue);
+        }
+
+        .status-badge {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--border-color);
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .status-badge.idle { color: var(--text-secondary); }
+        .status-badge.starting { color: var(--accent-yellow); }
+        .status-badge.preparing { color: var(--accent-blue); }
+        .status-badge.training { color: var(--accent-purple); }
+        .status-badge.evaluating { color: var(--accent-yellow); }
+        .status-badge.done { color: var(--accent-green); }
+        .status-badge.error { color: var(--accent-red); }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background-color: currentColor;
+            display: inline-block;
+        }
+
+        .layout {
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 20px;
+            align-items: start;
+        }
+
+        @media (max-width: 1024px) {
+            .layout {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .card {
+            background-color: var(--bg-surface);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+            transition: border-color 0.3s;
+        }
+
+        .card:hover {
+            border-color: rgba(0, 229, 255, 0.2);
+        }
+
+        .card-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--text-primary);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            padding-bottom: 8px;
+            margin-bottom: 4px;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        label {
+            font-size: 13px;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        input[type="number"], select {
+            background-color: var(--bg-base);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 8px 12px;
+            color: var(--text-primary);
+            font-family: var(--font-main);
+            font-size: 14px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        input[type="number"]:focus, select:focus {
+            border-color: var(--accent-blue);
+        }
+
+        .checkbox-group {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .checkbox-group input {
+            accent-color: var(--accent-blue);
+            width: 16px;
+            height: 16px;
+        }
+
+        .btn {
+            background: linear-gradient(135deg, #00B0FF, #00E5FF);
+            color: #000;
+            border: none;
+            border-radius: 8px;
+            padding: 12px;
+            font-weight: 600;
+            font-size: 14px;
+            cursor: pointer;
+            transition: opacity 0.2s, transform 0.1s;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn:hover {
+            opacity: 0.9;
+        }
+
+        .btn:active {
+            transform: scale(0.98);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .progress-container {
+            width: 100%;
+            background-color: var(--bg-base);
+            border-radius: 8px;
+            height: 8px;
+            overflow: hidden;
+            border: 1px solid var(--border-color);
+        }
+
+        .progress-bar {
+            height: 100%;
+            width: 0%;
+            background: linear-gradient(90deg, var(--accent-blue), var(--accent-purple));
+            box-shadow: 0 0 8px var(--accent-blue);
+            transition: width 0.3s ease;
+        }
+
+        .main-content {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .grid-charts {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .grid-charts {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .chart-container {
+            position: relative;
+            height: 250px;
+            width: 100%;
+        }
+
+        .console-container {
+            font-family: var(--font-mono);
+            font-size: 13px;
+            background-color: #07090E;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 12px;
+            height: 180px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            display: flex;
+            flex-direction: column-reverse;
+            gap: 4px;
+        }
+
+        .log-line {
+            line-height: 1.4;
+            color: #A0AEC0;
+        }
+
+        .log-line.system { color: var(--accent-blue); }
+        .log-line.error { color: var(--accent-red); }
+        .log-line.success { color: var(--accent-green); }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+            text-align: left;
+        }
+
+        th {
+            font-weight: 500;
+            color: var(--text-secondary);
+            padding: 10px 12px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        td {
+            padding: 10px 12px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.02);
+            color: var(--text-primary);
+        }
+
+        tr:hover td {
+            background-color: rgba(255, 255, 255, 0.01);
+        }
+
+        .verdict-banner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 18px;
+            letter-spacing: 0.5px;
+        }
+
+        .verdict-banner.PASS {
+            background: rgba(57, 255, 20, 0.1);
+            border: 1px solid var(--accent-green);
+            color: var(--accent-green);
+        }
+
+        .verdict-banner.FAIL {
+            background: rgba(255, 59, 48, 0.1);
+            border: 1px solid var(--accent-red);
+            color: var(--accent-red);
+        }
+
+        .verdict-banner.none {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--border-color);
+            color: var(--text-secondary);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 12px;
+        }
+
+        .stat-box {
+            background-color: var(--bg-base);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 12px;
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 18px;
+            font-weight: 700;
+            margin-top: 4px;
+        }
+
+        .stat-label {
+            font-size: 11px;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div>
+            <h1>ML-v0 Pipeline Dashboard</h1>
+            <p style="color: var(--text-secondary); font-size: 13px; margin-top: 4px;">Управление обучением и оценка моделей PoE buildgen</p>
+        </div>
+        <div id="status-badge" class="status-badge idle">
+            <span class="status-dot"></span>
+            <span id="status-text">Загрузка...</span>
+        </div>
+    </header>
+
+    <div class="layout">
+        <aside class="card">
+            <div class="card-title">Управление пайплайном</div>
+            
+            <div class="form-group">
+                <label for="workers">Количество воркеров</label>
+                <input type="number" id="workers" value="4" min="1" max="16">
+            </div>
+
+            <div class="form-group">
+                <label for="lambda_blend">Lambda Blend (λ)</label>
+                <input type="number" id="lambda_blend" value="0.5" step="0.05" min="0" max="1">
+            </div>
+
+            <div class="checkbox-group">
+                <input type="checkbox" id="use_ninja">
+                <label for="use_ninja" style="cursor: pointer;">Ninja Holdout Set</label>
+            </div>
+
+            <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 10px;">
+                <button id="btn-all" class="btn">Запустить Всё (All)</button>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
+                    <button id="btn-prepare" class="btn btn-secondary">Prepare</button>
+                    <button id="btn-train" class="btn btn-secondary">Train</button>
+                </div>
+                <button id="btn-eval" class="btn btn-secondary">Eval</button>
+            </div>
+
+            <div class="form-group" style="margin-top: 10px;">
+                <label>Общий прогресс: <span id="progress-val">0%</span></label>
+                <div class="progress-container">
+                    <div id="progress-bar" class="progress-bar"></div>
+                </div>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <div id="verdict-card" class="card" style="display: none;">
+                <div id="verdict-banner" class="verdict-banner none">
+                    <span>VERDICT</span>
+                    <span id="verdict-text">PENDING</span>
+                </div>
+                <div class="stats-grid" id="stats-grid">
+                    <div class="stat-box">
+                        <div class="stat-label">ML DPS Avg</div>
+                        <div class="stat-value" id="stat-ml-dps" style="color: var(--accent-blue)">-</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="stat-label">HC DPS Avg</div>
+                        <div class="stat-value" id="stat-hc-dps">-</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="stat-label">ML Overlap</div>
+                        <div class="stat-value" id="stat-ml-ovl" style="color: var(--accent-purple)">-</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="stat-label">HC Overlap</div>
+                        <div class="stat-value" id="stat-hc-ovl">-</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="stat-label">Wins/Losses/Ties</div>
+                        <div class="stat-value" id="stat-wlt" style="font-size: 14px; margin-top: 8px;">-</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="grid-charts">
+                <div class="card">
+                    <div class="card-title">Лосс обучения CatBoost (Logloss)</div>
+                    <div class="chart-container">
+                        <canvas id="lossChart"></canvas>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-title">Логи выполнения</div>
+                    <div class="console-container" id="console-log">
+                        <!-- Logs dynamically prepended here -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">Результаты оценки билдов на Holdout</div>
+                <div style="overflow-x: auto;">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Билд</th>
+                                <th style="text-align: right;">ML Overlap</th>
+                                <th style="text-align: right;">HC Overlap</th>
+                                <th style="text-align: right;">ML DPS %</th>
+                                <th style="text-align: right;">HC DPS %</th>
+                                <th style="text-align: right;">ML Pts</th>
+                                <th style="text-align: right;">HC Pts</th>
+                                <th style="text-align: right;">Budget</th>
+                            </tr>
+                        </thead>
+                        <tbody id="eval-table-body">
+                            <tr>
+                                <td colspan="8" style="text-align: center; color: var(--text-secondary); padding: 20px;">Нет данных. Запустите Eval или All.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        let ws;
+        let lossChart;
+        let chartData = {
+            labels: [],
+            datasets: [{
+                label: 'Logloss',
+                data: [],
+                borderColor: '#00E5FF',
+                backgroundColor: 'rgba(0, 229, 255, 0.1)',
+                borderWidth: 2,
+                fill: true,
+                tension: 0.1,
+                pointRadius: 0
+            }]
+        };
+
+        function initChart() {
+            const ctx = document.getElementById('lossChart').getContext('2d');
+            lossChart = new Chart(ctx, {
+                type: 'line',
+                data: chartData,
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        x: {
+                            grid: { color: 'rgba(255, 255, 255, 0.05)' },
+                            ticks: { color: '#8A99AD', font: { family: 'Outfit' } }
+                        },
+                        y: {
+                            grid: { color: 'rgba(255, 255, 255, 0.05)' },
+                            ticks: { color: '#8A99AD', font: { family: 'Outfit' } }
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false }
+                    }
+                }
+            });
+        }
+
+        function appendLog(text, type = '') {
+            const container = document.getElementById('console-log');
+            const line = document.createElement('div');
+            line.className = `log-line ${type}`;
+            
+            // Clean ANSI colors or styles if present
+            const cleanText = text.replace(/\u001b\[[0-9;]*m/g, '');
+            line.innerText = `[${new Date().toLocaleTimeString()}] ${cleanText}`;
+            
+            container.insertBefore(line, container.firstChild);
+            
+            // Limit to 200 items in DOM
+            if (container.children.length > 200) {
+                container.removeChild(container.lastChild);
+            }
+        }
+
+        function updateStatus(phase, progress) {
+            const badge = document.getElementById('status-badge');
+            const text = document.getElementById('status-text');
+            badge.className = `status-badge ${phase}`;
+            text.innerText = phase.toUpperCase();
+
+            document.getElementById('progress-bar').style.width = `${progress}%`;
+            document.getElementById('progress-val').innerText = `${progress}%`;
+        }
+
+        function renderEvalRows(rows) {
+            const tbody = document.getElementById('eval-table-body');
+            if (!rows || rows.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="8" style="text-align: center; color: var(--text-secondary); padding: 20px;">Ожидание результатов...</td></tr>`;
+                return;
+            }
+            
+            tbody.innerHTML = '';
+            rows.forEach(r => {
+                const tr = document.createElement('tr');
+                const pathParts = r.build.split('/');
+                const buildName = pathParts[pathParts.length - 1];
+                
+                // Bold ML if it wins, or color based on performance
+                const mlDpsColor = r.ml_dps_pct >= r.hc_dps_pct ? 'var(--accent-green)' : 'var(--text-primary)';
+                const mlOvlColor = r.ml_overlap >= r.hc_overlap ? 'var(--accent-blue)' : 'var(--text-primary)';
+
+                tr.innerHTML = `
+                    <td style="font-weight: 500;">${buildName}</td>
+                    <td style="text-align: right; color: ${mlOvlColor}">${r.ml_overlap.toFixed(1)}%</td>
+                    <td style="text-align: right; color: var(--text-secondary)">${r.hc_overlap.toFixed(1)}%</td>
+                    <td style="text-align: right; color: ${mlDpsColor}">${r.ml_dps_pct.toFixed(1)}%</td>
+                    <td style="text-align: right; color: var(--text-secondary)">${r.hc_dps_pct.toFixed(1)}%</td>
+                    <td style="text-align: right;">${r.ml_points}</td>
+                    <td style="text-align: right; color: var(--text-secondary)">${r.hc_points}</td>
+                    <td style="text-align: right; color: var(--text-secondary)">${r.budget_points}</td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        function renderVerdict(report) {
+            const card = document.getElementById('verdict-card');
+            const banner = document.getElementById('verdict-banner');
+            const txt = document.getElementById('verdict-text');
+            
+            if (!report) {
+                card.style.display = 'none';
+                return;
+            }
+
+            card.style.display = 'flex';
+            banner.className = `verdict-banner ${report.verdict}`;
+            txt.innerText = report.verdict;
+
+            document.getElementById('stat-ml-dps').innerText = `${report.avg.ml_dps_pct}%`;
+            document.getElementById('stat-hc-dps').innerText = `${report.avg.hc_dps_pct}%`;
+            document.getElementById('stat-ml-ovl').innerText = `${report.avg.ml_overlap}%`;
+            document.getElementById('stat-hc-ovl').innerText = `${report.avg.hc_overlap}%`;
+            
+            if (report.robustness) {
+                const rob = report.robustness;
+                document.getElementById('stat-wlt').innerText = `W:${rob.wins} / L:${rob.losses} / T:${rob.ties} (Δ:${rob.median_dps_delta}%)`;
+            } else {
+                document.getElementById('stat-wlt').innerText = '-';
+            }
+        }
+
+        function clearVisuals() {
+            chartData.labels = [];
+            chartData.datasets[0].data = [];
+            lossChart.update();
+            
+            document.getElementById('eval-table-body').innerHTML = `<tr><td colspan="8" style="text-align: center; color: var(--text-secondary); padding: 20px;">Запуск процесса...</td></tr>`;
+            document.getElementById('verdict-card').style.display = 'none';
+            document.getElementById('console-log').innerHTML = '';
+        }
+
+        function connectWS() {
+            const proto = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsUrl = `${proto}//${window.location.host}/ws`;
+            ws = new WebSocket(wsUrl);
+
+            ws.onopen = () => {
+                appendLog('WebSocket подключен', 'system');
+            };
+
+            ws.onmessage = (event) => {
+                const msg = JSON.parse(event.data);
+                
+                if (msg.type === 'snapshot') {
+                    updateStatus(msg.phase, msg.progress);
+                    
+                    // Populate logs
+                    msg.logs.forEach(l => appendLog(l));
+                    
+                    // Populate train loss chart
+                    chartData.labels = msg.train_iters.map(d => d.iter);
+                    chartData.datasets[0].data = msg.train_iters.map(d => d.loss);
+                    lossChart.update();
+
+                    // Render eval
+                    renderEvalRows(msg.eval_rows);
+                    renderVerdict(msg.eval_report);
+                } 
+                else if (msg.type === 'phase') {
+                    updateStatus(msg.phase, msg.progress);
+                } 
+                else if (msg.type === 'log') {
+                    appendLog(msg.text);
+                } 
+                else if (msg.type === 'train_iter') {
+                    if (msg.loss !== null) {
+                        chartData.labels.push(msg.iter);
+                        chartData.datasets[0].data.push(msg.loss);
+                        lossChart.update();
+                    }
+                    if (msg.progress) {
+                        updateStatus('training', msg.progress);
+                    }
+                } 
+                else if (msg.type === 'eval_row') {
+                    // Update live eval rows
+                    appendLog(`Оценен билд ${msg.index + 1}/${msg.total}: ${msg.row.build.split('/').pop()}`, 'system');
+                    const body = document.getElementById('eval-table-body');
+                    
+                    // Fetch existing rows or init
+                    if (msg.index === 0) {
+                        body.innerHTML = '';
+                    }
+                    
+                    const tr = document.createElement('tr');
+                    const r = msg.row;
+                    const buildName = r.build.split('/').pop();
+                    const mlDpsColor = r.ml_dps_pct >= r.hc_dps_pct ? 'var(--accent-green)' : 'var(--text-primary)';
+                    const mlOvlColor = r.ml_overlap >= r.hc_overlap ? 'var(--accent-blue)' : 'var(--text-primary)';
+
+                    tr.innerHTML = `
+                        <td style="font-weight: 500;">${buildName}</td>
+                        <td style="text-align: right; color: ${mlOvlColor}">${r.ml_overlap.toFixed(1)}%</td>
+                        <td style="text-align: right; color: var(--text-secondary)">${r.hc_overlap.toFixed(1)}%</td>
+                        <td style="text-align: right; color: ${mlDpsColor}">${r.ml_dps_pct.toFixed(1)}%</td>
+                        <td style="text-align: right; color: var(--text-secondary)">${r.hc_dps_pct.toFixed(1)}%</td>
+                        <td style="text-align: right;">${r.ml_points}</td>
+                        <td style="text-align: right; color: var(--text-secondary)">${r.hc_points}</td>
+                        <td style="text-align: right; color: var(--text-secondary)">${r.budget_points}</td>
+                    `;
+                    body.appendChild(tr);
+                } 
+                else if (msg.type === 'eval_done') {
+                    renderVerdict(msg.report);
+                    appendLog(`Оценка holdout завершена. Вердикт: ${msg.report.verdict}`, 'success');
+                }
+                else if (msg.type === 'error') {
+                    updateStatus('error', 100);
+                    appendLog(`ОШИБКА: ${msg.error}`, 'error');
+                }
+            };
+
+            ws.onclose = () => {
+                appendLog('WebSocket соединение закрыто. Переподключение через 3 секунды...', 'error');
+                setTimeout(connectWS, 3000);
+            };
+        }
+
+        async function startPipeline(cmd) {
+            clearVisuals();
+            const w = document.getElementById('workers').value;
+            const l = document.getElementById('lambda_blend').value;
+            const n = document.getElementById('use_ninja').checked;
+            
+            try {
+                const res = await fetch(`/api/start/${cmd}?workers=${w}&lambda_blend=${l}&use_ninja=${n}`);
+                const data = await res.json();
+                if (data.error) {
+                    appendLog(`Ошибка запуска: ${data.error}`, 'error');
+                } else {
+                    appendLog(`Команда ${cmd} успешно запущена!`, 'system');
+                }
+            } catch (err) {
+                appendLog(`Ошибка запроса к API: ${err.message}`, 'error');
+            }
+        }
+
+        window.onload = () => {
+            initChart();
+            connectWS();
+
+            document.getElementById('btn-all').onclick = () => startPipeline('all');
+            document.getElementById('btn-prepare').onclick = () => startPipeline('prepare');
+            document.getElementById('btn-train').onclick = () => startPipeline('train');
+            document.getElementById('btn-eval').onclick = () => startPipeline('eval');
+        };
+    </script>
+</body>
+</html>
