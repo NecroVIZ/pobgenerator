@@ -106,19 +106,33 @@
     "ml_overlap": 55.3,
     "hc_overlap": 26.0
   },
+  "avg_clean": {
+    "ml_dps_pct": 26.7,
+    "hc_dps_pct": 14.6,
+    "ml_overlap": 61.1,
+    "hc_overlap": 25.6
+  },
   "robustness": {
-    "median_dps_delta": 5.3,
-    "wins": 8,
+    "median_dps_delta": 10.7,
+    "wins": 6,
     "losses": 0,
-    "ties": 1,
-    "avg_delta_excl_outliers": 5.0
+    "ties": 0,
+    "avg_delta_excl_outliers": 6.2,
+    "binomial_pval": 0.0156
   },
   "gate": {
     "dps_primary": true,
     "overlap_secondary": true,
     "per_build_dps_floor": true
   },
+  "gate_clean": {
+    "dps_primary": false,
+    "overlap_secondary": true,
+    "per_build_dps_floor": true,
+    "binomial_significance": true
+  },
   "verdict": "PASS",
+  "consensus_verdict": "PASS",
   "holdout": "ninja",
   "n_builds": 9
 }

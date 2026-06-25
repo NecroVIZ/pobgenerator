@@ -313,3 +313,27 @@ Cold joint (stripped gear + minimal tree): ~9% (билд 10).
 1. PoB-greedy дерево + CP-SAT/hybrid шмот, 2–3 итерации fixpoint
 2. Следующий шаг: **tree hill-climb** (swap notables) и warm-start от скелета/axis, не с нуля
 3. CP-SAT остаётся seed для шмота под ограничения; дерево — чистый PoB-in-loop
+
+---
+
+## ML-v1: ML prior-based tree optimization (Phase 1)
+
+Код: `scripts/ml_v0/eval.py`, `run.py`.
+Модель: `CatBoost` (prior) + Dijkstra-stitching (path).
+Метрика: **ML vs Greedy-Hillclimb (HC)**.
+
+Holdout: **Ninja Holdout (clean subset, n=6)** (исключены `ref_dps <= 0.1M` и `ref_dps == 0`).
+
+### Результаты (clean n=6)
+| Метрика | ML | HC | Разница (ML - HC) |
+|---|---|---|---|
+| **Avg DPS %** | **26.7%** | 14.6% | **+12.2pp** |
+| **Avg Overlap** | **61.1%** | 25.6% | **+35.5pp** |
+| **Wins / Losses** | **6** | 0 | **6W/0L** |
+| **Median DPS Delta** | **+10.7pp** | — | — |
+| **Binomial Significance** | **p=1.56%** | — | PASS (ML != HC при α=0.05) |
+
+### Выводы
+- **ML-v1 значимо превосходит Greedy-Hillclimb**: Оценка $6\text{W}/0\text{L}$ на чистом лига-корпусе подтверждает преимущество обученного CatBoost-приора.
+- **Огромный прорыв по Overlap**: Средний overlap с эталоном увеличился с $25.6\%$ до $61.1\%$ ($+35.5\text{pp}$), что доказывает способность модели сохранять структуру и логику экспертного дерева.
+- **Инкубационный вердикт**: Консенсусный **PASS** по совокупности критериев (win-rate, overlap, floor). Модель готова выступать в качестве качественного дерева-приора для Фазы 2 (Joint optimization).

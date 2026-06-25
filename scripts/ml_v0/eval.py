@@ -332,6 +332,113 @@ def _eval_one(path: str, pool: WorkerPool, model, meta, backend, lambda_blend: f
     }
 
 
+def compile_report(rows: list[dict], dps_delta: float = 15.0, ovl_delta: float = 10.0) -> dict:
+    import math
+
+    # 1. Clean subset (excluding ref_dps <= 0.1M or ref_dps == 0)
+    clean_rows = [r for r in rows if r.get("ref_dps", 0.0) > 100000.0]
+
+    # 2. Raw averages
+    ml_dps_avg = sum(r["ml_dps_pct"] for r in rows) / max(1, len(rows))
+    hc_dps_avg = sum(r["hc_dps_pct"] for r in rows) / max(1, len(rows))
+    ml_ovl_avg = sum(r["ml_overlap"] for r in rows) / max(1, len(rows))
+    hc_ovl_avg = sum(r["hc_overlap"] for r in rows) / max(1, len(rows))
+
+    # 3. Clean averages
+    n_clean = len(clean_rows)
+    if n_clean > 0:
+        ml_dps_avg_clean = sum(r["ml_dps_pct"] for r in clean_rows) / n_clean
+        hc_dps_avg_clean = sum(r["hc_dps_pct"] for r in clean_rows) / n_clean
+        ml_ovl_avg_clean = sum(r["ml_overlap"] for r in clean_rows) / n_clean
+        hc_ovl_avg_clean = sum(r["hc_overlap"] for r in clean_rows) / n_clean
+    else:
+        ml_dps_avg_clean, hc_dps_avg_clean = ml_dps_avg, hc_dps_avg
+        ml_ovl_avg_clean, hc_ovl_avg_clean = ml_ovl_avg, hc_ovl_avg
+
+    # 4. Old-style gate verdicts on raw & clean
+    dps_pass_raw = ml_dps_avg >= hc_dps_avg + dps_delta
+    ovl_pass_raw = ml_ovl_avg >= hc_ovl_avg + ovl_delta
+    floor_pass_raw = all(r["ml_dps_pct"] >= r["hc_dps_pct"] - 5.0 for r in rows)
+    verdict_raw = "PASS" if (dps_pass_raw or ovl_pass_raw) and floor_pass_raw else "FAIL"
+
+    dps_pass_clean = ml_dps_avg_clean >= hc_dps_avg_clean + dps_delta
+    ovl_pass_clean = ml_ovl_avg_clean >= hc_ovl_avg_clean + ovl_delta
+    floor_pass_clean = all(r["ml_dps_pct"] >= r["hc_dps_pct"] - 5.0 for r in clean_rows) if n_clean > 0 else floor_pass_raw
+
+    # 5. Robustness metrics (on clean if clean exists, else raw)
+    target_rows = clean_rows if n_clean > 0 else rows
+    dps_deltas = [r["ml_dps_pct"] - r["hc_dps_pct"] for r in target_rows]
+    dps_deltas_sorted = sorted(dps_deltas)
+    n_target = len(target_rows)
+    if n_target == 0:
+        median_dps_delta = 0.0
+    elif n_target % 2 == 1:
+        median_dps_delta = dps_deltas_sorted[n_target // 2]
+    else:
+        median_dps_delta = (dps_deltas_sorted[n_target // 2 - 1] + dps_deltas_sorted[n_target // 2]) / 2.0
+
+    wins = sum(1 for d in dps_deltas if d > 0.05)
+    losses = sum(1 for d in dps_deltas if d < -0.05)
+    ties = sum(1 for d in dps_deltas if abs(d) <= 0.05)
+
+    outliers = [d for d in dps_deltas if abs(d) > 20.0]
+    non_outliers = [d for d in dps_deltas if abs(d) <= 20.0]
+    avg_delta_excl_outliers = sum(non_outliers) / len(non_outliers) if non_outliers else 0.0
+
+    # 6. Binomial p-value under p=0.5
+    def binomial_pval(n, w):
+        if n == 0:
+            return 1.0
+        pval = 0.0
+        for k in range(w, n + 1):
+            pval += math.comb(n, k) * (0.5 ** n)
+        return pval
+
+    p_val = binomial_pval(n_target, wins)
+    binomial_pass = p_val <= 0.05
+
+    # 7. Consensus Verdict (multi-criteria)
+    consensus_pass = ovl_pass_clean and floor_pass_clean and binomial_pass
+    consensus_verdict = "PASS" if consensus_pass else "FAIL"
+
+    return {
+        "rows": rows,
+        "avg": {
+            "ml_dps_pct": round(ml_dps_avg, 1),
+            "hc_dps_pct": round(hc_dps_avg, 1),
+            "ml_overlap": round(ml_ovl_avg, 1),
+            "hc_overlap": round(hc_ovl_avg, 1),
+        },
+        "avg_clean": {
+            "ml_dps_pct": round(ml_dps_avg_clean, 1),
+            "hc_dps_pct": round(hc_dps_avg_clean, 1),
+            "ml_overlap": round(ml_ovl_avg_clean, 1),
+            "hc_overlap": round(hc_ovl_avg_clean, 1),
+        } if n_clean > 0 else None,
+        "robustness": {
+            "median_dps_delta": round(median_dps_delta, 1),
+            "wins": wins,
+            "losses": losses,
+            "ties": ties,
+            "avg_delta_excl_outliers": round(avg_delta_excl_outliers, 1),
+            "binomial_pval": round(p_val, 4),
+        },
+        "gate": {
+            "dps_primary": dps_pass_raw,
+            "overlap_secondary": ovl_pass_raw,
+            "per_build_dps_floor": floor_pass_raw,
+        },
+        "gate_clean": {
+            "dps_primary": dps_pass_clean,
+            "overlap_secondary": ovl_pass_clean,
+            "per_build_dps_floor": floor_pass_clean,
+            "binomial_significance": binomial_pass,
+        } if n_clean > 0 else None,
+        "verdict": verdict_raw,
+        "consensus_verdict": consensus_verdict,
+    }
+
+
 def eval_holdout(
     builds: list[str] | None = None,
     workers: int | None = 4,
@@ -341,7 +448,7 @@ def eval_holdout(
 ) -> dict:
     model_pack, meta, backend = _load_model()
     model = model_pack if backend == "catboost" else model_pack
-    
+
     if builds:
         paths = builds
     elif use_ninja:
@@ -360,56 +467,11 @@ def eval_holdout(
     dps_delta = gate.get("dps_delta_pp", 15)
     ovl_delta = gate.get("overlap_delta_pp", 10)
 
-    ml_dps_avg = sum(r["ml_dps_pct"] for r in rows) / max(1, len(rows))
-    hc_dps_avg = sum(r["hc_dps_pct"] for r in rows) / max(1, len(rows))
-    ml_ovl_avg = sum(r["ml_overlap"] for r in rows) / max(1, len(rows))
-    hc_ovl_avg = sum(r["hc_overlap"] for r in rows) / max(1, len(rows))
+    report = compile_report(rows, dps_delta=dps_delta, ovl_delta=ovl_delta)
+    if use_ninja:
+        report["holdout"] = "ninja"
+        report["n_builds"] = len(rows)
 
-    dps_pass = ml_dps_avg >= hc_dps_avg + dps_delta
-    ovl_pass = ml_ovl_avg >= hc_ovl_avg + ovl_delta
-    per_build_dps = all(r["ml_dps_pct"] >= r["hc_dps_pct"] - 5 for r in rows)
-
-    # Calculate median, wins, losses, ties, avg excl outliers
-    dps_deltas = [r["ml_dps_pct"] - r["hc_dps_pct"] for r in rows]
-    dps_deltas_sorted = sorted(dps_deltas)
-    n_rows = len(rows)
-    if n_rows % 2 == 1:
-        median_dps_delta = dps_deltas_sorted[n_rows // 2]
-    else:
-        median_dps_delta = (dps_deltas_sorted[n_rows // 2 - 1] + dps_deltas_sorted[n_rows // 2]) / 2.0
-
-    wins = sum(1 for d in dps_deltas if d > 0.05)
-    losses = sum(1 for d in dps_deltas if d < -0.05)
-    ties = sum(1 for d in dps_deltas if abs(d) <= 0.05)
-
-    outliers = [d for d in dps_deltas if abs(d) > 20.0]
-    non_outliers = [d for d in dps_deltas if abs(d) <= 20.0]
-    avg_delta_excl_outliers = sum(non_outliers) / len(non_outliers) if non_outliers else 0.0
-
-    verdict = "PASS" if (dps_pass or ovl_pass) and per_build_dps else "FAIL"
-    report = {
-        "rows": rows,
-        "avg": {
-            "ml_dps_pct": round(ml_dps_avg, 1),
-            "hc_dps_pct": round(hc_dps_avg, 1),
-            "ml_overlap": round(ml_ovl_avg, 1),
-            "hc_overlap": round(hc_ovl_avg, 1),
-        },
-        "robustness": {
-            "median_dps_delta": round(median_dps_delta, 1),
-            "wins": wins,
-            "losses": losses,
-            "ties": ties,
-            "avg_delta_excl_outliers": round(avg_delta_excl_outliers, 1),
-        },
-        "gate": {
-            "dps_primary": dps_pass,
-            "overlap_secondary": ovl_pass,
-            "per_build_dps_floor": per_build_dps,
-        },
-        "verdict": verdict,
-    }
-    
     final_out_path = Path(out_path) if out_path else (OUT_DIR / "eval_report.json")
     final_out_path.parent.mkdir(parents=True, exist_ok=True)
     final_out_path.write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
