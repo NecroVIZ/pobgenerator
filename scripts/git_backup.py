@@ -124,19 +124,30 @@ def cmd_status() -> None:
         print("no git repo; run 'init' first")
         return
     st = porcelain.status(str(REPO))
-    # st = (staged_add, staged_del, staged_mod, unstaged_add, unstaged_del, unstaged_mod)
-    labels = ["staged-add", "staged-del", "staged-mod",
-              "unstaged-add", "unstaged-del", "unstaged-mod"]
     any_changes = False
-    for label, group in zip(labels, st):
-        if group:
+    
+    staged_add = st.staged.get('add', []) or st.staged.get(b'add', [])
+    staged_del = st.staged.get('delete', []) or st.staged.get(b'delete', [])
+    staged_mod = st.staged.get('modify', []) or st.staged.get(b'modify', [])
+    unstaged = st.unstaged
+    untracked = st.untracked
+
+    groups = [
+        ("staged-add", staged_add),
+        ("staged-del", staged_del),
+        ("staged-mod", staged_mod),
+        ("unstaged", unstaged),
+        ("untracked", untracked)
+    ]
+    for label, files in groups:
+        if files:
             any_changes = True
             print(f"{label}:")
-            for f in group:
-                # dulwich возвращает bytes
+            for f in files:
                 print(f"  {f.decode() if isinstance(f, bytes) else f}")
     if not any_changes:
         print("clean (no changes)")
+
 
 
 def cmd_log(n: int = 10) -> None:
