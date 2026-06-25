@@ -1,0 +1,13 @@
+[
+  {
+    "build": "corpus\\0tti-3746__MirageOtti.pob.xml",
+    "ml_overlap": 88.5,
+    "hc_overlap": 38.5,
+    "ml_dps_pct": 33.5,
+    "hc_dps_pct": 11.4,
+    "ref_dps": 7661771.580340799,
+    "ml_points": 123,
+    "hc_points": 122,
+    "budget_points": 123
+  }
+]
