@@ -1,0 +1,13 @@
+[
+  {
+    "build": "corpus\\BaumisMagicalWorld-0673__Baumi_Poop_Shooter.pob.xml",
+    "ml_overlap": 51.5,
+    "hc_overlap": 33.3,
+    "ml_dps_pct": 28.7,
+    "hc_dps_pct": 23.4,
+    "ref_dps": 96320.6641232835,
+    "ml_points": 122,
+    "hc_points": 123,
+    "budget_points": 123
+  }
+]

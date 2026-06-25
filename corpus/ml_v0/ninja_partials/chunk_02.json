@@ -1,0 +1,13 @@
+[
+  {
+    "build": "corpus\\5koRn-3860__творожный_бизнес.pob.xml",
+    "ml_overlap": 34.6,
+    "hc_overlap": 26.9,
+    "ml_dps_pct": 0,
+    "hc_dps_pct": 0,
+    "ref_dps": 0.0,
+    "ml_points": 123,
+    "hc_points": 123,
+    "budget_points": 123
+  }
+]

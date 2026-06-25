@@ -1,0 +1,13 @@
+[
+  {
+    "build": "corpus\\Adorawulf-3552__AdoraMirage.pob.xml",
+    "ml_overlap": 28.0,
+    "hc_overlap": 36.0,
+    "ml_dps_pct": 11.8,
+    "hc_dps_pct": 10.9,
+    "ref_dps": 1294183.3679156008,
+    "ml_points": 123,
+    "hc_points": 120,
+    "budget_points": 123
+  }
+]

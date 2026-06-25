@@ -1,0 +1,13 @@
+[
+  {
+    "build": "corpus\\Mindsplosion-0680__PokyTrickster.pob.xml",
+    "ml_overlap": 50.0,
+    "hc_overlap": 20.0,
+    "ml_dps_pct": 40.5,
+    "hc_dps_pct": 23.1,
+    "ref_dps": 2317683.928571429,
+    "ml_points": 123,
+    "hc_points": 90,
+    "budget_points": 123
+  }
+]

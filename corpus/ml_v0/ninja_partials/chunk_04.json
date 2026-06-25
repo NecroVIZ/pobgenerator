@@ -1,0 +1,13 @@
+[
+  {
+    "build": "corpus\\AjBanana-3611__AjBananaShrine.pob.xml",
+    "ml_overlap": 52.0,
+    "hc_overlap": 16.0,
+    "ml_dps_pct": 17.5,
+    "hc_dps_pct": 15.1,
+    "ref_dps": 3771033.7588115893,
+    "ml_points": 123,
+    "hc_points": 100,
+    "budget_points": 123
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "build": "corpus\\Baleriy-6442__Ватахелло.pob.xml",
+    "ml_overlap": 44.8,
+    "hc_overlap": 20.7,
+    "ml_dps_pct": 233.9,
+    "hc_dps_pct": 121.8,
+    "ref_dps": 90377.4801255185,
+    "ml_points": 121,
+    "hc_points": 89,
+    "budget_points": 123
+  }
+]

@@ -31,15 +31,18 @@ def cmd_run(chunk_idx: int) -> None:
         return
     chunk_ids = ids[start:end]
     paths = [str(_REPO / "corpus" / f"{bid}.pob.xml") for bid in chunk_ids]
+    def safe_name(path_str: str) -> str:
+        return Path(path_str).name.encode('ascii', errors='replace').decode('ascii')
+
     print(f"chunk {chunk_idx}: builds {start}..{end-1} ({len(paths)} builds)")
     for p in paths:
-        print(f"  {Path(p).name}")
+        print(f"  {safe_name(p)}")
 
     model_pack, meta, backend = _load_model()
     rows = []
     with WorkerPool(4) as pool:
         for p in paths:
-            print(f"  evaluating {Path(p).name} ...", flush=True)
+            print(f"  evaluating {safe_name(p)} ...", flush=True)
             row = _eval_one(p, pool, model_pack, meta, backend, lambda_blend=0.5)
             rows.append(row)
             print(f"    ML={row['ml_dps_pct']}% HC={row['hc_dps_pct']}% "

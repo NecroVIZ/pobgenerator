@@ -1,0 +1,13 @@
+[
+  {
+    "build": "corpus\\3176889967-1614__dreamDeath.pob.xml",
+    "ml_overlap": 71.4,
+    "hc_overlap": 23.8,
+    "ml_dps_pct": 19.4,
+    "hc_dps_pct": 15.4,
+    "ref_dps": 484208.21363932313,
+    "ml_points": 123,
+    "hc_points": 54,
+    "budget_points": 123
+  }
+]

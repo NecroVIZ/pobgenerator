@@ -1,0 +1,124 @@
+{
+  "rows": [
+    {
+      "build": "corpus\\0tti-3746__MirageOtti.pob.xml",
+      "ml_overlap": 88.5,
+      "hc_overlap": 38.5,
+      "ml_dps_pct": 33.5,
+      "hc_dps_pct": 11.4,
+      "ref_dps": 7661771.580340799,
+      "ml_points": 123,
+      "hc_points": 122,
+      "budget_points": 123
+    },
+    {
+      "build": "corpus\\3176889967-1614__dreamDeath.pob.xml",
+      "ml_overlap": 71.4,
+      "hc_overlap": 23.8,
+      "ml_dps_pct": 19.4,
+      "hc_dps_pct": 15.4,
+      "ref_dps": 484208.21363932313,
+      "ml_points": 123,
+      "hc_points": 54,
+      "budget_points": 123
+    },
+    {
+      "build": "corpus\\5koRn-3860__творожный_бизнес.pob.xml",
+      "ml_overlap": 34.6,
+      "hc_overlap": 26.9,
+      "ml_dps_pct": 0,
+      "hc_dps_pct": 0,
+      "ref_dps": 0.0,
+      "ml_points": 123,
+      "hc_points": 123,
+      "budget_points": 123
+    },
+    {
+      "build": "corpus\\Adorawulf-3552__AdoraMirage.pob.xml",
+      "ml_overlap": 28.0,
+      "hc_overlap": 36.0,
+      "ml_dps_pct": 11.8,
+      "hc_dps_pct": 10.9,
+      "ref_dps": 1294183.3679156008,
+      "ml_points": 123,
+      "hc_points": 120,
+      "budget_points": 123
+    },
+    {
+      "build": "corpus\\AjBanana-3611__AjBananaShrine.pob.xml",
+      "ml_overlap": 52.0,
+      "hc_overlap": 16.0,
+      "ml_dps_pct": 17.5,
+      "hc_dps_pct": 15.1,
+      "ref_dps": 3771033.7588115893,
+      "ml_points": 123,
+      "hc_points": 100,
+      "budget_points": 123
+    },
+    {
+      "build": "corpus\\Allakhh-7046__ペニスむち.pob.xml",
+      "ml_overlap": 76.9,
+      "hc_overlap": 19.2,
+      "ml_dps_pct": 37.6,
+      "hc_dps_pct": 11.5,
+      "ref_dps": 21461389.364769977,
+      "ml_points": 123,
+      "hc_points": 71,
+      "budget_points": 123
+    },
+    {
+      "build": "corpus\\Baleriy-6442__Ватахелло.pob.xml",
+      "ml_overlap": 44.8,
+      "hc_overlap": 20.7,
+      "ml_dps_pct": 233.9,
+      "hc_dps_pct": 121.8,
+      "ref_dps": 90377.4801255185,
+      "ml_points": 121,
+      "hc_points": 89,
+      "budget_points": 123
+    },
+    {
+      "build": "corpus\\BaumisMagicalWorld-0673__Baumi_Poop_Shooter.pob.xml",
+      "ml_overlap": 51.5,
+      "hc_overlap": 33.3,
+      "ml_dps_pct": 28.7,
+      "hc_dps_pct": 23.4,
+      "ref_dps": 96320.6641232835,
+      "ml_points": 122,
+      "hc_points": 123,
+      "budget_points": 123
+    },
+    {
+      "build": "corpus\\Mindsplosion-0680__PokyTrickster.pob.xml",
+      "ml_overlap": 50.0,
+      "hc_overlap": 20.0,
+      "ml_dps_pct": 40.5,
+      "hc_dps_pct": 23.1,
+      "ref_dps": 2317683.928571429,
+      "ml_points": 123,
+      "hc_points": 90,
+      "budget_points": 123
+    }
+  ],
+  "avg": {
+    "ml_dps_pct": 47.0,
+    "hc_dps_pct": 25.8,
+    "ml_overlap": 55.3,
+    "hc_overlap": 26.0
+  },
+  "robustness": {
+    "median_dps_delta": 5.3,
+    "wins": 8,
+    "losses": 0,
+    "ties": 1,
+    "avg_delta_excl_outliers": 5.0
+  },
+  "gate": {
+    "dps_primary": true,
+    "overlap_secondary": true,
+    "per_build_dps_floor": true
+  },
+  "verdict": "PASS",
+  "holdout": "ninja",
+  "n_builds": 9
+}
