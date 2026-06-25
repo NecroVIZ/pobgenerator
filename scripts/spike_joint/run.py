@@ -21,7 +21,7 @@ from scripts.spikeB.gear_opt import DPS_KEYS, optimize_gear, pick_dps_key
 from scripts.spikeB.harness import Build
 from scripts.spikeB.engine import MetaEngine, PoolEngine
 from scripts.spikeC.tree_build import load_tree_graph, split_main_ascend
-from scripts.spikeC.tree_marginals import greedy_tree_build
+from scripts.spikeC.tree_marginals import greedy_tree_build, hillclimb_tree_build
 from scripts.spikeC.tree_xml import parse_mastery_effects, render_tree_nodes
 
 _REPO = Path(__file__).resolve().parent.parent.parent
@@ -93,9 +93,10 @@ def joint_fixpoint(
 
             # TREE phase
             with WorkerPool(workers) as pool:
-                tree_alloc, thist = greedy_tree_build(
+                tree_alloc, thist = hillclimb_tree_build(
                     cx, graph, pool, prefer=eng.prefer,
-                    max_rounds=tree_rounds, max_candidates=tree_candidates,
+                    max_greedy_rounds=tree_rounds, max_candidates=tree_candidates,
+                    alloc=tree_alloc,
                 )
             cx = combined_xml(b_ref, tree_alloc, gear_ov, etalon_mastery)
             b_cur = Build.from_xml(cx, path)
@@ -152,6 +153,7 @@ def main():
     ap.add_argument("--bis-evals", type=int, default=250)
     ap.add_argument("--tree-only", action="store_true", help="только greedy-дерево, шмот не трогаем")
     ap.add_argument("--workers", type=int, default=None)
+    ap.add_argument("--out", type=str, default=None, help="путь для сохранения JSON-отчёта")
     args = ap.parse_args()
 
     rows = []
@@ -177,6 +179,16 @@ def main():
     ok = sum(1 for r in rows if r["dps_pct"] >= 60)
     print(f"\nVERDICT: {ok}/{len(rows)} builds >=60% ref DPS  "
           f"({'PASS' if ok >= len(rows) * 0.67 else 'BORDERLINE' if ok else 'FAIL'})")
+
+    if args.out:
+        out_path = Path(args.out)
+        if not out_path.is_absolute():
+            out_path = _REPO / out_path
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        import json
+        out_path.write_text(json.dumps(rows, indent=2, ensure_ascii=False), encoding="utf-8")
+        print(f"\nSaved results to {out_path}")
+
 
 
 if __name__ == "__main__":

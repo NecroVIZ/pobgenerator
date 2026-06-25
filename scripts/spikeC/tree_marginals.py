@@ -128,10 +128,14 @@ def greedy_tree_build(
     max_rounds: int = 25,
     max_candidates: int = 35,
     min_gain_frac: float = 0.005,
+    alloc: set[str] | None = None,
 ) -> tuple[set[str], list[dict]]:
     """Жадно наращивать дерево по PoB-маржиналам от текущего состояния."""
-    _, ascend = split_main_ascend(graph)
-    alloc = set(ascend) | {graph.class_start}
+    if alloc is None:
+        _, ascend = split_main_ascend(graph)
+        alloc = set(ascend) | {graph.class_start}
+    else:
+        alloc = set(alloc)
     budget = graph.points_total
     root = ET.fromstring(xml)
     spec = root.find("Tree").findall("Spec")[0]  # type: ignore[union-attr]
@@ -175,11 +179,12 @@ def hillclimb_tree_build(
     max_swap_trials: int = 48,
     min_notables: int = 3,
     min_gain_frac: float = 0.005,
+    alloc: set[str] | None = None,
 ) -> tuple[set[str], list[dict]]:
     """Greedy add-only, then PoB hill-climb: swap notable + optional backtrack."""
     alloc, history = greedy_tree_build(
         xml, graph, pool, prefer=prefer, max_rounds=max_greedy_rounds,
-        max_candidates=max_candidates, min_gain_frac=min_gain_frac)
+        max_candidates=max_candidates, min_gain_frac=min_gain_frac, alloc=alloc)
     _, ascend_base = split_main_ascend(graph)
     mastery = _parse_mastery(xml)
     budget = graph.points_total

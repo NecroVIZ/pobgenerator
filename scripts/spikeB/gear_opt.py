@@ -72,7 +72,7 @@ def optimize_gear(
     fp = fixpoint_d1(eng, b_cur, opt_slots, pools, cfg, prefer, fixpoint_iters,
                      initial_overrides=gear_ov)
     # если fixpoint не улучшил — оставляем вход; иначе берём CP-SAT
-    cps_ov = fp.overrides if fp.dps > 0 else overrides
+    cps_ov = fp.overrides if fp.dps > 0 else gear_ov
     cps_res = fp.result
     if not hybrid:
         return fp.dps if fp.dps > 0 else eng.dps(b_cur.render(gear_ov)), cps_ov

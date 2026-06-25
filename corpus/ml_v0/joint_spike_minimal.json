@@ -1,0 +1,80 @@
+[
+  {
+    "build": "builds\\10.txt",
+    "gear_start": "stripped",
+    "tree_start": "minimal",
+    "ref_dps": 34936025.04240092,
+    "joint_dps": 3432463.915071589,
+    "dps_pct": 9.8,
+    "tree_overlap_pct": 31.6,
+    "history": [
+      {
+        "iter": 0,
+        "tree_rounds": 13,
+        "tree_pts": 118,
+        "dps": 3443802.714866843,
+        "life": 4859
+      },
+      {
+        "iter": 1,
+        "tree_rounds": 12,
+        "tree_pts": 115,
+        "dps": 3432463.915071589,
+        "life": 3089
+      }
+    ],
+    "evals": 465
+  },
+  {
+    "build": "builds\\8.txt",
+    "gear_start": "stripped",
+    "tree_start": "minimal",
+    "ref_dps": 5441051.61850133,
+    "joint_dps": 682970.6463177509,
+    "dps_pct": 12.6,
+    "tree_overlap_pct": 23.3,
+    "history": [
+      {
+        "iter": 0,
+        "tree_rounds": 12,
+        "tree_pts": 122,
+        "dps": 633976.4841510274,
+        "life": 3276
+      },
+      {
+        "iter": 1,
+        "tree_rounds": 12,
+        "tree_pts": 123,
+        "dps": 682970.6463177509,
+        "life": 3353
+      }
+    ],
+    "evals": 301
+  },
+  {
+    "build": "builds\\2.txt",
+    "gear_start": "stripped",
+    "tree_start": "minimal",
+    "ref_dps": 17442305.424425106,
+    "joint_dps": 1666117.0240168888,
+    "dps_pct": 9.6,
+    "tree_overlap_pct": 22.9,
+    "history": [
+      {
+        "iter": 0,
+        "tree_rounds": 11,
+        "tree_pts": 123,
+        "dps": 1563085.867073445,
+        "life": 4322
+      },
+      {
+        "iter": 1,
+        "tree_rounds": 11,
+        "tree_pts": 123,
+        "dps": 1666117.0240168888,
+        "life": 4132
+      }
+    ],
+    "evals": 465
+  }
+]
