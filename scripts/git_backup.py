@@ -144,8 +144,7 @@ def cmd_log(n: int = 10) -> None:
         print("no git repo")
         return
     try:
-        for entry in porcelain.log(str(REPO), limit=n):
-            print(entry)
+        porcelain.log(str(REPO), max_entries=n)
     except Exception as e:
         print(f"(log error: {e})")
 
@@ -159,14 +158,23 @@ def cmd_push(remote: str, url: str | None) -> None:
         porcelain.remote_add(str(REPO), remote, url or DEFAULT_URL)
     except Exception:
         # remote уже есть — обновим config
-        from dulwich.config import ConfigFile
-        cfg = porcelain.get_config(str(REPO))
+        from dulwich.repo import Repo
+        repo = Repo(str(REPO))
+        cfg = repo.get_config()
         cfg.set((b"remote", remote.encode()), b"url", (url or DEFAULT_URL).encode())
         cfg.write_to_path()
-    print(f"pushing to {remote} -> {url or DEFAULT_URL} ...")
+    
+    try:
+        from dulwich.porcelain import active_branch
+        ab = active_branch(str(REPO))
+    except Exception:
+        ab = b"master"
+    
+    print(f"pushing to {remote} -> {url or DEFAULT_URL} (branch: {ab.decode()}) ...")
     try:
         # dulwich push по HTTPS; если URL содержит PAT — аутентификация встроена
-        porcelain.push(str(REPO), url or DEFAULT_URL, b"refs/heads/main")
+        refspec = b"refs/heads/" + ab
+        porcelain.push(str(REPO), url or DEFAULT_URL, refspec)
         print("push OK")
     except Exception as e:
         print(f"PUSH FAILED: {e}")
