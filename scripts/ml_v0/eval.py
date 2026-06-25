@@ -397,6 +397,20 @@ def compile_report(rows: list[dict], dps_delta: float = 15.0, ovl_delta: float =
     p_val = binomial_pval(n_target, wins)
     binomial_pass = p_val <= 0.05
 
+    # Pure Python Bootstrap CI 95%
+    import random
+    random.seed(42)
+    if n_target > 1:
+        bootstrap_means = []
+        for _ in range(10000):
+            resample = [random.choice(dps_deltas) for _ in range(n_target)]
+            bootstrap_means.append(sum(resample) / n_target)
+        bootstrap_means.sort()
+        ci_lower = round(bootstrap_means[250], 2)
+        ci_upper = round(bootstrap_means[9750], 2)
+    else:
+        ci_lower, ci_upper = 0.0, 0.0
+
     # 7. Consensus Verdict (multi-criteria)
     consensus_pass = ovl_pass_clean and floor_pass_clean and binomial_pass
     consensus_verdict = "PASS" if consensus_pass else "FAIL"
@@ -422,6 +436,7 @@ def compile_report(rows: list[dict], dps_delta: float = 15.0, ovl_delta: float =
             "ties": ties,
             "avg_delta_excl_outliers": round(avg_delta_excl_outliers, 1),
             "binomial_pval": round(p_val, 4),
+            "bootstrap_dps_ci_95": [ci_lower, ci_upper],
         },
         "gate": {
             "dps_primary": dps_pass_raw,

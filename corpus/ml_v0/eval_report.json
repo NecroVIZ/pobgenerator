@@ -85,7 +85,11 @@
     "losses": 3,
     "ties": 0,
     "avg_delta_excl_outliers": 0.5,
-    "binomial_pval": 0.6562
+    "binomial_pval": 0.6562,
+    "bootstrap_dps_ci_95": [
+      -3.6,
+      22.87
+    ]
   },
   "gate": {
     "dps_primary": false,
