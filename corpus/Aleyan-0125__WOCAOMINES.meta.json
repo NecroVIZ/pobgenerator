@@ -1,0 +1,287 @@
+{
+  "account": "Aleyan-0125",
+  "name": "WOCAOMINES",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Trickster",
+  "ascendancy": "Trickster",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2876,
+    "energyShield": 1541,
+    "mana": 1216,
+    "ward": 0,
+    "movementSpeed": 275,
+    "lifeRegen": 151,
+    "evasionRating": 28274,
+    "armour": 390,
+    "strength": 109,
+    "dexterity": 195,
+    "intelligence": 202,
+    "enduranceCharges": 3,
+    "frenzyCharges": 7,
+    "powerCharges": 4,
+    "effectiveHealthPool": 27865,
+    "physicalMaximumHitTaken": 7118,
+    "fireMaximumHitTaken": 23281,
+    "coldMaximumHitTaken": 23281,
+    "lightningMaximumHitTaken": 23281,
+    "chaosMaximumHitTaken": 14940,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 24,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 29,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 2,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 31,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 1089,
+    "evadeChance": 77,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 16,
+        "max": 90,
+        "effectiveAppliedArmour": 390,
+        "base": 12,
+        "takenDamage": 2035
+      },
+      "fire": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2261
+      },
+      "cold": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2487
+      },
+      "lightning": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2261
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 10,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 7118
+  },
+  "keyStones": [
+    {
+      "name": "Lethe Shade",
+      "icon": "Art/2DArt/SkillIcons/passives/MomentofRespite.webp",
+      "stats": [
+        "Take 50% less Damage over Time if you've started taking Damage over Time in the past second\n100% more Duration of Ailments on you"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 101,
+  "skillGroups": [
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Wave of Conviction of Trarthus",
+        "High-Impact Mine Support",
+        "Charged Mines Support",
+        "Minefield Support",
+        "Trap and Mine Damage Support",
+        "Hypothermia Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink",
+        "Void Manipulation Support",
+        "Arcane Surge Support",
+        "Culling Strike Support",
+        "Life Leech Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Summon Skitterbots",
+        "Grace",
+        "Clarity",
+        "Enlighten Support",
+        "Hatred"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Detonate Mines",
+        "Cooldown Recovery Support",
+        "Automation",
+        "Steelskin"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Whirling Blades",
+        "Lifetap Support",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frost Bomb",
+        "Bonechill Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Elemental Weakness"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Wave of Conviction of Trarthus",
+    "High-Impact Mine Support",
+    "Charged Mines Support",
+    "Minefield Support",
+    "Trap and Mine Damage Support",
+    "Hypothermia Support",
+    "Frostblink",
+    "Void Manipulation Support",
+    "Arcane Surge Support",
+    "Culling Strike Support",
+    "Life Leech Support",
+    "Summon Skitterbots",
+    "Grace",
+    "Clarity",
+    "Enlighten Support",
+    "Hatred",
+    "Detonate Mines",
+    "Cooldown Recovery Support",
+    "Automation",
+    "Steelskin",
+    "Whirling Blades",
+    "Lifetap Support",
+    "Faster Attacks Support",
+    "Frost Bomb",
+    "Bonechill Support",
+    "Elemental Weakness"
+  ],
+  "items": [
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Astral Projector",
+      "typeLine": "Topaz Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Kraken Ward",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Beast Barb",
+      "typeLine": "Imperial Skean",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Sol Sole",
+      "typeLine": "Infiltrator Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Viper Fetish",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Chimeric Barb",
+      "typeLine": "Platinum Kris",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Torment Song",
+      "typeLine": "Slaughter Knife",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Storm Wrap",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Soul Clutches",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Apocalypse Knot",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Vengeance Scratch",
+      "typeLine": "Platinum Kris",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-25T08:21:10.293806Z"
+}

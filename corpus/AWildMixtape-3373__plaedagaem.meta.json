@@ -1,0 +1,331 @@
+{
+  "account": "AWildMixtape-3373",
+  "name": "plaedagaem",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Oshabi Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 15725,
+    "mana": 380,
+    "ward": 0,
+    "movementSpeed": 232,
+    "lifeRegen": 0,
+    "evasionRating": 33,
+    "armour": 23193,
+    "strength": 62,
+    "dexterity": 54,
+    "intelligence": 70,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 8,
+    "effectiveHealthPool": 466547,
+    "physicalMaximumHitTaken": 25347,
+    "fireMaximumHitTaken": 153126,
+    "coldMaximumHitTaken": 153126,
+    "lightningMaximumHitTaken": 153126,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 30,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 36,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 16,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 70,
+    "spellBlockChance": 72,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 1234,
+    "lifeReserved": 0,
+    "manaReserved": 380,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 372,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 71,
+        "max": 90,
+        "effectiveAppliedArmour": 23193,
+        "base": 2,
+        "takenDamage": 2047
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 10
+    },
+    "lowestMaximumHitTaken": 25347
+  },
+  "keyStones": [
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 124,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Cyclone",
+        "Cast On Critical Strike Support",
+        "Greater Volley Support",
+        "Void Manipulation Support",
+        "Increased Critical Damage Support",
+        "Forbidden Rite of Soul Sacrifice",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Lightning Warp",
+        "Lightning Warp",
+        "Lightning Warp"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Lightning Warp",
+        "Lightning Warp",
+        "Lightning Warp"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Despair",
+        "Eldritch Blasphemy Support",
+        "Enlighten Support",
+        "Enhance Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Molten Shell",
+        "Automation",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink of Wintry Blast"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Tempest Shield",
+        "Enlighten Support",
+        "Discipline"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Determination",
+        "Purity of Ice",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Sniper's Mark",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Despair"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Lightning Warp"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Lightning Warp"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Lightning Warp"
+      ]
+    },
+    {
+      "itemSlot": 10,
+      "gems": [
+        "Lightning Warp"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Cyclone",
+    "Cast On Critical Strike Support",
+    "Greater Volley Support",
+    "Void Manipulation Support",
+    "Increased Critical Damage Support",
+    "Forbidden Rite of Soul Sacrifice",
+    "Power Charge On Critical Support",
+    "Lightning Warp",
+    "Lightning Warp",
+    "Lightning Warp",
+    "Lightning Warp",
+    "Lightning Warp",
+    "Lightning Warp",
+    "Despair",
+    "Eldritch Blasphemy Support",
+    "Enlighten Support",
+    "Enhance Support",
+    "Molten Shell",
+    "Automation",
+    "More Duration Support",
+    "Frostblink of Wintry Blast",
+    "Tempest Shield",
+    "Enlighten Support",
+    "Discipline",
+    "Determination",
+    "Purity of Ice",
+    "Enlighten Support",
+    "Sniper's Mark",
+    "Mark On Hit Support",
+    "Despair",
+    "Lightning Warp",
+    "Lightning Warp",
+    "Lightning Warp",
+    "Lightning Warp"
+  ],
+  "items": [
+    {
+      "name": "Woe Cowl",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Apocalypse Song",
+      "typeLine": "Imperial Skean",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Agony Clutches",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Hypnotic Whorl",
+      "typeLine": "Unset Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Precursor's Emblem",
+      "typeLine": "Topaz Ring",
+      "frameType": 10,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Honour Dash",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Eagle Salvation",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Aegis Aurora",
+      "typeLine": "Champion Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Whispers of Infinity",
+      "typeLine": "Seaglass Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Null's Inclination",
+      "typeLine": "Ranger Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Sol Fetish",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-25T06:40:29.513224Z"
+}

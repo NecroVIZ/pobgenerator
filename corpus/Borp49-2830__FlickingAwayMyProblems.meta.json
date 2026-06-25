@@ -1,0 +1,297 @@
+{
+  "account": "Borp49-2830",
+  "name": "FlickingAwayMyProblems",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Trickster",
+  "ascendancy": "Trickster",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 19182,
+    "mana": 1158,
+    "ward": 0,
+    "movementSpeed": 136,
+    "lifeRegen": 0,
+    "evasionRating": 0,
+    "armour": 45440,
+    "strength": 114,
+    "dexterity": 187,
+    "intelligence": 325,
+    "enduranceCharges": 4,
+    "frenzyCharges": 9,
+    "powerCharges": 3,
+    "effectiveHealthPool": 276507,
+    "physicalMaximumHitTaken": 31216,
+    "fireMaximumHitTaken": 81560,
+    "coldMaximumHitTaken": 99291,
+    "lightningMaximumHitTaken": 81560,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 6,
+    "fireResistanceMax": 75,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 4,
+    "coldResistanceMax": 80,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 28,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 65,
+    "spellBlockChance": 55,
+    "spellSuppressionChance": 8,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 714,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 484,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 45440,
+        "base": 16,
+        "takenDamage": 2274
+      },
+      "fire": {
+        "value": 16,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 16,
+        "takenDamage": 2274
+      },
+      "cold": {
+        "value": 16,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 16,
+        "takenDamage": 2274
+      },
+      "lightning": {
+        "value": 16,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 16,
+        "takenDamage": 2274
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 31216
+  },
+  "keyStones": [
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    },
+    {
+      "name": "Iron Reflexes",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
+      "stats": [
+        "Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating"
+      ]
+    },
+    {
+      "name": "Precise Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/PreciseTechnique.webp",
+      "stats": [
+        "40% more Attack Damage if Accuracy Rating is higher than Maximum Life\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 124,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Flicker Strike",
+        "Greater Multistrike Support",
+        "Volatility Support",
+        "Damage on Full Life Support",
+        "Elemental Damage with Attacks Support",
+        "Close Combat Support",
+        "Ruthless Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vaal Haste",
+        "Wrath",
+        "Discipline",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Warlord's Mark",
+        "Mark On Hit Support",
+        "Portal"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Molten Shell",
+        "Cast when Damage Taken Support",
+        "Phase Run"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frenzy of Onslaught",
+        "Faster Attacks Support",
+        "Leap Slam"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Herald of Thunder",
+        "Berserk",
+        "Enlighten Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Flicker Strike",
+    "Greater Multistrike Support",
+    "Volatility Support",
+    "Damage on Full Life Support",
+    "Elemental Damage with Attacks Support",
+    "Close Combat Support",
+    "Ruthless Support",
+    "Vaal Haste",
+    "Wrath",
+    "Discipline",
+    "Enlighten Support",
+    "Warlord's Mark",
+    "Mark On Hit Support",
+    "Portal",
+    "Molten Shell",
+    "Cast when Damage Taken Support",
+    "Phase Run",
+    "Frenzy of Onslaught",
+    "Faster Attacks Support",
+    "Leap Slam",
+    "Herald of Thunder",
+    "Berserk",
+    "Enlighten Support"
+  ],
+  "items": [
+    {
+      "name": "Circle of Regret",
+      "typeLine": "Synthesised Topaz Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Empyrean Curtain",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Vortex Crown",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Ephemeral Edge",
+      "typeLine": "Dusk Blade",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Honour March",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Shavronne's Revelation",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "",
+      "typeLine": "Rotund Ironwood Buckler of Abjuration",
+      "frameType": 1,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Havoc Fang",
+      "typeLine": "Slaughter Knife",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Voice of the Storm",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Foulborn Aegis Aurora",
+      "typeLine": "Champion Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Entropy Talons",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Dusk Eye",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-24T17:03:17.030954Z"
+}

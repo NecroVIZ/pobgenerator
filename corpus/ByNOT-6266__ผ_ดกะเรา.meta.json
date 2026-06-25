@@ -1,0 +1,263 @@
+{
+  "account": "ByNOT-6266",
+  "name": "ผัดกะเรา",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Necromancer",
+  "ascendancy": "Necromancer",
+  "secondaryAscendancy": "Catarina Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ryslatha",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 2124,
+    "mana": 1032,
+    "ward": 124,
+    "movementSpeed": 223,
+    "lifeRegen": 0,
+    "evasionRating": 0,
+    "armour": 8804,
+    "strength": 167,
+    "dexterity": 140,
+    "intelligence": 267,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 49915,
+    "physicalMaximumHitTaken": 3410,
+    "fireMaximumHitTaken": 12494,
+    "coldMaximumHitTaken": 12494,
+    "lightningMaximumHitTaken": 3410,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 85,
+    "fireResistanceOverCap": 47,
+    "fireResistanceMax": 85,
+    "coldResistance": 85,
+    "coldResistanceOverCap": 134,
+    "coldResistanceMax": 85,
+    "lightningResistance": -187,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 76,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 85,
+    "spellBlockChance": 87,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 454,
+    "lifeReserved": 0,
+    "manaReserved": 549,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 3410
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 114,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Raise Spectre",
+        "Returning Projectiles Support",
+        "Pierce Support",
+        "Controlled Destruction Support",
+        "Greater Spell Echo Support",
+        "Minion Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vaal Discipline",
+        "Enlighten Support",
+        "Vaal Haste",
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Raise Spectre",
+        "Congregation Support",
+        "Feeding Frenzy Support",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Sniper's Mark"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Desecrate"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Molten Shell",
+        "Automation",
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Desecrate",
+        "Flesh Offering"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Raise Spectre",
+    "Returning Projectiles Support",
+    "Pierce Support",
+    "Controlled Destruction Support",
+    "Greater Spell Echo Support",
+    "Minion Damage Support",
+    "Vaal Discipline",
+    "Enlighten Support",
+    "Vaal Haste",
+    "Vitality",
+    "Raise Spectre",
+    "Congregation Support",
+    "Feeding Frenzy Support",
+    "Meat Shield Support",
+    "Sniper's Mark",
+    "Desecrate",
+    "Flame Dash",
+    "Tempest Shield",
+    "Molten Shell",
+    "Automation",
+    "Convocation",
+    "Desecrate",
+    "Flesh Offering"
+  ],
+  "items": [
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Apocalypse Stinger",
+      "typeLine": "Platinum Kris",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Agony Aegis",
+      "typeLine": "Steel Kite Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Horror Palm",
+      "typeLine": "Sorcerer Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Vortex Spark",
+      "typeLine": "Arcanist Slippers",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Agony Bane",
+      "typeLine": "Convoking Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Honour Loop",
+      "typeLine": "Sapphire Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Doryani's Prototype",
+      "typeLine": "Saint's Hauberk",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Dark Monarch",
+      "typeLine": "Lich's Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Soul Gyre",
+      "typeLine": "Sapphire Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-24T07:48:10.665147Z"
+}

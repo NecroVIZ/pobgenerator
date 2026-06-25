@@ -1,0 +1,238 @@
+{
+  "account": "AQmen-7415",
+  "name": "Bidon_",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Champion",
+  "ascendancy": "Champion",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ryslatha",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3838,
+    "energyShield": 259,
+    "mana": 773,
+    "ward": 0,
+    "movementSpeed": 197,
+    "lifeRegen": 406,
+    "evasionRating": 2653,
+    "armour": 42097,
+    "strength": 461,
+    "dexterity": 155,
+    "intelligence": 104,
+    "enduranceCharges": 3,
+    "frenzyCharges": 4,
+    "powerCharges": 3,
+    "effectiveHealthPool": 39585,
+    "physicalMaximumHitTaken": 6847,
+    "fireMaximumHitTaken": 26592,
+    "coldMaximumHitTaken": 26592,
+    "lightningMaximumHitTaken": 26592,
+    "chaosMaximumHitTaken": 43104,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 169,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 205,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 237,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 80,
+    "chaosResistanceOverCap": 3,
+    "chaosResistanceMax": 80,
+    "blockChance": 46,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 92,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 773,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 6847
+  },
+  "keyStones": [
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    },
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    },
+    {
+      "name": "Divine Flesh",
+      "icon": "Art/2DArt/SkillIcons/passives/DivineFlesh.webp",
+      "stats": [
+        "All Damage taken bypasses Energy Shield",
+        "50% of Elemental Damage taken as Chaos Damage",
+        "+5% to maximum Chaos Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 127,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Desecrate",
+        "Pulverise Support",
+        "Lifetap Support",
+        "Void Shockwave",
+        "Infused Channelling Support",
+        "Cyclone",
+        "Cast while Channelling Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "General's Cry",
+        "Overexertion Support",
+        "Autoexertion",
+        "Brutality Support",
+        "Lacerate of Butchering",
+        "Pulverise Support",
+        "Melee Physical Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Flesh and Stone",
+        "Enlighten Support",
+        "Determination",
+        "Pride"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Defiance Banner",
+        "War Banner",
+        "Dread Banner",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Molten Shell",
+        "Lifetap Support",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Blood and Sand"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Desecrate",
+    "Pulverise Support",
+    "Lifetap Support",
+    "Void Shockwave",
+    "Infused Channelling Support",
+    "Cyclone",
+    "Cast while Channelling Support",
+    "General's Cry",
+    "Overexertion Support",
+    "Autoexertion",
+    "Brutality Support",
+    "Lacerate of Butchering",
+    "Pulverise Support",
+    "Melee Physical Damage Support",
+    "Flesh and Stone",
+    "Enlighten Support",
+    "Determination",
+    "Pride",
+    "Defiance Banner",
+    "War Banner",
+    "Dread Banner",
+    "More Duration Support",
+    "Molten Shell",
+    "Lifetap Support",
+    "Cast when Damage Taken Support",
+    "Blood and Sand"
+  ],
+  "items": [
+    {
+      "name": "Fate Knuckle",
+      "typeLine": "Wyvernscale Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Abyssus",
+      "typeLine": "Ezomyte Burgonet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Foe March",
+      "typeLine": "Wyvernscale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Carrion Grip",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Uul-Netol's Kiss",
+      "typeLine": "Vaal Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Spirit Heart",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "The Fourth Vow",
+      "typeLine": "Devout Chainmail",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Magnate",
+      "typeLine": "Studded Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Fate Grip",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 7,
+  "lastCheckedUtc": "2026-06-23T16:28:12.329426Z"
+}

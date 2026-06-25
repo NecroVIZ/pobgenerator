@@ -1,0 +1,252 @@
+{
+  "account": "0drixen-6309",
+  "name": "Odrixen_GC",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Breachlord Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1739,
+    "energyShield": 9506,
+    "mana": 1907,
+    "ward": 0,
+    "movementSpeed": 175,
+    "lifeRegen": 0,
+    "evasionRating": 29,
+    "armour": 405,
+    "strength": 158,
+    "dexterity": 170,
+    "intelligence": 478,
+    "enduranceCharges": 3,
+    "frenzyCharges": 4,
+    "powerCharges": 4,
+    "effectiveHealthPool": 52843,
+    "physicalMaximumHitTaken": 10209,
+    "fireMaximumHitTaken": 55529,
+    "coldMaximumHitTaken": 75414,
+    "lightningMaximumHitTaken": 50472,
+    "chaosMaximumHitTaken": 38067,
+    "fireResistance": 79,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 80,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 26,
+    "coldResistanceMax": 80,
+    "lightningResistance": 76,
+    "lightningResistanceOverCap": 26,
+    "lightningResistanceMax": 76,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 35,
+    "chaosResistanceMax": 75,
+    "blockChance": 25,
+    "spellBlockChance": 53,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 30,
+    "energyShieldRegen": 1170,
+    "lifeReserved": 1731,
+    "manaReserved": 1632,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 10209
+  },
+  "keyStones": [
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "The Traitor",
+      "icon": "Art/2DArt/SkillIcons/passives/OasisKeystone.webp",
+      "stats": [
+        "Flasks Gain 4 Charges per empty Flask Slot every 5 seconds"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Glacial Cascade of the Fissure",
+        "High-Impact Mine Support",
+        "Minefield Support",
+        "Charged Mines Support",
+        "Increased Area of Effect Support",
+        "Hypothermia Support",
+        "Increased Critical Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Summon Stone Golem",
+        "Summon Flame Golem",
+        "Summon Lightning Golem",
+        "Raise Spectre",
+        "Empower Support",
+        "Awakened Enhance Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Assassin's Mark",
+        "Frostbite",
+        "Arcanist Brand",
+        "Vaal Discipline"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Automation",
+        "Detonate Mines"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Summon Ice Golem"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Summon Skitterbots",
+        "Unbound Ailments Support",
+        "Bonechill Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Hatred",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Tempest Shield"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Glacial Cascade of the Fissure",
+    "High-Impact Mine Support",
+    "Minefield Support",
+    "Charged Mines Support",
+    "Increased Area of Effect Support",
+    "Hypothermia Support",
+    "Increased Critical Damage Support",
+    "Summon Stone Golem",
+    "Summon Flame Golem",
+    "Summon Lightning Golem",
+    "Raise Spectre",
+    "Empower Support",
+    "Awakened Enhance Support",
+    "Assassin's Mark",
+    "Frostbite",
+    "Arcanist Brand",
+    "Vaal Discipline",
+    "Automation",
+    "Detonate Mines",
+    "Summon Ice Golem",
+    "Frostblink",
+    "Summon Skitterbots",
+    "Unbound Ailments Support",
+    "Bonechill Support",
+    "Hatred",
+    "Arrogance Support",
+    "Tempest Shield"
+  ],
+  "items": [
+    {
+      "name": "Ashes of the Stars",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Onslaught Guardian",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Doedre's Damning",
+      "typeLine": "Paua Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Oblivion Pace",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Winterweave",
+      "typeLine": "Coral Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Dark Seer",
+      "typeLine": "Shadow Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Corpse Pelt",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Rapture Grasp",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Armageddon Guard",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Arkhon's Tools",
+      "typeLine": "Cloth Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 7,
+  "lastCheckedUtc": "2026-06-21T14:09:43.159558Z"
+}

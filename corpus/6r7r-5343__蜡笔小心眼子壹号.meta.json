@@ -1,0 +1,245 @@
+{
+  "account": "6r7r-5343",
+  "name": "蜡笔小心眼子壹号",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Chaos Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1571,
+    "energyShield": 9499,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 200,
+    "lifeRegen": 0,
+    "evasionRating": 119,
+    "armour": 0,
+    "strength": 248,
+    "dexterity": 218,
+    "intelligence": 1844,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 120451,
+    "physicalMaximumHitTaken": 10326,
+    "fireMaximumHitTaken": 44896,
+    "coldMaximumHitTaken": 36879,
+    "lightningMaximumHitTaken": 36879,
+    "chaosMaximumHitTaken": 41304,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 60,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 37,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 30,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 5,
+    "chaosResistanceMax": 0,
+    "blockChance": 75,
+    "spellBlockChance": 78,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 30,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 10326
+  },
+  "keyStones": [
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    },
+    {
+      "name": "Wicked Ward",
+      "icon": "Art/2DArt/SkillIcons/passives/Occultist/EldrichBarrier.webp",
+      "stats": [
+        "Energy Shield Recharge is not interrupted by Damage if Recharge began Recently\n40% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 120,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Bladefall of Trarthus",
+        "Deadly Ailments Support",
+        "Swift Affliction Support",
+        "Vaal Flameblast",
+        "Unbound Ailments Support",
+        "Burning Damage Support",
+        "Cruelty Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Phase Run",
+        "More Duration Support",
+        "Steelskin",
+        "Awakened Enhance Support",
+        "Automation",
+        "Summon Chaos Golem"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Summon Stone Golem",
+        "Summon Flame Golem",
+        "Summon Stone Golem of Hordes",
+        "Summon Stone Golem of Safeguarding",
+        "Controlled Blaze Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flammability",
+        "Elemental Weakness",
+        "Flame Surge",
+        "Arcanist Brand",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Elements",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vaal Discipline",
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Aspect of the Spider"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Bladefall of Trarthus",
+    "Deadly Ailments Support",
+    "Swift Affliction Support",
+    "Vaal Flameblast",
+    "Unbound Ailments Support",
+    "Burning Damage Support",
+    "Cruelty Support",
+    "Phase Run",
+    "More Duration Support",
+    "Steelskin",
+    "Awakened Enhance Support",
+    "Automation",
+    "Summon Chaos Golem",
+    "Summon Stone Golem",
+    "Summon Flame Golem",
+    "Summon Stone Golem of Hordes",
+    "Summon Stone Golem of Safeguarding",
+    "Controlled Blaze Support",
+    "Flammability",
+    "Elemental Weakness",
+    "Flame Surge",
+    "Arcanist Brand",
+    "Faster Casting Support",
+    "Purity of Elements",
+    "Eternal Blessing Support",
+    "Vaal Discipline",
+    "Malevolence",
+    "Aspect of the Spider"
+  ],
+  "items": [
+    {
+      "name": "The Dark Monarch",
+      "typeLine": "Lich's Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Jiquani's Potential",
+      "typeLine": "Imperial Staff",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Rage Track",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Golem Noose",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Vortex Twirl",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Vortex Knuckle",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Oblivion Ward",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-18T14:26:09.519034Z"
+}

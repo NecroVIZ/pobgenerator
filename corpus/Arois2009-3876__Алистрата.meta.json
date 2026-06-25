@@ -1,0 +1,279 @@
+{
+  "account": "Arois2009-3876",
+  "name": "Алистрата",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Occultist",
+  "ascendancy": "Occultist",
+  "secondaryAscendancy": "Saresh Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 17528,
+    "mana": 496,
+    "ward": 0,
+    "movementSpeed": 227,
+    "lifeRegen": 0,
+    "evasionRating": 32,
+    "armour": 0,
+    "strength": 116,
+    "dexterity": 119,
+    "intelligence": 442,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 7,
+    "effectiveHealthPool": 245045,
+    "physicalMaximumHitTaken": 31791,
+    "fireMaximumHitTaken": 186860,
+    "coldMaximumHitTaken": 186860,
+    "lightningMaximumHitTaken": 186860,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 22,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 10,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 12,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 60,
+    "spellBlockChance": 65,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 20,
+    "energyShieldRegen": 2771,
+    "lifeReserved": 0,
+    "manaReserved": 490,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 435,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 18,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 18,
+        "takenDamage": 1518
+      },
+      "fire": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 1851
+      },
+      "cold": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 1851
+      },
+      "lightning": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 1851
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 82,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 18
+    },
+    "lowestMaximumHitTaken": 31791
+  },
+  "keyStones": [
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Reaver",
+      "icon": "Art/2DArt/SkillIcons/passives/ghostreaver.webp",
+      "stats": [
+        "Leech Energy Shield instead of Life\nMaximum total Energy Shield Recovery per second from Leech is doubled\nCannot Recharge Energy Shield"
+      ]
+    },
+    {
+      "name": "Inner Conviction",
+      "icon": "Art/2DArt/SkillIcons/passives/InnerConviction.webp",
+      "stats": [
+        "3% more Spell Damage per Power Charge",
+        "Gain Power Charges instead of Frenzy Charges"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 105,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Cyclone",
+        "Cast On Critical Strike Support",
+        "Void Manipulation Support",
+        "Forbidden Rite of Soul Sacrifice",
+        "Greater Volley Support",
+        "Cooldown Recovery Support",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Punishment",
+        "Temporal Chains",
+        "Enfeeble",
+        "Despair"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Assassin's Mark",
+        "Mark On Hit Support",
+        "Enhance Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Tempest Shield",
+        "Flesh and Stone",
+        "Discipline"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Precision",
+        "Faster Attacks Support",
+        "Shield Charge"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Immortal Call",
+        "Automation",
+        "Withering Step"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Cyclone",
+    "Cast On Critical Strike Support",
+    "Void Manipulation Support",
+    "Forbidden Rite of Soul Sacrifice",
+    "Greater Volley Support",
+    "Cooldown Recovery Support",
+    "Increased Critical Strikes Support",
+    "Punishment",
+    "Temporal Chains",
+    "Enfeeble",
+    "Despair",
+    "Assassin's Mark",
+    "Mark On Hit Support",
+    "Enhance Support",
+    "Tempest Shield",
+    "Flesh and Stone",
+    "Discipline",
+    "Precision",
+    "Faster Attacks Support",
+    "Shield Charge",
+    "Immortal Call",
+    "Automation",
+    "Withering Step"
+  ],
+  "items": [
+    {
+      "name": "Death Hold",
+      "typeLine": "Diamond Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "",
+      "typeLine": "Beryl Foul Staff of Stunning",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Vengeance Bane",
+      "typeLine": "Synthesised Imperial Skean",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Anathema",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Demon Knuckle",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Golem Pelt",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Miracle Spell",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Whispers of Infinity",
+      "typeLine": "Seaglass Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Tempest Keep",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Apocalypse League",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-22T19:04:40.815745Z"
+}

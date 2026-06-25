@@ -1,0 +1,249 @@
+{
+  "account": "Aughyssul-7681",
+  "name": "Aughy_LongNeckBuffDudes",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Inquisitor",
+  "ascendancy": "Inquisitor",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 15665,
+    "energyShield": 7833,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 218,
+    "lifeRegen": 4798,
+    "evasionRating": 360,
+    "armour": 2473,
+    "strength": 293,
+    "dexterity": 120,
+    "intelligence": 161,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 63716,
+    "physicalMaximumHitTaken": 19200,
+    "fireMaximumHitTaken": 103989,
+    "coldMaximumHitTaken": 74872,
+    "lightningMaximumHitTaken": 71992,
+    "chaosMaximumHitTaken": 43540,
+    "fireResistance": 85,
+    "fireResistanceOverCap": 41,
+    "fireResistanceMax": 85,
+    "coldResistance": 78,
+    "coldResistanceOverCap": 84,
+    "coldResistanceMax": 78,
+    "lightningResistance": 77,
+    "lightningResistanceOverCap": 63,
+    "lightningResistanceMax": 77,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 22,
+    "chaosResistanceMax": 75,
+    "blockChance": 25,
+    "spellBlockChance": 17,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 4798,
+    "lifeReserved": 9134,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 19200
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 134,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Spark of the Nova",
+        "Pinpoint Support",
+        "Spellblade Support",
+        "Pierce Support",
+        "Increased Critical Damage Support",
+        "Greater Spell Echo Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Petrified Blood",
+        "Purity of Fire",
+        "Vitality",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Faster Casting Support",
+        "Spell Echo Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Righteous Fire"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Arcanist Brand",
+        "Sniper's Mark"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Energy Blade"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Zealotry",
+        "Eternal Blessing Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Spark of the Nova",
+    "Pinpoint Support",
+    "Spellblade Support",
+    "Pierce Support",
+    "Increased Critical Damage Support",
+    "Greater Spell Echo Support",
+    "Power Charge On Critical Support",
+    "Petrified Blood",
+    "Purity of Fire",
+    "Vitality",
+    "Enlighten Support",
+    "Frostblink of Wintry Blast",
+    "Faster Casting Support",
+    "Spell Echo Support",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Righteous Fire",
+    "Arcanist Brand",
+    "Sniper's Mark",
+    "Energy Blade",
+    "Zealotry",
+    "Eternal Blessing Support"
+  ],
+  "items": [
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Viper Spur",
+      "typeLine": "Leviathan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn Ghostwrithe",
+      "typeLine": "Silken Vest",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Brimstone Chant",
+      "typeLine": "Highborn Staff",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Hate Gyre",
+      "typeLine": "Cogwork Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Dire Finger",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "",
+      "typeLine": "Energy Blade",
+      "frameType": 0,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Hate Grip",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Rathpith Globe",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Soul Clasp",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-19T18:05:19.384836Z"
+}

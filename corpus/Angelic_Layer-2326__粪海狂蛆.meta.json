@@ -1,0 +1,254 @@
+{
+  "account": "Angelic_Layer-2326",
+  "name": "粪海狂蛆",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Olroth Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 1751,
+    "energyShield": 54,
+    "mana": 1114,
+    "ward": 21454,
+    "movementSpeed": 176,
+    "lifeRegen": 858,
+    "evasionRating": 5660,
+    "armour": 3255,
+    "strength": 182,
+    "dexterity": 207,
+    "intelligence": 194,
+    "enduranceCharges": 3,
+    "frenzyCharges": 4,
+    "powerCharges": 4,
+    "effectiveHealthPool": 20189,
+    "physicalMaximumHitTaken": 25004,
+    "fireMaximumHitTaken": 108348,
+    "coldMaximumHitTaken": 89000,
+    "lightningMaximumHitTaken": 89000,
+    "chaosMaximumHitTaken": 37193,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 16,
+    "fireResistanceMax": 80,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 2,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 4,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 40,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 5,
+    "spellBlockChance": 22,
+    "spellSuppressionChance": 18,
+    "spellDodgeChance": 0,
+    "itemRarity": 34,
+    "energyShieldRegen": 0,
+    "lifeReserved": 889,
+    "manaReserved": 1114,
+    "evadeChance": 42,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 484,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 31,
+        "max": 90,
+        "effectiveAppliedArmour": 3255,
+        "base": 8,
+        "takenDamage": 2241
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 25004
+  },
+  "keyStones": [
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 107,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vortex of Projection",
+        "Cast on Ward Break Support",
+        "Cold Penetration Support",
+        "Hypothermia Support",
+        "Frostmage Support",
+        "Eye of Winter"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Frostbolt",
+        "Ice Spear",
+        "Frostmage Support",
+        "Cast on Ward Break Support",
+        "Freezing Pulse",
+        "Greater Multiple Projectiles Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Summon Raging Spirit",
+        "Raise Zombie of Falling",
+        "Cast on Ward Break Support",
+        "Less Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Assassin's Mark",
+        "Phase Run",
+        "Cast on Ward Break Support",
+        "Immortal Call"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Herald of Ice",
+        "Arrogance Support",
+        "Righteous Fire",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Zealotry"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Vortex of Projection",
+    "Cast on Ward Break Support",
+    "Cold Penetration Support",
+    "Hypothermia Support",
+    "Frostmage Support",
+    "Eye of Winter",
+    "Frostbolt",
+    "Ice Spear",
+    "Frostmage Support",
+    "Cast on Ward Break Support",
+    "Freezing Pulse",
+    "Greater Multiple Projectiles Support",
+    "Summon Raging Spirit",
+    "Raise Zombie of Falling",
+    "Cast on Ward Break Support",
+    "Less Duration Support",
+    "Assassin's Mark",
+    "Phase Run",
+    "Cast on Ward Break Support",
+    "Immortal Call",
+    "Herald of Ice",
+    "Arrogance Support",
+    "Righteous Fire",
+    "Frostblink",
+    "Purity of Elements",
+    "Zealotry"
+  ],
+  "items": [
+    {
+      "name": "Loath Band",
+      "typeLine": "Unset Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Annihilating Light",
+      "typeLine": "Quarterstaff",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Ynda's Stand",
+      "typeLine": "Studded Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Khatal's Geyser",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Brood Weaver",
+      "typeLine": "Tyrant's Sekhem",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Dread Crack",
+      "typeLine": "Void Sceptre",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Faithguard",
+      "typeLine": "Runic Helm",
+      "frameType": 10,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Wrath Road",
+      "typeLine": "Runic Sabatons",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Sol Skin",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Chimeric Knuckle",
+      "typeLine": "Runic Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Heartbound Loop",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-24T01:37:31.413168Z"
+}

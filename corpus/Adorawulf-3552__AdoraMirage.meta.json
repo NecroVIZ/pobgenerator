@@ -1,0 +1,260 @@
+{
+  "account": "Adorawulf-3552",
+  "name": "AdoraMirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Guardian",
+  "ascendancy": "Guardian",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 11571,
+    "mana": 5902,
+    "ward": 205,
+    "movementSpeed": 282,
+    "lifeRegen": 132,
+    "evasionRating": 27,
+    "armour": 27746,
+    "strength": 329,
+    "dexterity": 157,
+    "intelligence": 704,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 207448,
+    "physicalMaximumHitTaken": 17086,
+    "fireMaximumHitTaken": 46222,
+    "coldMaximumHitTaken": 46222,
+    "lightningMaximumHitTaken": 84121,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 60,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 115,
+    "coldResistanceMax": 75,
+    "lightningResistance": 89,
+    "lightningResistanceOverCap": 219,
+    "lightningResistanceMax": 89,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 79,
+    "spellBlockChance": 65,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 844,
+    "lifeReserved": 0,
+    "manaReserved": 5874,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 484,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 93,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 7
+    },
+    "lowestMaximumHitTaken": 17086
+  },
+  "keyStones": [
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Reaver",
+      "icon": "Art/2DArt/SkillIcons/passives/ghostreaver.webp",
+      "stats": [
+        "Leech Energy Shield instead of Life\nMaximum total Energy Shield Recovery per second from Leech is doubled\nCannot Recharge Energy Shield"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 117,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Summon Sacred Wisps",
+        "Greater Fork Support",
+        "Increased Critical Damage Support",
+        "Returning Projectiles Support",
+        "Kinetic Blast of Clustering",
+        "Damage on Full Life Support",
+        "Void Manipulation Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Determination",
+        "Precision",
+        "Enlighten Support",
+        "Purity of Lightning"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Stone Golem",
+        "Cast when Damage Taken Support",
+        "Steelskin"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Discipline"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Vaal Haste",
+        "Faster Attacks Support",
+        "Shield Charge"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Assassin's Mark",
+        "Frostblink",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Tornado",
+        "Spellslinger"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Tempest Shield"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Summon Sacred Wisps",
+    "Greater Fork Support",
+    "Increased Critical Damage Support",
+    "Returning Projectiles Support",
+    "Kinetic Blast of Clustering",
+    "Damage on Full Life Support",
+    "Void Manipulation Support",
+    "Determination",
+    "Precision",
+    "Enlighten Support",
+    "Purity of Lightning",
+    "Summon Stone Golem",
+    "Cast when Damage Taken Support",
+    "Steelskin",
+    "Discipline",
+    "Vaal Haste",
+    "Faster Attacks Support",
+    "Shield Charge",
+    "Assassin's Mark",
+    "Frostblink",
+    "Mark On Hit Support",
+    "Tornado",
+    "Spellslinger",
+    "Tempest Shield"
+  ],
+  "items": [
+    {
+      "name": "Mind Caress",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Corruption Dash",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Corruption Halo",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Whispers of Infinity",
+      "typeLine": "Seaglass Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Gale Charm",
+      "typeLine": "Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Shavronne's Revelation",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Gale Ward",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Apocalypse Hold",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 13,
+  "lastCheckedUtc": "2026-06-21T17:18:23.45473Z"
+}

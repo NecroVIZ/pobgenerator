@@ -1,0 +1,242 @@
+{
+  "account": "anoanoa-0004",
+  "name": "ㅫㅫㅫㅫ",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Catarina Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3660,
+    "energyShield": 931,
+    "mana": 831,
+    "ward": 0,
+    "movementSpeed": 258,
+    "lifeRegen": 94,
+    "evasionRating": 1571,
+    "armour": 0,
+    "strength": 134,
+    "dexterity": 126,
+    "intelligence": 94,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 92391,
+    "physicalMaximumHitTaken": 9740,
+    "fireMaximumHitTaken": 26438,
+    "coldMaximumHitTaken": 26438,
+    "lightningMaximumHitTaken": 26438,
+    "chaosMaximumHitTaken": 29610,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 59,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 50,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 102,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 37,
+    "chaosResistanceMax": 0,
+    "blockChance": 75,
+    "spellBlockChance": 75,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 40,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 9740
+  },
+  "keyStones": [
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 102,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Blade Vortex",
+        "Greater Unleash Support",
+        "Minion Pact Support",
+        "Eclipse Support",
+        "Invert the Rules Support",
+        "Inspiration Support",
+        "Physical to Lightning Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Raise Spectre",
+        "Minion Life Support",
+        "More Duration Support",
+        "Empower Support",
+        "Inspiration Support",
+        "Companionship Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Withering Step",
+        "Automation",
+        "Convocation",
+        "Bone Offering",
+        "Aspect of the Crab"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Ash",
+        "Flesh and Stone",
+        "Enlighten Support",
+        "Herald of Ice"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flame Dash",
+        "Cooldown Recovery Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Clarity",
+        "Vitality"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Blade Vortex",
+    "Greater Unleash Support",
+    "Minion Pact Support",
+    "Eclipse Support",
+    "Invert the Rules Support",
+    "Inspiration Support",
+    "Physical to Lightning Support",
+    "Raise Spectre",
+    "Minion Life Support",
+    "More Duration Support",
+    "Empower Support",
+    "Inspiration Support",
+    "Companionship Support",
+    "Withering Step",
+    "Automation",
+    "Convocation",
+    "Bone Offering",
+    "Aspect of the Crab",
+    "Herald of Ash",
+    "Flesh and Stone",
+    "Enlighten Support",
+    "Herald of Ice",
+    "Flame Dash",
+    "Cooldown Recovery Support",
+    "Clarity",
+    "Vitality"
+  ],
+  "items": [
+    {
+      "name": "The Golden Charlatan",
+      "typeLine": "Lion Sword",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Blight Spiral",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Brood Vise",
+      "typeLine": "Carnal Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 10,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Queen's Hunger",
+      "typeLine": "Vaal Regalia",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Fate March",
+      "typeLine": "Fugitive Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Marylene's Fallacy",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 17,
+  "lastCheckedUtc": "2026-06-22T03:56:24.800226Z"
+}

@@ -1,0 +1,299 @@
+{
+  "account": "Boostmepls-4667",
+  "name": "Всё_потерял",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Occultist",
+  "ascendancy": "Occultist",
+  "secondaryAscendancy": "Saresh Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 12470,
+    "mana": 1714,
+    "ward": 0,
+    "movementSpeed": 269,
+    "lifeRegen": 0,
+    "evasionRating": 1811,
+    "armour": 0,
+    "strength": 158,
+    "dexterity": 130,
+    "intelligence": 294,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 161863,
+    "physicalMaximumHitTaken": 15887,
+    "fireMaximumHitTaken": 113393,
+    "coldMaximumHitTaken": 113393,
+    "lightningMaximumHitTaken": 113393,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 37,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 365,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 30,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 79,
+    "blockChance": 56,
+    "spellBlockChance": 78,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 633,
+    "lifeReserved": 0,
+    "manaReserved": 1578,
+    "evadeChance": 9,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 11
+    },
+    "lowestMaximumHitTaken": 15887
+  },
+  "keyStones": [
+    {
+      "name": "Runebinder",
+      "icon": "Art/2DArt/SkillIcons/passives/BrandKeystone.webp",
+      "stats": [
+        "-1 to maximum number of Summoned Totems\nYou can have an additional Brand Attached to an Enemy"
+      ]
+    },
+    {
+      "name": "Wicked Ward",
+      "icon": "Art/2DArt/SkillIcons/passives/Occultist/EldrichBarrier.webp",
+      "stats": [
+        "Energy Shield Recharge is not interrupted by Damage if Recharge began Recently\n40% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 12,
+  "passiveCount": 126,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Vortex",
+        "Creeping Frost of Floes",
+        "Swift Affliction Support",
+        "Inspiration Support",
+        "Increased Area of Effect Support",
+        "Controlled Destruction Support",
+        "Hypothermia Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Wintertide Brand",
+        "Bonechill Support",
+        "Controlled Destruction Support",
+        "Vaal Cold Snap",
+        "Efficacy Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink",
+        "Arcane Surge Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Elemental Weakness",
+        "Eldritch Blasphemy Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frost Shield"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Immortal Call",
+        "Sigil of Power",
+        "Automation",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostbite"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flesh and Stone",
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vaal Discipline"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Creeping Frost"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Vortex",
+    "Creeping Frost of Floes",
+    "Swift Affliction Support",
+    "Inspiration Support",
+    "Increased Area of Effect Support",
+    "Controlled Destruction Support",
+    "Hypothermia Support",
+    "Wintertide Brand",
+    "Bonechill Support",
+    "Controlled Destruction Support",
+    "Vaal Cold Snap",
+    "Efficacy Support",
+    "Frostblink",
+    "Arcane Surge Support",
+    "Elemental Weakness",
+    "Eldritch Blasphemy Support",
+    "Frost Shield",
+    "Immortal Call",
+    "Sigil of Power",
+    "Automation",
+    "More Duration Support",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Momentum Support",
+    "Frostbite",
+    "Flesh and Stone",
+    "Malevolence",
+    "Vaal Discipline",
+    "Tempest Shield",
+    "Flame Dash",
+    "Creeping Frost"
+  ],
+  "items": [
+    {
+      "name": "",
+      "typeLine": "Driftwood Wand",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "",
+      "typeLine": "Driftwood Wand",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Honour Fingers",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Maelström Sanctuary",
+      "typeLine": "Harmonic Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Corruption Grasp",
+      "typeLine": "Cogwork Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Fate Goad",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Gloom Twirl",
+      "typeLine": "Cogwork Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Eye of Malice",
+      "typeLine": "Callous Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Chimeric Clasp",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Skull Mantle",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-20T03:06:14.032444Z"
+}

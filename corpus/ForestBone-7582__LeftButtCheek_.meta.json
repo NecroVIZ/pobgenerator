@@ -1,0 +1,283 @@
+{
+  "account": "ForestBone-7582",
+  "name": "LeftButtCheek_",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Oshabi Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 9323,
+    "mana": 3916,
+    "ward": 0,
+    "movementSpeed": 206,
+    "lifeRegen": 0,
+    "evasionRating": 16716,
+    "armour": 0,
+    "strength": 121,
+    "dexterity": 184,
+    "intelligence": 304,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 69412,
+    "physicalMaximumHitTaken": 11234,
+    "fireMaximumHitTaken": 71723,
+    "coldMaximumHitTaken": 71723,
+    "lightningMaximumHitTaken": 71723,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 32,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 41,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 48,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 22,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 88,
+    "spellDodgeChance": 0,
+    "itemRarity": 95,
+    "energyShieldRegen": 559,
+    "lifeReserved": 0,
+    "manaReserved": 3859,
+    "evadeChance": 67,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 83,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 17
+    },
+    "lowestMaximumHitTaken": 11234
+  },
+  "keyStones": [
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    },
+    {
+      "name": "Perfect Agony",
+      "icon": "Art/2DArt/SkillIcons/passives/CritAilments.webp",
+      "stats": [
+        "Damage over Time Multiplier for Ailments is equal to Critical Strike Multiplier\nCritical Strikes do not deal extra Damage\nNon-Critical Strikes cannot inflict Ailments"
+      ]
+    },
+    {
+      "name": "Ghost Reaver",
+      "icon": "Art/2DArt/SkillIcons/passives/ghostreaver.webp",
+      "stats": [
+        "Leech Energy Shield instead of Life\nMaximum total Energy Shield Recovery per second from Leech is doubled\nCannot Recharge Energy Shield"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 97,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Viper Strike of the Mamba",
+        "Damage on Full Life Support",
+        "Greater Ancestral Call Support",
+        "Swift Affliction Support",
+        "Melee Physical Damage Support",
+        "Increased Critical Damage Support",
+        "Unbound Ailments Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Whirling Blades",
+        "Faster Attacks Support",
+        "Brutality Support",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Lightning",
+        "Malevolence",
+        "Enlighten Support",
+        "Discipline"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Withering Step",
+        "More Duration Support",
+        "Increased Area of Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Alchemist's Mark",
+        "Mark On Hit Support",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Viper Strike of the Mamba",
+        "Enlighten Support",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Steelskin",
+        "More Duration Support",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Void Shockwave",
+        "Item Rarity Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Viper Strike of the Mamba",
+    "Damage on Full Life Support",
+    "Greater Ancestral Call Support",
+    "Swift Affliction Support",
+    "Melee Physical Damage Support",
+    "Increased Critical Damage Support",
+    "Unbound Ailments Support",
+    "Whirling Blades",
+    "Faster Attacks Support",
+    "Brutality Support",
+    "Frostblink",
+    "Purity of Lightning",
+    "Malevolence",
+    "Enlighten Support",
+    "Discipline",
+    "Withering Step",
+    "More Duration Support",
+    "Increased Area of Effect Support",
+    "Alchemist's Mark",
+    "Mark On Hit Support",
+    "Precision",
+    "Viper Strike of the Mamba",
+    "Enlighten Support",
+    "Increased Critical Strikes Support",
+    "Steelskin",
+    "More Duration Support",
+    "Automation",
+    "Void Shockwave",
+    "Item Rarity Support"
+  ],
+  "items": [
+    {
+      "name": "Bino's Kitchen Knife",
+      "typeLine": "Slaughter Knife",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Essentia Sanguis",
+      "typeLine": "Vaal Claw",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "",
+      "typeLine": "Upgraded Bladed Mace",
+      "frameType": 1,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "War Hammer",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Whispers of Infinity",
+      "typeLine": "Seaglass Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Maelström Corona",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Pandemonium Keep",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Rune Ward",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Ghoul Stride",
+      "typeLine": "Phantom Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Dragon Vise",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Woe Turn",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Shavronne's Revelation",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    }
+  ],
+  "jewelsCount": 17,
+  "lastCheckedUtc": "2026-06-24T04:44:07.726885Z"
+}

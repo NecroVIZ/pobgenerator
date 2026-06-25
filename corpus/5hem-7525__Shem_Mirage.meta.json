@@ -1,0 +1,308 @@
+{
+  "account": "5hem-7525",
+  "name": "Shem_Mirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Pathfinder",
+  "ascendancy": "Pathfinder",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1035,
+    "energyShield": 594,
+    "mana": 839,
+    "ward": 0,
+    "movementSpeed": 373,
+    "lifeRegen": 0,
+    "evasionRating": 28802,
+    "armour": 0,
+    "strength": 134,
+    "dexterity": 302,
+    "intelligence": 204,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 11143,
+    "physicalMaximumHitTaken": 845,
+    "fireMaximumHitTaken": 3106,
+    "coldMaximumHitTaken": 3106,
+    "lightningMaximumHitTaken": 3242,
+    "chaosMaximumHitTaken": 2671,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 90,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 84,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 28,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 69,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 24,
+    "spellBlockChance": 75,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 61,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 831,
+    "evadeChance": 72,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 691,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 845
+  },
+  "keyStones": [
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Acrobatics",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneAcrobatics.webp",
+      "stats": [
+        "Modifiers to Chance to Suppress Spell Damage instead apply to Chance to Dodge Spell Hits at 50% of their value\nMaximum Chance to Dodge Spell Hits is 75%"
+      ]
+    },
+    {
+      "name": "Eldritch Battery",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
+      "stats": [
+        "Spend Energy Shield before Mana for Skill Mana Costs\nEnergy Shield protects Mana instead of Life\n50% less Energy Shield Recharge Rate"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 121,
+  "skillGroups": [
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Will of the Lords",
+        "Despair",
+        "Precision",
+        "Cast on Death Support",
+        "Portal"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Despair",
+        "Precision",
+        "Will of the Lords"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Portal",
+        "Cast on Death Support",
+        "Will of the Lords"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Automation",
+        "Righteous Fire",
+        "Herald of Purity",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Flame Dash",
+        "Cursed Ground Support",
+        "Despair"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Explosive Trap",
+        "Empower Support",
+        "Charged Traps Support",
+        "Trap and Mine Damage Support",
+        "Swift Assembly Support",
+        "Hypothermia Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Zealotry",
+        "Guardian's Blessing Support",
+        "Raise Spectre",
+        "Meat Shield Support",
+        "Aspect of the Cat"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Grace",
+        "Hatred",
+        "Enlighten Support",
+        "Summon Skitterbots"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Automation",
+        "Withering Step",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Phase Run",
+        "More Duration Support",
+        "Automation"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Will of the Lords",
+    "Despair",
+    "Precision",
+    "Cast on Death Support",
+    "Portal",
+    "Despair",
+    "Precision",
+    "Will of the Lords",
+    "Portal",
+    "Cast on Death Support",
+    "Will of the Lords",
+    "Automation",
+    "Righteous Fire",
+    "Herald of Purity",
+    "Arrogance Support",
+    "Flame Dash",
+    "Cursed Ground Support",
+    "Despair",
+    "Explosive Trap",
+    "Empower Support",
+    "Charged Traps Support",
+    "Trap and Mine Damage Support",
+    "Swift Assembly Support",
+    "Hypothermia Support",
+    "Zealotry",
+    "Guardian's Blessing Support",
+    "Raise Spectre",
+    "Meat Shield Support",
+    "Aspect of the Cat",
+    "Grace",
+    "Hatred",
+    "Enlighten Support",
+    "Summon Skitterbots",
+    "Automation",
+    "Withering Step",
+    "More Duration Support",
+    "Flame Dash",
+    "Phase Run",
+    "More Duration Support",
+    "Automation"
+  ],
+  "items": [
+    {
+      "name": "Foulborn Queen of the Forest",
+      "typeLine": "Destiny Leather",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Annihilating Light",
+      "typeLine": "Quarterstaff",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Allure",
+      "typeLine": "Vaal Claw",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Replica Mistwall",
+      "typeLine": "Lacquered Buckler",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Ming's Heart",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Ming's Heart",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Spirit Stride",
+      "typeLine": "Sage Slippers",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Hand of the Lords",
+      "typeLine": "Carnal Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "The Devouring Diadem",
+      "typeLine": "Necromancer Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Ashes of the Stars",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-21T00:24:18.306257Z"
+}

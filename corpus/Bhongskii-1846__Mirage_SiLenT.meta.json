@@ -1,0 +1,215 @@
+{
+  "account": "Bhongskii-1846",
+  "name": "Mirage_SiLenT",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Deadeye",
+  "ascendancy": "Deadeye",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3863,
+    "energyShield": 2997,
+    "mana": 1290,
+    "ward": 0,
+    "movementSpeed": 315,
+    "lifeRegen": 0,
+    "evasionRating": 18104,
+    "armour": 0,
+    "strength": 124,
+    "dexterity": 179,
+    "intelligence": 191,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 35882,
+    "physicalMaximumHitTaken": 8739,
+    "fireMaximumHitTaken": 33611,
+    "coldMaximumHitTaken": 33611,
+    "lightningMaximumHitTaken": 33611,
+    "chaosMaximumHitTaken": 19684,
+    "fireResistance": 77,
+    "fireResistanceOverCap": 25,
+    "fireResistanceMax": 77,
+    "coldResistance": 77,
+    "coldResistanceOverCap": 33,
+    "coldResistanceMax": 77,
+    "lightningResistance": 77,
+    "lightningResistanceOverCap": 41,
+    "lightningResistanceMax": 77,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 29,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 18,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 905,
+    "evadeChance": 68,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 8739
+  },
+  "keyStones": [
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 101,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Spark of the Nova",
+        "Minion Pact Support",
+        "Invert the Rules Support",
+        "Inspiration Support",
+        "Increased Critical Damage Support",
+        "Faster Casting Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vaal Haste",
+        "Purity of Elements",
+        "Enlighten Support",
+        "Zealotry"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Faster Casting Support",
+        "Inspiration Support",
+        "Spell Echo Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Purity",
+        "Vaal Clarity",
+        "Enlighten Support",
+        "Minion Life Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Raise Spectre",
+        "Empower Support",
+        "Minion Life Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Spark of the Nova",
+    "Minion Pact Support",
+    "Invert the Rules Support",
+    "Inspiration Support",
+    "Increased Critical Damage Support",
+    "Faster Casting Support",
+    "Power Charge On Critical Support",
+    "Vaal Haste",
+    "Purity of Elements",
+    "Enlighten Support",
+    "Zealotry",
+    "Frostblink of Wintry Blast",
+    "Faster Casting Support",
+    "Inspiration Support",
+    "Spell Echo Support",
+    "Herald of Purity",
+    "Vaal Clarity",
+    "Enlighten Support",
+    "Minion Life Support",
+    "Raise Spectre",
+    "Empower Support",
+    "Minion Life Support"
+  ],
+  "items": [
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Brimstone Emblem",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Dragon Barb",
+      "typeLine": "Profane Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Gloom Hold",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Domination Stride",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Glyph Cowl",
+      "typeLine": "Torturer's Mask",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Rune Turn",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Skull Curtain",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Utmost",
+      "typeLine": "Gold Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 13,
+  "lastCheckedUtc": "2026-06-20T15:15:28.23809Z"
+}

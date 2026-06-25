@@ -1,0 +1,259 @@
+{
+  "account": "BattlePubes-6961",
+  "name": "AvocadoAnalBeads",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Chieftain",
+  "ascendancy": "Chieftain",
+  "secondaryAscendancy": "Saresh Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 8058,
+    "energyShield": 0,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 149,
+    "lifeRegen": 1729,
+    "evasionRating": 18,
+    "armour": 9153,
+    "strength": 322,
+    "dexterity": 119,
+    "intelligence": 175,
+    "enduranceCharges": 7,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 84676,
+    "physicalMaximumHitTaken": 24843,
+    "fireMaximumHitTaken": 87951,
+    "coldMaximumHitTaken": 87951,
+    "lightningMaximumHitTaken": 87951,
+    "chaosMaximumHitTaken": 32929,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 188,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 71,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 70,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 26,
+    "chaosResistanceMax": 75,
+    "blockChance": 24,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 20,
+    "energyShieldRegen": 0,
+    "lifeReserved": 3335,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 60,
+      "lightning": 0,
+      "fire": 40,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 24843
+  },
+  "keyStones": [
+    {
+      "name": "The Agnostic",
+      "icon": "Art/2DArt/SkillIcons/passives/MiracleMaker.webp",
+      "stats": [
+        "Removes all Energy Shield\nWhile not on Full Life, Sacrifice 20% of Mana per Second to Recover that much Life"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 116,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Detonate Dead",
+        "Sadism Support",
+        "Swift Affliction Support",
+        "Cast when Stunned Support",
+        "Deadly Ailments Support",
+        "Burning Damage Support",
+        "Cruelty Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Righteous Fire",
+        "Elemental Focus Support",
+        "Efficacy Support",
+        "Burning Damage Support",
+        "Increased Area of Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Firestorm of Pelting",
+        "Cast when Stunned Support",
+        "Flame Surge",
+        "Punishment"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Unearth",
+        "Enhance Support",
+        "Empower Support",
+        "Cast when Stunned Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Malevolence",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Petrified Blood"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Flesh and Stone"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink",
+        "Shield Charge",
+        "Faster Attacks Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Detonate Dead",
+    "Sadism Support",
+    "Swift Affliction Support",
+    "Cast when Stunned Support",
+    "Deadly Ailments Support",
+    "Burning Damage Support",
+    "Cruelty Support",
+    "Righteous Fire",
+    "Elemental Focus Support",
+    "Efficacy Support",
+    "Burning Damage Support",
+    "Increased Area of Effect Support",
+    "Firestorm of Pelting",
+    "Cast when Stunned Support",
+    "Flame Surge",
+    "Punishment",
+    "Unearth",
+    "Enhance Support",
+    "Empower Support",
+    "Cast when Stunned Support",
+    "Malevolence",
+    "Eternal Blessing Support",
+    "Petrified Blood",
+    "Flesh and Stone",
+    "Frostblink",
+    "Shield Charge",
+    "Faster Attacks Support"
+  ],
+  "items": [
+    {
+      "name": "Phoenix Caress",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Honourhome",
+      "typeLine": "Soldier Helmet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Tempest Rook",
+      "typeLine": "Ezomyte Tower Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Defiance of Destiny",
+      "typeLine": "Paua Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Domination Tread",
+      "typeLine": "Titan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "The Hateful Accuser",
+      "typeLine": "Nameless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Valyrium",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Cloak of Flame",
+      "typeLine": "Scholar's Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "",
+      "typeLine": "Short Bow",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    }
+  ],
+  "jewelsCount": 13,
+  "lastCheckedUtc": "2026-06-19T11:49:20.982799Z"
+}

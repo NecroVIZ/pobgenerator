@@ -1,0 +1,254 @@
+{
+  "account": "4p0llyon-1185",
+  "name": "LiverIsEvil_OrangeJuice",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Pathfinder",
+  "ascendancy": "Pathfinder",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Ryslatha",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4157,
+    "energyShield": 301,
+    "mana": 1009,
+    "ward": 0,
+    "movementSpeed": 103,
+    "lifeRegen": 0,
+    "evasionRating": 1935,
+    "armour": 3195,
+    "strength": 162,
+    "dexterity": 260,
+    "intelligence": 217,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 21040,
+    "physicalMaximumHitTaken": 7541,
+    "fireMaximumHitTaken": 6698,
+    "coldMaximumHitTaken": 9581,
+    "lightningMaximumHitTaken": 10950,
+    "chaosMaximumHitTaken": 27366,
+    "fireResistance": 0,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 0,
+    "coldResistance": 31,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 0,
+    "lightningResistance": 40,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 76,
+    "chaosResistanceOverCap": 12,
+    "chaosResistanceMax": 0,
+    "blockChance": 47,
+    "spellBlockChance": 40,
+    "spellSuppressionChance": 84,
+    "spellDodgeChance": 0,
+    "itemRarity": 886,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 6698
+  },
+  "keyStones": [
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Bloodsoaked Blade",
+      "icon": "Art/2DArt/SkillIcons/passives/TinctureKeystone1.webp",
+      "stats": [
+        "Tinctures inflict Weeping Wounds instead of Mana Burn\nEffects that interact with Mana Burn interact with Weeping Wounds instead"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Blast",
+        "Greater Fork Support",
+        "Culling Strike Support",
+        "Item Rarity Support",
+        "Returning Projectiles Support",
+        "Greater Multiple Projectiles Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Animate Guardian",
+        "Meat Shield Support",
+        "Companionship Support",
+        "Pacifism Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Automation",
+        "More Duration Support",
+        "Vaal Molten Shell",
+        "Vaal Discipline"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Petrified Blood",
+        "Mark On Hit Support",
+        "Assassin's Mark",
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Lightning Strike",
+        "Greater Chain Support",
+        "Culling Strike Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostblink",
+        "Shield Charge",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Tempest Shield",
+        "Arrogance Support",
+        "Enlighten Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Blast",
+    "Greater Fork Support",
+    "Culling Strike Support",
+    "Item Rarity Support",
+    "Returning Projectiles Support",
+    "Greater Multiple Projectiles Support",
+    "Animate Guardian",
+    "Meat Shield Support",
+    "Companionship Support",
+    "Pacifism Support",
+    "Automation",
+    "More Duration Support",
+    "Vaal Molten Shell",
+    "Vaal Discipline",
+    "Petrified Blood",
+    "Mark On Hit Support",
+    "Assassin's Mark",
+    "Purity of Elements",
+    "Lightning Strike",
+    "Greater Chain Support",
+    "Culling Strike Support",
+    "Frostblink",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Tempest Shield",
+    "Arrogance Support",
+    "Enlighten Support"
+  ],
+  "items": [
+    {
+      "name": "Loath Impaler",
+      "typeLine": "Graceful Sword",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Morbid Gorget",
+      "typeLine": "Amber Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Wheel of the Stormsail",
+      "typeLine": "Rotted Round Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Piscator's Vigil",
+      "typeLine": "Kinetic Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Wondertrap",
+      "typeLine": "Velvet Slippers",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Hypnotic Visor",
+      "typeLine": "Haunted Bascinet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "",
+      "typeLine": "Synthesised Upgraded Lacquered Buckler",
+      "frameType": 1,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Greed's Embrace",
+      "typeLine": "Golden Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Andvarius",
+      "typeLine": "Gold Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Andvarius",
+      "typeLine": "Gold Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Aurseize",
+      "typeLine": "Steelscale Gauntlets",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Chimeric Whorl",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-21T09:31:36.630932Z"
+}

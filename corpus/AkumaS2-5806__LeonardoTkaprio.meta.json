@@ -1,0 +1,203 @@
+{
+  "account": "AkumaS2-5806",
+  "name": "LeonardoTkaprio",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Slayer",
+  "ascendancy": "Slayer",
+  "secondaryAscendancy": "Breachlord Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4058,
+    "energyShield": 16,
+    "mana": 719,
+    "ward": 0,
+    "movementSpeed": 294,
+    "lifeRegen": 0,
+    "evasionRating": 3375,
+    "armour": 1840,
+    "strength": 221,
+    "dexterity": 285,
+    "intelligence": 171,
+    "enduranceCharges": 7,
+    "frenzyCharges": 7,
+    "powerCharges": 3,
+    "effectiveHealthPool": 19820,
+    "physicalMaximumHitTaken": 9563,
+    "fireMaximumHitTaken": 28603,
+    "coldMaximumHitTaken": 28603,
+    "lightningMaximumHitTaken": 28603,
+    "chaosMaximumHitTaken": 5222,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 86,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 103,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 70,
+    "lightningResistanceMax": 0,
+    "chaosResistance": -10,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 9,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5222
+  },
+  "keyStones": [],
+  "masteriesCount": 8,
+  "passiveCount": 126,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Static Strike",
+        "Elemental Damage with Attacks Support",
+        "Ruthless Support",
+        "Close Combat Support",
+        "Increased Critical Damage Support",
+        "Trinity Support",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Flicker Strike",
+        "Elemental Damage with Attacks Support",
+        "Greater Multistrike Support",
+        "Increased Critical Damage Support",
+        "Trinity Support",
+        "Close Combat Support",
+        "Endurance Charge on Melee Stun Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flesh and Stone",
+        "Blood Rage",
+        "Arctic Armour",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Berserk",
+        "Lifetap Support",
+        "Leap Slam",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Assassin's Mark"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Static Strike",
+    "Elemental Damage with Attacks Support",
+    "Ruthless Support",
+    "Close Combat Support",
+    "Increased Critical Damage Support",
+    "Trinity Support",
+    "Inspiration Support",
+    "Flicker Strike",
+    "Elemental Damage with Attacks Support",
+    "Greater Multistrike Support",
+    "Increased Critical Damage Support",
+    "Trinity Support",
+    "Close Combat Support",
+    "Endurance Charge on Melee Stun Support",
+    "Flesh and Stone",
+    "Blood Rage",
+    "Arctic Armour",
+    "Precision",
+    "Berserk",
+    "Lifetap Support",
+    "Leap Slam",
+    "Faster Attacks Support",
+    "Assassin's Mark"
+  ],
+  "items": [
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Plague Vise",
+      "typeLine": "Stealth Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Rage Sever",
+      "typeLine": "Blasting Blade",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Rage Coat",
+      "typeLine": "Astral Plate",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Death Gorget",
+      "typeLine": "Agate Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Dread Dome",
+      "typeLine": "Majestic Pelt",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 5,
+  "lastCheckedUtc": "2026-06-23T01:09:39.963535Z"
+}

@@ -1,0 +1,251 @@
+{
+  "account": "CULTYST-0004",
+  "name": "CULTYST",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Occultist",
+  "ascendancy": "Occultist",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5254,
+    "energyShield": 58,
+    "mana": 912,
+    "ward": 175,
+    "movementSpeed": 262,
+    "lifeRegen": 444,
+    "evasionRating": 24,
+    "armour": 22997,
+    "strength": 320,
+    "dexterity": 178,
+    "intelligence": 233,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 290656,
+    "physicalMaximumHitTaken": 10114,
+    "fireMaximumHitTaken": 30877,
+    "coldMaximumHitTaken": 30190,
+    "lightningMaximumHitTaken": 30190,
+    "chaosMaximumHitTaken": 39919,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 45,
+    "fireResistanceMax": 76,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 29,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 29,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 84,
+    "chaosResistanceOverCap": 5,
+    "chaosResistanceMax": 84,
+    "blockChance": 89,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 13,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 894,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 451,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 10114
+  },
+  "keyStones": [
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    },
+    {
+      "name": "Divine Flesh",
+      "icon": "Art/2DArt/SkillIcons/passives/DivineFlesh.webp",
+      "stats": [
+        "All Damage taken bypasses Energy Shield",
+        "50% of Elemental Damage taken as Chaos Damage",
+        "+5% to maximum Chaos Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 2,
+  "passiveCount": 113,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Death Aura",
+        "Efficacy Support",
+        "Concentrated Effect Support",
+        "Swift Affliction Support",
+        "Void Manipulation Support",
+        "Lifetap Support",
+        "Less Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Storm Burst",
+        "Void Manipulation Support",
+        "Swift Affliction Support",
+        "Efficacy Support",
+        "Damage on Full Life Support",
+        "Decay Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Despair",
+        "Enfeeble",
+        "Eldritch Blasphemy Support",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Withering Step",
+        "Phase Run",
+        "Automation",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Automation",
+        "Steelskin",
+        "Portal"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Malevolence",
+        "Enlighten Support",
+        "Herald of Ash"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Death Aura",
+    "Efficacy Support",
+    "Concentrated Effect Support",
+    "Swift Affliction Support",
+    "Void Manipulation Support",
+    "Lifetap Support",
+    "Less Duration Support",
+    "Storm Burst",
+    "Void Manipulation Support",
+    "Swift Affliction Support",
+    "Efficacy Support",
+    "Damage on Full Life Support",
+    "Decay Support",
+    "Despair",
+    "Enfeeble",
+    "Eldritch Blasphemy Support",
+    "Tempest Shield",
+    "Withering Step",
+    "Phase Run",
+    "Automation",
+    "Lifetap Support",
+    "Automation",
+    "Steelskin",
+    "Portal",
+    "Malevolence",
+    "Enlighten Support",
+    "Herald of Ash"
+  ],
+  "items": [
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 10,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Foulborn Death's Oath",
+      "typeLine": "Astral Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Forbidden Shako",
+      "typeLine": "Great Crown",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Rage Clutches",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Impresence",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "The Sundered Will",
+      "typeLine": "Fugitive Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "The Burden of Shadows",
+      "typeLine": "Primordial Staff",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Blight Razor",
+      "typeLine": "Sai",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Behemoth Road",
+      "typeLine": "Leviathan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Hate Shine",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    }
+  ],
+  "jewelsCount": 17,
+  "lastCheckedUtc": "2026-06-19T17:36:44.521358Z"
+}

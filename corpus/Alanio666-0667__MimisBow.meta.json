@@ -1,0 +1,245 @@
+{
+  "account": "Alanio666-0667",
+  "name": "MimisBow",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Deadeye",
+  "ascendancy": "Deadeye",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 3685,
+    "energyShield": 1784,
+    "mana": 906,
+    "ward": 0,
+    "movementSpeed": 213,
+    "lifeRegen": 0,
+    "evasionRating": 7823,
+    "armour": 0,
+    "strength": 176,
+    "dexterity": 173,
+    "intelligence": 194,
+    "enduranceCharges": 3,
+    "frenzyCharges": 4,
+    "powerCharges": 4,
+    "effectiveHealthPool": 34477,
+    "physicalMaximumHitTaken": 9480,
+    "fireMaximumHitTaken": 44800,
+    "coldMaximumHitTaken": 36800,
+    "lightningMaximumHitTaken": 36800,
+    "chaosMaximumHitTaken": 19318,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 41,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 24,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 6,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 64,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 28,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 317,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 9480
+  },
+  "keyStones": [
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 106,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Blast",
+        "Vicious Projectiles Support",
+        "Greater Fork Support",
+        "Unholy Trinity Support",
+        "Item Rarity Support",
+        "Volatility Support",
+        "Increased Critical Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Sniper's Mark",
+        "Mark On Hit Support",
+        "Enhance Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vaal Haste",
+        "Enlighten Support",
+        "Herald of Ash"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Arctic Armour"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Sigil of Power",
+        "Automation",
+        "Steelskin"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Tornado",
+        "Spellslinger"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostblink"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Blast",
+    "Vicious Projectiles Support",
+    "Greater Fork Support",
+    "Unholy Trinity Support",
+    "Item Rarity Support",
+    "Volatility Support",
+    "Increased Critical Damage Support",
+    "Sniper's Mark",
+    "Mark On Hit Support",
+    "Enhance Support",
+    "Lifetap Support",
+    "Vaal Haste",
+    "Enlighten Support",
+    "Herald of Ash",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Arctic Armour",
+    "Sigil of Power",
+    "Automation",
+    "Steelskin",
+    "Tornado",
+    "Spellslinger",
+    "Frostblink"
+  ],
+  "items": [
+    {
+      "name": "Foulborn Esh's Mirror",
+      "typeLine": "Vaal Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "",
+      "typeLine": "Crude Bow",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Horror Remnant",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Glyph Beads",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Dire Salvation",
+      "typeLine": "Torturer's Mask",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Nimis",
+      "typeLine": "Topaz Ring",
+      "frameType": 10,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Rage Gyre",
+      "typeLine": "Synthesised Synaptic Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Corruption Charm",
+      "typeLine": "Synthesised Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Death Mitts",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Morbid Sole",
+      "typeLine": "Phantom Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Spirit Shell",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-25T02:11:28.463721Z"
+}

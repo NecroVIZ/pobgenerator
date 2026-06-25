@@ -1,0 +1,251 @@
+{
+  "account": "AM00sing-6208",
+  "name": "RompsTinyWeen",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Berserker",
+  "ascendancy": "Berserker",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 15494,
+    "energyShield": 272,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 132,
+    "lifeRegen": -207,
+    "evasionRating": 696,
+    "armour": 4089,
+    "strength": 805,
+    "dexterity": 229,
+    "intelligence": 455,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 50219,
+    "physicalMaximumHitTaken": 19689,
+    "fireMaximumHitTaken": 70015,
+    "coldMaximumHitTaken": 67515,
+    "lightningMaximumHitTaken": 70063,
+    "chaosMaximumHitTaken": 74380,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 54,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 28,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 13,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 1,
+    "chaosResistanceMax": 0,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 19689
+  },
+  "keyStones": [
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    },
+    {
+      "name": "Iron Grip",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronGrip.webp",
+      "stats": [
+        "Strength's Damage bonus applies to Projectile Attack Damage as well as Melee Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 109,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Molten Strike of the Zenith",
+        "Slower Projectiles Support",
+        "Greater Multistrike Support",
+        "Greater Ancestral Call Support",
+        "Fortify Support",
+        "Invert the Rules Support",
+        "Bloodthirst Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Animate Guardian of Smiting",
+        "Excommunicate Support",
+        "Companionship Support",
+        "Empower Support",
+        "Stun Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Poacher's Mark",
+        "Mark On Hit Support",
+        "Frostblink of Wintry Blast",
+        "Fire Penetration Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Petrified Blood",
+        "Eternal Blessing Support",
+        "Enlighten Support",
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Corrupting Fever",
+        "Automation",
+        "Transfusion Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Molten Burst"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Molten Strike of the Zenith",
+    "Slower Projectiles Support",
+    "Greater Multistrike Support",
+    "Greater Ancestral Call Support",
+    "Fortify Support",
+    "Invert the Rules Support",
+    "Bloodthirst Support",
+    "Animate Guardian of Smiting",
+    "Excommunicate Support",
+    "Companionship Support",
+    "Empower Support",
+    "Stun Support",
+    "Poacher's Mark",
+    "Mark On Hit Support",
+    "Frostblink of Wintry Blast",
+    "Fire Penetration Support",
+    "Petrified Blood",
+    "Eternal Blessing Support",
+    "Enlighten Support",
+    "Purity of Elements",
+    "Corrupting Fever",
+    "Automation",
+    "Transfusion Support",
+    "Molten Burst"
+  ],
+  "items": [
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Sol Sole",
+      "typeLine": "Titan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Abhorrent Interrogation",
+      "typeLine": "Ambush Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Nimis",
+      "typeLine": "Topaz Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Blunderbore",
+      "typeLine": "Astral Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Havoc Finger",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Defiance of Destiny",
+      "typeLine": "Paua Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Ngamahu's Flame",
+      "typeLine": "Abyssal Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Voidforge",
+      "typeLine": "Infernal Sword",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-23T01:10:20.283639Z"
+}

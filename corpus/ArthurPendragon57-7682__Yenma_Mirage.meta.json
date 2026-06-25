@@ -1,0 +1,275 @@
+{
+  "account": "ArthurPendragon57-7682",
+  "name": "Yenma_Mirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Chieftain",
+  "ascendancy": "Chieftain",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 12976,
+    "energyShield": 0,
+    "mana": 672,
+    "ward": 143,
+    "movementSpeed": 199,
+    "lifeRegen": 7139,
+    "evasionRating": 2940,
+    "armour": 43713,
+    "strength": 117,
+    "dexterity": 49,
+    "intelligence": 14,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 2304333,
+    "physicalMaximumHitTaken": 33945,
+    "fireMaximumHitTaken": 197351,
+    "coldMaximumHitTaken": 197351,
+    "lightningMaximumHitTaken": 197351,
+    "chaosMaximumHitTaken": 84889,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 343,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 134,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 115,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 22,
+    "chaosResistanceMax": 75,
+    "blockChance": 90,
+    "spellBlockChance": 90,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 445,
+    "manaReserved": 635,
+    "evadeChance": 21,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 43713,
+        "base": 17,
+        "takenDamage": 2256
+      },
+      "fire": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2256
+      },
+      "cold": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2256
+      },
+      "lightning": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2256
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 33945
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Righteous Fire",
+        "Efficacy Support",
+        "Elemental Focus Support",
+        "Swift Affliction Support",
+        "Increased Area of Effect Support",
+        "Burning Damage Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Malevolence",
+        "Enlighten Support",
+        "Tempest Shield",
+        "Determination",
+        "Aspect of the Spider"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vitality",
+        "Frostblink",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Enduring Cry",
+        "Urgent Orders Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Vaal Molten Shell",
+        "Wave of Conviction",
+        "Punishment",
+        "Hextouch Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Call the Pyre"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Tempest Shield",
+        "Tempest Shield"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Righteous Fire",
+    "Efficacy Support",
+    "Elemental Focus Support",
+    "Swift Affliction Support",
+    "Increased Area of Effect Support",
+    "Burning Damage Support",
+    "Lifetap Support",
+    "Malevolence",
+    "Enlighten Support",
+    "Tempest Shield",
+    "Determination",
+    "Aspect of the Spider",
+    "Vitality",
+    "Frostblink",
+    "Arrogance Support",
+    "Enduring Cry",
+    "Urgent Orders Support",
+    "Vaal Molten Shell",
+    "Wave of Conviction",
+    "Punishment",
+    "Hextouch Support",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Call the Pyre",
+    "Tempest Shield",
+    "Tempest Shield"
+  ],
+  "items": [
+    {
+      "name": "Havoc Whorl",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 10,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Rift Hand",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Silverbranch",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Blight Clasp",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Brood Urge",
+      "typeLine": "Leviathan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foe Halo",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Kaom's Heart",
+      "typeLine": "Glorious Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-22T16:02:33.187782Z"
+}

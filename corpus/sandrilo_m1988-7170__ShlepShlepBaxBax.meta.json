@@ -1,0 +1,221 @@
+{
+  "account": "sandrilo_m1988-7170",
+  "name": "ShlepShlepBaxBax",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Delirious Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 3530,
+    "energyShield": 969,
+    "mana": 1042,
+    "ward": 0,
+    "movementSpeed": 177,
+    "lifeRegen": 331,
+    "evasionRating": 19944,
+    "armour": 233,
+    "strength": 151,
+    "dexterity": 211,
+    "intelligence": 211,
+    "enduranceCharges": 3,
+    "frenzyCharges": 5,
+    "powerCharges": 5,
+    "effectiveHealthPool": 23890,
+    "physicalMaximumHitTaken": 5814,
+    "fireMaximumHitTaken": 21475,
+    "coldMaximumHitTaken": 21475,
+    "lightningMaximumHitTaken": 21475,
+    "chaosMaximumHitTaken": 16992,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 34,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 38,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 32,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 74,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 62,
+    "manaReserved": 641,
+    "evadeChance": 70,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 4,
+        "max": 90,
+        "effectiveAppliedArmour": 233,
+        "base": 2,
+        "takenDamage": 2262
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5814
+  },
+  "keyStones": [],
+  "masteriesCount": 10,
+  "passiveCount": 116,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Exsanguinate",
+        "Greater Chain Support",
+        "Charged Mines Support",
+        "High-Impact Mine Support",
+        "Minefield Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Steelskin",
+        "Detonate Mines",
+        "Automation",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Zealotry",
+        "Guardian's Blessing Support",
+        "Raise Spectre"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Summon Skitterbots",
+        "Unbound Ailments Support",
+        "Bonechill Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Hatred"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Exsanguinate",
+    "Greater Chain Support",
+    "Charged Mines Support",
+    "High-Impact Mine Support",
+    "Minefield Support",
+    "Steelskin",
+    "Detonate Mines",
+    "Automation",
+    "Lifetap Support",
+    "Zealotry",
+    "Guardian's Blessing Support",
+    "Raise Spectre",
+    "Summon Skitterbots",
+    "Unbound Ailments Support",
+    "Bonechill Support",
+    "Hatred"
+  ],
+  "items": [
+    {
+      "name": "Entropy Goad",
+      "typeLine": "Harpyskin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Brimstone Knuckle",
+      "typeLine": "Chimerascale Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Vengeance Bauble",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Arkhon's Tools",
+      "typeLine": "Cloth Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Sol Salvation",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Damnation Breaker",
+      "typeLine": "Opal Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Honour Wind",
+      "typeLine": "Decimation Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Eagle Roar",
+      "typeLine": "Opal Sceptre",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Heatshiver",
+      "typeLine": "Leather Hood",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-21T21:48:30.465733Z"
+}

@@ -1,0 +1,252 @@
+{
+  "account": "BlindSythe-5919",
+  "name": "СУПЕР_ПЕДИК_ТИМОФЕЙ",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Occultist",
+  "ascendancy": "Occultist",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 8723,
+    "mana": 1053,
+    "ward": 0,
+    "movementSpeed": 213,
+    "lifeRegen": 0,
+    "evasionRating": 960,
+    "armour": 2700,
+    "strength": 13,
+    "dexterity": 13,
+    "intelligence": 47,
+    "enduranceCharges": 3,
+    "frenzyCharges": 13,
+    "powerCharges": 13,
+    "effectiveHealthPool": 72768,
+    "physicalMaximumHitTaken": 12600,
+    "fireMaximumHitTaken": 40255,
+    "coldMaximumHitTaken": 40255,
+    "lightningMaximumHitTaken": 41746,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 37,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 50,
+    "coldResistanceMax": 75,
+    "lightningResistance": 76,
+    "lightningResistanceOverCap": 56,
+    "lightningResistanceMax": 76,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 39,
+    "spellBlockChance": 75,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 100,
+    "lifeReserved": 0,
+    "manaReserved": 969,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 12600
+  },
+  "keyStones": [
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 112,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Winter Orb",
+        "Inspiration Support",
+        "Hypothermia Support",
+        "Arcane Surge Support",
+        "Greater Multiple Projectiles Support",
+        "Infused Channelling Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Flesh and Stone",
+        "Steelskin",
+        "Automation",
+        "Clarity"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Herald of Ice",
+        "Discipline",
+        "Zealotry",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Spell Echo Support",
+        "Faster Casting Support",
+        "Arcane Surge Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Arcanist Brand",
+        "Assassin's Mark",
+        "Frostbite"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Cold Snap",
+        "Unbound Ailments Support",
+        "Bonechill Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Winter Orb",
+    "Inspiration Support",
+    "Hypothermia Support",
+    "Arcane Surge Support",
+    "Greater Multiple Projectiles Support",
+    "Infused Channelling Support",
+    "Power Charge On Critical Support",
+    "Flesh and Stone",
+    "Steelskin",
+    "Automation",
+    "Clarity",
+    "Herald of Ice",
+    "Discipline",
+    "Zealotry",
+    "Enlighten Support",
+    "Frostblink of Wintry Blast",
+    "Spell Echo Support",
+    "Faster Casting Support",
+    "Arcane Surge Support",
+    "Arcanist Brand",
+    "Assassin's Mark",
+    "Frostbite",
+    "Cold Snap",
+    "Unbound Ailments Support",
+    "Bonechill Support"
+  ],
+  "items": [
+    {
+      "name": "Empyrean Coil",
+      "typeLine": "Synthesised Coral Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Beast Nock",
+      "typeLine": "Citadel Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Replica Voideye",
+      "typeLine": "Unset Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 10,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Badge of the Brotherhood",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Gloom Pelt",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Mind Touch",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Graven's Secret",
+      "typeLine": "Cloth Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Malachai's Loop",
+      "typeLine": "Harmonic Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn Tulfall",
+      "typeLine": "Opal Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Willclash",
+      "typeLine": "Golden Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 13,
+  "lastCheckedUtc": "2026-06-23T16:28:23.543428Z"
+}

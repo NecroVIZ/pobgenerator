@@ -1,0 +1,270 @@
+{
+  "account": "Bristen_-6605",
+  "name": "Brist_",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Guardian",
+  "ascendancy": "Guardian",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 6526,
+    "mana": 897,
+    "ward": 0,
+    "movementSpeed": 168,
+    "lifeRegen": 0,
+    "evasionRating": 21,
+    "armour": 60513,
+    "strength": 166,
+    "dexterity": 158,
+    "intelligence": 293,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 277630,
+    "physicalMaximumHitTaken": 19470,
+    "fireMaximumHitTaken": 55502,
+    "coldMaximumHitTaken": 55502,
+    "lightningMaximumHitTaken": 55502,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 89,
+    "fireResistanceOverCap": 77,
+    "fireResistanceMax": 89,
+    "coldResistance": 89,
+    "coldResistanceOverCap": 141,
+    "coldResistanceMax": 89,
+    "lightningResistance": 89,
+    "lightningResistanceOverCap": 76,
+    "lightningResistanceMax": 89,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 78,
+    "spellBlockChance": 75,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 825,
+    "lifeReserved": 0,
+    "manaReserved": 860,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 82,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 18
+    },
+    "lowestMaximumHitTaken": 19470
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Second Sight",
+      "icon": "Art/2DArt/SkillIcons/passives/TheBlindMonk.webp",
+      "stats": [
+        "You are Blind",
+        "Blind does not affect your Light Radius",
+        "25% more Melee Critical Strike Chance while Blinded"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 103,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Dominating Blow of Inspiring",
+        "Greater Multistrike Support",
+        "Elemental Damage with Attacks Support",
+        "Inspiration Support",
+        "Volatility Support",
+        "Damage on Full Life Support",
+        "Ruthless Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Raise Spectre",
+        "Feeding Frenzy Support",
+        "Minion Life Support",
+        "Animate Guardian",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flesh and Stone",
+        "Leap Slam",
+        "Cold Penetration Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "General's Cry",
+        "Autoexertion"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Tempest Shield",
+        "Purity of Ice",
+        "Enlighten Support",
+        "Determination"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Assassin's Mark",
+        "Inspiration Support",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Automation",
+        "Molten Shell",
+        "Convocation"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Dominating Blow of Inspiring",
+    "Greater Multistrike Support",
+    "Elemental Damage with Attacks Support",
+    "Inspiration Support",
+    "Volatility Support",
+    "Damage on Full Life Support",
+    "Ruthless Support",
+    "Raise Spectre",
+    "Feeding Frenzy Support",
+    "Minion Life Support",
+    "Animate Guardian",
+    "Meat Shield Support",
+    "Flesh and Stone",
+    "Leap Slam",
+    "Cold Penetration Support",
+    "General's Cry",
+    "Autoexertion",
+    "Tempest Shield",
+    "Purity of Ice",
+    "Enlighten Support",
+    "Determination",
+    "Assassin's Mark",
+    "Inspiration Support",
+    "Mark On Hit Support",
+    "Automation",
+    "Molten Shell",
+    "Convocation"
+  ],
+  "items": [
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Skull Stinger",
+      "typeLine": "Elegant Foil",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Loath Claw",
+      "typeLine": "Paladin Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Oblivion Shelter",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Bonemeld",
+      "typeLine": "Marble Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Aegis Aurora",
+      "typeLine": "Champion Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Demon Shelter",
+      "typeLine": "Divine Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Rage Nail",
+      "typeLine": "Bone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "",
+      "typeLine": "Upgraded Crude Bow",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Rune March",
+      "typeLine": "Paladin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-25T02:12:41.367306Z"
+}

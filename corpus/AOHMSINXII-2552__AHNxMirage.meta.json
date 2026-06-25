@@ -1,0 +1,288 @@
+{
+  "account": "AOHMSINXII-2552",
+  "name": "AHNxMirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Inquisitor",
+  "ascendancy": "Inquisitor",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 12417,
+    "energyShield": 6457,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 294,
+    "lifeRegen": 6340,
+    "evasionRating": 1338,
+    "armour": 3553,
+    "strength": 771,
+    "dexterity": 156,
+    "intelligence": 271,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 75328,
+    "physicalMaximumHitTaken": 20614,
+    "fireMaximumHitTaken": 130389,
+    "coldMaximumHitTaken": 75224,
+    "lightningMaximumHitTaken": 75224,
+    "chaosMaximumHitTaken": 41828,
+    "fireResistance": 88,
+    "fireResistanceOverCap": 142,
+    "fireResistanceMax": 88,
+    "coldResistance": 77,
+    "coldResistanceOverCap": 90,
+    "coldResistanceMax": 77,
+    "lightningResistance": 77,
+    "lightningResistanceOverCap": 41,
+    "lightningResistanceMax": 77,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 12,
+    "chaosResistanceMax": 75,
+    "blockChance": 25,
+    "spellBlockChance": 15,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 6340,
+    "lifeReserved": 6099,
+    "manaReserved": 0,
+    "evadeChance": 3,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 94,
+      "lightning": 0,
+      "fire": 6,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 20614
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 132,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Shock Nova of Procession",
+        "Arcane Surge Support",
+        "Increased Critical Damage Support",
+        "Greater Spell Echo Support",
+        "Faster Casting Support",
+        "Spellblade Support",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Raise Spectre",
+        "Minion Life Support",
+        "Meat Shield Support",
+        "Animate Guardian"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Petrified Blood",
+        "Flesh and Stone",
+        "Enlighten Support",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Faster Casting Support",
+        "Spell Echo Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Purity of Elements",
+        "Purity of Elements",
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Purity of Elements",
+        "Purity of Elements",
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Automation",
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Energy Blade"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Haste",
+        "Eternal Blessing Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Shock Nova of Procession",
+    "Arcane Surge Support",
+    "Increased Critical Damage Support",
+    "Greater Spell Echo Support",
+    "Faster Casting Support",
+    "Spellblade Support",
+    "Increased Critical Strikes Support",
+    "Raise Spectre",
+    "Minion Life Support",
+    "Meat Shield Support",
+    "Animate Guardian",
+    "Petrified Blood",
+    "Flesh and Stone",
+    "Enlighten Support",
+    "Precision",
+    "Frostblink of Wintry Blast",
+    "Faster Casting Support",
+    "Spell Echo Support",
+    "Vitality",
+    "Purity of Elements",
+    "Purity of Elements",
+    "Purity of Elements",
+    "Purity of Elements",
+    "Purity of Elements",
+    "Purity of Elements",
+    "Automation",
+    "Convocation",
+    "Energy Blade",
+    "Haste",
+    "Eternal Blessing Support"
+  ],
+  "items": [
+    {
+      "name": "Rathpith Globe",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Behemoth Crest",
+      "typeLine": "Knight Helm",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Chimeric Noose",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Foulborn Ghostwrithe",
+      "typeLine": "Silken Vest",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Dragon Slippers",
+      "typeLine": "Leviathan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Brimstone Grasp",
+      "typeLine": "Precursor Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "",
+      "typeLine": "Crystal Wand",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Kraken Bauble",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "",
+      "typeLine": "Energy Blade",
+      "frameType": 0,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "",
+      "typeLine": "Calling Wand",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Spirit Eye",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Mind Coil",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-22T09:56:03.23869Z"
+}

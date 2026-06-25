@@ -1,0 +1,246 @@
+{
+  "account": "RangerDanger-0646",
+  "name": "GameSharkUser",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2974,
+    "energyShield": 4936,
+    "mana": 766,
+    "ward": 0,
+    "movementSpeed": 157,
+    "lifeRegen": 794,
+    "evasionRating": 7257,
+    "armour": 26798,
+    "strength": 100,
+    "dexterity": 155,
+    "intelligence": 62,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 187762,
+    "physicalMaximumHitTaken": 14033,
+    "fireMaximumHitTaken": 36218,
+    "coldMaximumHitTaken": 36218,
+    "lightningMaximumHitTaken": 37667,
+    "chaosMaximumHitTaken": 11896,
+    "fireResistance": 77,
+    "fireResistanceOverCap": 58,
+    "fireResistanceMax": 77,
+    "coldResistance": 77,
+    "coldResistanceOverCap": 86,
+    "coldResistanceMax": 77,
+    "lightningResistance": 78,
+    "lightningResistanceOverCap": 56,
+    "lightningResistanceMax": 78,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 11,
+    "chaosResistanceMax": 75,
+    "blockChance": 69,
+    "spellBlockChance": 78,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 120,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 736,
+    "evadeChance": 46,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 11896
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 100,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Corrupting Fever",
+        "Brutality Support",
+        "Awakened Empower Support",
+        "Vaal Reap",
+        "Swift Affliction Support",
+        "Eclipse Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Faster Casting Support",
+        "Bladefall of Trarthus",
+        "Spell Echo Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Purity",
+        "Herald of Thunder",
+        "Tempest Shield",
+        "Herald of Ash"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Summon Chaos Golem",
+        "Summon Flame Golem",
+        "Awakened Enhance Support",
+        "Summon Stone Golem of Safeguarding"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Summon Carrion Golem of Hordes",
+        "Congregation Support",
+        "Summon Lightning Golem"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Pride",
+        "Summon Stone Golem",
+        "Eclipse Support"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Corrupting Fever",
+    "Brutality Support",
+    "Awakened Empower Support",
+    "Vaal Reap",
+    "Swift Affliction Support",
+    "Eclipse Support",
+    "Frostblink of Wintry Blast",
+    "Faster Casting Support",
+    "Bladefall of Trarthus",
+    "Spell Echo Support",
+    "Lifetap Support",
+    "Herald of Purity",
+    "Herald of Thunder",
+    "Tempest Shield",
+    "Herald of Ash",
+    "Summon Chaos Golem",
+    "Summon Flame Golem",
+    "Awakened Enhance Support",
+    "Summon Stone Golem of Safeguarding",
+    "Summon Carrion Golem of Hordes",
+    "Congregation Support",
+    "Summon Lightning Golem",
+    "Pride",
+    "Summon Stone Golem",
+    "Eclipse Support",
+    "Herald of the Hive"
+  ],
+  "items": [
+    {
+      "name": "The Dark Monarch",
+      "typeLine": "Lich's Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Demon Guard",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "",
+      "typeLine": "Smouldering Estoc",
+      "frameType": 1,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "Icy Burnished Foil",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Ghoul Torc",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Corpse Barb",
+      "typeLine": "Profane Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Chimeric Veil",
+      "typeLine": "Sacred Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Glyph Spur",
+      "typeLine": "Paladin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Berek's Respite",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Skull Claw",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-21T21:46:41.142087Z"
+}

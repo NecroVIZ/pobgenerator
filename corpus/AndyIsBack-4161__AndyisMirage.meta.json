@@ -1,0 +1,250 @@
+{
+  "account": "AndyIsBack-4161",
+  "name": "AndyisMirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Gladiator",
+  "ascendancy": "Gladiator",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4791,
+    "energyShield": 119,
+    "mana": 765,
+    "ward": 0,
+    "movementSpeed": 246,
+    "lifeRegen": 656,
+    "evasionRating": 0,
+    "armour": 16047,
+    "strength": 176,
+    "dexterity": 169,
+    "intelligence": 176,
+    "enduranceCharges": 3,
+    "frenzyCharges": 5,
+    "powerCharges": 3,
+    "effectiveHealthPool": 834058,
+    "physicalMaximumHitTaken": 9715,
+    "fireMaximumHitTaken": 24909,
+    "coldMaximumHitTaken": 24909,
+    "lightningMaximumHitTaken": 24909,
+    "chaosMaximumHitTaken": 23955,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 16,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 8,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 12,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 9,
+    "chaosResistanceMax": 0,
+    "blockChance": 97,
+    "spellBlockChance": 95,
+    "spellSuppressionChance": 47,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 9715
+  },
+  "keyStones": [
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    },
+    {
+      "name": "Iron Reflexes",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
+      "stats": [
+        "Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating"
+      ]
+    },
+    {
+      "name": "Dance with Death",
+      "icon": "Art/2DArt/SkillIcons/passives/SharpandBrittle.webp",
+      "stats": [
+        "Can't use Helmets",
+        "Your Critical Strike Chance is Lucky",
+        "Your Damage with Critical Strikes is Lucky",
+        "Enemies' Damage with Critical Strikes against you is Lucky"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 118,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Automation",
+        "Assassin's Mark",
+        "Blood Rage",
+        "Convocation",
+        "Molten Shell",
+        "Mark On Hit Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Reave of Refraction",
+        "Volatility Support",
+        "Pulverise Support",
+        "Greater Multistrike Support",
+        "Added Lightning Damage Support",
+        "Fortify Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Raise Spectre",
+        "Elemental Army Support",
+        "Minion Life Support",
+        "Animate Guardian",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Shield Charge",
+        "Blood and Sand",
+        "Faster Attacks Support",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flesh and Stone",
+        "Wrath",
+        "Precision"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Automation",
+    "Assassin's Mark",
+    "Blood Rage",
+    "Convocation",
+    "Molten Shell",
+    "Mark On Hit Support",
+    "Lifetap Support",
+    "Reave of Refraction",
+    "Volatility Support",
+    "Pulverise Support",
+    "Greater Multistrike Support",
+    "Added Lightning Damage Support",
+    "Fortify Support",
+    "Raise Spectre",
+    "Elemental Army Support",
+    "Minion Life Support",
+    "Animate Guardian",
+    "Meat Shield Support",
+    "Shield Charge",
+    "Blood and Sand",
+    "Faster Attacks Support",
+    "Momentum Support",
+    "Flesh and Stone",
+    "Wrath",
+    "Precision"
+  ],
+  "items": [
+    {
+      "name": "Azadi Crest",
+      "typeLine": "Lacquered Buckler",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Foulborn Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Thunderfist",
+      "typeLine": "Murder Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Marylene's Fallacy",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Paradoxica",
+      "typeLine": "Vaal Rapier",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Gloom Relic",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Onslaught Band",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Replica Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Rapture League",
+      "typeLine": "Precursor Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Foulborn Gruthkul's Pelt",
+      "typeLine": "Wyrmscale Doublet",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Pain Band",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-24T07:48:24.306442Z"
+}

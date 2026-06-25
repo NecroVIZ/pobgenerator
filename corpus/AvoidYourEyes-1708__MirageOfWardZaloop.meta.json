@@ -1,0 +1,308 @@
+{
+  "account": "AvoidYourEyes-1708",
+  "name": "MirageOfWardZaloop",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Olroth Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 1912,
+    "energyShield": 0,
+    "mana": 968,
+    "ward": 37898,
+    "movementSpeed": 189,
+    "lifeRegen": 80,
+    "evasionRating": 2766,
+    "armour": 2267,
+    "strength": 176,
+    "dexterity": 176,
+    "intelligence": 156,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 4,
+    "effectiveHealthPool": 36483,
+    "physicalMaximumHitTaken": 58940,
+    "fireMaximumHitTaken": 161567,
+    "coldMaximumHitTaken": 161567,
+    "lightningMaximumHitTaken": 161567,
+    "chaosMaximumHitTaken": 159240,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 34,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 42,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 32,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 7,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 27,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 726,
+    "evadeChance": 89,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 75796,
+        "base": 12,
+        "takenDamage": 2259
+      },
+      "fire": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2259
+      },
+      "cold": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2259
+      },
+      "lightning": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2259
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 58940
+  },
+  "keyStones": [
+    {
+      "name": "Lethe Shade",
+      "icon": "Art/2DArt/SkillIcons/passives/MomentofRespite.webp",
+      "stats": [
+        "Take 50% less Damage over Time if you've started taking Damage over Time in the past second\n100% more Duration of Ailments on you"
+      ]
+    },
+    {
+      "name": "Black Scythe Training",
+      "icon": "Art/2DArt/SkillIcons/passives/KalguuranDexKeystone.webp",
+      "stats": [
+        "Removes all Energy Shield",
+        "Chance to Evade Hits is based off of 200% of your Ward instead of your Evasion Rating",
+        "Physical Damage Reduction from Hits is based off of 200% of your Ward instead of your Armour"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 100,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Exsanguinate",
+        "Increased Critical Damage Support",
+        "Cast on Ward Break Support",
+        "Greater Chain Support",
+        "Hypothermia Support",
+        "Empower Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Summon Stone Golem",
+        "Immortal Call",
+        "Phase Run",
+        "Cast on Ward Break Support",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Summon Skeletons",
+        "Less Duration Support",
+        "Convocation",
+        "Cast on Ward Break Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Hatred",
+        "Herald of Ash"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink",
+        "Elemental Weakness"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Ice Spear of Splitting",
+        "Cast on Ward Break Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Herald of Ice",
+        "Elemental Focus Support",
+        "Herald of Ice"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Herald of Ice",
+        "Elemental Focus Support",
+        "Herald of Ice"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Whirling Blades",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Righteous Fire"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Exsanguinate",
+    "Increased Critical Damage Support",
+    "Cast on Ward Break Support",
+    "Greater Chain Support",
+    "Hypothermia Support",
+    "Empower Support",
+    "Summon Stone Golem",
+    "Immortal Call",
+    "Phase Run",
+    "Cast on Ward Break Support",
+    "Inspiration Support",
+    "Summon Skeletons",
+    "Less Duration Support",
+    "Convocation",
+    "Cast on Ward Break Support",
+    "Hatred",
+    "Herald of Ash",
+    "Frostblink",
+    "Elemental Weakness",
+    "Ice Spear of Splitting",
+    "Cast on Ward Break Support",
+    "Power Charge On Critical Support",
+    "Herald of Ice",
+    "Elemental Focus Support",
+    "Herald of Ice",
+    "Herald of Ice",
+    "Elemental Focus Support",
+    "Herald of Ice",
+    "Whirling Blades",
+    "Faster Attacks Support",
+    "Righteous Fire"
+  ],
+  "items": [
+    {
+      "name": "Divinarius",
+      "typeLine": "Imperial Skean",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Ynda's Stand",
+      "typeLine": "Studded Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Pain Grasp",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Empyrean Pendant",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Gloom Scratch",
+      "typeLine": "Thorn Rapier",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "",
+      "typeLine": "Upgraded Goat's Horn of the Essence",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "",
+      "typeLine": "Upgraded Goat's Horn of the Essence",
+      "frameType": 1,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Spirit Nails",
+      "typeLine": "Runic Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Foulborn Heartbound Loop",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Faithguard",
+      "typeLine": "Runic Helm",
+      "frameType": 10,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Sol Mantle",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Gale Tread",
+      "typeLine": "Runic Sabatons",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 17,
+  "lastCheckedUtc": "2026-06-25T09:14:11.256823Z"
+}

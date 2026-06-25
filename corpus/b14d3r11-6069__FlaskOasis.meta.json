@@ -1,0 +1,216 @@
+{
+  "account": "b14d3r11-6069",
+  "name": "FlaskOasis",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Saresh Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Ryslatha",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4844,
+    "energyShield": 725,
+    "mana": 767,
+    "ward": 0,
+    "movementSpeed": 196,
+    "lifeRegen": 569,
+    "evasionRating": 9243,
+    "armour": 0,
+    "strength": 167,
+    "dexterity": 396,
+    "intelligence": 186,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 4,
+    "effectiveHealthPool": 35594,
+    "physicalMaximumHitTaken": 5924,
+    "fireMaximumHitTaken": 19889,
+    "coldMaximumHitTaken": 19889,
+    "lightningMaximumHitTaken": 19889,
+    "chaosMaximumHitTaken": 19376,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 4,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 13,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 9,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 3,
+    "chaosResistanceMax": 75,
+    "blockChance": 30,
+    "spellBlockChance": 25,
+    "spellSuppressionChance": 92,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 594,
+    "evadeChance": 52,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5924
+  },
+  "keyStones": [],
+  "masteriesCount": 4,
+  "passiveCount": 105,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Poisonous Concoction of Bouncing",
+        "Void Manipulation Support",
+        "Unbound Ailments Support",
+        "Greater Volley Support",
+        "Vicious Projectiles Support",
+        "Greater Chain Support",
+        "Chance to Poison Support",
+        "Critical Strike Affliction Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Portal",
+        "Dash",
+        "Summon Holy Relic",
+        "Blood Rage"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support",
+        "Shield Charge",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flesh and Stone",
+        "Tempest Shield",
+        "Arctic Armour",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Steelskin",
+        "Automation",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Molten Burst"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Poisonous Concoction of Bouncing",
+    "Void Manipulation Support",
+    "Unbound Ailments Support",
+    "Greater Volley Support",
+    "Vicious Projectiles Support",
+    "Greater Chain Support",
+    "Chance to Poison Support",
+    "Critical Strike Affliction Support",
+    "Portal",
+    "Dash",
+    "Summon Holy Relic",
+    "Blood Rage",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Flesh and Stone",
+    "Tempest Shield",
+    "Arctic Armour",
+    "Enlighten Support",
+    "Steelskin",
+    "Automation",
+    "Precision",
+    "Molten Burst"
+  ],
+  "items": [
+    {
+      "name": "Foulborn The Embalmer",
+      "typeLine": "Carnal Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Sorrow Harness",
+      "typeLine": "Stygian Vise",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Hate Track",
+      "typeLine": "Stealth Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foe Twirl",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Ngamahu's Flame",
+      "typeLine": "Abyssal Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Fury Valve",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Beast Salvation",
+      "typeLine": "Lion Pelt",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Leper's Alms",
+      "typeLine": "Mirrored Spiked Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Dendrobate",
+      "typeLine": "Sentinel Jacket",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Betrayal's Sting",
+      "typeLine": "Steel Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-21T03:29:17.877193Z"
+}

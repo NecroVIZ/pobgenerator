@@ -1,0 +1,265 @@
+{
+  "account": "Aragos-7557",
+  "name": "AhojJaSemCernyKocour",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Necromancer",
+  "ascendancy": "Necromancer",
+  "secondaryAscendancy": "Saresh Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 6069,
+    "energyShield": 0,
+    "mana": 728,
+    "ward": 0,
+    "movementSpeed": 140,
+    "lifeRegen": 212,
+    "evasionRating": 8610,
+    "armour": 18606,
+    "strength": 68,
+    "dexterity": 38,
+    "intelligence": 80,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 80132,
+    "physicalMaximumHitTaken": 17006,
+    "fireMaximumHitTaken": 40760,
+    "coldMaximumHitTaken": 57544,
+    "lightningMaximumHitTaken": 40760,
+    "chaosMaximumHitTaken": 33717,
+    "fireResistance": 79,
+    "fireResistanceOverCap": 18,
+    "fireResistanceMax": 79,
+    "coldResistance": 86,
+    "coldResistanceOverCap": 68,
+    "coldResistanceMax": 86,
+    "lightningResistance": 79,
+    "lightningResistanceOverCap": 74,
+    "lightningResistanceMax": 79,
+    "chaosResistance": 76,
+    "chaosResistanceOverCap": 19,
+    "chaosResistanceMax": 76,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 85,
+    "spellDodgeChance": 0,
+    "itemRarity": 37,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 370,
+    "evadeChance": 50,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 18606,
+        "base": 24,
+        "takenDamage": 1858
+      },
+      "fire": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2266
+      },
+      "cold": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2674
+      },
+      "lightning": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2266
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 82,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 18,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 17006
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 118,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Summon Stone Golem of Safeguarding",
+        "Meat Shield Support",
+        "Feeding Frenzy Support",
+        "Minion Life Support",
+        "Animate Guardian of Smiting",
+        "Life Leech Support",
+        "Elemental Army Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Mirror Arrow of Bombarding Clones",
+        "Blink Arrow of Prismatic Clones",
+        "Increased Critical Damage Support",
+        "Minion Damage Support",
+        "Volatility Support",
+        "Annihilation Support",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Purity of Elements",
+        "Awakened Enlighten Support",
+        "Vaal Haste",
+        "Flesh and Stone"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Automation",
+        "Spirit Offering",
+        "Convocation",
+        "Molten Shell"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Raise Spectre",
+        "Congregation Support",
+        "Eclipse Support",
+        "Awakened Empower Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Summon Stone Golem of Safeguarding",
+    "Meat Shield Support",
+    "Feeding Frenzy Support",
+    "Minion Life Support",
+    "Animate Guardian of Smiting",
+    "Life Leech Support",
+    "Elemental Army Support",
+    "Mirror Arrow of Bombarding Clones",
+    "Blink Arrow of Prismatic Clones",
+    "Increased Critical Damage Support",
+    "Minion Damage Support",
+    "Volatility Support",
+    "Annihilation Support",
+    "Increased Critical Strikes Support",
+    "Purity of Elements",
+    "Awakened Enlighten Support",
+    "Vaal Haste",
+    "Flesh and Stone",
+    "Automation",
+    "Spirit Offering",
+    "Convocation",
+    "Molten Shell",
+    "Raise Spectre",
+    "Congregation Support",
+    "Eclipse Support",
+    "Awakened Empower Support"
+  ],
+  "items": [
+    {
+      "name": "Woe Shelter",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Foe Glance",
+      "typeLine": "Haunted Bascinet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Eagle Whorl",
+      "typeLine": "Synthesised Bone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Oblivion Needle",
+      "typeLine": "Spike-Point Arrow Quiver",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Miracle Slippers",
+      "typeLine": "Wyvernscale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Sorrow Thirst",
+      "typeLine": "Synthesised Ivory Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Breathstealer",
+      "typeLine": "Hydrascale Gauntlets",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "The Jinxed Juju",
+      "typeLine": "Citrine Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Demon Shackle",
+      "typeLine": "Stygian Vise",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Skull Rain",
+      "typeLine": "Citadel Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-23T13:21:30.575368Z"
+}

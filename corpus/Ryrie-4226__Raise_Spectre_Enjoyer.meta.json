@@ -1,0 +1,315 @@
+{
+  "account": "Ryrie-4226",
+  "name": "Raise_Spectre_Enjoyer",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Chaos Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3024,
+    "energyShield": 1305,
+    "mana": 784,
+    "ward": 333,
+    "movementSpeed": 250,
+    "lifeRegen": 716,
+    "evasionRating": 34,
+    "armour": 1275,
+    "strength": 47,
+    "dexterity": 58,
+    "intelligence": 59,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 192670,
+    "physicalMaximumHitTaken": 5677,
+    "fireMaximumHitTaken": 31740,
+    "coldMaximumHitTaken": 33724,
+    "lightningMaximumHitTaken": 33411,
+    "chaosMaximumHitTaken": 14920,
+    "fireResistance": 86,
+    "fireResistanceOverCap": 3,
+    "fireResistanceMax": 86,
+    "coldResistance": 87,
+    "coldResistanceOverCap": 3,
+    "coldResistanceMax": 87,
+    "lightningResistance": 86,
+    "lightningResistanceOverCap": 6,
+    "lightningResistanceMax": 86,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 19,
+    "chaosResistanceMax": 75,
+    "blockChance": 89,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 770,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5677
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 2,
+  "passiveCount": 99,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Corrupting Fever",
+        "Swift Affliction Support",
+        "Empower Support",
+        "Vaal Reap",
+        "Brutality Support",
+        "Eclipse Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Eye of Winter",
+        "Eye of Winter",
+        "Eye of Winter"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Eye of Winter"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Eye of Winter"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Eye of Winter"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Summon Stone Golem",
+        "Steelskin",
+        "Automation",
+        "Bladefall of Trarthus",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Flame Golem",
+        "Spell Echo Support",
+        "Frostblink of Wintry Blast",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Ash",
+        "Herald of Purity",
+        "Herald of Thunder",
+        "Summon Lightning Golem"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Summon Stone Golem of Safeguarding",
+        "Congregation Support",
+        "Summon Carrion Golem of Hordes",
+        "Maim Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Arc of Oscillating",
+        "Summon Chaos Golem",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Pride"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Eye of Winter"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Eye of Winter"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Eye of Winter"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Corrupting Fever",
+    "Swift Affliction Support",
+    "Empower Support",
+    "Vaal Reap",
+    "Brutality Support",
+    "Eclipse Support",
+    "Eye of Winter",
+    "Eye of Winter",
+    "Eye of Winter",
+    "Eye of Winter",
+    "Eye of Winter",
+    "Eye of Winter",
+    "Summon Stone Golem",
+    "Steelskin",
+    "Automation",
+    "Bladefall of Trarthus",
+    "Lifetap Support",
+    "Summon Flame Golem",
+    "Spell Echo Support",
+    "Frostblink of Wintry Blast",
+    "Lifetap Support",
+    "Tempest Shield",
+    "Herald of Ash",
+    "Herald of Purity",
+    "Herald of Thunder",
+    "Summon Lightning Golem",
+    "Summon Stone Golem of Safeguarding",
+    "Congregation Support",
+    "Summon Carrion Golem of Hordes",
+    "Maim Support",
+    "Arc of Oscillating",
+    "Summon Chaos Golem",
+    "Lifetap Support",
+    "Pride",
+    "Eye of Winter",
+    "Eye of Winter",
+    "Eye of Winter",
+    "Herald of the Hive"
+  ],
+  "items": [
+    {
+      "name": "The Primordial Chain",
+      "typeLine": "Coral Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Foulborn Dialla's Malefaction",
+      "typeLine": "Sage's Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Null's Inclination",
+      "typeLine": "Ranger Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Foulborn Asenath's Gentle Touch",
+      "typeLine": "Silk Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Dark Monarch",
+      "typeLine": "Lich's Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Golem Whorl",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Empyrean Song",
+      "typeLine": "Profane Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Ambush Stride",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-20T03:05:18.408894Z"
+}

@@ -1,0 +1,270 @@
+{
+  "account": "Atchey-2938",
+  "name": "KiwiBott",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Ascendant",
+  "ascendancy": "Ascendant",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 9074,
+    "mana": 1925,
+    "ward": 0,
+    "movementSpeed": 176,
+    "lifeRegen": 0,
+    "evasionRating": 0,
+    "armour": 186377,
+    "strength": 187,
+    "dexterity": 281,
+    "intelligence": 417,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 50289,
+    "physicalMaximumHitTaken": 27002,
+    "fireMaximumHitTaken": 10804,
+    "coldMaximumHitTaken": 87260,
+    "lightningMaximumHitTaken": 70898,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": -2,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 75,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 43,
+    "coldResistanceMax": 90,
+    "lightningResistance": 87,
+    "lightningResistanceOverCap": 100,
+    "lightningResistanceMax": 87,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 75,
+    "spellBlockChance": 20,
+    "spellSuppressionChance": 74,
+    "spellDodgeChance": 0,
+    "itemRarity": 23,
+    "energyShieldRegen": 1473,
+    "lifeReserved": 0,
+    "manaReserved": 1670,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 10804
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Glancing Blows",
+      "icon": "Art/2DArt/SkillIcons/passives/GlancingBlows.webp",
+      "stats": [
+        "Chance to Block Attack Damage is doubled\nChance to Block Spell Damage is doubled\nYou take 65% of Damage from Blocked Hits"
+      ]
+    },
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Iron Reflexes",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
+      "stats": [
+        "Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 134,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Grace",
+        "Determination",
+        "Purity of Lightning",
+        "Discipline",
+        "Purity of Ice"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Portal",
+        "Generosity Support",
+        "Smite",
+        "Divine Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink",
+        "Flame Dash",
+        "Clarity",
+        "Frost Shield"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Shield Charge",
+        "Momentum Support",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Precision",
+        "Generosity Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Rejuvenation Totem"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vitality",
+        "Wrath"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Grace",
+    "Determination",
+    "Purity of Lightning",
+    "Discipline",
+    "Purity of Ice",
+    "Portal",
+    "Generosity Support",
+    "Smite",
+    "Divine Blessing Support",
+    "Frostblink",
+    "Flame Dash",
+    "Clarity",
+    "Frost Shield",
+    "Shield Charge",
+    "Momentum Support",
+    "Faster Attacks Support",
+    "Precision",
+    "Generosity Support",
+    "Rejuvenation Totem",
+    "Vitality",
+    "Wrath"
+  ],
+  "items": [
+    {
+      "name": "The Dark Seer",
+      "typeLine": "Shadow Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "",
+      "typeLine": "Upgraded Crude Bow",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Miracle Horn",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "March of the Legion",
+      "typeLine": "Legion Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "The Jinxed Juju",
+      "typeLine": "Citrine Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Death Knuckle",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "String of Servitude",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Vengeance Gyre",
+      "typeLine": "Synthesised Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Maelström Jack",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Aegis Aurora",
+      "typeLine": "Champion Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Corpse Grasp",
+      "typeLine": "Synthesised Sapphire Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-22T19:04:25.408619Z"
+}

@@ -1,0 +1,234 @@
+{
+  "account": "Arkadynn-3575",
+  "name": "Graveyard_Slut",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Champion",
+  "ascendancy": "Champion",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4912,
+    "energyShield": 634,
+    "mana": 907,
+    "ward": 0,
+    "movementSpeed": 192,
+    "lifeRegen": 1204,
+    "evasionRating": 3075,
+    "armour": 14660,
+    "strength": 284,
+    "dexterity": 297,
+    "intelligence": 156,
+    "enduranceCharges": 6,
+    "frenzyCharges": 6,
+    "powerCharges": 3,
+    "effectiveHealthPool": 113181,
+    "physicalMaximumHitTaken": 24543,
+    "fireMaximumHitTaken": 75349,
+    "coldMaximumHitTaken": 75349,
+    "lightningMaximumHitTaken": 75349,
+    "chaosMaximumHitTaken": 58476,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 122,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 168,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 157,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 14,
+    "chaosResistanceMax": 75,
+    "blockChance": 53,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 907,
+    "evadeChance": 22,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 24543
+  },
+  "keyStones": [
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 124,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Autoexertion",
+        "Seismic Cry",
+        "Intimidating Cry",
+        "Rallying Cry",
+        "General's Cry"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Enduring Cry"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vaal Discipline",
+        "Flame Dash",
+        "Enhance Support",
+        "Temporal Rift"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Molten Shell",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "War Banner",
+        "Dread Banner",
+        "Empower Support",
+        "Defiance Banner",
+        "Embrace Madness"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Raise Spectre",
+        "Meat Shield Support",
+        "Minion Life Support",
+        "Animate Guardian"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Petrified Blood",
+        "Bloodsoaked Banner Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frost Bomb"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Autoexertion",
+    "Seismic Cry",
+    "Intimidating Cry",
+    "Rallying Cry",
+    "General's Cry",
+    "Enduring Cry",
+    "Vaal Discipline",
+    "Flame Dash",
+    "Enhance Support",
+    "Temporal Rift",
+    "Molten Shell",
+    "Cast when Damage Taken Support",
+    "War Banner",
+    "Dread Banner",
+    "Empower Support",
+    "Defiance Banner",
+    "Embrace Madness",
+    "Raise Spectre",
+    "Meat Shield Support",
+    "Minion Life Support",
+    "Animate Guardian",
+    "Petrified Blood",
+    "Bloodsoaked Banner Support",
+    "Frost Bomb"
+  ],
+  "items": [
+    {
+      "name": "Replica Badge of the Brotherhood",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Loath Nail",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Honour Crest",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Ambu's Charge",
+      "typeLine": "Crusader Chainmail",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Fate Locket",
+      "typeLine": "Heavy Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Beacon of Madness",
+      "typeLine": "Two-Toned Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Celestial Brace",
+      "typeLine": "Goliath Gauntlets",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Death Gyre",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Uul-Netol's Kiss",
+      "typeLine": "Vaal Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Morbid Burst",
+      "typeLine": "Karui Maul",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-20T18:20:10.221353Z"
+}

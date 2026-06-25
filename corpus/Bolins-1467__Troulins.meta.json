@@ -1,0 +1,246 @@
+{
+  "account": "Bolins-1467",
+  "name": "Troulins",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Occultist",
+  "ascendancy": "Occultist",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1385,
+    "energyShield": 901,
+    "mana": 958,
+    "ward": 0,
+    "movementSpeed": 204,
+    "lifeRegen": 0,
+    "evasionRating": 843,
+    "armour": 73,
+    "strength": 162,
+    "dexterity": 161,
+    "intelligence": 214,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 10,
+    "effectiveHealthPool": 71,
+    "physicalMaximumHitTaken": 62,
+    "fireMaximumHitTaken": 263,
+    "coldMaximumHitTaken": 104,
+    "lightningMaximumHitTaken": 69,
+    "chaosMaximumHitTaken": 36,
+    "fireResistance": 84,
+    "fireResistanceOverCap": 6,
+    "fireResistanceMax": 0,
+    "coldResistance": 55,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 0,
+    "lightningResistance": 31,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 0,
+    "chaosResistance": -37,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 36
+  },
+  "keyStones": [
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Eldritch Battery",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
+      "stats": [
+        "Spend Energy Shield before Mana for Skill Mana Costs\nEnergy Shield protects Mana instead of Life\n50% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Inner Conviction",
+      "icon": "Art/2DArt/SkillIcons/passives/InnerConviction.webp",
+      "stats": [
+        "3% more Spell Damage per Power Charge",
+        "Gain Power Charges instead of Frenzy Charges"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 89,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Ice Trap",
+        "Empower Support",
+        "Charged Traps Support",
+        "Trap and Mine Damage Support",
+        "Concentrated Effect Support",
+        "Power Charge On Critical Support",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Haste",
+        "Enlighten Support",
+        "Discipline",
+        "Summon Skitterbots",
+        "Unbound Ailments Support",
+        "Bonechill Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Herald of Ice",
+        "Clarity",
+        "Arrogance Support",
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Lightning Golem",
+        "Guardian's Blessing Support",
+        "Zealotry"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Automation",
+        "Righteous Fire"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Frostbite",
+        "Arcanist Brand"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Ice Trap",
+    "Empower Support",
+    "Charged Traps Support",
+    "Trap and Mine Damage Support",
+    "Concentrated Effect Support",
+    "Power Charge On Critical Support",
+    "Increased Critical Strikes Support",
+    "Haste",
+    "Enlighten Support",
+    "Discipline",
+    "Summon Skitterbots",
+    "Unbound Ailments Support",
+    "Bonechill Support",
+    "Herald of Ice",
+    "Clarity",
+    "Arrogance Support",
+    "Vitality",
+    "Summon Lightning Golem",
+    "Guardian's Blessing Support",
+    "Zealotry",
+    "Flame Dash",
+    "Automation",
+    "Righteous Fire",
+    "Frostbite",
+    "Arcanist Brand"
+  ],
+  "items": [
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Foulborn Romira's Banquet",
+      "typeLine": "Diamond Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Foulborn Romira's Banquet",
+      "typeLine": "Diamond Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Dialla's Malefaction",
+      "typeLine": "Sage's Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Architect's Hand",
+      "typeLine": "Ambush Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Heatshiver",
+      "typeLine": "Leather Hood",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Annihilating Light",
+      "typeLine": "Quarterstaff",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Eagle Charm",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    }
+  ],
+  "jewelsCount": 18,
+  "lastCheckedUtc": "2026-06-23T13:21:38.782276Z"
+}

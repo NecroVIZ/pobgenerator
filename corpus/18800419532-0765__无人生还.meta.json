@@ -1,0 +1,245 @@
+{
+  "account": "18800419532-0765",
+  "name": "无人生还",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Chieftain",
+  "ascendancy": "Chieftain",
+  "secondaryAscendancy": "Chaos Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 7210,
+    "energyShield": 0,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 169,
+    "lifeRegen": 0,
+    "evasionRating": 1491,
+    "armour": 14137,
+    "strength": 326,
+    "dexterity": 108,
+    "intelligence": 167,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 92813,
+    "physicalMaximumHitTaken": 55492,
+    "fireMaximumHitTaken": 72132,
+    "coldMaximumHitTaken": 72138,
+    "lightningMaximumHitTaken": 72149,
+    "chaosMaximumHitTaken": 51046,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 250,
+    "fireResistanceMax": 0,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 82,
+    "coldResistanceMax": 0,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 84,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 5,
+    "chaosResistanceMax": 0,
+    "blockChance": 44,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 26,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 9,
+      "lightning": 56,
+      "fire": 35,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 51046
+  },
+  "keyStones": [
+    {
+      "name": "The Agnostic",
+      "icon": "Art/2DArt/SkillIcons/passives/MiracleMaker.webp",
+      "stats": [
+        "Removes all Energy Shield\nWhile not on Full Life, Sacrifice 20% of Mana per Second to Recover that much Life"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    }
+  ],
+  "masteriesCount": 12,
+  "passiveCount": 128,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Flame Surge of Combusting",
+        "Cruelty Support",
+        "Cast when Stunned Support",
+        "Detonate Dead of Scavenging",
+        "Unbound Ailments Support",
+        "Burning Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Cremation of the Volcano",
+        "Cast when Stunned Support",
+        "More Duration Support",
+        "Greater Multiple Projectiles Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purifying Flame of Revelations",
+        "Cast when Stunned Support",
+        "More Duration Support",
+        "Firestorm of Pelting"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flame Wall",
+        "Cast when Stunned Support",
+        "Enfeeble"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Purity of Fire",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vitality",
+        "Petrified Blood"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Flame Surge of Combusting",
+    "Cruelty Support",
+    "Cast when Stunned Support",
+    "Detonate Dead of Scavenging",
+    "Unbound Ailments Support",
+    "Burning Damage Support",
+    "Cremation of the Volcano",
+    "Cast when Stunned Support",
+    "More Duration Support",
+    "Greater Multiple Projectiles Support",
+    "Purifying Flame of Revelations",
+    "Cast when Stunned Support",
+    "More Duration Support",
+    "Firestorm of Pelting",
+    "Flame Wall",
+    "Cast when Stunned Support",
+    "Enfeeble",
+    "Purity of Fire",
+    "Eternal Blessing Support",
+    "Flame Dash",
+    "Vitality",
+    "Petrified Blood"
+  ],
+  "items": [
+    {
+      "name": "Foulborn Lightning Coil",
+      "typeLine": "Desert Brigandine",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Woe Sole",
+      "typeLine": "Wyvernscale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Beast Eye",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Xoph's Heart",
+      "typeLine": "Amber Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Horror Crown",
+      "typeLine": "Ezomyte Burgonet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Dawnbreaker",
+      "typeLine": "Colossal Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Atziri's Disfavour",
+      "typeLine": "Vaal Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Valyrium",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Carrion Paw",
+      "typeLine": "Legion Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Brimstone Strap",
+      "typeLine": "Stygian Vise",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 7,
+  "lastCheckedUtc": "2026-06-22T03:52:33.147428Z"
+}

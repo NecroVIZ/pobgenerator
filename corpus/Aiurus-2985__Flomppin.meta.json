@@ -1,0 +1,282 @@
+{
+  "account": "Aiurus-2985",
+  "name": "Flomppin",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Guardian",
+  "ascendancy": "Guardian",
+  "secondaryAscendancy": "Catarina Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 9887,
+    "mana": 571,
+    "ward": 0,
+    "movementSpeed": 169,
+    "lifeRegen": 0,
+    "evasionRating": 246,
+    "armour": 8818,
+    "strength": 142,
+    "dexterity": 163,
+    "intelligence": 248,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 105215,
+    "physicalMaximumHitTaken": 14158,
+    "fireMaximumHitTaken": 141462,
+    "coldMaximumHitTaken": 141462,
+    "lightningMaximumHitTaken": 141462,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 62,
+    "fireResistanceMax": 90,
+    "coldResistance": -9,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 77,
+    "lightningResistance": -9,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 77,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 25,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 66,
+    "spellDodgeChance": 0,
+    "itemRarity": 7,
+    "energyShieldRegen": 1563,
+    "lifeReserved": 0,
+    "manaReserved": 365,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 59,
+        "max": 90,
+        "effectiveAppliedArmour": 8818,
+        "base": 14,
+        "takenDamage": 2138
+      },
+      "fire": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 4435
+      },
+      "cold": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 0
+      },
+      "lightning": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 0
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 94,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 6
+    },
+    "lowestMaximumHitTaken": 14158
+  },
+  "keyStones": [
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Tempered by War",
+      "icon": "Art/2DArt/SkillIcons/passives/TemperedByWar.webp",
+      "stats": [
+        "50% of Cold and Lightning Damage taken as Fire Damage",
+        "50% less Cold Resistance",
+        "50% less Lightning Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 112,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Summon Raging Spirit of Enormity",
+        "Elemental Damage with Attacks Support",
+        "Increased Critical Damage Support",
+        "Invert the Rules Support",
+        "Greater Multistrike Support",
+        "Melee Splash Support",
+        "Minion Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Summon Stone Golem",
+        "Purity of Fire",
+        "Automation",
+        "Convocation",
+        "Feeding Frenzy Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Vaal Haste",
+        "Arctic Armour",
+        "Flesh and Stone",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Animate Guardian",
+        "Raise Spectre",
+        "Minion Life Support",
+        "Congregation Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Punishment",
+        "Poacher's Mark",
+        "Frostblink",
+        "Cursed Ground Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Desecrate",
+        "Flesh Offering",
+        "Shield Charge"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Summon Raging Spirit of Enormity",
+    "Elemental Damage with Attacks Support",
+    "Increased Critical Damage Support",
+    "Invert the Rules Support",
+    "Greater Multistrike Support",
+    "Melee Splash Support",
+    "Minion Damage Support",
+    "Summon Stone Golem",
+    "Purity of Fire",
+    "Automation",
+    "Convocation",
+    "Feeding Frenzy Support",
+    "Vaal Haste",
+    "Arctic Armour",
+    "Flesh and Stone",
+    "Enlighten Support",
+    "Animate Guardian",
+    "Raise Spectre",
+    "Minion Life Support",
+    "Congregation Support",
+    "Punishment",
+    "Poacher's Mark",
+    "Frostblink",
+    "Cursed Ground Support",
+    "Desecrate",
+    "Flesh Offering",
+    "Shield Charge"
+  ],
+  "items": [
+    {
+      "name": "Empyrean Gyre",
+      "typeLine": "Bone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Loath Road",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Darkness Enthroned",
+      "typeLine": "Stygian Vise",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Brimstone Grip",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Incandescent Heart",
+      "typeLine": "Saintly Chainmail",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Mind Emblem",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Plague Visage",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Loath Branch",
+      "typeLine": "Convoking Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Whispers of Infinity",
+      "typeLine": "Seaglass Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-23T16:29:18.658137Z"
+}

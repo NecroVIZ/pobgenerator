@@ -1,0 +1,258 @@
+{
+  "account": "DuffyHimself-6637",
+  "name": "DuffyMirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 3208,
+    "energyShield": 403,
+    "mana": 1195,
+    "ward": 268,
+    "movementSpeed": 267,
+    "lifeRegen": 156,
+    "evasionRating": 42,
+    "armour": 36377,
+    "strength": 148,
+    "dexterity": 97,
+    "intelligence": 329,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 234816,
+    "physicalMaximumHitTaken": 8236,
+    "fireMaximumHitTaken": 21621,
+    "coldMaximumHitTaken": 21621,
+    "lightningMaximumHitTaken": 21621,
+    "chaosMaximumHitTaken": 13904,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 81,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 19,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 17,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 8,
+    "chaosResistanceMax": 75,
+    "blockChance": 90,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 1001,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 8236
+  },
+  "keyStones": [
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    },
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 114,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Wave of Conviction",
+        "Deadly Ailments Support",
+        "Added Fire Damage Support",
+        "Burning Damage Support",
+        "Unbound Ailments Support",
+        "Awakened Empower Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flame Dash",
+        "Inspiration Support",
+        "Arcane Surge Support",
+        "More Duration Support",
+        "Second Wind Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Determination",
+        "Herald of Ash",
+        "Tempest Shield",
+        "Awakened Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Arcanist Brand",
+        "Flame Surge",
+        "Frost Bomb",
+        "Combustion Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Molten Shell",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Summon Flame Golem",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Clarity",
+        "Enlighten Support",
+        "Herald of Purity"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Wave of Conviction",
+    "Deadly Ailments Support",
+    "Added Fire Damage Support",
+    "Burning Damage Support",
+    "Unbound Ailments Support",
+    "Awakened Empower Support",
+    "Flame Dash",
+    "Inspiration Support",
+    "Arcane Surge Support",
+    "More Duration Support",
+    "Second Wind Support",
+    "Determination",
+    "Herald of Ash",
+    "Tempest Shield",
+    "Awakened Enlighten Support",
+    "Arcanist Brand",
+    "Flame Surge",
+    "Frost Bomb",
+    "Combustion Support",
+    "Molten Shell",
+    "More Duration Support",
+    "Summon Flame Golem",
+    "Lifetap Support",
+    "Clarity",
+    "Enlighten Support",
+    "Herald of Purity"
+  ],
+  "items": [
+    {
+      "name": "Horror Blow",
+      "typeLine": "Void Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Asenath's Gentle Touch",
+      "typeLine": "Silk Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Glyph Glance",
+      "typeLine": "Praetor Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Dragon Bead",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Skin of the Lords",
+      "typeLine": "Simple Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "",
+      "typeLine": "Crude Bow",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Oblivion Slippers",
+      "typeLine": "Titan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Polaric Devastation",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Circle of Anguish",
+      "typeLine": "Synthesised Ruby Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-24T10:51:34.172799Z"
+}

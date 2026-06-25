@@ -1,0 +1,272 @@
+{
+  "account": "AKK_Death-4094",
+  "name": "起个名字又要想",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Gladiator",
+  "ascendancy": "Gladiator",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 5745,
+    "energyShield": 75,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 139,
+    "lifeRegen": 1721,
+    "evasionRating": 735,
+    "armour": 20625,
+    "strength": 79,
+    "dexterity": 57,
+    "intelligence": 0,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 6640408,
+    "physicalMaximumHitTaken": 18495,
+    "fireMaximumHitTaken": 54071,
+    "coldMaximumHitTaken": 54071,
+    "lightningMaximumHitTaken": 54071,
+    "chaosMaximumHitTaken": 23083,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 227,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 32,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 37,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 76,
+    "chaosResistanceOverCap": 1,
+    "chaosResistanceMax": 76,
+    "blockChance": 99,
+    "spellBlockChance": 99,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 2674,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 20625,
+        "base": 20,
+        "takenDamage": 1069
+      },
+      "fire": {
+        "value": 20,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 20,
+        "takenDamage": 2967
+      },
+      "cold": {
+        "value": 20,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 20,
+        "takenDamage": 2018
+      },
+      "lightning": {
+        "value": 20,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 20,
+        "takenDamage": 2018
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 53,
+      "lightning": 0,
+      "fire": 47,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 18495
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Detonate Dead of Scavenging",
+        "Cruelty Support",
+        "Flame Surge of Combusting",
+        "Immolate Support",
+        "Wave of Conviction of Trarthus",
+        "Cast when Stunned Support",
+        "Sadism Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Raise Zombie of Falling",
+        "Cast when Stunned Support",
+        "Cremation of the Volcano",
+        "Chance to Bleed Support",
+        "Bonechill Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flame Wall",
+        "Cast when Stunned Support",
+        "Purifying Flame of Revelations",
+        "Firestorm of Pelting"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Petrified Blood",
+        "Shield Charge",
+        "Frostblink",
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Tempest Shield",
+        "Eternal Blessing Support",
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flammability",
+        "Cast when Stunned Support",
+        "Elemental Weakness"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Detonate Dead of Scavenging",
+    "Cruelty Support",
+    "Flame Surge of Combusting",
+    "Immolate Support",
+    "Wave of Conviction of Trarthus",
+    "Cast when Stunned Support",
+    "Sadism Support",
+    "Raise Zombie of Falling",
+    "Cast when Stunned Support",
+    "Cremation of the Volcano",
+    "Chance to Bleed Support",
+    "Bonechill Support",
+    "Flame Wall",
+    "Cast when Stunned Support",
+    "Purifying Flame of Revelations",
+    "Firestorm of Pelting",
+    "Petrified Blood",
+    "Shield Charge",
+    "Frostblink",
+    "Vitality",
+    "Tempest Shield",
+    "Eternal Blessing Support",
+    "Malevolence",
+    "Flammability",
+    "Cast when Stunned Support",
+    "Elemental Weakness"
+  ],
+  "items": [
+    {
+      "name": "Azadi Crest",
+      "typeLine": "Lacquered Buckler",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Anvil",
+      "typeLine": "Amber Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Valyrium",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Carrion Shelter",
+      "typeLine": "Conqueror's Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Brimstone Hold",
+      "typeLine": "Ruby Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Cloak of Flame",
+      "typeLine": "Scholar's Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Miracle Hoof",
+      "typeLine": "Leviathan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Pain Talons",
+      "typeLine": "Precursor Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Foulborn Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-23T10:19:07.830094Z"
+}

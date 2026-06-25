@@ -1,0 +1,245 @@
+{
+  "account": "AAndersen-0119",
+  "name": "toxiclikemorten",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Oshabi Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 10575,
+    "mana": 3014,
+    "ward": 0,
+    "movementSpeed": 207,
+    "lifeRegen": 0,
+    "evasionRating": 17577,
+    "armour": 0,
+    "strength": 123,
+    "dexterity": 232,
+    "intelligence": 279,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 89755,
+    "physicalMaximumHitTaken": 13323,
+    "fireMaximumHitTaken": 70319,
+    "coldMaximumHitTaken": 70319,
+    "lightningMaximumHitTaken": 70319,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 87,
+    "fireResistanceOverCap": 41,
+    "fireResistanceMax": 87,
+    "coldResistance": 87,
+    "coldResistanceOverCap": 21,
+    "coldResistanceMax": 87,
+    "lightningResistance": 87,
+    "lightningResistanceOverCap": 8,
+    "lightningResistanceMax": 87,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 86,
+    "spellDodgeChance": 0,
+    "itemRarity": 30,
+    "energyShieldRegen": 634,
+    "lifeReserved": 0,
+    "manaReserved": 2854,
+    "evadeChance": 45,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 81,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 19
+    },
+    "lowestMaximumHitTaken": 13323
+  },
+  "keyStones": [
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    },
+    {
+      "name": "Perfect Agony",
+      "icon": "Art/2DArt/SkillIcons/passives/CritAilments.webp",
+      "stats": [
+        "Damage over Time Multiplier for Ailments is equal to Critical Strike Multiplier\nCritical Strikes do not deal extra Damage\nNon-Critical Strikes cannot inflict Ailments"
+      ]
+    },
+    {
+      "name": "Ghost Reaver",
+      "icon": "Art/2DArt/SkillIcons/passives/ghostreaver.webp",
+      "stats": [
+        "Leech Energy Shield instead of Life\nMaximum total Energy Shield Recovery per second from Leech is doubled\nCannot Recharge Energy Shield"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 101,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Viper Strike of the Mamba",
+        "Greater Ancestral Call Support",
+        "Melee Physical Damage Support",
+        "Void Manipulation Support",
+        "Nightblade Support",
+        "Swift Affliction Support",
+        "Cruelty Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Autoexertion",
+        "General's Cry",
+        "Cyclone",
+        "Withering Touch Support",
+        "Brutality Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Whirling Blades",
+        "Faster Attacks Support",
+        "Frostblink",
+        "Brutality Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flesh and Stone",
+        "Purity of Elements",
+        "Enlighten Support",
+        "Discipline"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Despair",
+        "Desecrate",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Clarity"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Viper Strike of the Mamba",
+    "Greater Ancestral Call Support",
+    "Melee Physical Damage Support",
+    "Void Manipulation Support",
+    "Nightblade Support",
+    "Swift Affliction Support",
+    "Cruelty Support",
+    "Autoexertion",
+    "General's Cry",
+    "Cyclone",
+    "Withering Touch Support",
+    "Brutality Support",
+    "Whirling Blades",
+    "Faster Attacks Support",
+    "Frostblink",
+    "Brutality Support",
+    "Flesh and Stone",
+    "Purity of Elements",
+    "Enlighten Support",
+    "Discipline",
+    "Despair",
+    "Desecrate",
+    "Precision",
+    "Clarity"
+  ],
+  "items": [
+    {
+      "name": "Miracle Salvation",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Whispers of Infinity",
+      "typeLine": "Seaglass Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "The Hateful Accuser",
+      "typeLine": "Nameless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Essentia Sanguis",
+      "typeLine": "Vaal Claw",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Shavronne's Revelation",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Viper Hand",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Bino's Kitchen Knife",
+      "typeLine": "Slaughter Knife",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Viper Guardian",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Vortex Span",
+      "typeLine": "Phantom Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 17,
+  "lastCheckedUtc": "2026-06-25T06:29:06.576879Z"
+}

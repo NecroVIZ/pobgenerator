@@ -1,0 +1,276 @@
+{
+  "account": "BertP-2105",
+  "name": "丁六九",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5538,
+    "energyShield": 547,
+    "mana": 1391,
+    "ward": 0,
+    "movementSpeed": 254,
+    "lifeRegen": 210,
+    "evasionRating": 446,
+    "armour": 196,
+    "strength": 150,
+    "dexterity": 109,
+    "intelligence": 347,
+    "enduranceCharges": 3,
+    "frenzyCharges": 4,
+    "powerCharges": 5,
+    "effectiveHealthPool": 12393,
+    "physicalMaximumHitTaken": 5476,
+    "fireMaximumHitTaken": 19421,
+    "coldMaximumHitTaken": 19421,
+    "lightningMaximumHitTaken": 19421,
+    "chaosMaximumHitTaken": 19564,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 16,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 44,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 14,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 37,
+    "chaosResistanceMax": 75,
+    "blockChance": 5,
+    "spellBlockChance": 8,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 2493,
+    "manaReserved": 1155,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5476
+  },
+  "keyStones": [
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 110,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Glacial Cascade of the Fissure",
+        "High-Impact Mine Support",
+        "Minefield Support",
+        "Awakened Empower Support",
+        "Trap and Mine Damage Support",
+        "Charged Mines Support",
+        "Hypothermia Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Leap Slam",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Detonate Mines"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Summon Lightning Golem"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Summon Flame Golem"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Summon Stone Golem"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Summon Skitterbots",
+        "Petrified Blood",
+        "Awakened Enlighten Support",
+        "Hatred",
+        "Bonechill Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Animate Guardian",
+        "Minion Life Support",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Steelskin",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Purity",
+        "Arrogance Support",
+        "Clarity",
+        "Summon Ice Golem"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Glacial Cascade"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Glacial Cascade of the Fissure",
+    "High-Impact Mine Support",
+    "Minefield Support",
+    "Awakened Empower Support",
+    "Trap and Mine Damage Support",
+    "Charged Mines Support",
+    "Hypothermia Support",
+    "Leap Slam",
+    "Faster Attacks Support",
+    "Convocation",
+    "Detonate Mines",
+    "Summon Lightning Golem",
+    "Summon Flame Golem",
+    "Summon Stone Golem",
+    "Summon Skitterbots",
+    "Petrified Blood",
+    "Awakened Enlighten Support",
+    "Hatred",
+    "Bonechill Support",
+    "Animate Guardian",
+    "Minion Life Support",
+    "Meat Shield Support",
+    "Steelskin",
+    "Cast when Damage Taken Support",
+    "Herald of Purity",
+    "Arrogance Support",
+    "Clarity",
+    "Summon Ice Golem",
+    "Glacial Cascade"
+  ],
+  "items": [
+    {
+      "name": "",
+      "typeLine": "Twig Spirit Shield",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "Smoking Quartz Wand of Embers",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Entropy Slippers",
+      "typeLine": "Legion Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Annihilating Light",
+      "typeLine": "Quarterstaff",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Foulborn Skin of the Lords",
+      "typeLine": "Simple Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Morbid Turn",
+      "typeLine": "Synthesised Diamond Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Horror Eye",
+      "typeLine": "Vermillion Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Golem Grip",
+      "typeLine": "Arcanist Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-19T02:41:19.202993Z"
+}

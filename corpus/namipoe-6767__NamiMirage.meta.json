@@ -1,0 +1,327 @@
+{
+  "account": "namipoe-6767",
+  "name": "NamiMirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 5736,
+    "mana": 966,
+    "ward": 240,
+    "movementSpeed": 265,
+    "lifeRegen": 330,
+    "evasionRating": 30,
+    "armour": 23732,
+    "strength": 50,
+    "dexterity": 59,
+    "intelligence": 58,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 544201,
+    "physicalMaximumHitTaken": 13817,
+    "fireMaximumHitTaken": 43889,
+    "coldMaximumHitTaken": 67297,
+    "lightningMaximumHitTaken": 59380,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 88,
+    "coldResistance": 88,
+    "coldResistanceOverCap": 27,
+    "coldResistanceMax": 88,
+    "lightningResistance": 86,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 88,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 87,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 30,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 841,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 23732,
+        "base": 14,
+        "takenDamage": 1358
+      },
+      "fire": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 3170
+      },
+      "cold": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2264
+      },
+      "lightning": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2264
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 13817
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 103,
+  "skillGroups": [
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Inspiration Support",
+        "Cruelty Support",
+        "Penance Brand",
+        "Burning Damage Support",
+        "Arcane Surge Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Herald of Ice",
+        "Herald of Ash",
+        "Enlighten Support",
+        "Tempest Shield",
+        "Herald of Purity",
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Raise Spectre",
+        "Summon Chaos Golem",
+        "Shield Charge",
+        "Call the Pyre",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Lightning Golem",
+        "Summon Flame Golem",
+        "Summon Stone Golem",
+        "Herald of Thunder"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Flammability",
+        "Elemental Weakness",
+        "Hex Bloom Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Flame Surge"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vaal Molten Shell",
+        "Frostblink",
+        "Summon Lightning Golem of Hordes"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Bone Offering",
+        "Clarity",
+        "Steelskin"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Molten Shell",
+        "Combustion Support"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Frostblink of Wintry Blast",
+    "Inspiration Support",
+    "Cruelty Support",
+    "Penance Brand",
+    "Burning Damage Support",
+    "Arcane Surge Support",
+    "Herald of Ice",
+    "Herald of Ash",
+    "Enlighten Support",
+    "Tempest Shield",
+    "Herald of Purity",
+    "Malevolence",
+    "Raise Spectre",
+    "Summon Chaos Golem",
+    "Shield Charge",
+    "Call the Pyre",
+    "Faster Attacks Support",
+    "Summon Lightning Golem",
+    "Summon Flame Golem",
+    "Summon Stone Golem",
+    "Herald of Thunder",
+    "Flammability",
+    "Elemental Weakness",
+    "Hex Bloom Support",
+    "Flame Surge",
+    "Vaal Molten Shell",
+    "Frostblink",
+    "Summon Lightning Golem of Hordes",
+    "Bone Offering",
+    "Clarity",
+    "Steelskin",
+    "Molten Shell",
+    "Combustion Support",
+    "Herald of the Hive"
+  ],
+  "items": [
+    {
+      "name": "Grim Goad",
+      "typeLine": "Paladin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Vengeance Star",
+      "typeLine": "Subsuming Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Soul Hand",
+      "typeLine": "Martyr Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Kraken Crest",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Berek's Respite",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Gloom Beads",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Grace of the Goddess",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Cataclysm Scratch",
+      "typeLine": "Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Pandemonium Carapace",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    }
+  ],
+  "jewelsCount": 16,
+  "lastCheckedUtc": "2026-06-22T06:54:34.81022Z"
+}

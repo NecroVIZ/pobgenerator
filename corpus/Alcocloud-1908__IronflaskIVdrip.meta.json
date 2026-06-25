@@ -1,0 +1,280 @@
+{
+  "account": "Alcocloud-1908",
+  "name": "IronflaskIVdrip",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Olroth Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 1842,
+    "energyShield": 0,
+    "mana": 772,
+    "ward": 30557,
+    "movementSpeed": 184,
+    "lifeRegen": 70,
+    "evasionRating": 2209,
+    "armour": 2033,
+    "strength": 157,
+    "dexterity": 157,
+    "intelligence": 163,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 4,
+    "effectiveHealthPool": 24567,
+    "physicalMaximumHitTaken": 40877,
+    "fireMaximumHitTaken": 112386,
+    "coldMaximumHitTaken": 112386,
+    "lightningMaximumHitTaken": 112386,
+    "chaosMaximumHitTaken": 125872,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 10,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 14,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 19,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 1,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 3,
+    "spellDodgeChance": 0,
+    "itemRarity": 21,
+    "energyShieldRegen": 0,
+    "lifeReserved": 931,
+    "manaReserved": 579,
+    "evadeChance": 87,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 40877
+  },
+  "keyStones": [
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Black Scythe Training",
+      "icon": "Art/2DArt/SkillIcons/passives/KalguuranDexKeystone.webp",
+      "stats": [
+        "Removes all Energy Shield",
+        "Chance to Evade Hits is based off of 200% of your Ward instead of your Evasion Rating",
+        "Physical Damage Reduction from Hits is based off of 200% of your Ward instead of your Armour"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 100,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Exsanguinate",
+        "Invert the Rules Support",
+        "Hypothermia Support",
+        "Chain Support",
+        "Empower Support",
+        "Cast on Ward Break Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Phase Run",
+        "Summon Skeletons",
+        "Cast on Ward Break Support",
+        "Less Duration Support",
+        "Swift Affliction Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostblink",
+        "Whirling Blades",
+        "Righteous Fire",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Purity",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Ash",
+        "Hatred"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Assassin's Mark",
+        "Cast when Damage Taken Support",
+        "Summon Stone Golem"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Raise Zombie of Falling",
+        "Cast on Ward Break Support",
+        "Immortal Call"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Blade Vortex"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Blade Vortex"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Purity of Fire"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Blade Vortex"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Exsanguinate",
+    "Invert the Rules Support",
+    "Hypothermia Support",
+    "Chain Support",
+    "Empower Support",
+    "Cast on Ward Break Support",
+    "Phase Run",
+    "Summon Skeletons",
+    "Cast on Ward Break Support",
+    "Less Duration Support",
+    "Swift Affliction Support",
+    "Frostblink",
+    "Whirling Blades",
+    "Righteous Fire",
+    "Faster Attacks Support",
+    "Herald of Purity",
+    "Arrogance Support",
+    "Herald of Ash",
+    "Hatred",
+    "Assassin's Mark",
+    "Cast when Damage Taken Support",
+    "Summon Stone Golem",
+    "Raise Zombie of Falling",
+    "Cast on Ward Break Support",
+    "Immortal Call",
+    "Blade Vortex",
+    "Blade Vortex",
+    "Purity of Fire",
+    "Blade Vortex"
+  ],
+  "items": [
+    {
+      "name": "Faithguard",
+      "typeLine": "Runic Helm",
+      "frameType": 10,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Bramble Spark",
+      "typeLine": "Runic Sabatons",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Ynda's Stand",
+      "typeLine": "Studded Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Sorrow Shell",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Empyrean Gyre",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Heartbound Loop",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Divinarius",
+      "typeLine": "Imperial Skean",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Morbid Bite",
+      "typeLine": "Thorn Rapier",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "",
+      "typeLine": "Upgraded Crude Bow",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Morbid Braid",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Dread Nails",
+      "typeLine": "Runic Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 19,
+  "lastCheckedUtc": "2026-06-20T19:53:06.742735Z"
+}

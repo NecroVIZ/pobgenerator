@@ -1,0 +1,276 @@
+{
+  "account": "Aussiebloke1414-4446",
+  "name": "Saitama_UwU",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Gladiator",
+  "ascendancy": "Gladiator",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5813,
+    "energyShield": 78,
+    "mana": 820,
+    "ward": 0,
+    "movementSpeed": 124,
+    "lifeRegen": 1036,
+    "evasionRating": 0,
+    "armour": 28542,
+    "strength": 402,
+    "dexterity": 173,
+    "intelligence": 120,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 404122,
+    "physicalMaximumHitTaken": 11821,
+    "fireMaximumHitTaken": 41839,
+    "coldMaximumHitTaken": 40020,
+    "lightningMaximumHitTaken": 40020,
+    "chaosMaximumHitTaken": 29065,
+    "fireResistance": 81,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 81,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 9,
+    "coldResistanceMax": 80,
+    "lightningResistance": 80,
+    "lightningResistanceOverCap": 30,
+    "lightningResistanceMax": 80,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 90,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 733,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 10,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 11821
+  },
+  "keyStones": [
+    {
+      "name": "The Impaler",
+      "icon": "Art/2DArt/SkillIcons/passives/ImpaleKeystone.webp",
+      "stats": [
+        "When your Hits Impale Enemies, also Impale other Enemies near them\nInflict 5 additional Impales on Enemies you Impale\nFor 5 seconds after you Impale Enemies, they cannot be Impaled again, and Impales cannot be Called from them"
+      ]
+    },
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    },
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    },
+    {
+      "name": "Iron Reflexes",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
+      "stats": [
+        "Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 12,
+  "passiveCount": 134,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Crushing Fist",
+        "Fist of War Support",
+        "Impale Support",
+        "Brutality Support",
+        "Melee Physical Damage Support",
+        "Pulverise Support",
+        "Fortify Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Cyclone of Tumult",
+        "Additional Accuracy Support",
+        "Culling Strike Support",
+        "Faster Attacks Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Lancing Steel"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Pride"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Enduring Cry"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Poacher's Mark"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Molten Shell",
+        "Cast when Damage Taken Support",
+        "Determination"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Crushing Fist",
+    "Fist of War Support",
+    "Impale Support",
+    "Brutality Support",
+    "Melee Physical Damage Support",
+    "Pulverise Support",
+    "Fortify Support",
+    "Cyclone of Tumult",
+    "Additional Accuracy Support",
+    "Culling Strike Support",
+    "Faster Attacks Support",
+    "Lifetap Support",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Momentum Support",
+    "Frostblink",
+    "Lancing Steel",
+    "Pride",
+    "Enduring Cry",
+    "Poacher's Mark",
+    "Molten Shell",
+    "Cast when Damage Taken Support",
+    "Determination"
+  ],
+  "items": [
+    {
+      "name": "Bramble Circle",
+      "typeLine": "Diamond Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Redbeak",
+      "typeLine": "Rusted Sword",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Maelström Bead",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Pain Circle",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Eagle Sever",
+      "typeLine": "Elder Sword",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Marylene's Fallacy",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Facebreaker",
+      "typeLine": "Strapped Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Abyssus",
+      "typeLine": "Ezomyte Burgonet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Vortex Skin",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Corruption League",
+      "typeLine": "Stealth Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Brimstone Tower",
+      "typeLine": "Colossal Tower Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Doom Circle",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    }
+  ],
+  "jewelsCount": 2,
+  "lastCheckedUtc": "2026-06-20T08:36:04.755862Z"
+}

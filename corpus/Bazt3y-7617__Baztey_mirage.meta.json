@@ -1,0 +1,261 @@
+{
+  "account": "Bazt3y-7617",
+  "name": "Baztey_mirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2171,
+    "energyShield": 8058,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 187,
+    "lifeRegen": 288,
+    "evasionRating": 28,
+    "armour": 2250,
+    "strength": 137,
+    "dexterity": 162,
+    "intelligence": 1052,
+    "enduranceCharges": 4,
+    "frenzyCharges": 4,
+    "powerCharges": 7,
+    "effectiveHealthPool": 56223,
+    "physicalMaximumHitTaken": 13647,
+    "fireMaximumHitTaken": 54892,
+    "coldMaximumHitTaken": 66448,
+    "lightningMaximumHitTaken": 66448,
+    "chaosMaximumHitTaken": 46936,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 31,
+    "fireResistanceMax": 80,
+    "coldResistance": 84,
+    "coldResistanceOverCap": 58,
+    "coldResistanceMax": 84,
+    "lightningResistance": 84,
+    "lightningResistanceOverCap": 48,
+    "lightningResistanceMax": 84,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 5,
+    "chaosResistanceMax": 75,
+    "blockChance": 22,
+    "spellBlockChance": 42,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 30,
+    "energyShieldRegen": 580,
+    "lifeReserved": 1452,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 414,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 20,
+        "max": 90,
+        "effectiveAppliedArmour": 2250,
+        "base": 2,
+        "takenDamage": 2024
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 11,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 13647
+  },
+  "keyStones": [
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 120,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Cyclone",
+        "Cast On Critical Strike Support",
+        "Greater Multiple Projectiles Support",
+        "Faster Attacks Support",
+        "Soulrend of the Spiral",
+        "Lightning Penetration Support",
+        "Infused Channelling Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support",
+        "More Duration Support",
+        "Summon Stone Golem"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Discipline",
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Rolling Magma",
+        "Lightning Penetration Support",
+        "Greater Volley Support",
+        "Soulrend of Reaping",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Flesh and Stone",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Sniper's Mark",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Blood Rage",
+        "Enhance Support",
+        "Eternal Blessing Support",
+        "Zealotry"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Cyclone",
+    "Cast On Critical Strike Support",
+    "Greater Multiple Projectiles Support",
+    "Faster Attacks Support",
+    "Soulrend of the Spiral",
+    "Lightning Penetration Support",
+    "Infused Channelling Support",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "More Duration Support",
+    "Summon Stone Golem",
+    "Discipline",
+    "Vitality",
+    "Rolling Magma",
+    "Lightning Penetration Support",
+    "Greater Volley Support",
+    "Soulrend of Reaping",
+    "Power Charge On Critical Support",
+    "Flesh and Stone",
+    "Precision",
+    "Sniper's Mark",
+    "Mark On Hit Support",
+    "Frostblink",
+    "Blood Rage",
+    "Enhance Support",
+    "Eternal Blessing Support",
+    "Zealotry"
+  ],
+  "items": [
+    {
+      "name": "Rage Ward",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Foulborn Kitava's Thirst",
+      "typeLine": "Zealot Helmet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Victory Grasp",
+      "typeLine": "Arcanist Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Honour Spark",
+      "typeLine": "Sorcerer Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Jiquani's Potential",
+      "typeLine": "Imperial Staff",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Phoenix Rock",
+      "typeLine": "Supreme Spiked Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Entropy Needle",
+      "typeLine": "Faun's Horn",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Foulborn Shavronne's Revelation",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Presence of Chayula",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Tempest Turn",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-23T05:34:06.558753Z"
+}

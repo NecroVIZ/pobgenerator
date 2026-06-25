@@ -1,0 +1,271 @@
+{
+  "account": "AqirPlayer-5380",
+  "name": "BeYCBap",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Ascendant",
+  "ascendancy": "Ascendant",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4009,
+    "energyShield": 1994,
+    "mana": 755,
+    "ward": 0,
+    "movementSpeed": 249,
+    "lifeRegen": 683,
+    "evasionRating": 442,
+    "armour": 15156,
+    "strength": 267,
+    "dexterity": 167,
+    "intelligence": 184,
+    "enduranceCharges": 6,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 32208,
+    "physicalMaximumHitTaken": 8856,
+    "fireMaximumHitTaken": 39889,
+    "coldMaximumHitTaken": 39889,
+    "lightningMaximumHitTaken": 39889,
+    "chaosMaximumHitTaken": 5255,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 215,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 31,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 88,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 25,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 77,
+    "spellBlockChance": 78,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 68,
+    "manaReserved": 726,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 87,
+        "max": 90,
+        "effectiveAppliedArmour": 15156,
+        "base": 30,
+        "takenDamage": 2274
+      },
+      "fire": {
+        "value": 24,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 24,
+        "takenDamage": 2274
+      },
+      "cold": {
+        "value": 24,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 24,
+        "takenDamage": 2274
+      },
+      "lightning": {
+        "value": 24,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 24,
+        "takenDamage": 2274
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5255
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Glancing Blows",
+      "icon": "Art/2DArt/SkillIcons/passives/GlancingBlows.webp",
+      "stats": [
+        "Chance to Block Attack Damage is doubled\nChance to Block Spell Damage is doubled\nYou take 65% of Damage from Blocked Hits"
+      ]
+    },
+    {
+      "name": "Lethe Shade",
+      "icon": "Art/2DArt/SkillIcons/passives/MomentofRespite.webp",
+      "stats": [
+        "Take 50% less Damage over Time if you've started taking Damage over Time in the past second\n100% more Duration of Ailments on you"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 115,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Purity of Fire",
+        "Meat Shield Support",
+        "Companionship Support",
+        "Minion Life Support",
+        "Purity of Elements",
+        "Animate Guardian"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Shield Crush of the Chieftain",
+        "Pulverise Support",
+        "General's Cry",
+        "Autoexertion",
+        "Concentrated Effect Support",
+        "Endurance Charge on Melee Stun Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Shield Crush of the Chieftain",
+        "Shield Charge",
+        "Added Cold Damage Support",
+        "Call the Pyre"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flame Dash",
+        "Assassin's Mark",
+        "Lifetap Support",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Clarity",
+        "Arrogance Support",
+        "Desecrate"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Blood and Sand",
+        "Molten Shell",
+        "Automation"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Purity of Fire",
+    "Meat Shield Support",
+    "Companionship Support",
+    "Minion Life Support",
+    "Purity of Elements",
+    "Animate Guardian",
+    "Shield Crush of the Chieftain",
+    "Pulverise Support",
+    "General's Cry",
+    "Autoexertion",
+    "Concentrated Effect Support",
+    "Endurance Charge on Melee Stun Support",
+    "Shield Crush of the Chieftain",
+    "Shield Charge",
+    "Added Cold Damage Support",
+    "Call the Pyre",
+    "Flame Dash",
+    "Assassin's Mark",
+    "Lifetap Support",
+    "Mark On Hit Support",
+    "Clarity",
+    "Arrogance Support",
+    "Desecrate",
+    "Blood and Sand",
+    "Molten Shell",
+    "Automation"
+  ],
+  "items": [
+    {
+      "name": "Woe Fingers",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Foulborn Emperor's Vigilance",
+      "typeLine": "Steel Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Tides of Time",
+      "typeLine": "Vanguard Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Foulborn Skin of the Lords",
+      "typeLine": "Simple Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Yoke of Suffering",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Enmity's Embrace",
+      "typeLine": "Vermillion Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Blight Hoof",
+      "typeLine": "Vaal Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Onslaught Crown",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-25T02:11:32.952592Z"
+}

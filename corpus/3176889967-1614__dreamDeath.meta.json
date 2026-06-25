@@ -1,0 +1,243 @@
+{
+  "account": "3176889967-1614",
+  "name": "dreamDeath",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Occultist",
+  "ascendancy": "Occultist",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3735,
+    "energyShield": 813,
+    "mana": 830,
+    "ward": 144,
+    "movementSpeed": 272,
+    "lifeRegen": 0,
+    "evasionRating": 364,
+    "armour": 17384,
+    "strength": 249,
+    "dexterity": 132,
+    "intelligence": 213,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 169069,
+    "physicalMaximumHitTaken": 7016,
+    "fireMaximumHitTaken": 18768,
+    "coldMaximumHitTaken": 16757,
+    "lightningMaximumHitTaken": 16757,
+    "chaosMaximumHitTaken": 15516,
+    "fireResistance": 78,
+    "fireResistanceOverCap": 11,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 60,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 27,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 27,
+    "chaosResistanceMax": 0,
+    "blockChance": 89,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 58,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 7016
+  },
+  "keyStones": [
+    {
+      "name": "Corrupted Soul",
+      "icon": "Art/2DArt/SkillIcons/passives/CorruptedDefences.webp",
+      "stats": [
+        "50% of Non-Chaos Damage taken bypasses Energy Shield",
+        "Gain 15% of Maximum Life as Extra Maximum Energy Shield"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 94,
+  "skillGroups": [
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Storm Burst",
+        "Efficacy Support",
+        "More Duration Support",
+        "Void Manipulation Support",
+        "Blastchain Mine Support",
+        "Decay Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Death Aura",
+        "Void Manipulation Support",
+        "Concentrated Effect Support",
+        "Lifetap Support",
+        "Swift Affliction Support",
+        "Efficacy Support",
+        "Less Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Automation",
+        "Phase Run",
+        "Withering Step",
+        "Steelskin",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Herald of Ash",
+        "Increased Area of Effect Support",
+        "Tempest Shield",
+        "Aspect of the Spider"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Despair",
+        "Enlighten Support",
+        "Eldritch Blasphemy Support",
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Punishment",
+        "Summon Flame Golem",
+        "Lifetap Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Storm Burst",
+    "Efficacy Support",
+    "More Duration Support",
+    "Void Manipulation Support",
+    "Blastchain Mine Support",
+    "Decay Support",
+    "Lifetap Support",
+    "Death Aura",
+    "Void Manipulation Support",
+    "Concentrated Effect Support",
+    "Lifetap Support",
+    "Swift Affliction Support",
+    "Efficacy Support",
+    "Less Duration Support",
+    "Automation",
+    "Phase Run",
+    "Withering Step",
+    "Steelskin",
+    "Lifetap Support",
+    "Herald of Ash",
+    "Increased Area of Effect Support",
+    "Tempest Shield",
+    "Aspect of the Spider",
+    "Despair",
+    "Enlighten Support",
+    "Eldritch Blasphemy Support",
+    "Malevolence",
+    "Punishment",
+    "Summon Flame Golem",
+    "Lifetap Support"
+  ],
+  "items": [
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Blackflame",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Atziri's Disfavour",
+      "typeLine": "Vaal Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Forbidden Shako",
+      "typeLine": "Great Crown",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Onslaught Pace",
+      "typeLine": "Dragonscale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Defiance of Destiny",
+      "typeLine": "Paua Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Maelström Gyre",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Kraken Spell",
+      "typeLine": "Convening Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Asenath's Gentle Touch",
+      "typeLine": "Silk Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Foulborn Death's Oath",
+      "typeLine": "Astral Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 19,
+  "lastCheckedUtc": "2026-06-24T04:43:17.777303Z"
+}

@@ -1,0 +1,287 @@
+{
+  "account": "Arachnie-2064",
+  "name": "Slover_",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Berserker",
+  "ascendancy": "Berserker",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 9448,
+    "energyShield": 3780,
+    "mana": 732,
+    "ward": 0,
+    "movementSpeed": 235,
+    "lifeRegen": 521,
+    "evasionRating": 20,
+    "armour": 3285,
+    "strength": 266,
+    "dexterity": 171,
+    "intelligence": 197,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 167227,
+    "physicalMaximumHitTaken": 21174,
+    "fireMaximumHitTaken": 104388,
+    "coldMaximumHitTaken": 98894,
+    "lightningMaximumHitTaken": 117436,
+    "chaosMaximumHitTaken": 18836,
+    "fireResistance": 85,
+    "fireResistanceOverCap": 22,
+    "fireResistanceMax": 85,
+    "coldResistance": 84,
+    "coldResistanceOverCap": 33,
+    "coldResistanceMax": 84,
+    "lightningResistance": 87,
+    "lightningResistanceOverCap": 17,
+    "lightningResistanceMax": 87,
+    "chaosResistance": 43,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 63,
+    "spellBlockChance": 70,
+    "spellSuppressionChance": 4,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": -189,
+    "lifeReserved": 0,
+    "manaReserved": 549,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 18836
+  },
+  "keyStones": [
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Immortal Ambition",
+      "icon": "Art/2DArt/SkillIcons/passives/SoulTetherKeystone.webp",
+      "stats": [
+        "Energy Shield starts at zero",
+        "Cannot Recharge or Regenerate Energy Shield",
+        "Lose 5% of Energy Shield per second",
+        "Life Leech effects are not removed when Unreserved Life is Filled",
+        "Life Leech effects Recover Energy Shield instead while on Full Life"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 112,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Smite of Divine Judgement",
+        "Multistrike Support",
+        "Volatility Support",
+        "Elemental Damage with Attacks Support",
+        "Inspiration Support",
+        "Lightning Penetration Support",
+        "Fortify Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Shock Nova of Procession",
+        "Shock Nova of Procession",
+        "Shock Nova of Procession",
+        "Shock Nova of Procession",
+        "Shock Nova of Procession",
+        "Shock Nova of Procession"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Momentum Support",
+        "Rage Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Enduring Cry",
+        "More Duration Support",
+        "Vaal Smite",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support",
+        "Conductivity",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostblink",
+        "Damage on Full Life Support",
+        "Energy Blade"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Shock Nova of Procession",
+        "Shock Nova of Procession"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Shock Nova of Procession"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Arctic Armour",
+        "Flesh and Stone"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Smite of Divine Judgement",
+    "Multistrike Support",
+    "Volatility Support",
+    "Elemental Damage with Attacks Support",
+    "Inspiration Support",
+    "Lightning Penetration Support",
+    "Fortify Support",
+    "Shock Nova of Procession",
+    "Shock Nova of Procession",
+    "Shock Nova of Procession",
+    "Shock Nova of Procession",
+    "Shock Nova of Procession",
+    "Shock Nova of Procession",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Momentum Support",
+    "Rage Support",
+    "Enduring Cry",
+    "More Duration Support",
+    "Vaal Smite",
+    "Tempest Shield",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Conductivity",
+    "More Duration Support",
+    "Frostblink",
+    "Damage on Full Life Support",
+    "Energy Blade",
+    "Shock Nova of Procession",
+    "Shock Nova of Procession",
+    "Shock Nova of Procession",
+    "Arctic Armour",
+    "Flesh and Stone"
+  ],
+  "items": [
+    {
+      "name": "Hate Knuckle",
+      "typeLine": "Vermillion Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "",
+      "typeLine": "Energy Blade",
+      "frameType": 0,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Viper Claw",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Crown of Eyes",
+      "typeLine": "Hubris Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Bramble Trail",
+      "typeLine": "Goliath Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn Ghostwrithe",
+      "typeLine": "Silken Vest",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "",
+      "typeLine": "Upgraded Short Bow",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Foulborn Voice of the Storm",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Rathpith Globe",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Sol Hold",
+      "typeLine": "Vermillion Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-18T20:37:08.780018Z"
+}

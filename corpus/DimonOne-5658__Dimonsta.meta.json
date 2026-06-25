@@ -1,0 +1,195 @@
+{
+  "account": "DimonOne-5658",
+  "name": "Dimonsta",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Garukhan",
+  "banditChoice": "Kraityn",
+  "defensiveStats": {
+    "life": 10962,
+    "energyShield": 278,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 376,
+    "lifeRegen": 3763,
+    "evasionRating": 3175,
+    "armour": 5974,
+    "strength": 177,
+    "dexterity": 183,
+    "intelligence": 64,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 25765,
+    "physicalMaximumHitTaken": 8508,
+    "fireMaximumHitTaken": 29995,
+    "coldMaximumHitTaken": 27687,
+    "lightningMaximumHitTaken": 32495,
+    "chaosMaximumHitTaken": 8700,
+    "fireResistance": 79,
+    "fireResistanceOverCap": 53,
+    "fireResistanceMax": 79,
+    "coldResistance": 77,
+    "coldResistanceOverCap": 52,
+    "coldResistanceMax": 77,
+    "lightningResistance": 77,
+    "lightningResistanceOverCap": 30,
+    "lightningResistanceMax": 77,
+    "chaosResistance": 37,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 25,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 42,
+    "energyShieldRegen": 0,
+    "lifeReserved": 5481,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 8508
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 133,
+  "skillGroups": [
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Cyclone",
+        "Cast while Channelling Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Phase Run",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Haste",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Wrath"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Cyclone",
+    "Cast while Channelling Support",
+    "Phase Run",
+    "More Duration Support",
+    "Haste",
+    "Eternal Blessing Support",
+    "Wrath"
+  ],
+  "items": [
+    {
+      "name": "The Screaming Eagle",
+      "typeLine": "Jade Hatchet",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Kaom's Heart",
+      "typeLine": "Glorious Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Highwayman",
+      "typeLine": "Gold Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Perepiteia",
+      "typeLine": "Synthesised Ezomyte Spiked Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Devoto's Devotion",
+      "typeLine": "Nightmare Bascinet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Veruso's Battering Rams",
+      "typeLine": "Titan Gauntlets",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Warped Timepiece",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "The Highwayman",
+      "typeLine": "Gold Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Seven-League Step",
+      "typeLine": "Rawhide Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 2,
+  "lastCheckedUtc": "2026-06-20T02:31:22.376997Z"
+}

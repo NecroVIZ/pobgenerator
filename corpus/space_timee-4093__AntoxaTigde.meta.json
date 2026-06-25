@@ -1,0 +1,242 @@
+{
+  "account": "space_timee-4093",
+  "name": "AntoxaTigde",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3064,
+    "energyShield": 1116,
+    "mana": 905,
+    "ward": 0,
+    "movementSpeed": 268,
+    "lifeRegen": 382,
+    "evasionRating": 4422,
+    "armour": 266,
+    "strength": 175,
+    "dexterity": 207,
+    "intelligence": 274,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 16962,
+    "physicalMaximumHitTaken": 4798,
+    "fireMaximumHitTaken": 21482,
+    "coldMaximumHitTaken": 17646,
+    "lightningMaximumHitTaken": 17646,
+    "chaosMaximumHitTaken": 3869,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 48,
+    "fireResistanceMax": 80,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 12,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 16,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 12,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 24,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 80,
+    "spellDodgeChance": 0,
+    "itemRarity": 291,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 839,
+    "evadeChance": 32,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 3869
+  },
+  "keyStones": [],
+  "masteriesCount": 6,
+  "passiveCount": 99,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Blast",
+        "Greater Fork Support",
+        "Volatility Support",
+        "Increased Critical Damage Support",
+        "Unholy Trinity Support",
+        "Summon Sacred Wisps",
+        "Faster Projectiles Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Summon Stone Golem",
+        "Summon Flame Golem",
+        "Summon Lightning Golem",
+        "Summon Ice Golem"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Herald of Purity",
+        "Herald of Thunder",
+        "Enlighten Support",
+        "Haste"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Shield Charge",
+        "Herald of Ice"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Automation",
+        "Immortal Call"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Herald of Ash",
+        "Spellslinger",
+        "Tornado"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Sniper's Mark",
+        "Mark On Hit Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Blast",
+    "Greater Fork Support",
+    "Volatility Support",
+    "Increased Critical Damage Support",
+    "Unholy Trinity Support",
+    "Summon Sacred Wisps",
+    "Faster Projectiles Support",
+    "Summon Stone Golem",
+    "Summon Flame Golem",
+    "Summon Lightning Golem",
+    "Summon Ice Golem",
+    "Herald of Purity",
+    "Herald of Thunder",
+    "Enlighten Support",
+    "Haste",
+    "Shield Charge",
+    "Herald of Ice",
+    "Automation",
+    "Immortal Call",
+    "Herald of Ash",
+    "Spellslinger",
+    "Tornado",
+    "Sniper's Mark",
+    "Mark On Hit Support",
+    "Lifetap Support",
+    "Herald of the Hive"
+  ],
+  "items": [
+    {
+      "name": "Morbid Crest",
+      "typeLine": "Torturer's Mask",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "",
+      "typeLine": "Upgraded Short Bow",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Dire Pace",
+      "typeLine": "Fugitive Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Corruption Charm",
+      "typeLine": "Synthesised Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Foulborn Esh's Mirror",
+      "typeLine": "Vaal Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Pain Grasp",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Nimis",
+      "typeLine": "Topaz Ring",
+      "frameType": 10,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Armageddon Beads",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Oblivion Salvation",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-24T13:55:53.020247Z"
+}

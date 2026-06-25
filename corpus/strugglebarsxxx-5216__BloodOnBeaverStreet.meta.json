@@ -1,0 +1,251 @@
+{
+  "account": "strugglebarsxxx-5216",
+  "name": "BloodOnBeaverStreet",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Oshabi Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5060,
+    "energyShield": 53,
+    "mana": 978,
+    "ward": 265,
+    "movementSpeed": 159,
+    "lifeRegen": 116,
+    "evasionRating": 44462,
+    "armour": 0,
+    "strength": 192,
+    "dexterity": 349,
+    "intelligence": 158,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 32088,
+    "physicalMaximumHitTaken": 5757,
+    "fireMaximumHitTaken": 24875,
+    "coldMaximumHitTaken": 21190,
+    "lightningMaximumHitTaken": 21190,
+    "chaosMaximumHitTaken": 11926,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 143,
+    "fireResistanceMax": 80,
+    "coldResistance": 76,
+    "coldResistanceOverCap": 37,
+    "coldResistanceMax": 76,
+    "lightningResistance": 76,
+    "lightningResistanceOverCap": 75,
+    "lightningResistanceMax": 76,
+    "chaosResistance": 53,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 76,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 29,
+    "spellDodgeChance": 0,
+    "itemRarity": 26,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 918,
+    "evadeChance": 84,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 2,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 2,
+        "takenDamage": 2124
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 94,
+      "lightning": 0,
+      "fire": 6,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5757
+  },
+  "keyStones": [
+    {
+      "name": "Perfect Agony",
+      "icon": "Art/2DArt/SkillIcons/passives/CritAilments.webp",
+      "stats": [
+        "Damage over Time Multiplier for Ailments is equal to Critical Strike Multiplier\nCritical Strikes do not deal extra Damage\nNon-Critical Strikes cannot inflict Ailments"
+      ]
+    }
+  ],
+  "masteriesCount": 13,
+  "passiveCount": 111,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Viper Strike of the Mamba",
+        "Melee Physical Damage Support",
+        "Nightblade Support",
+        "Added Chaos Damage Support",
+        "Deadly Ailments Support",
+        "Swift Affliction Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Cyclone",
+        "General's Cry",
+        "Withering Touch Support",
+        "Autoexertion"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flesh and Stone",
+        "Enlighten Support",
+        "Precision",
+        "Purity of Fire"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Assassin's Mark",
+        "Battlemage's Cry",
+        "Autoexertion",
+        "Arcane Surge Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Steelskin",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Despair",
+        "Whirling Blades"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink",
+        "Blood Rage",
+        "Desecrate"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Viper Strike of the Mamba",
+    "Melee Physical Damage Support",
+    "Nightblade Support",
+    "Added Chaos Damage Support",
+    "Deadly Ailments Support",
+    "Swift Affliction Support",
+    "Cyclone",
+    "General's Cry",
+    "Withering Touch Support",
+    "Autoexertion",
+    "Flesh and Stone",
+    "Enlighten Support",
+    "Precision",
+    "Purity of Fire",
+    "Assassin's Mark",
+    "Battlemage's Cry",
+    "Autoexertion",
+    "Arcane Surge Support",
+    "Steelskin",
+    "Cast when Damage Taken Support",
+    "Despair",
+    "Whirling Blades",
+    "Frostblink",
+    "Blood Rage",
+    "Desecrate"
+  ],
+  "items": [
+    {
+      "name": "Bino's Kitchen Knife",
+      "typeLine": "Slaughter Knife",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Storm Cloak",
+      "typeLine": "Syndicate's Garb",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Armageddon Paw",
+      "typeLine": "Stealth Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Ashes of the Stars",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Wrath Turn",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Blight Chant",
+      "typeLine": "Tyrant's Sekhem",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Loath Guardian",
+      "typeLine": "Majestic Pelt",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Hypnotic Shackle",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Blight Tower",
+      "typeLine": "Rotted Round Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Morbid Road",
+      "typeLine": "Runic Sabatons",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Damnation Knuckle",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Death Razor",
+      "typeLine": "Pneumatic Dagger",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    }
+  ],
+  "jewelsCount": 13,
+  "lastCheckedUtc": "2026-06-24T04:47:22.431233Z"
+}

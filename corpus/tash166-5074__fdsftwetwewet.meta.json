@@ -1,0 +1,236 @@
+{
+  "account": "tash166-5074",
+  "name": "fdsftwetwewet",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 8449,
+    "energyShield": 6128,
+    "mana": 1731,
+    "ward": 0,
+    "movementSpeed": 159,
+    "lifeRegen": 0,
+    "evasionRating": 52,
+    "armour": 27817,
+    "strength": 3274,
+    "dexterity": 177,
+    "intelligence": 394,
+    "enduranceCharges": 7,
+    "frenzyCharges": 4,
+    "powerCharges": 3,
+    "effectiveHealthPool": 417234,
+    "physicalMaximumHitTaken": 40150,
+    "fireMaximumHitTaken": 233092,
+    "coldMaximumHitTaken": 233092,
+    "lightningMaximumHitTaken": 233092,
+    "chaosMaximumHitTaken": 57845,
+    "fireResistance": 89,
+    "fireResistanceOverCap": 42,
+    "fireResistanceMax": 0,
+    "coldResistance": -20,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 0,
+    "lightningResistance": -10,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 22,
+    "chaosResistanceMax": 0,
+    "blockChance": 50,
+    "spellBlockChance": 50,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 39,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 40150
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Tempered by War",
+      "icon": "Art/2DArt/SkillIcons/passives/TemperedByWar.webp",
+      "stats": [
+        "50% of Cold and Lightning Damage taken as Fire Damage",
+        "50% less Cold Resistance",
+        "50% less Lightning Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 112,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Heavy Strike of Trarthus",
+        "Increased Critical Damage Support",
+        "Void Manipulation Support",
+        "Volatility Support",
+        "Greater Ancestral Call Support",
+        "Greater Multistrike Support",
+        "Endurance Charge on Melee Stun Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Animate Guardian",
+        "Minion Life Support",
+        "Elemental Army Support",
+        "Meat Shield Support",
+        "Companionship Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Molten Shell",
+        "Enhance Support",
+        "Withering Step",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Fire",
+        "Arctic Armour",
+        "Awakened Empower Support",
+        "Enhance Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Leap Slam",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Assassin's Mark",
+        "Mark On Hit Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Heavy Strike of Trarthus",
+    "Increased Critical Damage Support",
+    "Void Manipulation Support",
+    "Volatility Support",
+    "Greater Ancestral Call Support",
+    "Greater Multistrike Support",
+    "Endurance Charge on Melee Stun Support",
+    "Lifetap Support",
+    "Animate Guardian",
+    "Minion Life Support",
+    "Elemental Army Support",
+    "Meat Shield Support",
+    "Companionship Support",
+    "Molten Shell",
+    "Enhance Support",
+    "Withering Step",
+    "More Duration Support",
+    "Purity of Fire",
+    "Arctic Armour",
+    "Awakened Empower Support",
+    "Enhance Support",
+    "Leap Slam",
+    "Faster Attacks Support",
+    "Assassin's Mark",
+    "Mark On Hit Support"
+  ],
+  "items": [
+    {
+      "name": "Maelström Torc",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Woe Spiral",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Woe Gnarl",
+      "typeLine": "Lathi",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Replica Alberon's Warpath",
+      "typeLine": "Soldier Boots",
+      "frameType": 10,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Gale Mantle",
+      "typeLine": "Sacred Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Phoenix Eye",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Anarchy Shackle",
+      "typeLine": "Synthesised Cloth Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Skull Corona",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Shaper's Touch",
+      "typeLine": "Crusader Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-03-14T04:06:20.891818Z"
+}

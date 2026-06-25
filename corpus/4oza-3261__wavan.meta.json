@@ -1,0 +1,294 @@
+{
+  "account": "4oza-3261",
+  "name": "wavan",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Delirious Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 8310,
+    "mana": 1185,
+    "ward": 0,
+    "movementSpeed": 141,
+    "lifeRegen": 0,
+    "evasionRating": 1210,
+    "armour": 18490,
+    "strength": 247,
+    "dexterity": 96,
+    "intelligence": 387,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 287169,
+    "physicalMaximumHitTaken": 15784,
+    "fireMaximumHitTaken": 49470,
+    "coldMaximumHitTaken": 49470,
+    "lightningMaximumHitTaken": 43286,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 82,
+    "fireResistanceOverCap": 75,
+    "fireResistanceMax": 82,
+    "coldResistance": 82,
+    "coldResistanceOverCap": 74,
+    "coldResistanceMax": 82,
+    "lightningResistance": 79,
+    "lightningResistanceOverCap": 36,
+    "lightningResistanceMax": 79,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 83,
+    "spellBlockChance": 78,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 19,
+    "energyShieldRegen": 642,
+    "lifeReserved": 0,
+    "manaReserved": 1087,
+    "evadeChance": 1,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 11
+    },
+    "lowestMaximumHitTaken": 15784
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 134,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Eviscerate",
+        "Burning Damage Support",
+        "Deadly Ailments Support",
+        "Volatility Support",
+        "Ignite Proliferation Support",
+        "Elemental Damage with Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Automation",
+        "Molten Shell",
+        "Tempest Shield",
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Arcanist Brand",
+        "Flammability",
+        "Elemental Weakness",
+        "Flame Surge"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Summon Stone Golem",
+        "Enhance Support",
+        "Summon Chaos Golem",
+        "Summon Flame Golem"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Discipline",
+        "Discipline",
+        "Discipline"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Flame Dash",
+        "Faster Attacks Support",
+        "Shield Charge"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vaal Discipline",
+        "Summon Lightning Golem"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vaal Smite"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Discipline"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Discipline"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Discipline"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Eviscerate",
+    "Burning Damage Support",
+    "Deadly Ailments Support",
+    "Volatility Support",
+    "Ignite Proliferation Support",
+    "Elemental Damage with Attacks Support",
+    "Automation",
+    "Molten Shell",
+    "Tempest Shield",
+    "Malevolence",
+    "Arcanist Brand",
+    "Flammability",
+    "Elemental Weakness",
+    "Flame Surge",
+    "Summon Stone Golem",
+    "Enhance Support",
+    "Summon Chaos Golem",
+    "Summon Flame Golem",
+    "Discipline",
+    "Discipline",
+    "Discipline",
+    "Flame Dash",
+    "Faster Attacks Support",
+    "Shield Charge",
+    "Vaal Discipline",
+    "Summon Lightning Golem",
+    "Vaal Smite",
+    "Discipline",
+    "Discipline",
+    "Discipline"
+  ],
+  "items": [
+    {
+      "name": "Ephemeral Edge",
+      "typeLine": "Dusk Blade",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Polaric Devastation",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Soul Fingers",
+      "typeLine": "Paladin Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Apocalypse Shelter",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Torment Horn",
+      "typeLine": "Divine Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Dire Road",
+      "typeLine": "Paladin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "",
+      "typeLine": "Driftwood Wand",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Ghoul Wish",
+      "typeLine": "Fossilised Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Bitter Instinct",
+      "typeLine": "Spiny Round Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Dyadian Dawn",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Anvil",
+      "typeLine": "Amber Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 3,
+  "lastCheckedUtc": "2026-06-18T17:54:12.540544Z"
+}

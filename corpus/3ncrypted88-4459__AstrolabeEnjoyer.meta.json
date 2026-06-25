@@ -1,0 +1,247 @@
+{
+  "account": "3ncrypted88-4459",
+  "name": "AstrolabeEnjoyer",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Berserker",
+  "ascendancy": "Berserker",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5385,
+    "energyShield": 831,
+    "mana": 814,
+    "ward": 0,
+    "movementSpeed": 202,
+    "lifeRegen": 544,
+    "evasionRating": 248,
+    "armour": 39584,
+    "strength": 342,
+    "dexterity": 178,
+    "intelligence": 75,
+    "enduranceCharges": 6,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 94117,
+    "physicalMaximumHitTaken": 30126,
+    "fireMaximumHitTaken": 93697,
+    "coldMaximumHitTaken": 89012,
+    "lightningMaximumHitTaken": 89012,
+    "chaosMaximumHitTaken": 51225,
+    "fireResistance": 84,
+    "fireResistanceOverCap": 56,
+    "fireResistanceMax": 84,
+    "coldResistance": 83,
+    "coldResistanceOverCap": 42,
+    "coldResistanceMax": 83,
+    "lightningResistance": 83,
+    "lightningResistanceOverCap": 42,
+    "lightningResistanceMax": 83,
+    "chaosResistance": 76,
+    "chaosResistanceOverCap": 7,
+    "chaosResistanceMax": 76,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 60,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 720,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 0,
+      "fire": 10,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 30126
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Corrupted Soul",
+      "icon": "Art/2DArt/SkillIcons/passives/CorruptedDefences.webp",
+      "stats": [
+        "50% of Non-Chaos Damage taken bypasses Energy Shield",
+        "Gain 15% of Maximum Life as Extra Maximum Energy Shield"
+      ]
+    }
+  ],
+  "masteriesCount": 12,
+  "passiveCount": 133,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Earthshatter",
+        "Overexertion Support",
+        "Brutality Support",
+        "Pulverise Support",
+        "Melee Physical Damage Support",
+        "Ruthless Support",
+        "Fortify Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Rallying Cry",
+        "Infernal Cry",
+        "Blood and Sand",
+        "Blood Rage"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Herald of Purity",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Autoexertion",
+        "Seismic Cry",
+        "Intimidating Cry",
+        "Vaal Molten Shell"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Enduring Cry",
+        "Leap Slam",
+        "Faster Attacks Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Vulnerability",
+        "General's Cry",
+        "Autoexertion",
+        "Battlemage's Cry"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Earthshatter",
+    "Overexertion Support",
+    "Brutality Support",
+    "Pulverise Support",
+    "Melee Physical Damage Support",
+    "Ruthless Support",
+    "Fortify Support",
+    "Rallying Cry",
+    "Infernal Cry",
+    "Blood and Sand",
+    "Blood Rage",
+    "Herald of Purity",
+    "Frostblink",
+    "Autoexertion",
+    "Seismic Cry",
+    "Intimidating Cry",
+    "Vaal Molten Shell",
+    "Enduring Cry",
+    "Leap Slam",
+    "Faster Attacks Support",
+    "Lifetap Support",
+    "Vulnerability",
+    "General's Cry",
+    "Autoexertion",
+    "Battlemage's Cry"
+  ],
+  "items": [
+    {
+      "name": "Pain Salvation",
+      "typeLine": "Royal Plate",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Beast Knot",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Echoes of Creation",
+      "typeLine": "Royal Burgonet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Empyrean Palm",
+      "typeLine": "Ancient Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Phoenix Hunger",
+      "typeLine": "Vaal Axe",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Pain League",
+      "typeLine": "Hydrascale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Corpse Girdle",
+      "typeLine": "Stygian Vise",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "",
+      "typeLine": "Chilled Boarding Axe",
+      "frameType": 1,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Fate Hold",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "",
+      "typeLine": "Chest Splitter of Impact",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Empyrean Idol",
+      "typeLine": "Amber Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 5,
+  "lastCheckedUtc": "2026-06-20T12:14:25.735341Z"
+}

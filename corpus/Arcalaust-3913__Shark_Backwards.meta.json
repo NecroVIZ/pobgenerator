@@ -1,0 +1,259 @@
+{
+  "account": "Arcalaust-3913",
+  "name": "Shark_Backwards",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Ascendant",
+  "ascendancy": "Ascendant",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 7169,
+    "mana": 1855,
+    "ward": 0,
+    "movementSpeed": 206,
+    "lifeRegen": 0,
+    "evasionRating": 0,
+    "armour": 346116,
+    "strength": 210,
+    "dexterity": 424,
+    "intelligence": 319,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 271411,
+    "physicalMaximumHitTaken": 42830,
+    "fireMaximumHitTaken": 59910,
+    "coldMaximumHitTaken": 78344,
+    "lightningMaximumHitTaken": 59910,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 86,
+    "fireResistanceOverCap": 120,
+    "fireResistanceMax": 0,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 118,
+    "coldResistanceMax": 0,
+    "lightningResistance": 86,
+    "lightningResistanceOverCap": 67,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 75,
+    "spellBlockChance": 55,
+    "spellSuppressionChance": 91,
+    "spellDodgeChance": 0,
+    "itemRarity": 30,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 11
+    },
+    "lowestMaximumHitTaken": 42830
+  },
+  "keyStones": [
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Iron Reflexes",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
+      "stats": [
+        "Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 112,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Grace",
+        "Vaal Haste",
+        "Purity of Elements",
+        "Determination",
+        "Vaal Discipline",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Lightning",
+        "Enlighten Support",
+        "Purity of Fire",
+        "Purity of Ice"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Wrath",
+        "Generosity Support",
+        "Enlighten Support",
+        "Hatred"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Smite",
+        "Precision",
+        "Generosity Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Tempest Shield",
+        "Vitality",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Clarity",
+        "Flame Dash"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Grace",
+    "Vaal Haste",
+    "Purity of Elements",
+    "Determination",
+    "Vaal Discipline",
+    "Enlighten Support",
+    "Purity of Lightning",
+    "Enlighten Support",
+    "Purity of Fire",
+    "Purity of Ice",
+    "Wrath",
+    "Generosity Support",
+    "Enlighten Support",
+    "Hatred",
+    "Smite",
+    "Precision",
+    "Generosity Support",
+    "Tempest Shield",
+    "Vitality",
+    "Enlighten Support",
+    "Clarity",
+    "Flame Dash"
+  ],
+  "items": [
+    {
+      "name": "Ventor's Gamble",
+      "typeLine": "Gold Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "The Dark Seer",
+      "typeLine": "Shadow Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Breathstealer",
+      "typeLine": "Hydrascale Gauntlets",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Doom Lure",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Honour Mantle",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Aegis Aurora",
+      "typeLine": "Champion Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Bubonic Trail",
+      "typeLine": "Murder Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Eternal Struggle",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Damnation Glance",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Morbid Siege",
+      "typeLine": "Spine Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Ventor's Gamble",
+      "typeLine": "Gold Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 18,
+  "lastCheckedUtc": "2026-06-23T07:16:36.558409Z"
+}

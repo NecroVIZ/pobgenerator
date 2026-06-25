@@ -1,0 +1,314 @@
+{
+  "account": "沃弟怪怪-0374",
+  "name": "就是头铁玩烙印",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 2038,
+    "energyShield": 1597,
+    "mana": 998,
+    "ward": 0,
+    "movementSpeed": 393,
+    "lifeRegen": 0,
+    "evasionRating": 2023,
+    "armour": 584,
+    "strength": 109,
+    "dexterity": 169,
+    "intelligence": 401,
+    "enduranceCharges": 1,
+    "frenzyCharges": 11,
+    "powerCharges": 11,
+    "effectiveHealthPool": 11810,
+    "physicalMaximumHitTaken": 2897,
+    "fireMaximumHitTaken": 10354,
+    "coldMaximumHitTaken": 12112,
+    "lightningMaximumHitTaken": 10354,
+    "chaosMaximumHitTaken": 6715,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 10,
+    "fireResistanceMax": 75,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 45,
+    "coldResistanceMax": 80,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 1,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 34,
+    "spellBlockChance": 8,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 1035,
+    "manaReserved": 991,
+    "evadeChance": 12,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 2897
+  },
+  "keyStones": [
+    {
+      "name": "Runebinder",
+      "icon": "Art/2DArt/SkillIcons/passives/BrandKeystone.webp",
+      "stats": [
+        "-1 to maximum number of Summoned Totems\nYou can have an additional Brand Attached to an Enemy"
+      ]
+    },
+    {
+      "name": "Mind Over Matter",
+      "icon": "Art/2DArt/SkillIcons/passives/heroicspirit.webp",
+      "stats": [
+        "40% of Damage is taken from Mana before Life"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Eldritch Battery",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
+      "stats": [
+        "Spend Energy Shield before Mana for Skill Mana Costs\nEnergy Shield protects Mana instead of Life\n50% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Inner Conviction",
+      "icon": "Art/2DArt/SkillIcons/passives/InnerConviction.webp",
+      "stats": [
+        "3% more Spell Damage per Power Charge",
+        "Gain Power Charges instead of Frenzy Charges"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 124,
+  "skillGroups": [
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Haste",
+        "Raise Spectre",
+        "Empower Support",
+        "Summon Lightning Golem",
+        "Herald of Purity"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Raise Spectre",
+        "Empower Support",
+        "Summon Lightning Golem",
+        "Haste"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Herald of Purity",
+        "Haste"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Penance Brand of Dissipation",
+        "Increased Critical Damage Support",
+        "Faster Casting Support",
+        "Concentrated Effect Support",
+        "Arcane Surge Support",
+        "Hypothermia Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Petrified Blood",
+        "Herald of Ash",
+        "Cast on Death Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Thunder",
+        "Arrogance Support",
+        "Cast on Death Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Summon Skitterbots",
+        "Unbound Ailments Support",
+        "Enlighten Support",
+        "Bonechill Support",
+        "Discipline"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Steelskin",
+        "Phase Run",
+        "Automation",
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Animate Guardian",
+        "Guardian's Blessing Support",
+        "Hatred"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Elemental Weakness",
+        "Cursed Ground Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flame Dash"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Haste",
+    "Raise Spectre",
+    "Empower Support",
+    "Summon Lightning Golem",
+    "Herald of Purity",
+    "Raise Spectre",
+    "Empower Support",
+    "Summon Lightning Golem",
+    "Haste",
+    "Herald of Purity",
+    "Haste",
+    "Penance Brand of Dissipation",
+    "Increased Critical Damage Support",
+    "Faster Casting Support",
+    "Concentrated Effect Support",
+    "Arcane Surge Support",
+    "Hypothermia Support",
+    "Power Charge On Critical Support",
+    "Petrified Blood",
+    "Herald of Ash",
+    "Cast on Death Support",
+    "Herald of Thunder",
+    "Arrogance Support",
+    "Cast on Death Support",
+    "Summon Skitterbots",
+    "Unbound Ailments Support",
+    "Enlighten Support",
+    "Bonechill Support",
+    "Discipline",
+    "Steelskin",
+    "Phase Run",
+    "Automation",
+    "Convocation",
+    "Animate Guardian",
+    "Guardian's Blessing Support",
+    "Hatred",
+    "Elemental Weakness",
+    "Cursed Ground Support",
+    "Flame Dash"
+  ],
+  "items": [
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Annihilating Light",
+      "typeLine": "Quarterstaff",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Oblivion Touch",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "The Broken Crown",
+      "typeLine": "Prophet Crown",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Circle of Fear",
+      "typeLine": "Synthesised Sapphire Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Void Battery",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Badge of the Brotherhood",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Void Battery",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Replica Restless Ward",
+      "typeLine": "Carnal Armour",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-22T06:56:27.584388Z"
+}

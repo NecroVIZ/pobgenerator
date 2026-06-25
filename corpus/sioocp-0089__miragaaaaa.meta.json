@@ -1,0 +1,165 @@
+{
+  "account": "sioocp-0089",
+  "name": "miragaaaaa",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4277,
+    "energyShield": 280,
+    "mana": 726,
+    "ward": 0,
+    "movementSpeed": 173,
+    "lifeRegen": 128,
+    "evasionRating": 1138,
+    "armour": 1173,
+    "strength": 114,
+    "dexterity": 53,
+    "intelligence": 103,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 6641,
+    "physicalMaximumHitTaken": 4780,
+    "fireMaximumHitTaken": 5768,
+    "coldMaximumHitTaken": 3895,
+    "lightningMaximumHitTaken": 3617,
+    "chaosMaximumHitTaken": 4806,
+    "fireResistance": 24,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 76,
+    "coldResistance": -14,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": -23,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 11,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 4,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 38,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 3617
+  },
+  "keyStones": [
+    {
+      "name": "Eternal Youth",
+      "icon": "Art/2DArt/SkillIcons/passives/EternalYouth.webp",
+      "stats": [
+        "50% less Life Regeneration Rate\n50% less maximum Total Life Recovery per Second from Leech\nEnergy Shield Recharge instead applies to Life"
+      ]
+    },
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Acrobatics",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneAcrobatics.webp",
+      "stats": [
+        "Modifiers to Chance to Suppress Spell Damage instead apply to Chance to Dodge Spell Hits at 50% of their value\nMaximum Chance to Dodge Spell Hits is 75%"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 125,
+  "skillGroups": [],
+  "allGemNames": [],
+  "items": [
+    {
+      "name": "The Screaming Eagle",
+      "typeLine": "Jade Hatchet",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "The Monastery Bell",
+      "typeLine": "Dream Mace",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Tabula Rasa",
+      "typeLine": "Simple Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Ming's Heart",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Kitava's Thirst",
+      "typeLine": "Zealot Helmet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Eyes of the Greatwolf",
+      "typeLine": "Greatwolf Talisman",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Legacy of Fury",
+      "typeLine": "Wyrmscale Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn Umbilicus Immortalis",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Foulborn Berek's Pass",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Hand of Heresy",
+      "typeLine": "Martyr Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 0,
+  "lastCheckedUtc": "2026-06-19T18:22:20.106404Z"
+}

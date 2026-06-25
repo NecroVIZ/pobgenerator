@@ -1,0 +1,271 @@
+{
+  "account": "Antariell-1802",
+  "name": "Kebab_Dealer",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Olroth Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1676,
+    "energyShield": 0,
+    "mana": 856,
+    "ward": 46645,
+    "movementSpeed": 202,
+    "lifeRegen": 239,
+    "evasionRating": 3402,
+    "armour": 2646,
+    "strength": 184,
+    "dexterity": 187,
+    "intelligence": 159,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 31308,
+    "physicalMaximumHitTaken": 62700,
+    "fireMaximumHitTaken": 172575,
+    "coldMaximumHitTaken": 172575,
+    "lightningMaximumHitTaken": 178967,
+    "chaosMaximumHitTaken": 103805,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 24,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": 76,
+    "lightningResistanceOverCap": 7,
+    "lightningResistanceMax": 76,
+    "chaosResistance": 51,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 703,
+    "evadeChance": 91,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 62700
+  },
+  "keyStones": [
+    {
+      "name": "Black Scythe Training",
+      "icon": "Art/2DArt/SkillIcons/passives/KalguuranDexKeystone.webp",
+      "stats": [
+        "Removes all Energy Shield",
+        "Chance to Evade Hits is based off of 200% of your Ward instead of your Evasion Rating",
+        "Physical Damage Reduction from Hits is based off of 200% of your Ward instead of your Armour"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 94,
+  "skillGroups": [
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Summon Flame Golem",
+        "Animate Guardian",
+        "Raise Spectre",
+        "Minion Life Support",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Phase Run",
+        "Cast on Ward Break Support",
+        "Summon Skeletons",
+        "Less Duration Support",
+        "Swift Affliction Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Immortal Call",
+        "Cast on Ward Break Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vulnerability",
+        "Cursed Ground Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Raise Zombie of Falling",
+        "Exsanguinate",
+        "Cast on Ward Break Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Pride",
+        "Summon Stone Golem"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Herald of Purity"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Clarity"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vaal Righteous Fire"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Summon Flame Golem",
+    "Animate Guardian",
+    "Raise Spectre",
+    "Minion Life Support",
+    "Meat Shield Support",
+    "Phase Run",
+    "Cast on Ward Break Support",
+    "Summon Skeletons",
+    "Less Duration Support",
+    "Swift Affliction Support",
+    "Immortal Call",
+    "Cast on Ward Break Support",
+    "Vulnerability",
+    "Cursed Ground Support",
+    "Convocation",
+    "Raise Zombie of Falling",
+    "Exsanguinate",
+    "Cast on Ward Break Support",
+    "Power Charge On Critical Support",
+    "Pride",
+    "Summon Stone Golem",
+    "Herald of Purity",
+    "Clarity",
+    "Vaal Righteous Fire",
+    "Frostblink"
+  ],
+  "items": [
+    {
+      "name": "Ynda's Stand",
+      "typeLine": "Studded Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Divinarius",
+      "typeLine": "Imperial Skean",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Foulborn Heartbound Loop",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Divinarius",
+      "typeLine": "Imperial Skean",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Ghoul Barb",
+      "typeLine": "Platinum Kris",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Storm Scarab",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Torment Lure",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Divinarius",
+      "typeLine": "Imperial Skean",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Faithguard",
+      "typeLine": "Runic Helm",
+      "frameType": 10,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Tempest Jack",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Demon Track",
+      "typeLine": "Runic Sabatons",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Entropy Hold",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Entropic Devastation",
+      "typeLine": "Assassin's Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 19,
+  "lastCheckedUtc": "2026-06-20T11:48:08.973248Z"
+}

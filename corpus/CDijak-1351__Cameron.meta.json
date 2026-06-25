@@ -1,0 +1,243 @@
+{
+  "account": "CDijak-1351",
+  "name": "Cameron",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Guardian",
+  "ascendancy": "Guardian",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 4359,
+    "energyShield": 3374,
+    "mana": 969,
+    "ward": 0,
+    "movementSpeed": 166,
+    "lifeRegen": 43,
+    "evasionRating": 1817,
+    "armour": 32707,
+    "strength": 93,
+    "dexterity": 64,
+    "intelligence": 68,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 27949,
+    "physicalMaximumHitTaken": 11573,
+    "fireMaximumHitTaken": 26407,
+    "coldMaximumHitTaken": 26407,
+    "lightningMaximumHitTaken": 26407,
+    "chaosMaximumHitTaken": 16080,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 9,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 3,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 30,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 19,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 339,
+    "manaReserved": 847,
+    "evadeChance": 9,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 11573
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 101,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Absolution of Inspiring",
+        "Greater Spell Echo Support",
+        "Empower Support",
+        "Increased Critical Damage Support",
+        "Greater Spell Cascade Support",
+        "Inspiration Support",
+        "Physical to Lightning Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Herald of Purity",
+        "Enlighten Support",
+        "Determination",
+        "Discipline",
+        "Herald of Ash",
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Raise Spectre",
+        "Empower Support",
+        "Animate Guardian",
+        "Meat Shield Support",
+        "Minion Life Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Leap Slam",
+        "Faster Attacks Support",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Assassin's Mark",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Summon Flame Golem",
+        "Vaal Clarity",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Summon Lightning Golem"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Absolution of Inspiring",
+    "Greater Spell Echo Support",
+    "Empower Support",
+    "Increased Critical Damage Support",
+    "Greater Spell Cascade Support",
+    "Inspiration Support",
+    "Physical to Lightning Support",
+    "Herald of Purity",
+    "Enlighten Support",
+    "Determination",
+    "Discipline",
+    "Herald of Ash",
+    "Purity of Elements",
+    "Raise Spectre",
+    "Empower Support",
+    "Animate Guardian",
+    "Meat Shield Support",
+    "Minion Life Support",
+    "Leap Slam",
+    "Faster Attacks Support",
+    "Momentum Support",
+    "Assassin's Mark",
+    "Mark On Hit Support",
+    "Summon Flame Golem",
+    "Vaal Clarity",
+    "Arrogance Support",
+    "Summon Lightning Golem",
+    "Herald of the Hive"
+  ],
+  "items": [
+    {
+      "name": "Loath Grip",
+      "typeLine": "Bone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "The Golden Charlatan",
+      "typeLine": "Lion Sword",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Venarius' Astrolabe",
+      "typeLine": "Astrolabe Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Bramble Paw",
+      "typeLine": "Paladin Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Blunderbore",
+      "typeLine": "Astral Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Original Sin",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Onslaught Sole",
+      "typeLine": "Fugitive Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-22T22:08:27.141688Z"
+}

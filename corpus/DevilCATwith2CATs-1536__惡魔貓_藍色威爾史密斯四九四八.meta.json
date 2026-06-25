@@ -1,0 +1,271 @@
+{
+  "account": "DevilCATwith2CATs-1536",
+  "name": "惡魔貓_藍色威爾史密斯四九四八",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Necromancer",
+  "ascendancy": "Necromancer",
+  "secondaryAscendancy": "Catarina Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3402,
+    "energyShield": 2613,
+    "mana": 795,
+    "ward": 0,
+    "movementSpeed": 179,
+    "lifeRegen": 102,
+    "evasionRating": 6803,
+    "armour": 60512,
+    "strength": 166,
+    "dexterity": 177,
+    "intelligence": 201,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 536898,
+    "physicalMaximumHitTaken": 24508,
+    "fireMaximumHitTaken": 112802,
+    "coldMaximumHitTaken": 112806,
+    "lightningMaximumHitTaken": 112850,
+    "chaosMaximumHitTaken": 33608,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 39,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 62,
+    "coldResistanceMax": 90,
+    "lightningResistance": -180,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 20,
+    "chaosResistanceMax": 75,
+    "blockChance": 80,
+    "spellBlockChance": 70,
+    "spellSuppressionChance": 7,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": -131,
+    "lifeReserved": 0,
+    "manaReserved": 751,
+    "evadeChance": 44,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 60512,
+        "base": 22,
+        "takenDamage": 2245
+      },
+      "fire": {
+        "value": 20,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 20,
+        "takenDamage": 3406
+      },
+      "cold": {
+        "value": 20,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 20,
+        "takenDamage": 3338
+      },
+      "lightning": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 60512,
+        "base": 20,
+        "takenDamage": 22
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 24508
+  },
+  "keyStones": [
+    {
+      "name": "Tempered by War",
+      "icon": "Art/2DArt/SkillIcons/passives/TemperedByWar.webp",
+      "stats": [
+        "50% of Cold and Lightning Damage taken as Fire Damage",
+        "50% less Cold Resistance",
+        "50% less Lightning Resistance"
+      ]
+    },
+    {
+      "name": "Immortal Ambition",
+      "icon": "Art/2DArt/SkillIcons/passives/SoulTetherKeystone.webp",
+      "stats": [
+        "Energy Shield starts at zero",
+        "Cannot Recharge or Regenerate Energy Shield",
+        "Lose 5% of Energy Shield per second",
+        "Life Leech effects are not removed at Full Life",
+        "Life Leech effects Recover Energy Shield instead while on Full Life"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 97,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Raise Spectre",
+        "Pierce Support",
+        "Greater Spell Echo Support",
+        "Minion Damage Support",
+        "Controlled Destruction Support",
+        "Signal Prey",
+        "Returning Projectiles Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink",
+        "Faster Attacks Support",
+        "Shield Charge",
+        "Sniper's Mark",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Bone Offering",
+        "Desecrate",
+        "Vaal Molten Shell",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Raise Spectre",
+        "Congregation Support",
+        "Feeding Frenzy Support",
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Grace",
+        "Purity of Ice",
+        "Determination"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Raise Spectre",
+    "Pierce Support",
+    "Greater Spell Echo Support",
+    "Minion Damage Support",
+    "Controlled Destruction Support",
+    "Signal Prey",
+    "Returning Projectiles Support",
+    "Frostblink",
+    "Faster Attacks Support",
+    "Shield Charge",
+    "Sniper's Mark",
+    "Lifetap Support",
+    "Bone Offering",
+    "Desecrate",
+    "Vaal Molten Shell",
+    "Lifetap Support",
+    "Raise Spectre",
+    "Congregation Support",
+    "Feeding Frenzy Support",
+    "Convocation",
+    "Grace",
+    "Purity of Ice",
+    "Determination"
+  ],
+  "items": [
+    {
+      "name": "Storm Spire",
+      "typeLine": "Convening Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Bramble Knuckle",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Wraithlord",
+      "typeLine": "Bone Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Foulborn Soul Tether",
+      "typeLine": "Cloth Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Aegis Aurora",
+      "typeLine": "Champion Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Plague Knot",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Dire Whorl",
+      "typeLine": "Penumbra Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "",
+      "typeLine": "Crystal Wand of Nimbleness",
+      "frameType": 1,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "Blasting Wand",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Bonemeld",
+      "typeLine": "Marble Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Doryani's Prototype",
+      "typeLine": "Saint's Hauberk",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Dire League",
+      "typeLine": "Precursor Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 16,
+  "lastCheckedUtc": "2026-06-24T04:46:07.046431Z"
+}

@@ -1,0 +1,246 @@
+{
+  "account": "Brenglos-2098",
+  "name": "TiValdo",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Oshabi Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 11125,
+    "energyShield": 0,
+    "mana": 895,
+    "ward": 0,
+    "movementSpeed": 155,
+    "lifeRegen": 750,
+    "evasionRating": 7357,
+    "armour": 0,
+    "strength": 224,
+    "dexterity": 181,
+    "intelligence": 224,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 144902,
+    "physicalMaximumHitTaken": 18957,
+    "fireMaximumHitTaken": 134117,
+    "coldMaximumHitTaken": 134117,
+    "lightningMaximumHitTaken": 134117,
+    "chaosMaximumHitTaken": 69804,
+    "fireResistance": 89,
+    "fireResistanceOverCap": 102,
+    "fireResistanceMax": 89,
+    "coldResistance": 16,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": 24,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 6,
+    "chaosResistanceMax": 75,
+    "blockChance": 25,
+    "spellBlockChance": 40,
+    "spellSuppressionChance": 89,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 788,
+    "evadeChance": 56,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 387,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 2,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 2,
+        "takenDamage": 2095
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 93,
+      "lightning": 0,
+      "fire": 7,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 18957
+  },
+  "keyStones": [
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Perfect Agony",
+      "icon": "Art/2DArt/SkillIcons/passives/CritAilments.webp",
+      "stats": [
+        "Damage over Time Multiplier for Ailments is equal to Critical Strike Multiplier\nCritical Strikes do not deal extra Damage\nNon-Critical Strikes cannot inflict Ailments"
+      ]
+    },
+    {
+      "name": "Tempered by War",
+      "icon": "Art/2DArt/SkillIcons/passives/TemperedByWar.webp",
+      "stats": [
+        "50% of Cold and Lightning Damage taken as Fire Damage",
+        "50% less Cold Resistance",
+        "50% less Lightning Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 123,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Molten Strike",
+        "Increased Critical Damage Support",
+        "Increased Critical Strikes Support",
+        "Deadly Ailments Support",
+        "Greater Multistrike Support",
+        "Lifetap Support",
+        "Greater Multiple Projectiles Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Herald of Agony",
+        "Enlighten Support",
+        "Purity of Fire",
+        "Arctic Armour"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Blood Rage"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Tempest Shield",
+        "Enlighten Support",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Assassin's Mark",
+        "Enhance Support",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Despair",
+        "Cast when Damage Taken Support",
+        "Lifetap Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Molten Strike",
+    "Increased Critical Damage Support",
+    "Increased Critical Strikes Support",
+    "Deadly Ailments Support",
+    "Greater Multistrike Support",
+    "Lifetap Support",
+    "Greater Multiple Projectiles Support",
+    "Herald of Agony",
+    "Enlighten Support",
+    "Purity of Fire",
+    "Arctic Armour",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Blood Rage",
+    "Tempest Shield",
+    "Enlighten Support",
+    "Frostblink",
+    "Assassin's Mark",
+    "Enhance Support",
+    "Mark On Hit Support",
+    "Despair",
+    "Cast when Damage Taken Support",
+    "Lifetap Support"
+  ],
+  "items": [
+    {
+      "name": "Rapture Urge",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Grey Wind",
+      "typeLine": "Spectral Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Viper Visage",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Nimis",
+      "typeLine": "Topaz Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Rathpith Globe",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Gale Claw",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Maelström Grasp",
+      "typeLine": "Synthesised Unset Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Defiance of Destiny",
+      "typeLine": "Paua Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "The Apostate",
+      "typeLine": "Cabalist Regalia",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-23T19:31:22.636111Z"
+}

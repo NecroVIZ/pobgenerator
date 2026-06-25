@@ -1,0 +1,235 @@
+{
+  "account": "AjBanana-3611",
+  "name": "AjBananaShrine",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3670,
+    "energyShield": 464,
+    "mana": 1136,
+    "ward": 0,
+    "movementSpeed": 212,
+    "lifeRegen": 318,
+    "evasionRating": 814,
+    "armour": 2594,
+    "strength": 125,
+    "dexterity": 126,
+    "intelligence": 52,
+    "enduranceCharges": 3,
+    "frenzyCharges": 5,
+    "powerCharges": 5,
+    "effectiveHealthPool": 13824,
+    "physicalMaximumHitTaken": 5111,
+    "fireMaximumHitTaken": 19971,
+    "coldMaximumHitTaken": 16405,
+    "lightningMaximumHitTaken": 16405,
+    "chaosMaximumHitTaken": 13510,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 98,
+    "fireResistanceMax": 80,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 46,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 20,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 66,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 42,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 1136,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5111
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 104,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Ethereal Knives of the Massacre",
+        "Inspiration Support",
+        "Greater Chain Support",
+        "Greater Spell Echo Support",
+        "Awakened Empower Support",
+        "Arcane Surge Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Summon Chaos Golem",
+        "Eclipse Support",
+        "Summon Stone Golem",
+        "Summon Flame Golem",
+        "Summon Lightning Golem"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Thunder",
+        "Spell Echo Support",
+        "Faster Casting Support",
+        "Frostblink of Wintry Blast"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Herald of Ice",
+        "Herald of Ash"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Herald of Agony"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Herald of Purity"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Vaal Clarity"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Ethereal Knives of the Massacre",
+    "Inspiration Support",
+    "Greater Chain Support",
+    "Greater Spell Echo Support",
+    "Awakened Empower Support",
+    "Arcane Surge Support",
+    "Summon Chaos Golem",
+    "Eclipse Support",
+    "Summon Stone Golem",
+    "Summon Flame Golem",
+    "Summon Lightning Golem",
+    "Herald of Thunder",
+    "Spell Echo Support",
+    "Faster Casting Support",
+    "Frostblink of Wintry Blast",
+    "Herald of Ice",
+    "Herald of Ash",
+    "Herald of Agony",
+    "Herald of Purity",
+    "Herald of the Hive",
+    "Vaal Clarity"
+  ],
+  "items": [
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Loath Claw",
+      "typeLine": "Fingerless Silk Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Original Sin",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Golden Charlatan",
+      "typeLine": "Lion Sword",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Venarius' Astrolabe",
+      "typeLine": "Astrolabe Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Null's Inclination",
+      "typeLine": "Ranger Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Blunderbore",
+      "typeLine": "Astral Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Morbid Spur",
+      "typeLine": "Fugitive Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-25T02:11:36.010829Z"
+}

@@ -1,0 +1,240 @@
+{
+  "account": "Alials-3882",
+  "name": "NEGJUGG",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Delirious Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Garukhan",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4714,
+    "energyShield": 571,
+    "mana": 694,
+    "ward": 0,
+    "movementSpeed": 181,
+    "lifeRegen": 1532,
+    "evasionRating": 28,
+    "armour": 23420,
+    "strength": 420,
+    "dexterity": 149,
+    "intelligence": 120,
+    "enduranceCharges": 9,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 60142,
+    "physicalMaximumHitTaken": 16689,
+    "fireMaximumHitTaken": 69501,
+    "coldMaximumHitTaken": 61779,
+    "lightningMaximumHitTaken": 65413,
+    "chaosMaximumHitTaken": 23868,
+    "fireResistance": 87,
+    "fireResistanceOverCap": 44,
+    "fireResistanceMax": 87,
+    "coldResistance": 85,
+    "coldResistanceOverCap": 39,
+    "coldResistanceMax": 85,
+    "lightningResistance": 86,
+    "lightningResistanceOverCap": 91,
+    "lightningResistanceMax": 86,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 16,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 694,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 16689
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    }
+  ],
+  "masteriesCount": 12,
+  "passiveCount": 134,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Boneshatter of Complex Trauma",
+        "Endurance Charge on Melee Stun Support",
+        "Volatility Support",
+        "Brutality Support",
+        "Melee Physical Damage Support",
+        "Ruthless Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Molten Shell",
+        "More Duration Support",
+        "Lifetap Support",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Blood Rage",
+        "Faster Attacks Support",
+        "Leap Slam",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Autoexertion",
+        "Vulnerability",
+        "Ancestral Cry",
+        "Battlemage's Cry"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Forbidden Rite",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Pride"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Enduring Cry"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Enduring Cry"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Boneshatter of Complex Trauma",
+    "Endurance Charge on Melee Stun Support",
+    "Volatility Support",
+    "Brutality Support",
+    "Melee Physical Damage Support",
+    "Ruthless Support",
+    "Molten Shell",
+    "More Duration Support",
+    "Lifetap Support",
+    "Cast when Damage Taken Support",
+    "Blood Rage",
+    "Faster Attacks Support",
+    "Leap Slam",
+    "Momentum Support",
+    "Autoexertion",
+    "Vulnerability",
+    "Ancestral Cry",
+    "Battlemage's Cry",
+    "Forbidden Rite",
+    "Frostblink",
+    "Pride",
+    "Vitality",
+    "Enduring Cry",
+    "Enduring Cry"
+  ],
+  "items": [
+    {
+      "name": "Blood Leash",
+      "typeLine": "Chain Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Glyph Choker",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Honour Thirst",
+      "typeLine": "Sundering Axe",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Eagle Span",
+      "typeLine": "Titan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Kaom's Sign",
+      "typeLine": "Coral Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Blight Crest",
+      "typeLine": "General's Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Kaom's Sign",
+      "typeLine": "Coral Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Victory Fingers",
+      "typeLine": "Titan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Oblivion Sanctuary",
+      "typeLine": "Sacred Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 1,
+  "lastCheckedUtc": "2026-06-21T15:41:38.264121Z"
+}

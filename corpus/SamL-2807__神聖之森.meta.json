@@ -1,0 +1,247 @@
+{
+  "account": "SamL-2807",
+  "name": "神聖之森",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Hierophant",
+  "ascendancy": "Hierophant",
+  "secondaryAscendancy": "Breachlord Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2231,
+    "energyShield": 2885,
+    "mana": 5886,
+    "ward": 174,
+    "movementSpeed": 135,
+    "lifeRegen": 168,
+    "evasionRating": 692,
+    "armour": 1224,
+    "strength": 165,
+    "dexterity": 78,
+    "intelligence": 322,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 7,
+    "effectiveHealthPool": 117161,
+    "physicalMaximumHitTaken": 8951,
+    "fireMaximumHitTaken": 32103,
+    "coldMaximumHitTaken": 32103,
+    "lightningMaximumHitTaken": 32103,
+    "chaosMaximumHitTaken": 4227,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 13,
+    "fireResistanceMax": 76,
+    "coldResistance": 76,
+    "coldResistanceOverCap": 31,
+    "coldResistanceMax": 76,
+    "lightningResistance": 76,
+    "lightningResistanceOverCap": 49,
+    "lightningResistanceMax": 76,
+    "chaosResistance": -4,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 82,
+    "spellBlockChance": 87,
+    "spellSuppressionChance": 7,
+    "spellDodgeChance": 0,
+    "itemRarity": 30,
+    "energyShieldRegen": 0,
+    "lifeReserved": 120,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 4227
+  },
+  "keyStones": [
+    {
+      "name": "Inner Conviction",
+      "icon": "Art/2DArt/SkillIcons/passives/InnerConviction.webp",
+      "stats": [
+        "3% more Spell Damage per Power Charge",
+        "Gain Power Charges instead of Frenzy Charges"
+      ]
+    },
+    {
+      "name": "Mind Over Matter",
+      "icon": "Art/2DArt/SkillIcons/passives/heroicspirit.webp",
+      "stats": [
+        "40% of Damage is taken from Mana before Life"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 122,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Ice Nova of Frostbolts",
+        "Inspiration Support",
+        "Greater Spell Echo Support",
+        "Intensify Support",
+        "Archmage Support",
+        "Increased Critical Damage Support",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Arcane Surge Support",
+        "Spell Echo Support",
+        "Archmage Support",
+        "Focused Channelling Support",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Elemental Weakness",
+        "Frostbolt",
+        "Punishment",
+        "Assassin's Mark",
+        "Greater Multiple Projectiles Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Arcane Cloak",
+        "Cooldown Recovery Support",
+        "Automation",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Wrath",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Clarity",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frost Shield",
+        "Conductivity",
+        "Sigil of Power"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Ice Nova of Frostbolts",
+    "Inspiration Support",
+    "Greater Spell Echo Support",
+    "Intensify Support",
+    "Archmage Support",
+    "Increased Critical Damage Support",
+    "Increased Critical Strikes Support",
+    "Frostblink of Wintry Blast",
+    "Arcane Surge Support",
+    "Spell Echo Support",
+    "Archmage Support",
+    "Focused Channelling Support",
+    "Faster Casting Support",
+    "Elemental Weakness",
+    "Frostbolt",
+    "Punishment",
+    "Assassin's Mark",
+    "Greater Multiple Projectiles Support",
+    "Arcane Cloak",
+    "Cooldown Recovery Support",
+    "Automation",
+    "More Duration Support",
+    "Wrath",
+    "Eternal Blessing Support",
+    "Clarity",
+    "Arrogance Support",
+    "Frost Shield",
+    "Conductivity",
+    "Sigil of Power"
+  ],
+  "items": [
+    {
+      "name": "Foulborn Kalisa's Grace",
+      "typeLine": "Samite Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Pain Charm",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Wrath Circle",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Anathema",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Havoc Song",
+      "typeLine": "Profane Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn Cloak of Defiance",
+      "typeLine": "Lacquered Garb",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Kitava's Thirst",
+      "typeLine": "Zealot Helmet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-25T07:14:54.265633Z"
+}

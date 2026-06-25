@@ -1,0 +1,291 @@
+{
+  "account": "CaptainOverLord-6511",
+  "name": "IamAcousticMan",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Guardian",
+  "ascendancy": "Guardian",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 7228,
+    "mana": 7408,
+    "ward": 0,
+    "movementSpeed": 129,
+    "lifeRegen": 0,
+    "evasionRating": 5560,
+    "armour": 16427,
+    "strength": 201,
+    "dexterity": 103,
+    "intelligence": 544,
+    "enduranceCharges": 7,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 187344,
+    "physicalMaximumHitTaken": 15038,
+    "fireMaximumHitTaken": 43653,
+    "coldMaximumHitTaken": 43653,
+    "lightningMaximumHitTaken": 55779,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 84,
+    "fireResistanceMax": 80,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 85,
+    "coldResistanceMax": 80,
+    "lightningResistance": 85,
+    "lightningResistanceOverCap": 240,
+    "lightningResistanceMax": 85,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 50,
+    "spellBlockChance": 75,
+    "spellSuppressionChance": 10,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 1857,
+    "lifeReserved": 0,
+    "manaReserved": 7369,
+    "evadeChance": 38,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 16427,
+        "base": 34,
+        "takenDamage": 2268
+      },
+      "fire": {
+        "value": 28,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 28,
+        "takenDamage": 2268
+      },
+      "cold": {
+        "value": 28,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 28,
+        "takenDamage": 2268
+      },
+      "lightning": {
+        "value": 28,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 28,
+        "takenDamage": 2268
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 15038
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 135,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Enduring Cry",
+        "Enhance Support",
+        "Ancestral Cry",
+        "Intimidating Cry",
+        "More Duration Support",
+        "Urgent Orders Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Battlemage's Cry",
+        "Infernal Cry",
+        "Urgent Orders Support",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Animate Guardian",
+        "Meat Shield Support",
+        "Minion Life Support",
+        "Companionship Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Purity of Elements",
+        "Flesh and Stone"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Tempest Shield",
+        "Clarity"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Arctic Armour",
+        "Vitality",
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vaal Cyclone",
+        "Enhance Support",
+        "Less Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Seismic Cry"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Enduring Cry",
+    "Enhance Support",
+    "Ancestral Cry",
+    "Intimidating Cry",
+    "More Duration Support",
+    "Urgent Orders Support",
+    "Battlemage's Cry",
+    "Infernal Cry",
+    "Urgent Orders Support",
+    "More Duration Support",
+    "Animate Guardian",
+    "Meat Shield Support",
+    "Minion Life Support",
+    "Companionship Support",
+    "Purity of Elements",
+    "Flesh and Stone",
+    "Tempest Shield",
+    "Clarity",
+    "Arctic Armour",
+    "Vitality",
+    "Flame Dash",
+    "Vaal Cyclone",
+    "Enhance Support",
+    "Less Duration Support",
+    "Seismic Cry"
+  ],
+  "items": [
+    {
+      "name": "Woe Nail",
+      "typeLine": "Ruby Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Choir of the Storm",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Corruption Snare",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Viper Eye",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Redblade Banner",
+      "typeLine": "Painted Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Bramble Cry",
+      "typeLine": "Tornado Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Hypnotic Charm",
+      "typeLine": "Vaal Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Rainbowstride",
+      "typeLine": "Conjurer Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn Ambu's Charge",
+      "typeLine": "Crusader Chainmail",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Behemoth Nails",
+      "typeLine": "Murder Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Memory Vault",
+      "typeLine": "Praetor Crown",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Foulborn Cybil's Paw",
+      "typeLine": "Thresher Claw",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    }
+  ],
+  "jewelsCount": 6,
+  "lastCheckedUtc": "2026-06-24T07:48:11.033537Z"
+}

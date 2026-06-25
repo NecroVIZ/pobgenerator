@@ -1,0 +1,302 @@
+{
+  "account": "5nizza24-5783",
+  "name": "GorillaDyadyaJi",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 4922,
+    "energyShield": 238,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 281,
+    "lifeRegen": 1995,
+    "evasionRating": 22,
+    "armour": 51735,
+    "strength": 73,
+    "dexterity": 64,
+    "intelligence": 73,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 62933,
+    "physicalMaximumHitTaken": 12743,
+    "fireMaximumHitTaken": 51172,
+    "coldMaximumHitTaken": 36958,
+    "lightningMaximumHitTaken": 36958,
+    "chaosMaximumHitTaken": 26783,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 10,
+    "fireResistanceMax": 90,
+    "coldResistance": 85,
+    "coldResistanceOverCap": 6,
+    "coldResistanceMax": 85,
+    "lightningResistance": 85,
+    "lightningResistanceOverCap": 9,
+    "lightningResistanceMax": 85,
+    "chaosResistance": 79,
+    "chaosResistanceOverCap": 1,
+    "chaosResistanceMax": 79,
+    "blockChance": 0,
+    "spellBlockChance": 60,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 2260,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 414,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 51735,
+        "base": 6,
+        "takenDamage": 2016
+      },
+      "fire": {
+        "value": 4,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 4,
+        "takenDamage": 2016
+      },
+      "cold": {
+        "value": 4,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 4,
+        "takenDamage": 2016
+      },
+      "lightning": {
+        "value": 4,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 4,
+        "takenDamage": 2016
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 12743
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Armageddon Brand of Recall",
+        "Increased Critical Damage Support",
+        "Fire Penetration Support",
+        "Combustion Support",
+        "Immolate Support",
+        "Concentrated Effect Support",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Automation",
+        "Awakened Empower Support",
+        "Brand Recall",
+        "Eclipse Support",
+        "Awakened Enhance Support",
+        "Cooldown Recovery Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Summon Flame Golem",
+        "Eternal Blessing Support",
+        "Frostblink",
+        "Determination"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Convocation",
+        "Automation",
+        "Molten Shell",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Righteous Fire",
+        "Enlighten Support",
+        "Tempest Shield",
+        "Petrified Blood"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Animate Guardian",
+        "Raise Spectre",
+        "Summon Stone Golem",
+        "Meat Shield Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Armageddon Brand of Recall",
+    "Increased Critical Damage Support",
+    "Fire Penetration Support",
+    "Combustion Support",
+    "Immolate Support",
+    "Concentrated Effect Support",
+    "Increased Critical Strikes Support",
+    "Automation",
+    "Awakened Empower Support",
+    "Brand Recall",
+    "Eclipse Support",
+    "Awakened Enhance Support",
+    "Cooldown Recovery Support",
+    "Summon Flame Golem",
+    "Eternal Blessing Support",
+    "Frostblink",
+    "Determination",
+    "Convocation",
+    "Automation",
+    "Molten Shell",
+    "Increased Critical Strikes Support",
+    "Righteous Fire",
+    "Enlighten Support",
+    "Tempest Shield",
+    "Petrified Blood",
+    "Animate Guardian",
+    "Raise Spectre",
+    "Summon Stone Golem",
+    "Meat Shield Support"
+  ],
+  "items": [
+    {
+      "name": "Saffell's Frame",
+      "typeLine": "Branded Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Soul Weaver",
+      "typeLine": "Opal Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "The Brass Dome",
+      "typeLine": "Gladiator Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Viper Collar",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Eagle Reach",
+      "typeLine": "Death Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Storm Knuckle",
+      "typeLine": "Synthesised Unset Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Plague Grasp",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Dire Dome",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Torment Track",
+      "typeLine": "Precursor Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Plague Ornament",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Morbid Hand",
+      "typeLine": "Titan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Mark of Submission",
+      "typeLine": "Unset Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-25T10:38:15.013875Z"
+}

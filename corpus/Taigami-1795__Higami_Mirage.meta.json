@@ -1,0 +1,263 @@
+{
+  "account": "Taigami-1795",
+  "name": "Higami_Mirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4825,
+    "energyShield": 1074,
+    "mana": 1058,
+    "ward": 0,
+    "movementSpeed": 231,
+    "lifeRegen": 591,
+    "evasionRating": 3720,
+    "armour": 195,
+    "strength": 162,
+    "dexterity": 159,
+    "intelligence": 162,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 18879,
+    "physicalMaximumHitTaken": 10283,
+    "fireMaximumHitTaken": 21952,
+    "coldMaximumHitTaken": 21952,
+    "lightningMaximumHitTaken": 21952,
+    "chaosMaximumHitTaken": 11912,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 96,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 59,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 46,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 14,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 1054,
+    "evadeChance": 27,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 10283
+  },
+  "keyStones": [
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Eldritch Battery",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
+      "stats": [
+        "Spend Energy Shield before Mana for Skill Mana Costs\nEnergy Shield protects Mana instead of Life\n50% less Energy Shield Recharge Rate"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 110,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Spark of the Nova",
+        "Inspiration Support",
+        "Cruelty Support",
+        "Efficacy Support",
+        "Greater Spell Echo Support",
+        "Unbound Ailments Support",
+        "Unhinge",
+        "Faster Projectiles Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flesh and Stone",
+        "Enlighten Support",
+        "Purity of Elements",
+        "Arctic Armour",
+        "Herald of Thunder",
+        "Discipline"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vitality",
+        "Frostblink of Wintry Blast",
+        "Despair",
+        "Vaal Haste",
+        "Lightning Penetration Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Automation",
+        "Convocation",
+        "Steelskin",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frost Shield"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Raise Spectre",
+        "Empower Support",
+        "Meat Shield Support",
+        "Elemental Army Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Spark of the Nova",
+    "Inspiration Support",
+    "Cruelty Support",
+    "Efficacy Support",
+    "Greater Spell Echo Support",
+    "Unbound Ailments Support",
+    "Unhinge",
+    "Faster Projectiles Support",
+    "Flesh and Stone",
+    "Enlighten Support",
+    "Purity of Elements",
+    "Arctic Armour",
+    "Herald of Thunder",
+    "Discipline",
+    "Vitality",
+    "Frostblink of Wintry Blast",
+    "Despair",
+    "Vaal Haste",
+    "Lightning Penetration Support",
+    "Automation",
+    "Convocation",
+    "Steelskin",
+    "Lifetap Support",
+    "Frost Shield",
+    "Raise Spectre",
+    "Empower Support",
+    "Meat Shield Support",
+    "Elemental Army Support"
+  ],
+  "items": [
+    {
+      "name": "Defiance of Destiny",
+      "typeLine": "Paua Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Anarchy Tread",
+      "typeLine": "Dragonscale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Onslaught Remnant",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Chimeric Spell",
+      "typeLine": "Crystal Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Soul Ram",
+      "typeLine": "Void Sceptre",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Tempest Knot",
+      "typeLine": "Diamond Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Soul Ascension",
+      "typeLine": "Carnal Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Dread Circle",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Morbid Spire",
+      "typeLine": "Feathered Arrow Quiver",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Skull Band",
+      "typeLine": "Synthesised Unset Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Doppelgänger Guise",
+      "typeLine": "Sadist Garb",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-18T11:24:26.99934Z"
+}

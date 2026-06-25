@@ -1,0 +1,299 @@
+{
+  "account": "Amogususus-7764",
+  "name": "zaloopers",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Olroth Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1702,
+    "energyShield": 0,
+    "mana": 950,
+    "ward": 57097,
+    "movementSpeed": 192,
+    "lifeRegen": 215,
+    "evasionRating": 2960,
+    "armour": 2541,
+    "strength": 181,
+    "dexterity": 211,
+    "intelligence": 262,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 32210,
+    "physicalMaximumHitTaken": 96587,
+    "fireMaximumHitTaken": 238632,
+    "coldMaximumHitTaken": 238632,
+    "lightningMaximumHitTaken": 247471,
+    "chaosMaximumHitTaken": 89089,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 49,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 49,
+    "coldResistanceMax": 75,
+    "lightningResistance": 76,
+    "lightningResistanceOverCap": 24,
+    "lightningResistanceMax": 76,
+    "chaosResistance": 34,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 747,
+    "evadeChance": 92,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 114194,
+        "base": 20,
+        "takenDamage": 2259
+      },
+      "fire": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2259
+      },
+      "cold": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2259
+      },
+      "lightning": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2259
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 89089
+  },
+  "keyStones": [
+    {
+      "name": "Black Scythe Training",
+      "icon": "Art/2DArt/SkillIcons/passives/KalguuranDexKeystone.webp",
+      "stats": [
+        "Removes all Energy Shield",
+        "Chance to Evade Hits is based off of 200% of your Ward instead of your Evasion Rating",
+        "Physical Damage Reduction from Hits is based off of 200% of your Ward instead of your Armour"
+      ]
+    }
+  ],
+  "masteriesCount": 2,
+  "passiveCount": 103,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Exsanguinate",
+        "Chain Support",
+        "Convocation",
+        "Cast on Ward Break Support",
+        "Annihilation Support",
+        "Cull the Weak Support",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Phase Run",
+        "Raise Zombie of Falling",
+        "Summon Skeletons",
+        "Cast on Ward Break Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Raging Spirit",
+        "More Duration Support",
+        "Cast on Ward Break Support",
+        "Immortal Call",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Raise Spectre",
+        "Animate Guardian",
+        "Empower Support",
+        "Righteous Fire",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Summon Stone Golem",
+        "Cast when Damage Taken Support",
+        "Elemental Weakness",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Herald of Ash",
+        "Clarity",
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Herald of Ash",
+        "Clarity",
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Raise Zombie of Falling",
+        "Cast when Damage Taken Support",
+        "Summon Skeletons"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Exsanguinate",
+    "Chain Support",
+    "Convocation",
+    "Cast on Ward Break Support",
+    "Annihilation Support",
+    "Cull the Weak Support",
+    "Increased Critical Strikes Support",
+    "Phase Run",
+    "Raise Zombie of Falling",
+    "Summon Skeletons",
+    "Cast on Ward Break Support",
+    "Lifetap Support",
+    "Summon Raging Spirit",
+    "More Duration Support",
+    "Cast on Ward Break Support",
+    "Immortal Call",
+    "Lifetap Support",
+    "Raise Spectre",
+    "Animate Guardian",
+    "Empower Support",
+    "Righteous Fire",
+    "Meat Shield Support",
+    "Summon Stone Golem",
+    "Cast when Damage Taken Support",
+    "Elemental Weakness",
+    "Lifetap Support",
+    "Herald of Ash",
+    "Clarity",
+    "Purity of Elements",
+    "Herald of Ash",
+    "Clarity",
+    "Purity of Elements",
+    "Raise Zombie of Falling",
+    "Cast when Damage Taken Support",
+    "Summon Skeletons"
+  ],
+  "items": [
+    {
+      "name": "Stranglegasp",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Heartbound Loop",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Le Heup of All",
+      "typeLine": "Iron Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Olroth's Charge",
+      "typeLine": "Runic Sollerets",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Ynda's Stand",
+      "typeLine": "Studded Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Storm Hold",
+      "typeLine": "Runic Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Faithguard",
+      "typeLine": "Runic Helm",
+      "frameType": 10,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Grace of the Goddess",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Death Sanctuary",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Mind Call",
+      "typeLine": "Quartz Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Wrath Bane",
+      "typeLine": "Abyssal Sceptre",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Grace of the Goddess",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    }
+  ],
+  "jewelsCount": 16,
+  "lastCheckedUtc": "2026-06-25T10:14:34.455486Z"
+}

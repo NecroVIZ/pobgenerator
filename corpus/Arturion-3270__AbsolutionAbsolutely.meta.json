@@ -1,0 +1,266 @@
+{
+  "account": "Arturion-3270",
+  "name": "AbsolutionAbsolutely",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Guardian",
+  "ascendancy": "Guardian",
+  "secondaryAscendancy": "Chaos Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4620,
+    "energyShield": 740,
+    "mana": 801,
+    "ward": 0,
+    "movementSpeed": 182,
+    "lifeRegen": 755,
+    "evasionRating": 23,
+    "armour": 35234,
+    "strength": 177,
+    "dexterity": 98,
+    "intelligence": 239,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 68915,
+    "physicalMaximumHitTaken": 10242,
+    "fireMaximumHitTaken": 24904,
+    "coldMaximumHitTaken": 24139,
+    "lightningMaximumHitTaken": 24303,
+    "chaosMaximumHitTaken": 28875,
+    "fireResistance": 81,
+    "fireResistanceOverCap": 25,
+    "fireResistanceMax": 81,
+    "coldResistance": 76,
+    "coldResistanceOverCap": 61,
+    "coldResistanceMax": 76,
+    "lightningResistance": -148,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 76,
+    "chaosResistance": 84,
+    "chaosResistanceOverCap": 4,
+    "chaosResistanceMax": 84,
+    "blockChance": 49,
+    "spellBlockChance": 78,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 83,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 768,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 82,
+      "lightning": 0,
+      "fire": 18,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 10242
+  },
+  "keyStones": [
+    {
+      "name": "Eldritch Battery",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
+      "stats": [
+        "Spend Energy Shield before Mana for Skill Mana Costs\nEnergy Shield protects Mana instead of Life\n50% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Divine Flesh",
+      "icon": "Art/2DArt/SkillIcons/passives/DivineFlesh.webp",
+      "stats": [
+        "All Damage taken bypasses Energy Shield",
+        "50% of Elemental Damage taken as Chaos Damage",
+        "+5% to maximum Chaos Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 121,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Vaal Absolution",
+        "Greater Spell Echo Support",
+        "Increased Critical Damage Support",
+        "Minion Damage Support",
+        "Physical to Lightning Support",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Animate Guardian of Smiting",
+        "Raise Spectre",
+        "Minion Life Support",
+        "Meat Shield Support",
+        "Aspect of the Spider"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink",
+        "Feeding Frenzy Support",
+        "Assassin's Mark",
+        "Summon Stone Golem",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Purity of Fire",
+        "Determination",
+        "Flesh and Stone",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Shield Charge",
+        "Desecrate",
+        "Spirit Offering",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Convocation",
+        "Automation",
+        "Molten Shell"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Signal Prey",
+        "Contagion"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Vaal Absolution",
+    "Greater Spell Echo Support",
+    "Increased Critical Damage Support",
+    "Minion Damage Support",
+    "Physical to Lightning Support",
+    "Increased Critical Strikes Support",
+    "Animate Guardian of Smiting",
+    "Raise Spectre",
+    "Minion Life Support",
+    "Meat Shield Support",
+    "Aspect of the Spider",
+    "Frostblink",
+    "Feeding Frenzy Support",
+    "Assassin's Mark",
+    "Summon Stone Golem",
+    "Meat Shield Support",
+    "Purity of Fire",
+    "Determination",
+    "Flesh and Stone",
+    "Tempest Shield",
+    "Shield Charge",
+    "Desecrate",
+    "Spirit Offering",
+    "Inspiration Support",
+    "Convocation",
+    "Automation",
+    "Molten Shell",
+    "Signal Prey",
+    "Contagion"
+  ],
+  "items": [
+    {
+      "name": "Maata's Teaching",
+      "typeLine": "Karui Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Dawnbreaker",
+      "typeLine": "Colossal Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Hate Peak",
+      "typeLine": "Royal Burgonet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Ventor's Gamble",
+      "typeLine": "Gold Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Morbid Gyre",
+      "typeLine": "Sapphire Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Darkness Enthroned",
+      "typeLine": "Stygian Vise",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Doom Trail",
+      "typeLine": "Sorcerer Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Vengeance Mitts",
+      "typeLine": "Precursor Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Doryani's Prototype",
+      "typeLine": "Saint's Hauberk",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Apocalypse Sliver",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Loath Weaver",
+      "typeLine": "Convoking Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "The Supreme Truth",
+      "typeLine": "Crystal Sceptre",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-22T03:53:26.73892Z"
+}

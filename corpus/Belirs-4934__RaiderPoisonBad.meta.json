@@ -1,0 +1,258 @@
+{
+  "account": "Belirs-4934",
+  "name": "RaiderPoisonBad",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Pathfinder",
+  "ascendancy": "Pathfinder",
+  "secondaryAscendancy": "Delirious Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Kraityn",
+  "defensiveStats": {
+    "life": 3876,
+    "energyShield": 1143,
+    "mana": 989,
+    "ward": 0,
+    "movementSpeed": 432,
+    "lifeRegen": 62,
+    "evasionRating": 41011,
+    "armour": 0,
+    "strength": 116,
+    "dexterity": 261,
+    "intelligence": 180,
+    "enduranceCharges": 3,
+    "frenzyCharges": 6,
+    "powerCharges": 3,
+    "effectiveHealthPool": 42552,
+    "physicalMaximumHitTaken": 8997,
+    "fireMaximumHitTaken": 34741,
+    "coldMaximumHitTaken": 62533,
+    "lightningMaximumHitTaken": 34741,
+    "chaosMaximumHitTaken": 28364,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 18,
+    "fireResistanceMax": 76,
+    "coldResistance": 88,
+    "coldResistanceOverCap": 56,
+    "coldResistanceMax": 88,
+    "lightningResistance": 76,
+    "lightningResistanceOverCap": 4,
+    "lightningResistanceMax": 76,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 55,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 1881,
+    "manaReserved": 730,
+    "evadeChance": 90,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 7,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 8997
+  },
+  "keyStones": [
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    },
+    {
+      "name": "Corrupted Soul",
+      "icon": "Art/2DArt/SkillIcons/passives/CorruptedDefences.webp",
+      "stats": [
+        "50% of Non-Chaos Damage taken bypasses Energy Shield",
+        "Gain 15% of Maximum Life as Extra Maximum Energy Shield"
+      ]
+    }
+  ],
+  "masteriesCount": 11,
+  "passiveCount": 133,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Scourge Arrow",
+        "Vicious Projectiles Support",
+        "Mirage Archer Support",
+        "Unbound Ailments Support",
+        "Infused Channelling Support",
+        "Deadly Ailments Support",
+        "Returning Projectiles Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Temporal Rift",
+        "Awakened Enhance Support",
+        "Enlighten Support",
+        "Arrogance Support",
+        "Eldritch Blasphemy Support",
+        "Despair"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Rain of Arrows of Saturation",
+        "Lifetap Support",
+        "Life Gain on Hit Support",
+        "Manaforged Arrows Support",
+        "Embrace Madness",
+        "Culling Strike Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Petrified Blood",
+        "Enlighten Support",
+        "Flesh and Stone"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flame Dash",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Grace",
+        "Malevolence",
+        "Vaal Haste",
+        "Awakened Enlighten Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Scourge Arrow",
+    "Vicious Projectiles Support",
+    "Mirage Archer Support",
+    "Unbound Ailments Support",
+    "Infused Channelling Support",
+    "Deadly Ailments Support",
+    "Returning Projectiles Support",
+    "Temporal Rift",
+    "Awakened Enhance Support",
+    "Enlighten Support",
+    "Arrogance Support",
+    "Eldritch Blasphemy Support",
+    "Despair",
+    "Rain of Arrows of Saturation",
+    "Lifetap Support",
+    "Life Gain on Hit Support",
+    "Manaforged Arrows Support",
+    "Embrace Madness",
+    "Culling Strike Support",
+    "Petrified Blood",
+    "Enlighten Support",
+    "Flesh and Stone",
+    "Flame Dash",
+    "Lifetap Support",
+    "Grace",
+    "Malevolence",
+    "Vaal Haste",
+    "Awakened Enlighten Support"
+  ],
+  "items": [
+    {
+      "name": "Woe Idol",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Corpse Visor",
+      "typeLine": "Majestic Pelt",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Blight Finger",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Armageddon Arrow",
+      "typeLine": "Broadhead Arrow Quiver",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Miracle Mark",
+      "typeLine": "Synthesised Spine Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Maelström Creed",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Stasis Prison",
+      "typeLine": "Carnal Armour",
+      "frameType": 10,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Beacon of Madness",
+      "typeLine": "Two-Toned Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Death Rush",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Snakebite",
+      "typeLine": "Assassin's Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 5,
+  "lastCheckedUtc": "2026-06-21T23:48:26.311591Z"
+}

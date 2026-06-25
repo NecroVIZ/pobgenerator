@@ -1,0 +1,245 @@
+{
+  "account": "4U71SM-5792",
+  "name": "GuguGagaPRIME",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Pathfinder",
+  "ascendancy": "Pathfinder",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ryslatha",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2247,
+    "energyShield": 464,
+    "mana": 779,
+    "ward": 131,
+    "movementSpeed": 465,
+    "lifeRegen": 250,
+    "evasionRating": 4394,
+    "armour": 990,
+    "strength": 168,
+    "dexterity": 233,
+    "intelligence": 131,
+    "enduranceCharges": 3,
+    "frenzyCharges": 7,
+    "powerCharges": 3,
+    "effectiveHealthPool": 117573,
+    "physicalMaximumHitTaken": 5826,
+    "fireMaximumHitTaken": 19782,
+    "coldMaximumHitTaken": 15826,
+    "lightningMaximumHitTaken": 15826,
+    "chaosMaximumHitTaken": 13742,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 8,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 26,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 5,
+    "chaosResistanceMax": 75,
+    "blockChance": 87,
+    "spellBlockChance": 87,
+    "spellSuppressionChance": 10,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 321,
+    "evadeChance": 32,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5826
+  },
+  "keyStones": [],
+  "masteriesCount": 5,
+  "passiveCount": 106,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Poisonous Concoction of Bouncing",
+        "Awakened Empower Support",
+        "Deadly Ailments Support",
+        "Unbound Ailments Support",
+        "Greater Chain Support",
+        "Greater Multiple Projectiles Support",
+        "Greater Volley Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Shield Charge",
+        "Enhance Support",
+        "Momentum Support",
+        "Faster Attacks Support",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vaal Arctic Armour",
+        "Vaal Haste",
+        "Tempest Shield",
+        "Awakened Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Immortal Call",
+        "More Duration Support",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Blood Rage"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Withering Step",
+        "Automation",
+        "Phase Run"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Portal",
+        "Cast on Death Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Despair"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Portal",
+        "Cast on Death Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Poisonous Concoction of Bouncing",
+    "Awakened Empower Support",
+    "Deadly Ailments Support",
+    "Unbound Ailments Support",
+    "Greater Chain Support",
+    "Greater Multiple Projectiles Support",
+    "Greater Volley Support",
+    "Shield Charge",
+    "Enhance Support",
+    "Momentum Support",
+    "Faster Attacks Support",
+    "Inspiration Support",
+    "Vaal Arctic Armour",
+    "Vaal Haste",
+    "Tempest Shield",
+    "Awakened Enlighten Support",
+    "Immortal Call",
+    "More Duration Support",
+    "Cast when Damage Taken Support",
+    "Blood Rage",
+    "Withering Step",
+    "Automation",
+    "Phase Run",
+    "Portal",
+    "Cast on Death Support",
+    "Despair",
+    "Portal",
+    "Cast on Death Support"
+  ],
+  "items": [
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Corpse Beads",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Brood Ward",
+      "typeLine": "Conquest Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Allure",
+      "typeLine": "Vaal Claw",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "The Restless Ward",
+      "typeLine": "Carnal Armour",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Replica Mistwall",
+      "typeLine": "Lacquered Buckler",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Betrayal's Sting",
+      "typeLine": "Steel Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Snakebite",
+      "typeLine": "Assassin's Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-20T06:07:14.305131Z"
+}

@@ -1,0 +1,257 @@
+{
+  "account": "rotoroton-0840",
+  "name": "rotorotonMirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1757,
+    "energyShield": 2072,
+    "mana": 952,
+    "ward": 325,
+    "movementSpeed": 144,
+    "lifeRegen": 439,
+    "evasionRating": 281,
+    "armour": 1932,
+    "strength": 75,
+    "dexterity": 77,
+    "intelligence": 29,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 6,
+    "effectiveHealthPool": 116196,
+    "physicalMaximumHitTaken": 5856,
+    "fireMaximumHitTaken": 19213,
+    "coldMaximumHitTaken": 19213,
+    "lightningMaximumHitTaken": 19213,
+    "chaosMaximumHitTaken": 8867,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 58,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 58,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 91,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 41,
+    "chaosResistanceMax": 75,
+    "blockChance": 87,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 30,
+    "energyShieldRegen": 0,
+    "lifeReserved": 87,
+    "manaReserved": 803,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 777,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5856
+  },
+  "keyStones": [
+    {
+      "name": "Runebinder",
+      "icon": "Art/2DArt/SkillIcons/passives/BrandKeystone.webp",
+      "stats": [
+        "-1 to maximum number of Summoned Totems\nYou can have an additional Brand Attached to an Enemy"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 108,
+  "skillGroups": [
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Penance Brand",
+        "Inspiration Support",
+        "Increased Critical Damage Support",
+        "Elemental Penetration Support",
+        "Concentrated Effect Support",
+        "Hypothermia Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Herald of Ash",
+        "Herald of Purity",
+        "Herald of Ice",
+        "Herald of Thunder",
+        "Tempest Shield",
+        "Eclipse Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Ice Golem",
+        "Enhance Support",
+        "Summon Lightning Golem",
+        "Summon Flame Golem"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Summon Stone Golem",
+        "Inspiration Support",
+        "Greater Spell Echo Support",
+        "Frostblink of Wintry Blast"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Herald of Agony",
+        "Elemental Weakness",
+        "Arcane Surge Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Precision",
+        "Arrogance Support",
+        "Temporal Chains"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Penance Brand",
+    "Inspiration Support",
+    "Increased Critical Damage Support",
+    "Elemental Penetration Support",
+    "Concentrated Effect Support",
+    "Hypothermia Support",
+    "Power Charge On Critical Support",
+    "Herald of Ash",
+    "Herald of Purity",
+    "Herald of Ice",
+    "Herald of Thunder",
+    "Tempest Shield",
+    "Eclipse Support",
+    "Summon Ice Golem",
+    "Enhance Support",
+    "Summon Lightning Golem",
+    "Summon Flame Golem",
+    "Summon Stone Golem",
+    "Inspiration Support",
+    "Greater Spell Echo Support",
+    "Frostblink of Wintry Blast",
+    "Herald of Agony",
+    "Elemental Weakness",
+    "Arcane Surge Support",
+    "Precision",
+    "Arrogance Support",
+    "Temporal Chains",
+    "Herald of the Hive"
+  ],
+  "items": [
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Brimstone Mantle",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Pain Fingers",
+      "typeLine": "Paladin Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Oblivion Stride",
+      "typeLine": "Fugitive Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Gale Weaver",
+      "typeLine": "Profane Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Rapture Rosary",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Pandemonium Coil",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Storm Guardian",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-20T21:23:23.296033Z"
+}

@@ -1,0 +1,228 @@
+{
+  "account": "ben22044789-7183",
+  "name": "ShadowYing_Mirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Deadeye",
+  "ascendancy": "Deadeye",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4152,
+    "energyShield": 1108,
+    "mana": 868,
+    "ward": 0,
+    "movementSpeed": 180,
+    "lifeRegen": 0,
+    "evasionRating": 9463,
+    "armour": 0,
+    "strength": 247,
+    "dexterity": 237,
+    "intelligence": 179,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 20111,
+    "physicalMaximumHitTaken": 6831,
+    "fireMaximumHitTaken": 40183,
+    "coldMaximumHitTaken": 31051,
+    "lightningMaximumHitTaken": 31051,
+    "chaosMaximumHitTaken": 5392,
+    "fireResistance": 86,
+    "fireResistanceOverCap": 85,
+    "fireResistanceMax": 86,
+    "coldResistance": 81,
+    "coldResistanceOverCap": 63,
+    "coldResistanceMax": 81,
+    "lightningResistance": 81,
+    "lightningResistanceOverCap": 78,
+    "lightningResistanceMax": 81,
+    "chaosResistance": 0,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 119,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 556,
+    "evadeChance": 53,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5392
+  },
+  "keyStones": [],
+  "masteriesCount": 9,
+  "passiveCount": 117,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Storm Rain",
+        "Power Charge On Critical Support",
+        "Sniper's Mark",
+        "Tornado Shot",
+        "Manaforged Arrows Support",
+        "Tornado",
+        "Cast On Critical Strike Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Lightning Arrow",
+        "Elemental Damage with Attacks Support",
+        "Inspiration Support",
+        "Greater Fork Support",
+        "Mirage Archer Support",
+        "Invert the Rules Support",
+        "Trinity Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Steelskin",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Flame Dash",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Purity of Elements",
+        "Manaforged Arrows Support",
+        "Frenzy"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vaal Haste",
+        "Enlighten Support",
+        "Hatred"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Storm Rain",
+    "Power Charge On Critical Support",
+    "Sniper's Mark",
+    "Tornado Shot",
+    "Manaforged Arrows Support",
+    "Tornado",
+    "Cast On Critical Strike Support",
+    "Lightning Arrow",
+    "Elemental Damage with Attacks Support",
+    "Inspiration Support",
+    "Greater Fork Support",
+    "Mirage Archer Support",
+    "Invert the Rules Support",
+    "Trinity Support",
+    "Steelskin",
+    "Automation",
+    "Flame Dash",
+    "Precision",
+    "Purity of Elements",
+    "Manaforged Arrows Support",
+    "Frenzy",
+    "Vaal Haste",
+    "Enlighten Support",
+    "Hatred"
+  ],
+  "items": [
+    {
+      "name": "Torment Knot",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Loath Wind",
+      "typeLine": "Synthesised Spine Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Nimis",
+      "typeLine": "Topaz Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Utmost",
+      "typeLine": "Gold Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "",
+      "typeLine": "Electrocuting Spine Bow of Craft",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Cataclysm Slippers",
+      "typeLine": "Phantom Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Vortex Grasp",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Entropy Crown",
+      "typeLine": "Torturer's Mask",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Agony Sanctuary",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Chimeric Spear",
+      "typeLine": "Feathered Arrow Quiver",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-25T07:08:39.749624Z"
+}

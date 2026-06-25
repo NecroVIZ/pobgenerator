@@ -1,0 +1,193 @@
+{
+  "account": "big_stan_fack1-1270",
+  "name": "BigStanFackm",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1595,
+    "energyShield": 388,
+    "mana": 840,
+    "ward": 0,
+    "movementSpeed": 187,
+    "lifeRegen": 0,
+    "evasionRating": 917,
+    "armour": 1412,
+    "strength": 183,
+    "dexterity": 256,
+    "intelligence": 233,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 5,
+    "effectiveHealthPool": 3497,
+    "physicalMaximumHitTaken": 2233,
+    "fireMaximumHitTaken": 2020,
+    "coldMaximumHitTaken": 3198,
+    "lightningMaximumHitTaken": 3993,
+    "chaosMaximumHitTaken": 1876,
+    "fireResistance": -6,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 80,
+    "coldResistance": 41,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 80,
+    "lightningResistance": 57,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 15,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 24,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 30,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 770,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 484,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 1876
+  },
+  "keyStones": [],
+  "masteriesCount": 6,
+  "passiveCount": 100,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Blast",
+        "Increased Area of Effect Support",
+        "Greater Fork Support",
+        "Inspiration Support",
+        "Increased Critical Damage Support",
+        "Volatility Support",
+        "Trinity Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Precision",
+        "Hatred",
+        "Enlighten Support",
+        "Wrath"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Sniper's Mark",
+        "Companionship Support",
+        "Mark On Hit Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Blast",
+    "Increased Area of Effect Support",
+    "Greater Fork Support",
+    "Inspiration Support",
+    "Increased Critical Damage Support",
+    "Volatility Support",
+    "Trinity Support",
+    "Precision",
+    "Hatred",
+    "Enlighten Support",
+    "Wrath",
+    "Sniper's Mark",
+    "Companionship Support",
+    "Mark On Hit Support"
+  ],
+  "items": [
+    {
+      "name": "Death Rush",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Replica Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Horror Mitts",
+      "typeLine": "Arcanist Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Miracle Carapace",
+      "typeLine": "Astral Plate",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Foulborn Esh's Mirror",
+      "typeLine": "Vaal Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Vengeance Barb",
+      "typeLine": "Synthesised Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Nimis",
+      "typeLine": "Topaz Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Ashes of the Stars",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Golem Slippers",
+      "typeLine": "Fugitive Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Fledgling",
+      "typeLine": "Lacquered Helmet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 18,
+  "lastCheckedUtc": "2026-06-22T16:04:49.771266Z"
+}

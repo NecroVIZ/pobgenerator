@@ -1,0 +1,246 @@
+{
+  "account": "KzLych-0448",
+  "name": "Kzeee_BLAST",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2661,
+    "energyShield": 1844,
+    "mana": 967,
+    "ward": 0,
+    "movementSpeed": 181,
+    "lifeRegen": 0,
+    "evasionRating": 28,
+    "armour": 5526,
+    "strength": 74,
+    "dexterity": 67,
+    "intelligence": 164,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 107660,
+    "physicalMaximumHitTaken": 6026,
+    "fireMaximumHitTaken": 26806,
+    "coldMaximumHitTaken": 26806,
+    "lightningMaximumHitTaken": 26806,
+    "chaosMaximumHitTaken": 11827,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 75,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 60,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 37,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 41,
+    "chaosResistanceMax": 0,
+    "blockChance": 78,
+    "spellBlockChance": 78,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 6026
+  },
+  "keyStones": [
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 96,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Herald of Purity",
+        "Herald of Agony",
+        "Herald of Ash",
+        "Eclipse Support",
+        "Herald of Thunder",
+        "Herald of Ice"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Penance Brand",
+        "Swift Affliction Support",
+        "Cruelty Support",
+        "Inspiration Support",
+        "Burning Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Chaos Golem",
+        "Summon Flame Golem",
+        "Summon Stone Golem",
+        "Summon Lightning Golem"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Steelskin",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flammability",
+        "Flame Surge",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Herald of Purity",
+    "Herald of Agony",
+    "Herald of Ash",
+    "Eclipse Support",
+    "Herald of Thunder",
+    "Herald of Ice",
+    "Penance Brand",
+    "Swift Affliction Support",
+    "Cruelty Support",
+    "Inspiration Support",
+    "Burning Damage Support",
+    "Summon Chaos Golem",
+    "Summon Flame Golem",
+    "Summon Stone Golem",
+    "Summon Lightning Golem",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Steelskin",
+    "Automation",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Frostblink",
+    "Flammability",
+    "Flame Surge",
+    "Tempest Shield",
+    "Herald of the Hive"
+  ],
+  "items": [
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Polaric Devastation",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Armageddon Hold",
+      "typeLine": "Paladin Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Entropy Emblem",
+      "typeLine": "Thorium Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Rift Peak",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Obliteration",
+      "typeLine": "Omen Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Oblivion Track",
+      "typeLine": "Sage Slippers",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn The Coming Calamity",
+      "typeLine": "Destroyer Regalia",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 16,
+  "lastCheckedUtc": "2026-06-22T03:52:28.215359Z"
+}

@@ -1,0 +1,231 @@
+{
+  "account": "Breix-4056",
+  "name": "BaldingElehit",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Deadeye",
+  "ascendancy": "Deadeye",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4305,
+    "energyShield": 1119,
+    "mana": 874,
+    "ward": 0,
+    "movementSpeed": 364,
+    "lifeRegen": 0,
+    "evasionRating": 8076,
+    "armour": 0,
+    "strength": 150,
+    "dexterity": 220,
+    "intelligence": 164,
+    "enduranceCharges": 3,
+    "frenzyCharges": 5,
+    "powerCharges": 3,
+    "effectiveHealthPool": 23881,
+    "physicalMaximumHitTaken": 7351,
+    "fireMaximumHitTaken": 31407,
+    "coldMaximumHitTaken": 31407,
+    "lightningMaximumHitTaken": 31407,
+    "chaosMaximumHitTaken": 21936,
+    "fireResistance": 81,
+    "fireResistanceOverCap": 22,
+    "fireResistanceMax": 81,
+    "coldResistance": 81,
+    "coldResistanceOverCap": 97,
+    "coldResistanceMax": 81,
+    "lightningResistance": 81,
+    "lightningResistanceOverCap": 58,
+    "lightningResistanceMax": 81,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 33,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 183,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 538,
+    "evadeChance": 52,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 484,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 7351
+  },
+  "keyStones": [],
+  "masteriesCount": 10,
+  "passiveCount": 115,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Lightning Arrow",
+        "Inspiration Support",
+        "Elemental Damage with Attacks Support",
+        "Greater Fork Support",
+        "Trinity Support",
+        "Invert the Rules Support",
+        "Mirage Archer Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Storm Rain",
+        "Manaforged Arrows Support",
+        "Frenzy",
+        "Tornado",
+        "Sniper's Mark",
+        "Power Charge On Critical Support",
+        "Cast On Critical Strike Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Purity of Elements",
+        "Enlighten Support",
+        "Hatred"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Frostblink",
+        "Vaal Haste"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Steelskin",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Blink Arrow"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Lightning Arrow",
+    "Inspiration Support",
+    "Elemental Damage with Attacks Support",
+    "Greater Fork Support",
+    "Trinity Support",
+    "Invert the Rules Support",
+    "Mirage Archer Support",
+    "Storm Rain",
+    "Manaforged Arrows Support",
+    "Frenzy",
+    "Tornado",
+    "Sniper's Mark",
+    "Power Charge On Critical Support",
+    "Cast On Critical Strike Support",
+    "Purity of Elements",
+    "Enlighten Support",
+    "Hatred",
+    "Frostblink",
+    "Vaal Haste",
+    "Precision",
+    "Steelskin",
+    "Automation",
+    "Blink Arrow"
+  ],
+  "items": [
+    {
+      "name": "Rift Cloak",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Hypnotic Stride",
+      "typeLine": "Phantom Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Skull Ornament",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Loath Wind",
+      "typeLine": "Synthesised Spine Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Honour Nails",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Woe Stinger",
+      "typeLine": "Synthesised Spike-Point Arrow Quiver",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Nimis",
+      "typeLine": "Topaz Ring",
+      "frameType": 10,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Spirit Eye",
+      "typeLine": "Synthesised Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "The Utmost",
+      "typeLine": "Gold Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-20T21:22:28.018892Z"
+}

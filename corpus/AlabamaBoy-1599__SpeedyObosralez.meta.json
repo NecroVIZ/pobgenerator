@@ -1,0 +1,283 @@
+{
+  "account": "AlabamaBoy-1599",
+  "name": "SpeedyObosralez",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Deadeye",
+  "ascendancy": "Deadeye",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2194,
+    "energyShield": 496,
+    "mana": 1005,
+    "ward": 0,
+    "movementSpeed": 185,
+    "lifeRegen": 21,
+    "evasionRating": 3858,
+    "armour": 500,
+    "strength": 181,
+    "dexterity": 414,
+    "intelligence": 211,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 4,
+    "effectiveHealthPool": 4167,
+    "physicalMaximumHitTaken": 3096,
+    "fireMaximumHitTaken": 3321,
+    "coldMaximumHitTaken": 3475,
+    "lightningMaximumHitTaken": 2789,
+    "chaosMaximumHitTaken": 2344,
+    "fireResistance": 13,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 80,
+    "coldResistance": 17,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": -11,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": -4,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 24,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 10,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 507,
+    "evadeChance": 28,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 5,
+        "max": 90,
+        "effectiveAppliedArmour": 500,
+        "base": 0,
+        "takenDamage": 2042
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 2344
+  },
+  "keyStones": [],
+  "masteriesCount": 10,
+  "passiveCount": 113,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Blast",
+        "Volatility Support",
+        "Summon Sacred Wisps",
+        "Inspiration Support",
+        "Greater Fork Support",
+        "Increased Critical Damage Support",
+        "Trinity Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Lightning Strike of Arcing",
+        "Lightning Strike of Arcing",
+        "Lightning Strike of Arcing"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Lightning Strike of Arcing",
+        "Lightning Strike of Arcing"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Lightning Strike of Arcing"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Sniper's Mark",
+        "Lifetap Support",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Vaal Haste"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Wrath"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Elemental Hit",
+        "Lightning Strike of Arcing",
+        "Lightning Strike of Arcing"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Lightning Strike of Arcing",
+        "Lightning Strike of Arcing",
+        "Lightning Strike of Arcing"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Lightning Strike of Arcing",
+        "Lightning Strike of Arcing"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Lightning Strike of Arcing"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Blast",
+    "Volatility Support",
+    "Summon Sacred Wisps",
+    "Inspiration Support",
+    "Greater Fork Support",
+    "Increased Critical Damage Support",
+    "Trinity Support",
+    "Lightning Strike of Arcing",
+    "Lightning Strike of Arcing",
+    "Lightning Strike of Arcing",
+    "Lightning Strike of Arcing",
+    "Lightning Strike of Arcing",
+    "Lightning Strike of Arcing",
+    "Sniper's Mark",
+    "Lifetap Support",
+    "Mark On Hit Support",
+    "Vaal Haste",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Precision",
+    "Wrath",
+    "Elemental Hit",
+    "Lightning Strike of Arcing",
+    "Lightning Strike of Arcing",
+    "Lightning Strike of Arcing",
+    "Lightning Strike of Arcing",
+    "Lightning Strike of Arcing",
+    "Lightning Strike of Arcing",
+    "Lightning Strike of Arcing",
+    "Lightning Strike of Arcing"
+  ],
+  "items": [
+    {
+      "name": "Inpulsa's Broken Heart",
+      "typeLine": "Sadist Garb",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "",
+      "typeLine": "Upgraded Crude Bow",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Replica Voidwalker",
+      "typeLine": "Murder Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn Esh's Mirror",
+      "typeLine": "Vaal Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Death Rush",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Fledgling",
+      "typeLine": "Lacquered Helmet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Nimis",
+      "typeLine": "Topaz Ring",
+      "frameType": 10,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Vengeance Hold",
+      "typeLine": "Velour Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Honour Spire",
+      "typeLine": "Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Solstice Vigil",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-22T06:54:25.95033Z"
+}

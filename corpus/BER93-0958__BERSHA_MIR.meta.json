@@ -1,0 +1,277 @@
+{
+  "account": "BER93-0958",
+  "name": "BERSHA_MIR",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 5210,
+    "mana": 723,
+    "ward": 0,
+    "movementSpeed": 388,
+    "lifeRegen": 0,
+    "evasionRating": 9263,
+    "armour": 0,
+    "strength": 52,
+    "dexterity": 33,
+    "intelligence": 62,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 4,
+    "effectiveHealthPool": 37494,
+    "physicalMaximumHitTaken": 8287,
+    "fireMaximumHitTaken": 27414,
+    "coldMaximumHitTaken": 27414,
+    "lightningMaximumHitTaken": 27414,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 3,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 26,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 22,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 21,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 13,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 700,
+    "evadeChance": 52,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 11
+    },
+    "lowestMaximumHitTaken": 8287
+  },
+  "keyStones": [
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 89,
+  "skillGroups": [
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Spark of the Nova",
+        "Unholy Trinity Support",
+        "Inspiration Support",
+        "Greater Spell Echo Support",
+        "Faster Projectiles Support",
+        "Faster Casting Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Zealotry",
+        "Haste",
+        "Arctic Armour",
+        "Discipline",
+        "Enlighten Support",
+        "Flesh and Stone"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Raise Spectre",
+        "Empower Support",
+        "Minion Life Support",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink",
+        "Herald of Thunder",
+        "Clarity"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Steelskin",
+        "Automation",
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Zealotry",
+        "Unholy Trinity Support",
+        "Unholy Trinity Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Withering Step",
+        "Sniper's Mark"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Sigil of Power"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Spark of the Nova",
+    "Unholy Trinity Support",
+    "Inspiration Support",
+    "Greater Spell Echo Support",
+    "Faster Projectiles Support",
+    "Faster Casting Support",
+    "Power Charge On Critical Support",
+    "Zealotry",
+    "Haste",
+    "Arctic Armour",
+    "Discipline",
+    "Enlighten Support",
+    "Flesh and Stone",
+    "Raise Spectre",
+    "Empower Support",
+    "Minion Life Support",
+    "Meat Shield Support",
+    "Frostblink",
+    "Herald of Thunder",
+    "Clarity",
+    "Steelskin",
+    "Automation",
+    "Convocation",
+    "Zealotry",
+    "Unholy Trinity Support",
+    "Unholy Trinity Support",
+    "Withering Step",
+    "Sniper's Mark",
+    "Sigil of Power"
+  ],
+  "items": [
+    {
+      "name": "Horror Weaver",
+      "typeLine": "Profane Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Morbid Grip",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Beast Medallion",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Rune Road",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Fate Thirst",
+      "typeLine": "Convoking Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Glyph Goad",
+      "typeLine": "Crystal Wand",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Rift Hand",
+      "typeLine": "Fingerless Silk Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Rage Edge",
+      "typeLine": "Profane Wand",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Miracle Loop",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Soul Suit",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 17,
+  "lastCheckedUtc": "2026-06-18T22:50:48.382141Z"
+}

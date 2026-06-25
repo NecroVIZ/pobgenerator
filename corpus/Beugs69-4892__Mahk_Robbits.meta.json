@@ -1,0 +1,261 @@
+{
+  "account": "Beugs69-4892",
+  "name": "Mahk_Robbits",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Inquisitor",
+  "ascendancy": "Inquisitor",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1804,
+    "energyShield": 6629,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 274,
+    "lifeRegen": 79,
+    "evasionRating": 519,
+    "armour": 645,
+    "strength": 568,
+    "dexterity": 105,
+    "intelligence": 2208,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 24354,
+    "physicalMaximumHitTaken": 9289,
+    "fireMaximumHitTaken": 32722,
+    "coldMaximumHitTaken": 32722,
+    "lightningMaximumHitTaken": 32722,
+    "chaosMaximumHitTaken": 27222,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 2,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 131,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 17,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 34,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 5,
+    "spellBlockChance": 25,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 72,
+    "energyShieldRegen": 0,
+    "lifeReserved": 187,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 9289
+  },
+  "keyStones": [
+    {
+      "name": "Eternal Youth",
+      "icon": "Art/2DArt/SkillIcons/passives/EternalYouth.webp",
+      "stats": [
+        "50% less Life Regeneration Rate\n50% less maximum Total Life Recovery per Second from Leech\nEnergy Shield Recharge instead applies to Life"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 96,
+  "skillGroups": [
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Spark of the Nova",
+        "Greater Spell Echo Support",
+        "Arcane Surge Support",
+        "Increased Critical Damage Support",
+        "Faster Projectiles Support",
+        "Faster Casting Support",
+        "Pierce Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Raise Spectre",
+        "Minion Speed Support",
+        "Minion Life Support",
+        "Elemental Army Support",
+        "Animate Guardian",
+        "Empower Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vaal Haste",
+        "Cast when Damage Taken Support",
+        "More Duration Support",
+        "Immortal Call",
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Precision",
+        "Spell Echo Support",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Automation",
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Zealotry",
+        "Eternal Blessing Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Spark of the Nova",
+    "Greater Spell Echo Support",
+    "Arcane Surge Support",
+    "Increased Critical Damage Support",
+    "Faster Projectiles Support",
+    "Faster Casting Support",
+    "Pierce Support",
+    "Raise Spectre",
+    "Minion Speed Support",
+    "Minion Life Support",
+    "Elemental Army Support",
+    "Animate Guardian",
+    "Empower Support",
+    "Vaal Haste",
+    "Cast when Damage Taken Support",
+    "More Duration Support",
+    "Immortal Call",
+    "Vitality",
+    "Frostblink of Wintry Blast",
+    "Precision",
+    "Spell Echo Support",
+    "Faster Casting Support",
+    "Automation",
+    "Convocation",
+    "Zealotry",
+    "Eternal Blessing Support"
+  ],
+  "items": [
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Fate Knuckle",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Vortex Track",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Victory Loop",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Jiquani's Potential",
+      "typeLine": "Imperial Staff",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "",
+      "typeLine": "Opal Wand",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "",
+      "typeLine": "Scintillating Lacewood Spirit Shield of the Hydra",
+      "frameType": 1,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Hate Fingers",
+      "typeLine": "Fingerless Silk Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Woe Coat",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Brimstone Rosary",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-24T04:44:18.059769Z"
+}

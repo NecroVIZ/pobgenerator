@@ -1,0 +1,219 @@
+{
+  "account": "BingTaiSs-7396",
+  "name": "KrughemSs",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Champion",
+  "ascendancy": "Champion",
+  "secondaryAscendancy": "Delirious Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 11520,
+    "energyShield": 9,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 141,
+    "lifeRegen": 1039,
+    "evasionRating": 615,
+    "armour": 12024,
+    "strength": 203,
+    "dexterity": 160,
+    "intelligence": 157,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 66131,
+    "physicalMaximumHitTaken": 25182,
+    "fireMaximumHitTaken": 79144,
+    "coldMaximumHitTaken": 76318,
+    "lightningMaximumHitTaken": 76318,
+    "chaosMaximumHitTaken": 35585,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 9,
+    "fireResistanceMax": 76,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 40,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 40,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 52,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 4770,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 94,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 6,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 25182
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    },
+    {
+      "name": "Point Blank",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePointBlankArcher.webp",
+      "stats": [
+        "Projectile Attack Hits deal up to 30% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 107,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Molten Strike of the Zenith",
+        "Greater Multistrike Support",
+        "Annihilation Support",
+        "Invert the Rules Support",
+        "Greater Multiple Projectiles Support",
+        "Returning Projectiles Support",
+        "Bloodthirst Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Petrified Blood",
+        "Blood and Sand",
+        "Sniper's Mark",
+        "Enlighten Support",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Automation",
+        "Cursed Ground Support",
+        "Elemental Weakness",
+        "Blood Rage"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Elements",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Leap Slam",
+        "Faster Attacks Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Molten Strike of the Zenith",
+    "Greater Multistrike Support",
+    "Annihilation Support",
+    "Invert the Rules Support",
+    "Greater Multiple Projectiles Support",
+    "Returning Projectiles Support",
+    "Bloodthirst Support",
+    "Petrified Blood",
+    "Blood and Sand",
+    "Sniper's Mark",
+    "Enlighten Support",
+    "Mark On Hit Support",
+    "Automation",
+    "Cursed Ground Support",
+    "Elemental Weakness",
+    "Blood Rage",
+    "Purity of Elements",
+    "Eternal Blessing Support",
+    "Leap Slam",
+    "Faster Attacks Support"
+  ],
+  "items": [
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Marylene's Fallacy",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Kaom's Heart",
+      "typeLine": "Glorious Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Celestial Brace",
+      "typeLine": "Goliath Gauntlets",
+      "frameType": 9,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Voidforge",
+      "typeLine": "Infernal Sword",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Sol Trail",
+      "typeLine": "Leviathan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Vengeance Corona",
+      "typeLine": "Conqueror's Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-24T01:37:28.986494Z"
+}

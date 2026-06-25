@@ -1,0 +1,248 @@
+{
+  "account": "LRenascence-7362",
+  "name": "Renascence_Mirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Breachlord Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3372,
+    "energyShield": 1439,
+    "mana": 1258,
+    "ward": 195,
+    "movementSpeed": 187,
+    "lifeRegen": 399,
+    "evasionRating": 583,
+    "armour": 6765,
+    "strength": 165,
+    "dexterity": 117,
+    "intelligence": 290,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 262637,
+    "physicalMaximumHitTaken": 6792,
+    "fireMaximumHitTaken": 31115,
+    "coldMaximumHitTaken": 31115,
+    "lightningMaximumHitTaken": 31115,
+    "chaosMaximumHitTaken": 15853,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 106,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 61,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 52,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 10,
+    "chaosResistanceMax": 75,
+    "blockChance": 89,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 17,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 1173,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 6792
+  },
+  "keyStones": [
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 106,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Vaal Reap",
+        "Swift Affliction Support",
+        "Burning Damage Support",
+        "Empower Support",
+        "Deadly Ailments Support",
+        "Unbound Ailments Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Steelskin",
+        "Herald of Agony",
+        "Herald of Thunder",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Malevolence",
+        "Herald of Ash",
+        "Enlighten Support",
+        "Herald of Ice"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Herald of Purity",
+        "Summon Flame Golem",
+        "Summon Lightning Golem"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Stone Golem"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Flammability",
+        "Flame Surge",
+        "Combustion Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Arcane Surge Support",
+        "Summon Chaos Golem"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Vaal Reap",
+    "Swift Affliction Support",
+    "Burning Damage Support",
+    "Empower Support",
+    "Deadly Ailments Support",
+    "Unbound Ailments Support",
+    "Steelskin",
+    "Herald of Agony",
+    "Herald of Thunder",
+    "Automation",
+    "Malevolence",
+    "Herald of Ash",
+    "Enlighten Support",
+    "Herald of Ice",
+    "Herald of Purity",
+    "Summon Flame Golem",
+    "Summon Lightning Golem",
+    "Summon Stone Golem",
+    "Flammability",
+    "Flame Surge",
+    "Combustion Support",
+    "Frostblink of Wintry Blast",
+    "Arcane Surge Support",
+    "Summon Chaos Golem",
+    "Herald of the Hive"
+  ],
+  "items": [
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Incandescent Heart",
+      "typeLine": "Saintly Chainmail",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Demon Fingers",
+      "typeLine": "Slink Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Wrath Sole",
+      "typeLine": "Sorcerer Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Replica Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Brood Guide",
+      "typeLine": "Recurve Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Polaric Devastation",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Grace of the Goddess",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Woe Dome",
+      "typeLine": "Sunfire Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 13,
+  "lastCheckedUtc": "2026-06-23T16:28:08.366119Z"
+}

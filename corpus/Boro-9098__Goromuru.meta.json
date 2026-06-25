@@ -1,0 +1,251 @@
+{
+  "account": "Boro-9098",
+  "name": "Goromuru",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Chieftain",
+  "ascendancy": "Chieftain",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 6672,
+    "energyShield": 0,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 227,
+    "lifeRegen": 0,
+    "evasionRating": 19,
+    "armour": 9916,
+    "strength": 159,
+    "dexterity": 120,
+    "intelligence": 164,
+    "enduranceCharges": 6,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 41268,
+    "physicalMaximumHitTaken": 15485,
+    "fireMaximumHitTaken": 50246,
+    "coldMaximumHitTaken": 50246,
+    "lightningMaximumHitTaken": 50246,
+    "chaosMaximumHitTaken": 12808,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 120,
+    "fireResistanceMax": 0,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 1,
+    "coldResistanceMax": 0,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 2,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 49,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 24,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 503,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 45,
+      "lightning": 0,
+      "fire": 55,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 12808
+  },
+  "keyStones": [
+    {
+      "name": "The Agnostic",
+      "icon": "Art/2DArt/SkillIcons/passives/MiracleMaker.webp",
+      "stats": [
+        "Removes all Energy Shield\nWhile not on Full Life, Sacrifice 20% of Mana per Second to Recover that much Life"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    }
+  ],
+  "masteriesCount": 12,
+  "passiveCount": 128,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Detonate Dead of Scavenging",
+        "Cast when Stunned Support",
+        "Unbound Ailments Support",
+        "Deadly Ailments Support",
+        "Burning Damage Support",
+        "Swift Affliction Support",
+        "Item Rarity Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Righteous Fire",
+        "Increased Area of Effect Support",
+        "Burning Damage Support",
+        "Elemental Focus Support",
+        "Concentrated Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flame Wall",
+        "Cast when Stunned Support",
+        "Swift Affliction Support",
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Firestorm of Pelting",
+        "Cast when Stunned Support",
+        "Flame Surge",
+        "Punishment"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Malevolence",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Petrified Blood"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostblink"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Detonate Dead of Scavenging",
+    "Cast when Stunned Support",
+    "Unbound Ailments Support",
+    "Deadly Ailments Support",
+    "Burning Damage Support",
+    "Swift Affliction Support",
+    "Item Rarity Support",
+    "Righteous Fire",
+    "Increased Area of Effect Support",
+    "Burning Damage Support",
+    "Elemental Focus Support",
+    "Concentrated Effect Support",
+    "Flame Wall",
+    "Cast when Stunned Support",
+    "Swift Affliction Support",
+    "Vitality",
+    "Firestorm of Pelting",
+    "Cast when Stunned Support",
+    "Flame Surge",
+    "Punishment",
+    "Malevolence",
+    "Eternal Blessing Support",
+    "Petrified Blood",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Frostblink"
+  ],
+  "items": [
+    {
+      "name": "Woe Veil",
+      "typeLine": "Eternal Burgonet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Skull Coil",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Honour Barrier",
+      "typeLine": "Copper Tower Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Valyrium",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Cloak of Flame",
+      "typeLine": "Scholar's Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Wondertrap",
+      "typeLine": "Velvet Slippers",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Rise of the Phoenix",
+      "typeLine": "Mosaic Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Dire Palm",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Dusk Torc",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-19T05:43:58.091039Z"
+}

@@ -1,0 +1,234 @@
+{
+  "account": "Azizian-1907",
+  "name": "AzBoC",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Trickster",
+  "ascendancy": "Trickster",
+  "secondaryAscendancy": "Saresh Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 9568,
+    "mana": 1749,
+    "ward": 0,
+    "movementSpeed": 223,
+    "lifeRegen": 0,
+    "evasionRating": 51428,
+    "armour": 0,
+    "strength": 149,
+    "dexterity": 185,
+    "intelligence": 431,
+    "enduranceCharges": 3,
+    "frenzyCharges": 5,
+    "powerCharges": 3,
+    "effectiveHealthPool": 91548,
+    "physicalMaximumHitTaken": 18969,
+    "fireMaximumHitTaken": 60973,
+    "coldMaximumHitTaken": 60973,
+    "lightningMaximumHitTaken": 60973,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 25,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 84,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 36,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 22,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 83,
+    "energyShieldRegen": 180,
+    "lifeReserved": 0,
+    "manaReserved": 1607,
+    "evadeChance": 95,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 446,
+    "baseEvadeChance": 7,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 10
+    },
+    "lowestMaximumHitTaken": 18969
+  },
+  "keyStones": [
+    {
+      "name": "Wicked Ward",
+      "icon": "Art/2DArt/SkillIcons/passives/Occultist/EldrichBarrier.webp",
+      "stats": [
+        "Energy Shield Recharge is not interrupted by Damage if Recharge began Recently\n40% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 108,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Blight of Contagion",
+        "Swift Affliction Support",
+        "Empower Support",
+        "Infused Channelling Support",
+        "Controlled Destruction Support",
+        "Void Manipulation Support",
+        "Arcane Surge Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Grace",
+        "Enlighten Support",
+        "Purity of Elements",
+        "Vaal Discipline",
+        "Clarity",
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Bane",
+        "Enfeeble",
+        "Punishment",
+        "Despair"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Contagion",
+        "Increased Area of Effect Support",
+        "Intensify Support",
+        "Item Rarity Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Wither",
+        "Spell Totem Support",
+        "Multiple Totems Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flame Dash"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Blight of Contagion",
+    "Swift Affliction Support",
+    "Empower Support",
+    "Infused Channelling Support",
+    "Controlled Destruction Support",
+    "Void Manipulation Support",
+    "Arcane Surge Support",
+    "Grace",
+    "Enlighten Support",
+    "Purity of Elements",
+    "Vaal Discipline",
+    "Clarity",
+    "Malevolence",
+    "Bane",
+    "Enfeeble",
+    "Punishment",
+    "Despair",
+    "Contagion",
+    "Increased Area of Effect Support",
+    "Intensify Support",
+    "Item Rarity Support",
+    "Wither",
+    "Spell Totem Support",
+    "Multiple Totems Support",
+    "Flame Dash"
+  ],
+  "items": [
+    {
+      "name": "Corruption Wrap",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Torment Locket",
+      "typeLine": "Crystal Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Rift Hold",
+      "typeLine": "Cogwork Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Rapture Visor",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Agony Knuckle",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Anathema",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Cane of Kulemak",
+      "typeLine": "Serpentine Staff",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Ghoul Tread",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-19T08:47:34.999515Z"
+}

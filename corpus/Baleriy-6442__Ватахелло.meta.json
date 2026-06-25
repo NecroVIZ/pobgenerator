@@ -1,0 +1,294 @@
+{
+  "account": "Baleriy-6442",
+  "name": "Ватахелло",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Chieftain",
+  "ascendancy": "Chieftain",
+  "secondaryAscendancy": "Chaos Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 8590,
+    "energyShield": 134,
+    "mana": 0,
+    "ward": 150,
+    "movementSpeed": 246,
+    "lifeRegen": 3391,
+    "evasionRating": 386,
+    "armour": 6339,
+    "strength": 96,
+    "dexterity": 56,
+    "intelligence": 14,
+    "enduranceCharges": 7,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 1071600,
+    "physicalMaximumHitTaken": 31941,
+    "fireMaximumHitTaken": 111665,
+    "coldMaximumHitTaken": 111665,
+    "lightningMaximumHitTaken": 111665,
+    "chaosMaximumHitTaken": 38573,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 161,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 27,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 30,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 33,
+    "chaosResistanceMax": 75,
+    "blockChance": 90,
+    "spellBlockChance": 90,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 4410,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 435,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 46,
+      "lightning": 0,
+      "fire": 54,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 31941
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 11,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Detonate Dead of Scavenging",
+        "Unbound Ailments Support",
+        "Cast when Stunned Support",
+        "Burning Damage Support",
+        "Deadly Ailments Support",
+        "Flame Surge of Combusting"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Tempest Shield",
+        "Petrified Blood",
+        "Flesh and Stone",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purifying Flame",
+        "Cast when Stunned Support",
+        "Immortal Call",
+        "Enfeeble"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Bladefall of Volleys",
+        "Greater Spell Cascade Support",
+        "Firestorm of Pelting",
+        "Cast when Stunned Support"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Automation",
+        "More Duration Support",
+        "Phase Run"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Purity of Fire",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Purity of Fire",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Cremation of the Volcano",
+        "Flame Wall"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Aspect of the Spider"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Detonate Dead of Scavenging",
+    "Unbound Ailments Support",
+    "Cast when Stunned Support",
+    "Burning Damage Support",
+    "Deadly Ailments Support",
+    "Flame Surge of Combusting",
+    "Tempest Shield",
+    "Petrified Blood",
+    "Flesh and Stone",
+    "Enlighten Support",
+    "Purifying Flame",
+    "Cast when Stunned Support",
+    "Immortal Call",
+    "Enfeeble",
+    "Bladefall of Volleys",
+    "Greater Spell Cascade Support",
+    "Firestorm of Pelting",
+    "Cast when Stunned Support",
+    "Automation",
+    "More Duration Support",
+    "Phase Run",
+    "Purity of Fire",
+    "Eternal Blessing Support",
+    "Frostblink",
+    "Purity of Fire",
+    "Eternal Blessing Support",
+    "Vitality",
+    "Cremation of the Volcano",
+    "Flame Wall",
+    "Vitality",
+    "Aspect of the Spider"
+  ],
+  "items": [
+    {
+      "name": "Valyrium",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Defiance of Destiny",
+      "typeLine": "Paua Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Ichimonji",
+      "typeLine": "Corsair Sword",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Kraken Turn",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Vortex Bead",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Ichimonji",
+      "typeLine": "Corsair Sword",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Wrath Crown",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Demon Knuckle",
+      "typeLine": "Chimerascale Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Cloak of Flame",
+      "typeLine": "Scholar's Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-19T14:53:28.260843Z"
+}

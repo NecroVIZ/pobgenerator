@@ -1,0 +1,82 @@
+{
+  "rows": [
+    {
+      "build": "builds\\2.txt",
+      "ml_overlap": 40.0,
+      "hc_overlap": 22.9,
+      "ml_dps_pct": 7.2,
+      "hc_dps_pct": 11.7,
+      "ref_dps": 17442305.424425106,
+      "ml_points": 123,
+      "hc_points": 123,
+      "budget_points": 123
+    },
+    {
+      "build": "builds\\4.txt",
+      "ml_overlap": 79.3,
+      "hc_overlap": 44.8,
+      "ml_dps_pct": 10.3,
+      "hc_dps_pct": 3.6,
+      "ref_dps": 25843799.37880097,
+      "ml_points": 123,
+      "hc_points": 122,
+      "budget_points": 123
+    },
+    {
+      "build": "builds\\6.txt",
+      "ml_overlap": 32.4,
+      "hc_overlap": 27.0,
+      "ml_dps_pct": 10.4,
+      "hc_dps_pct": 18.2,
+      "ref_dps": 14064742.605096992,
+      "ml_points": 121,
+      "hc_points": 123,
+      "budget_points": 123
+    },
+    {
+      "build": "builds\\8.txt",
+      "ml_overlap": 46.7,
+      "hc_overlap": 30.0,
+      "ml_dps_pct": 26.2,
+      "hc_dps_pct": 14.2,
+      "ref_dps": 5441051.61850133,
+      "ml_points": 123,
+      "hc_points": 123,
+      "budget_points": 123
+    },
+    {
+      "build": "builds\\10.txt",
+      "ml_overlap": 36.8,
+      "hc_overlap": 31.6,
+      "ml_dps_pct": 17.3,
+      "hc_dps_pct": 21.0,
+      "ref_dps": 34936025.04240092,
+      "ml_points": 123,
+      "hc_points": 123,
+      "budget_points": 123
+    },
+    {
+      "build": "builds\\11.txt",
+      "ml_overlap": 59.4,
+      "hc_overlap": 37.5,
+      "ml_dps_pct": 72.0,
+      "hc_dps_pct": 29.5,
+      "ref_dps": 1718746.67200457,
+      "ml_points": 123,
+      "hc_points": 123,
+      "budget_points": 123
+    }
+  ],
+  "avg": {
+    "ml_dps_pct": 23.9,
+    "hc_dps_pct": 16.4,
+    "ml_overlap": 49.1,
+    "hc_overlap": 32.3
+  },
+  "gate": {
+    "dps_primary": false,
+    "overlap_secondary": true,
+    "per_build_dps_floor": false
+  },
+  "verdict": "FAIL"
+}

@@ -1,0 +1,279 @@
+{
+  "account": "AlacrityEnjoyer-3471",
+  "name": "PigTurbo",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Gladiator",
+  "ascendancy": "Gladiator",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5852,
+    "energyShield": 0,
+    "mana": 0,
+    "ward": 428,
+    "movementSpeed": 173,
+    "lifeRegen": 175,
+    "evasionRating": 525,
+    "armour": 402,
+    "strength": 23,
+    "dexterity": 23,
+    "intelligence": 78,
+    "enduranceCharges": 7,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 2603744,
+    "physicalMaximumHitTaken": 12787,
+    "fireMaximumHitTaken": 34644,
+    "coldMaximumHitTaken": 34644,
+    "lightningMaximumHitTaken": 34644,
+    "chaosMaximumHitTaken": 22865,
+    "fireResistance": 81,
+    "fireResistanceOverCap": 51,
+    "fireResistanceMax": 81,
+    "coldResistance": 81,
+    "coldResistanceOverCap": 8,
+    "coldResistanceMax": 81,
+    "lightningResistance": 81,
+    "lightningResistanceOverCap": 57,
+    "lightningResistanceMax": 81,
+    "chaosResistance": 76,
+    "chaosResistanceOverCap": 24,
+    "chaosResistanceMax": 76,
+    "blockChance": 99,
+    "spellBlockChance": 98,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 2743,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 60,
+      "lightning": 0,
+      "fire": 40,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 12787
+  },
+  "keyStones": [
+    {
+      "name": "The Agnostic",
+      "icon": "Art/2DArt/SkillIcons/passives/MiracleMaker.webp",
+      "stats": [
+        "Removes all Energy Shield\nWhile not on Full Life, Sacrifice 20% of Mana per Second to Recover that much Life"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 13,
+  "passiveCount": 134,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Detonate Dead of Scavenging",
+        "Hypothermia Support",
+        "Cruelty Support",
+        "Cast when Stunned Support",
+        "Combustion Support",
+        "Fire Penetration Support",
+        "Ignite Proliferation Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Cremation of the Volcano",
+        "Firestorm of Pelting",
+        "Cast when Stunned Support",
+        "Life Leech Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Cold Snap",
+        "Cast when Stunned Support",
+        "Flammability",
+        "Wave of Conviction"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Malevolence",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Petrified Blood",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flame Surge of Combusting",
+        "Cast when Stunned Support",
+        "Purifying Flame of Revelations"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Detonate Dead of Scavenging",
+    "Hypothermia Support",
+    "Cruelty Support",
+    "Cast when Stunned Support",
+    "Combustion Support",
+    "Fire Penetration Support",
+    "Ignite Proliferation Support",
+    "Cremation of the Volcano",
+    "Firestorm of Pelting",
+    "Cast when Stunned Support",
+    "Life Leech Support",
+    "Power Charge On Critical Support",
+    "Cold Snap",
+    "Cast when Stunned Support",
+    "Flammability",
+    "Wave of Conviction",
+    "Malevolence",
+    "Eternal Blessing Support",
+    "Petrified Blood",
+    "Tempest Shield",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Frostblink",
+    "Flame Surge of Combusting",
+    "Cast when Stunned Support",
+    "Purifying Flame of Revelations"
+  ],
+  "items": [
+    {
+      "name": "Lori's Lantern",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Azadi Crest",
+      "typeLine": "Lacquered Buckler",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Death Rush",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "The Anvil",
+      "typeLine": "Amber Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Rainbowstride",
+      "typeLine": "Conjurer Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Cloak of Flame",
+      "typeLine": "Scholar's Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Eagle Ward",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Woe Peak",
+      "typeLine": "Runic Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Death Claw",
+      "typeLine": "Runic Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Null's Inclination",
+      "typeLine": "Ranger Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Valyrium",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Razor of the Seventh Sun",
+      "typeLine": "Midnight Blade",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    }
+  ],
+  "jewelsCount": 4,
+  "lastCheckedUtc": "2026-06-19T18:22:29.710826Z"
+}

@@ -1,0 +1,282 @@
+{
+  "account": "AntiFlash-2645",
+  "name": "Rue_Sold_Me_Fentanyl",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Slayer",
+  "ascendancy": "Slayer",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5392,
+    "energyShield": 0,
+    "mana": 703,
+    "ward": 0,
+    "movementSpeed": 158,
+    "lifeRegen": 140,
+    "evasionRating": 31241,
+    "armour": 543,
+    "strength": 186,
+    "dexterity": 262,
+    "intelligence": 139,
+    "enduranceCharges": 8,
+    "frenzyCharges": 8,
+    "powerCharges": 5,
+    "effectiveHealthPool": 52344,
+    "physicalMaximumHitTaken": 11381,
+    "fireMaximumHitTaken": 40084,
+    "coldMaximumHitTaken": 40084,
+    "lightningMaximumHitTaken": 40084,
+    "chaosMaximumHitTaken": 29354,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 36,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 32,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 35,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 74,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 38,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 658,
+    "evadeChance": 80,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 484,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 37,
+        "max": 90,
+        "effectiveAppliedArmour": 543,
+        "base": 32,
+        "takenDamage": 2261
+      },
+      "fire": {
+        "value": 32,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 32,
+        "takenDamage": 2261
+      },
+      "cold": {
+        "value": 32,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 32,
+        "takenDamage": 2261
+      },
+      "lightning": {
+        "value": 32,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 32,
+        "takenDamage": 2261
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 11381
+  },
+  "keyStones": [],
+  "masteriesCount": 7,
+  "passiveCount": 115,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Elemental Hit",
+        "Greater Ancestral Call Support",
+        "Multistrike Support",
+        "Faster Attacks Support",
+        "Elemental Damage with Attacks Support",
+        "Lifetap Support",
+        "Trinity Support",
+        "Increased Critical Damage Support",
+        "Ruthless Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Frostblink",
+        "Assassin's Mark",
+        "Lifetap Support",
+        "Mark On Hit Support",
+        "Faster Attacks Support",
+        "Whirling Blades"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Elemental Hit",
+        "Greater Ancestral Call Support",
+        "Enhance Support",
+        "Enhance Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flesh and Stone",
+        "Enlighten Support",
+        "Grace",
+        "Arctic Armour"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support",
+        "Lifetap Support",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Hydrosphere",
+        "Combustion Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Blood Rage",
+        "Blood and Sand"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Elemental Hit",
+    "Greater Ancestral Call Support",
+    "Multistrike Support",
+    "Faster Attacks Support",
+    "Elemental Damage with Attacks Support",
+    "Lifetap Support",
+    "Trinity Support",
+    "Increased Critical Damage Support",
+    "Ruthless Support",
+    "Frostblink",
+    "Assassin's Mark",
+    "Lifetap Support",
+    "Mark On Hit Support",
+    "Faster Attacks Support",
+    "Whirling Blades",
+    "Elemental Hit",
+    "Greater Ancestral Call Support",
+    "Enhance Support",
+    "Enhance Support",
+    "Flesh and Stone",
+    "Enlighten Support",
+    "Grace",
+    "Arctic Armour",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Lifetap Support",
+    "More Duration Support",
+    "Hydrosphere",
+    "Combustion Support",
+    "Blood Rage",
+    "Blood and Sand"
+  ],
+  "items": [
+    {
+      "name": "Rift Keep",
+      "typeLine": "Astral Leather",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Ashes of the Stars",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "The Unseen Hue",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Storm Bane",
+      "typeLine": "Imperial Claw",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "The Squire",
+      "typeLine": "Elegant Round Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "Glaciated Imperial Bow of the Jaguar",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Pain Salvation",
+      "typeLine": "Majestic Pelt",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Woe Talons",
+      "typeLine": "Harpyskin Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Sorrow Pace",
+      "typeLine": "Sharkskin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Unseen Hue",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Unseen Hue",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-25T02:11:27.432432Z"
+}

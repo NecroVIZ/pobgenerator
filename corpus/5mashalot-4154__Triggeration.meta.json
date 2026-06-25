@@ -1,0 +1,222 @@
+{
+  "account": "5mashalot-4154",
+  "name": "Triggeration",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Catarina Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1716,
+    "energyShield": 46,
+    "mana": 0,
+    "ward": 23479,
+    "movementSpeed": 102,
+    "lifeRegen": 166,
+    "evasionRating": 8839,
+    "armour": 2837,
+    "strength": 176,
+    "dexterity": 203,
+    "intelligence": 232,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 15134,
+    "physicalMaximumHitTaken": 23498,
+    "fireMaximumHitTaken": 18424,
+    "coldMaximumHitTaken": 15678,
+    "lightningMaximumHitTaken": 13355,
+    "chaosMaximumHitTaken": 15747,
+    "fireResistance": -34,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 75,
+    "coldResistance": -58,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": -86,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": -60,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 25,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 18,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 51,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 84,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 16,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 13355
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 106,
+  "skillGroups": [
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Raise Zombie of Falling",
+        "Congregation Support",
+        "Cast on Ward Break Support",
+        "Summon Raging Spirit",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Bladefall of Trarthus",
+        "Efficacy Support",
+        "Foulgrasp",
+        "More Duration Support",
+        "Voltaxic Burst"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Raise Spectre of Transience",
+        "Congregation Support",
+        "Animate Weapon",
+        "Cast on Ward Break Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Voltaxic Burst",
+        "Cast on Ward Break Support",
+        "Summon Holy Relic of Conviction",
+        "Brand Recall"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Summon Skeletons",
+        "Cast on Ward Break Support",
+        "Summon Stone Golem"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Desecrate",
+        "Forbidden Rite"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Raise Zombie of Falling",
+    "Congregation Support",
+    "Cast on Ward Break Support",
+    "Summon Raging Spirit",
+    "More Duration Support",
+    "Bladefall of Trarthus",
+    "Efficacy Support",
+    "Foulgrasp",
+    "More Duration Support",
+    "Voltaxic Burst",
+    "Raise Spectre of Transience",
+    "Congregation Support",
+    "Animate Weapon",
+    "Cast on Ward Break Support",
+    "Voltaxic Burst",
+    "Cast on Ward Break Support",
+    "Summon Holy Relic of Conviction",
+    "Brand Recall",
+    "Summon Skeletons",
+    "Cast on Ward Break Support",
+    "Summon Stone Golem",
+    "Desecrate",
+    "Forbidden Rite"
+  ],
+  "items": [
+    {
+      "name": "Ynda's Stand",
+      "typeLine": "Studded Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Heartbound Loop",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Timeclasp",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Spirit Palm",
+      "typeLine": "Velour Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Breath of the Council",
+      "typeLine": "Carnal Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Bonemeld",
+      "typeLine": "Marble Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Agony March",
+      "typeLine": "Runic Sabatons",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Demon Crest",
+      "typeLine": "Runic Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Gloom Shell",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Replica Tukohama's Fortress",
+      "typeLine": "Ebony Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    }
+  ],
+  "jewelsCount": 13,
+  "lastCheckedUtc": "2026-06-16T11:31:06.188746Z"
+}

@@ -1,0 +1,17 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.11.9, pytest-9.1.0, pluggy-1.6.0
+rootdir: C:\Users\KZ\Desktop\s
+configfile: pyproject.toml
+testpaths: tests
+plugins: anyio-4.13.0
+collected 26 items
+
+tests\test_datagate.py ...                                               [ 11%]
+tests\test_gold.py ..                                                    [ 19%]
+tests\test_headless.py ..                                                [ 26%]
+tests\test_model.py ......                                               [ 50%]
+tests\test_pobcode.py ......                                             [ 73%]
+tests\test_roundtrip.py ....                                             [ 88%]
+tests\test_validator.py ...                                              [100%]
+
+============================= 26 passed in 28.68s =============================

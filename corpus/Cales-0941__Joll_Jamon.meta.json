@@ -1,0 +1,247 @@
+{
+  "account": "Cales-0941",
+  "name": "Joll_Jamon",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 9984,
+    "energyShield": 1080,
+    "mana": 942,
+    "ward": 0,
+    "movementSpeed": 156,
+    "lifeRegen": 1203,
+    "evasionRating": 0,
+    "armour": 21653,
+    "strength": 3862,
+    "dexterity": 155,
+    "intelligence": 416,
+    "enduranceCharges": 7,
+    "frenzyCharges": 4,
+    "powerCharges": 3,
+    "effectiveHealthPool": 768154,
+    "physicalMaximumHitTaken": 67884,
+    "fireMaximumHitTaken": 279879,
+    "coldMaximumHitTaken": 279879,
+    "lightningMaximumHitTaken": 279879,
+    "chaosMaximumHitTaken": 87764,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 22,
+    "fireResistanceMax": 90,
+    "coldResistance": -28,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": -28,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 15,
+    "chaosResistanceMax": 75,
+    "blockChance": 66,
+    "spellBlockChance": 75,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 767,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 91,
+      "lightning": 0,
+      "fire": 9,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 67884
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Tempered by War",
+      "icon": "Art/2DArt/SkillIcons/passives/TemperedByWar.webp",
+      "stats": [
+        "50% of Cold and Lightning Damage taken as Fire Damage",
+        "50% less Cold Resistance",
+        "50% less Lightning Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 116,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Heavy Strike of Trarthus",
+        "Greater Ancestral Call Support",
+        "Greater Multistrike Support",
+        "Increased Critical Damage Support",
+        "Volatility Support",
+        "Void Manipulation Support",
+        "Endurance Charge on Melee Stun Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Withering Step",
+        "Lifetap Support",
+        "Immortal Call",
+        "Cooldown Recovery Support",
+        "More Duration Support",
+        "Empower Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Leap Slam",
+        "Lifetap Support",
+        "Momentum Support",
+        "Power Charge On Critical Support",
+        "Rage Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Arctic Armour",
+        "Awakened Enhance Support",
+        "Empower Support",
+        "Purity of Fire"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Blood Rage",
+        "Enhance Support",
+        "Mark On Hit Support",
+        "Assassin's Mark"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Heavy Strike of Trarthus",
+    "Greater Ancestral Call Support",
+    "Greater Multistrike Support",
+    "Increased Critical Damage Support",
+    "Volatility Support",
+    "Void Manipulation Support",
+    "Endurance Charge on Melee Stun Support",
+    "Lifetap Support",
+    "Withering Step",
+    "Lifetap Support",
+    "Immortal Call",
+    "Cooldown Recovery Support",
+    "More Duration Support",
+    "Empower Support",
+    "Leap Slam",
+    "Lifetap Support",
+    "Momentum Support",
+    "Power Charge On Critical Support",
+    "Rage Support",
+    "Arctic Armour",
+    "Awakened Enhance Support",
+    "Empower Support",
+    "Purity of Fire",
+    "Blood Rage",
+    "Enhance Support",
+    "Mark On Hit Support",
+    "Assassin's Mark"
+  ],
+  "items": [
+    {
+      "name": "Vortex Claw",
+      "typeLine": "Precursor Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Empyrean Roar",
+      "typeLine": "Pernach",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Plague Brand",
+      "typeLine": "Pernach",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 10,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Hypnotic Braid",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Hypnotic Circle",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Kraken Cry",
+      "typeLine": "Lathi",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Empyrean Lock",
+      "typeLine": "Synthesised Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Hate Keep",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Replica Alberon's Warpath",
+      "typeLine": "Soldier Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Blood Curtain",
+      "typeLine": "Sacred Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-21T15:41:31.720143Z"
+}

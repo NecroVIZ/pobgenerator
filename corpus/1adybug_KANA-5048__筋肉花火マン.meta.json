@@ -1,0 +1,337 @@
+{
+  "account": "1adybug_KANA-5048",
+  "name": "筋肉花火マン",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Saresh Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 7247,
+    "energyShield": 329,
+    "mana": 773,
+    "ward": 0,
+    "movementSpeed": 172,
+    "lifeRegen": 798,
+    "evasionRating": 37,
+    "armour": 25532,
+    "strength": 2672,
+    "dexterity": 345,
+    "intelligence": 191,
+    "enduranceCharges": 7,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 320244,
+    "physicalMaximumHitTaken": 66867,
+    "fireMaximumHitTaken": 122472,
+    "coldMaximumHitTaken": 122472,
+    "lightningMaximumHitTaken": 122472,
+    "chaosMaximumHitTaken": 49027,
+    "fireResistance": 87,
+    "fireResistanceOverCap": 69,
+    "fireResistanceMax": 87,
+    "coldResistance": 87,
+    "coldResistanceOverCap": 28,
+    "coldResistanceMax": 87,
+    "lightningResistance": 87,
+    "lightningResistanceOverCap": 28,
+    "lightningResistanceMax": 87,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 1,
+    "chaosResistanceMax": 75,
+    "blockChance": 65,
+    "spellBlockChance": 64,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 58,
+    "energyShieldRegen": 0,
+    "lifeReserved": 429,
+    "manaReserved": 773,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 25532,
+        "base": 75,
+        "takenDamage": 2257
+      },
+      "fire": {
+        "value": 35,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 35,
+        "takenDamage": 2257
+      },
+      "cold": {
+        "value": 35,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 35,
+        "takenDamage": 2257
+      },
+      "lightning": {
+        "value": 35,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 35,
+        "takenDamage": 2257
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 49027
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    },
+    {
+      "name": "Precise Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/PreciseTechnique.webp",
+      "stats": [
+        "40% more Attack Damage if Accuracy Rating is higher than Maximum Life\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Point Blank",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePointBlankArcher.webp",
+      "stats": [
+        "Projectile Attack Hits deal up to 30% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther"
+      ]
+    },
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 113,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Molten Strike",
+        "Void Manipulation Support",
+        "Volatility Support",
+        "Greater Multiple Projectiles Support",
+        "Greater Multistrike Support",
+        "Slower Projectiles Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Automation",
+        "Phase Run",
+        "Withering Step",
+        "Lifetap Support",
+        "More Duration Support",
+        "Enhance Support",
+        "Cooldown Recovery Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Blade Flurry",
+        "Volatility Support",
+        "General's Cry",
+        "Autoexertion",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Leap Slam",
+        "Rage Support",
+        "Flame Dash",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flesh and Stone",
+        "Enlighten Support",
+        "Purity of Elements",
+        "Despair"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Vitality",
+        "Blood Rage",
+        "Arrogance Support",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Vaal Molten Shell",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Desecrate"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Aspect of the Crab"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Molten Strike",
+    "Void Manipulation Support",
+    "Volatility Support",
+    "Greater Multiple Projectiles Support",
+    "Greater Multistrike Support",
+    "Slower Projectiles Support",
+    "Lifetap Support",
+    "Automation",
+    "Phase Run",
+    "Withering Step",
+    "Lifetap Support",
+    "More Duration Support",
+    "Enhance Support",
+    "Cooldown Recovery Support",
+    "Blade Flurry",
+    "Volatility Support",
+    "General's Cry",
+    "Autoexertion",
+    "Momentum Support",
+    "Leap Slam",
+    "Rage Support",
+    "Flame Dash",
+    "Lifetap Support",
+    "Flesh and Stone",
+    "Enlighten Support",
+    "Purity of Elements",
+    "Despair",
+    "Vitality",
+    "Blood Rage",
+    "Arrogance Support",
+    "Precision",
+    "Vaal Molten Shell",
+    "Cast when Damage Taken Support",
+    "Desecrate",
+    "Aspect of the Crab"
+  ],
+  "items": [
+    {
+      "name": "Paradoxica",
+      "typeLine": "Vaal Rapier",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "The Squire",
+      "typeLine": "Elegant Round Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Rune Clutches",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Foulborn Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Iron Fortress",
+      "typeLine": "Crusader Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Blood Gyre",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Nimis",
+      "typeLine": "Topaz Ring",
+      "frameType": 10,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Crown of Eyes",
+      "typeLine": "Hubris Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Death Pendant",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Brood Refuge",
+      "typeLine": "Synthesised Ezomyte Tower Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Corpse Hunger",
+      "typeLine": "Gutting Knife",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Replica Alberon's Warpath",
+      "typeLine": "Soldier Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-25T02:11:26.329174Z"
+}

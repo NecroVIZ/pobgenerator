@@ -1,0 +1,246 @@
+{
+  "account": "ArtVandeley-0238",
+  "name": "Shieldslamman",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Delirious Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Kraityn",
+  "defensiveStats": {
+    "life": 5899,
+    "energyShield": 1382,
+    "mana": 774,
+    "ward": 0,
+    "movementSpeed": 233,
+    "lifeRegen": 805,
+    "evasionRating": 20,
+    "armour": 39352,
+    "strength": 290,
+    "dexterity": 135,
+    "intelligence": 140,
+    "enduranceCharges": 11,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 143857,
+    "physicalMaximumHitTaken": 54891,
+    "fireMaximumHitTaken": 114247,
+    "coldMaximumHitTaken": 114247,
+    "lightningMaximumHitTaken": 109487,
+    "chaosMaximumHitTaken": 57634,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 49,
+    "fireResistanceMax": 80,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 65,
+    "coldResistanceMax": 80,
+    "lightningResistance": 79,
+    "lightningResistanceOverCap": 70,
+    "lightningResistanceMax": 79,
+    "chaosResistance": 76,
+    "chaosResistanceOverCap": 6,
+    "chaosResistanceMax": 76,
+    "blockChance": 65,
+    "spellBlockChance": 65,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 163,
+    "energyShieldRegen": -70,
+    "lifeReserved": 373,
+    "manaReserved": 658,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 0,
+      "fire": 11,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 54891
+  },
+  "keyStones": [
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    },
+    {
+      "name": "Immortal Ambition",
+      "icon": "Art/2DArt/SkillIcons/passives/SoulTetherKeystone.webp",
+      "stats": [
+        "Energy Shield starts at zero",
+        "Cannot Recharge or Regenerate Energy Shield",
+        "Lose 5% of Energy Shield per second",
+        "Life Leech effects are not removed when Unreserved Life is Filled",
+        "Life Leech effects Recover Energy Shield instead while on Full Life"
+      ]
+    },
+    {
+      "name": "Glancing Blows",
+      "icon": "Art/2DArt/SkillIcons/passives/GlancingBlows.webp",
+      "stats": [
+        "Chance to Block Attack Damage is doubled\nChance to Block Spell Damage is doubled\nYou take 65% of Damage from Blocked Hits"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Shield Crush",
+        "Melee Physical Damage Support",
+        "Fortify Support",
+        "Greater Multistrike Support",
+        "Pulverise Support",
+        "Lifetap Support",
+        "Endurance Charge on Melee Stun Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Punishment",
+        "Excommunicate Support",
+        "Cast On Critical Strike Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Blood Rage",
+        "Enhance Support",
+        "Mark On Hit Support",
+        "Assassin's Mark"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Hatred",
+        "Purity of Elements",
+        "Herald of Ash",
+        "Blood and Sand"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink",
+        "Arrogance Support",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Vaal Molten Shell",
+        "Cast when Damage Taken Support",
+        "Cooldown Recovery Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Shield Crush",
+    "Melee Physical Damage Support",
+    "Fortify Support",
+    "Greater Multistrike Support",
+    "Pulverise Support",
+    "Lifetap Support",
+    "Endurance Charge on Melee Stun Support",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Punishment",
+    "Excommunicate Support",
+    "Cast On Critical Strike Support",
+    "Blood Rage",
+    "Enhance Support",
+    "Mark On Hit Support",
+    "Assassin's Mark",
+    "Hatred",
+    "Purity of Elements",
+    "Herald of Ash",
+    "Blood and Sand",
+    "Frostblink",
+    "Arrogance Support",
+    "Precision",
+    "Vaal Molten Shell",
+    "Cast when Damage Taken Support",
+    "Cooldown Recovery Support"
+  ],
+  "items": [
+    {
+      "name": "The Princess",
+      "typeLine": "Sabre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Eagle Paw",
+      "typeLine": "Goliath Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Behemoth Keep",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Woe Turn",
+      "typeLine": "Synthesised Gold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Ghoul Pelt",
+      "typeLine": "Royal Plate",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn Emperor's Vigilance",
+      "typeLine": "Steel Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Arn's Anguish",
+      "typeLine": "Cloth Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Aul's Uprising",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-19T05:43:59.909373Z"
+}

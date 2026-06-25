@@ -1,0 +1,255 @@
+{
+  "account": "0ctahedron-7787",
+  "name": "utfgeneralci",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Breachlord Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3978,
+    "energyShield": 943,
+    "mana": 1079,
+    "ward": 0,
+    "movementSpeed": 203,
+    "lifeRegen": 198,
+    "evasionRating": 13635,
+    "armour": 80,
+    "strength": 164,
+    "dexterity": 204,
+    "intelligence": 274,
+    "enduranceCharges": 3,
+    "frenzyCharges": 10,
+    "powerCharges": 10,
+    "effectiveHealthPool": 26546,
+    "physicalMaximumHitTaken": 5037,
+    "fireMaximumHitTaken": 21743,
+    "coldMaximumHitTaken": 26176,
+    "lightningMaximumHitTaken": 21743,
+    "chaosMaximumHitTaken": 15912,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 5,
+    "fireResistanceMax": 75,
+    "coldResistance": 83,
+    "coldResistanceOverCap": 69,
+    "coldResistanceMax": 83,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 10,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 1,
+    "chaosResistanceMax": 75,
+    "blockChance": 24,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 85,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 752,
+    "evadeChance": 62,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5037
+  },
+  "keyStones": [
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    },
+    {
+      "name": "Inner Conviction",
+      "icon": "Art/2DArt/SkillIcons/passives/InnerConviction.webp",
+      "stats": [
+        "3% more Spell Damage per Power Charge",
+        "Gain Power Charges instead of Frenzy Charges"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 111,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Glacial Cascade of the Fissure",
+        "Trap and Mine Damage Support",
+        "High-Impact Mine Support",
+        "Charged Mines Support",
+        "Empower Support",
+        "Minefield Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Automation",
+        "Steelskin",
+        "Cooldown Recovery Support",
+        "Detonate Mines",
+        "Arcane Surge Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Faster Casting Support",
+        "Spell Echo Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Bear Trap",
+        "Charged Traps Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Arcanist Brand",
+        "Frostbite",
+        "Elemental Weakness",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Hatred",
+        "Summon Skitterbots",
+        "Unbound Ailments Support",
+        "Bonechill Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Herald of Purity",
+        "Vaal Grace"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Glacial Cascade of the Fissure",
+    "Trap and Mine Damage Support",
+    "High-Impact Mine Support",
+    "Charged Mines Support",
+    "Empower Support",
+    "Minefield Support",
+    "Power Charge On Critical Support",
+    "Automation",
+    "Steelskin",
+    "Cooldown Recovery Support",
+    "Detonate Mines",
+    "Arcane Surge Support",
+    "Frostblink of Wintry Blast",
+    "Faster Casting Support",
+    "Spell Echo Support",
+    "Bear Trap",
+    "Charged Traps Support",
+    "Arcanist Brand",
+    "Frostbite",
+    "Elemental Weakness",
+    "Inspiration Support",
+    "Hatred",
+    "Summon Skitterbots",
+    "Unbound Ailments Support",
+    "Bonechill Support",
+    "Herald of Purity",
+    "Vaal Grace"
+  ],
+  "items": [
+    {
+      "name": "Mind Pith",
+      "typeLine": "Ancient Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Rift Talons",
+      "typeLine": "Stealth Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Grim Cry",
+      "typeLine": "Prophecy Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "",
+      "typeLine": "Coiled Wand",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "",
+      "typeLine": "Coiled Wand",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Foulborn Badge of the Brotherhood",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Heatshiver",
+      "typeLine": "Leather Hood",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Arkhon's Tools",
+      "typeLine": "Cloth Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Phoenix Sanctuary",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Dragon Grip",
+      "typeLine": "Synthesised Topaz Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 13,
+  "lastCheckedUtc": "2026-06-21T16:50:07.574119Z"
+}

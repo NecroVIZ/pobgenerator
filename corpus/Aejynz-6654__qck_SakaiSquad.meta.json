@@ -1,0 +1,302 @@
+{
+  "account": "Aejynz-6654",
+  "name": "qck_SakaiSquad",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Necromancer",
+  "ascendancy": "Necromancer",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 9175,
+    "mana": 5002,
+    "ward": 0,
+    "movementSpeed": 235,
+    "lifeRegen": 0,
+    "evasionRating": 0,
+    "armour": 0,
+    "strength": 156,
+    "dexterity": 143,
+    "intelligence": 346,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 6,
+    "effectiveHealthPool": 78888,
+    "physicalMaximumHitTaken": 10196,
+    "fireMaximumHitTaken": 44329,
+    "coldMaximumHitTaken": 36413,
+    "lightningMaximumHitTaken": 36413,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 63,
+    "fireResistanceMax": 80,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 5,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 5,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 68,
+    "spellBlockChance": 70,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 365,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 4791,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 1316,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 10196
+  },
+  "keyStones": [
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Reaver",
+      "icon": "Art/2DArt/SkillIcons/passives/ghostreaver.webp",
+      "stats": [
+        "Leech Energy Shield instead of Life\nMaximum total Energy Shield Recovery per second from Leech is doubled\nCannot Recharge Energy Shield"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 110,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Blast of Clustering",
+        "Damage on Full Life Support",
+        "Increased Critical Damage Support",
+        "Greater Fork Support",
+        "Summon Sacred Wisps",
+        "Returning Projectiles Support",
+        "Item Rarity Support",
+        "Hypothermia Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Kinetic Blast",
+        "Kinetic Blast"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Kinetic Blast"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Kinetic Blast"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Kinetic Blast"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Kinetic Blast"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Shield Charge",
+        "Frostblink",
+        "Clarity",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Desecrate",
+        "Tornado",
+        "Spellslinger",
+        "Spell Cascade Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Discipline",
+        "Enlighten Support",
+        "Precision",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Assassin's Mark",
+        "Cast when Damage Taken Support",
+        "Immortal Call",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Volatile Dead of Seething",
+        "Spellslinger",
+        "Bone Offering"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Kinetic Blast",
+        "Kinetic Blast"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Kinetic Blast"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Blast of Clustering",
+    "Damage on Full Life Support",
+    "Increased Critical Damage Support",
+    "Greater Fork Support",
+    "Summon Sacred Wisps",
+    "Returning Projectiles Support",
+    "Item Rarity Support",
+    "Hypothermia Support",
+    "Kinetic Blast",
+    "Kinetic Blast",
+    "Kinetic Blast",
+    "Kinetic Blast",
+    "Kinetic Blast",
+    "Kinetic Blast",
+    "Shield Charge",
+    "Frostblink",
+    "Clarity",
+    "Momentum Support",
+    "Desecrate",
+    "Tornado",
+    "Spellslinger",
+    "Spell Cascade Support",
+    "Discipline",
+    "Enlighten Support",
+    "Precision",
+    "Tempest Shield",
+    "Assassin's Mark",
+    "Cast when Damage Taken Support",
+    "Immortal Call",
+    "Mark On Hit Support",
+    "Volatile Dead of Seething",
+    "Spellslinger",
+    "Bone Offering",
+    "Kinetic Blast",
+    "Kinetic Blast",
+    "Kinetic Blast"
+  ],
+  "items": [
+    {
+      "name": "Rapture Goad",
+      "typeLine": "Synthesised Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Carrion Claw",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Whispers of Infinity",
+      "typeLine": "Seaglass Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Brimstone Urge",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Death Horn",
+      "typeLine": "Synthesised Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Woe Mark",
+      "typeLine": "Transfer-attuned Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Oblivion Whorl",
+      "typeLine": "Cogwork Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "Frosted Crude Bow of Ease",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Demon Salvation",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Demon Spiral",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-24T17:01:33.03726Z"
+}

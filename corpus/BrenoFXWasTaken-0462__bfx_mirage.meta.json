@@ -1,0 +1,247 @@
+{
+  "account": "BrenoFXWasTaken-0462",
+  "name": "bfx_mirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Ascendant",
+  "ascendancy": "Ascendant",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 7268,
+    "energyShield": 0,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 195,
+    "lifeRegen": 295,
+    "evasionRating": 5054,
+    "armour": 8443,
+    "strength": 1607,
+    "dexterity": 173,
+    "intelligence": 171,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 79872,
+    "physicalMaximumHitTaken": 8250,
+    "fireMaximumHitTaken": 24461,
+    "coldMaximumHitTaken": 24461,
+    "lightningMaximumHitTaken": 24461,
+    "chaosMaximumHitTaken": 27396,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 10,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 35,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 51,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 20,
+    "chaosResistanceMax": 75,
+    "blockChance": 68,
+    "spellBlockChance": 71,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 419,
+    "manaReserved": 0,
+    "evadeChance": 36,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 8250
+  },
+  "keyStones": [
+    {
+      "name": "Ancestral Bond",
+      "icon": "Art/2DArt/SkillIcons/passives/totemmax.webp",
+      "stats": [
+        "You can't deal Damage with Skills yourself\n+1 to maximum number of Summoned Totems"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    },
+    {
+      "name": "Point Blank",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePointBlankArcher.webp",
+      "stats": [
+        "Projectile Attack Hits deal up to 30% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 137,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Fusillade",
+        "Increased Critical Damage Support",
+        "Greater Volley Support",
+        "Volatility Support",
+        "Less Duration Support",
+        "Ballista Totem Support",
+        "Void Manipulation Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Purity of Elements",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vitality",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Sniper's Mark",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frenzy",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Shield Charge",
+        "Excommunicate Support",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Fusillade",
+    "Increased Critical Damage Support",
+    "Greater Volley Support",
+    "Volatility Support",
+    "Less Duration Support",
+    "Ballista Totem Support",
+    "Void Manipulation Support",
+    "Purity of Elements",
+    "Eternal Blessing Support",
+    "Vitality",
+    "Precision",
+    "Sniper's Mark",
+    "Mark On Hit Support",
+    "Frenzy",
+    "Power Charge On Critical Support",
+    "Shield Charge",
+    "Excommunicate Support",
+    "Faster Attacks Support",
+    "Frostblink"
+  ],
+  "items": [
+    {
+      "name": "Doom Barrier",
+      "typeLine": "Crimson Round Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Nemesis Road",
+      "typeLine": "Eelskin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Corpse Star",
+      "typeLine": "Haunted Bascinet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Iron Fortress",
+      "typeLine": "Crusader Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Pandemonium Circle",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Warped Timepiece",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Skull Scratch",
+      "typeLine": "Crystal Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Foulborn Meginord's Girdle",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Hypnotic Finger",
+      "typeLine": "Sapphire Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Vengeance Touch",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-21T00:24:07.626807Z"
+}

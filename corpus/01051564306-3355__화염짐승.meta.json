@@ -1,0 +1,213 @@
+{
+  "account": "01051564306-3355",
+  "name": "화염짐승",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Berserker",
+  "ascendancy": "Berserker",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2692,
+    "energyShield": 518,
+    "mana": 794,
+    "ward": 0,
+    "movementSpeed": 120,
+    "lifeRegen": 48,
+    "evasionRating": 2006,
+    "armour": 1370,
+    "strength": 312,
+    "dexterity": 97,
+    "intelligence": 173,
+    "enduranceCharges": 3,
+    "frenzyCharges": 4,
+    "powerCharges": 3,
+    "effectiveHealthPool": 3045,
+    "physicalMaximumHitTaken": 1931,
+    "fireMaximumHitTaken": 5591,
+    "coldMaximumHitTaken": 2563,
+    "lightningMaximumHitTaken": 2121,
+    "chaosMaximumHitTaken": 1708,
+    "fireResistance": 59,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 0,
+    "coldResistance": 7,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 0,
+    "lightningResistance": -13,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 0,
+    "chaosResistance": -22,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 38,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 1708
+  },
+  "keyStones": [
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 114,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Ice Crash",
+        "Ruthless Support",
+        "Elemental Damage with Attacks Support",
+        "Pulverise Support",
+        "Melee Physical Damage Support",
+        "Elemental Focus Support",
+        "Cold Penetration Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Skitterbots",
+        "Bonechill Support",
+        "Unbound Ailments Support",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Hatred",
+        "Enlighten Support",
+        "Precision",
+        "Herald of Purity"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostbite",
+        "Elemental Weakness",
+        "Lifetap Support",
+        "Intimidating Cry"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Blood and Sand",
+        "Arrogance Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Ice Crash",
+    "Ruthless Support",
+    "Elemental Damage with Attacks Support",
+    "Pulverise Support",
+    "Melee Physical Damage Support",
+    "Elemental Focus Support",
+    "Cold Penetration Support",
+    "Summon Skitterbots",
+    "Bonechill Support",
+    "Unbound Ailments Support",
+    "Enlighten Support",
+    "Hatred",
+    "Enlighten Support",
+    "Precision",
+    "Herald of Purity",
+    "Frostbite",
+    "Elemental Weakness",
+    "Lifetap Support",
+    "Intimidating Cry",
+    "Blood and Sand",
+    "Arrogance Support"
+  ],
+  "items": [
+    {
+      "name": "Lycosidae",
+      "typeLine": "Rawhide Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Marylene's Fallacy",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Seven Teachings",
+      "typeLine": "Waxed Garb",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Facebreaker",
+      "typeLine": "Strapped Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Abyssus",
+      "typeLine": "Ezomyte Burgonet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Tempest Eye",
+      "typeLine": "Steel Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Warden's Brand",
+      "typeLine": "Iron Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    }
+  ],
+  "jewelsCount": 16,
+  "lastCheckedUtc": "2026-06-19T18:24:21.046828Z"
+}

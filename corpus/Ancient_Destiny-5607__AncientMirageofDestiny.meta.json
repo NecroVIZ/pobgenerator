@@ -1,0 +1,272 @@
+{
+  "account": "Ancient_Destiny-5607",
+  "name": "AncientMirageofDestiny",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Champion",
+  "ascendancy": "Champion",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5104,
+    "energyShield": 271,
+    "mana": 863,
+    "ward": 0,
+    "movementSpeed": 249,
+    "lifeRegen": 1574,
+    "evasionRating": 29718,
+    "armour": 98625,
+    "strength": 305,
+    "dexterity": 195,
+    "intelligence": 160,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 727632,
+    "physicalMaximumHitTaken": 19894,
+    "fireMaximumHitTaken": 65176,
+    "coldMaximumHitTaken": 60830,
+    "lightningMaximumHitTaken": 60830,
+    "chaosMaximumHitTaken": 33229,
+    "fireResistance": 89,
+    "fireResistanceOverCap": 59,
+    "fireResistanceMax": 89,
+    "coldResistance": 88,
+    "coldResistanceOverCap": 80,
+    "coldResistanceMax": 88,
+    "lightningResistance": 88,
+    "lightningResistanceOverCap": 147,
+    "lightningResistanceMax": 88,
+    "chaosResistance": 76,
+    "chaosResistanceOverCap": 5,
+    "chaosResistanceMax": 76,
+    "blockChance": 78,
+    "spellBlockChance": 67,
+    "spellSuppressionChance": 37,
+    "spellDodgeChance": 0,
+    "itemRarity": -12,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 831,
+    "evadeChance": 78,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 19894
+  },
+  "keyStones": [],
+  "masteriesCount": 7,
+  "passiveCount": 118,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Wrath",
+        "Ancestral Call Support",
+        "Smite",
+        "Anger",
+        "Enlighten Support",
+        "Empower Support",
+        "Generosity Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Lifetap Support",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Purity of Lightning",
+        "Enlighten Support",
+        "Purity of Ice",
+        "Purity of Fire"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Stone Golem",
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vaal Haste"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Clarity"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Molten Shell",
+        "Lifetap Support",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Determination",
+        "Enlighten Support",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Anger",
+        "Anger"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Anger"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Anger",
+        "Anger"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Anger"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Wrath",
+    "Ancestral Call Support",
+    "Smite",
+    "Anger",
+    "Enlighten Support",
+    "Empower Support",
+    "Generosity Support",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Lifetap Support",
+    "Frostblink",
+    "Purity of Lightning",
+    "Enlighten Support",
+    "Purity of Ice",
+    "Purity of Fire",
+    "Summon Stone Golem",
+    "Vitality",
+    "Vaal Haste",
+    "Clarity",
+    "Molten Shell",
+    "Lifetap Support",
+    "Cast when Damage Taken Support",
+    "Determination",
+    "Enlighten Support",
+    "Tempest Shield",
+    "Anger",
+    "Anger",
+    "Anger",
+    "Anger",
+    "Anger",
+    "Anger"
+  ],
+  "items": [
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Spirit March",
+      "typeLine": "Chimerascale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Honour Sanctuary",
+      "typeLine": "Synthesised Cardinal Round Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Ventor's Gamble",
+      "typeLine": "Gold Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Victario's Influence",
+      "typeLine": "Lacquered Garb",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Celestial Brace",
+      "typeLine": "Goliath Gauntlets",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "",
+      "typeLine": "Shadow Sceptre",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "Ritual Sceptre",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Perquil's Toe",
+      "typeLine": "Gold Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Dark Seer",
+      "typeLine": "Shadow Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Empyrean Cowl",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-19T18:22:14.568493Z"
+}

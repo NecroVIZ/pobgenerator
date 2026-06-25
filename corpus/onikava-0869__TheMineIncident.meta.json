@@ -1,0 +1,268 @@
+{
+  "account": "onikava-0869",
+  "name": "TheMineIncident",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 7947,
+    "energyShield": 1219,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 280,
+    "lifeRegen": 540,
+    "evasionRating": 26,
+    "armour": 9641,
+    "strength": 2890,
+    "dexterity": 231,
+    "intelligence": 239,
+    "enduranceCharges": 7,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 148711,
+    "physicalMaximumHitTaken": 27478,
+    "fireMaximumHitTaken": 173156,
+    "coldMaximumHitTaken": 173156,
+    "lightningMaximumHitTaken": 173156,
+    "chaosMaximumHitTaken": 53853,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 69,
+    "fireResistanceMax": 0,
+    "coldResistance": -87,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 0,
+    "lightningResistance": -1,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 12,
+    "chaosResistanceMax": 0,
+    "blockChance": 22,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 27478
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Tempered by War",
+      "icon": "Art/2DArt/SkillIcons/passives/TemperedByWar.webp",
+      "stats": [
+        "50% of Cold and Lightning Damage taken as Fire Damage",
+        "50% less Cold Resistance",
+        "50% less Lightning Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 121,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Dual Strike of Ambidexterity",
+        "Increased Critical Damage Support",
+        "Greater Multistrike Support",
+        "Void Manipulation Support",
+        "Volatility Support",
+        "Greater Ancestral Call Support",
+        "Fortify Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Raise Spectre",
+        "Elemental Army Support",
+        "Meat Shield Support",
+        "Animate Guardian",
+        "Minion Life Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Petrified Blood",
+        "Arctic Armour",
+        "Enlighten Support",
+        "Portal"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Fire",
+        "Eternal Blessing Support",
+        "Empower Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Convocation",
+        "Whirling Blades",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Assassin's Mark",
+        "Mark On Hit Support",
+        "Despair"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Dual Strike of Ambidexterity",
+    "Increased Critical Damage Support",
+    "Greater Multistrike Support",
+    "Void Manipulation Support",
+    "Volatility Support",
+    "Greater Ancestral Call Support",
+    "Fortify Support",
+    "Raise Spectre",
+    "Elemental Army Support",
+    "Meat Shield Support",
+    "Animate Guardian",
+    "Minion Life Support",
+    "Petrified Blood",
+    "Arctic Armour",
+    "Enlighten Support",
+    "Portal",
+    "Purity of Fire",
+    "Eternal Blessing Support",
+    "Empower Support",
+    "Frostblink",
+    "Convocation",
+    "Whirling Blades",
+    "Automation",
+    "Assassin's Mark",
+    "Mark On Hit Support",
+    "Despair"
+  ],
+  "items": [
+    {
+      "name": "Grim Fang",
+      "typeLine": "Synthesised Ambusher",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Paradoxica",
+      "typeLine": "Vaal Rapier",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Vengeance Fist",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Crown of Eyes",
+      "typeLine": "Hubris Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Loath Clasp",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Replica Alberon's Warpath",
+      "typeLine": "Soldier Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Vengeance Coat",
+      "typeLine": "Sacred Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Blood Eye",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Golem Charm",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-19T14:53:27.647167Z"
+}

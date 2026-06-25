@@ -1,0 +1,263 @@
+{
+  "account": "Bankykkz-4819",
+  "name": "BKMR",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Inquisitor",
+  "ascendancy": "Inquisitor",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1552,
+    "energyShield": 621,
+    "mana": 1053,
+    "ward": 0,
+    "movementSpeed": 364,
+    "lifeRegen": 395,
+    "evasionRating": 2388,
+    "armour": 232,
+    "strength": 168,
+    "dexterity": 173,
+    "intelligence": 382,
+    "enduranceCharges": 1,
+    "frenzyCharges": 9,
+    "powerCharges": 9,
+    "effectiveHealthPool": 4099,
+    "physicalMaximumHitTaken": 1983,
+    "fireMaximumHitTaken": 6892,
+    "coldMaximumHitTaken": 8425,
+    "lightningMaximumHitTaken": 3423,
+    "chaosMaximumHitTaken": 1308,
+    "fireResistance": 73,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 0,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 113,
+    "coldResistanceMax": 0,
+    "lightningResistance": 34,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 0,
+    "chaosResistance": -6,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 8,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 1308
+  },
+  "keyStones": [
+    {
+      "name": "Runebinder",
+      "icon": "Art/2DArt/SkillIcons/passives/BrandKeystone.webp",
+      "stats": [
+        "-1 to maximum number of Summoned Totems\nYou can have an additional Brand Attached to an Enemy"
+      ]
+    },
+    {
+      "name": "Mind Over Matter",
+      "icon": "Art/2DArt/SkillIcons/passives/heroicspirit.webp",
+      "stats": [
+        "40% of Damage is taken from Mana before Life"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Eldritch Battery",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
+      "stats": [
+        "Spend Energy Shield before Mana for Skill Mana Costs\nEnergy Shield protects Mana instead of Life\n50% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Inner Conviction",
+      "icon": "Art/2DArt/SkillIcons/passives/InnerConviction.webp",
+      "stats": [
+        "3% more Spell Damage per Power Charge",
+        "Gain Power Charges instead of Frenzy Charges"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 109,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Penance Brand of Dissipation",
+        "Hypothermia Support",
+        "Empower Support",
+        "Swiftbrand Support",
+        "Concentrated Effect Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Raise Spectre",
+        "Hatred",
+        "Herald of Ash",
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Animate Guardian",
+        "Guardian's Blessing Support",
+        "Haste"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Petrified Blood"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Purity",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flame Dash",
+        "Lightning Warp"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Automation",
+        "Righteous Fire",
+        "Elemental Weakness"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Automation",
+        "Phase Run",
+        "Convocation"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Penance Brand of Dissipation",
+    "Hypothermia Support",
+    "Empower Support",
+    "Swiftbrand Support",
+    "Concentrated Effect Support",
+    "Power Charge On Critical Support",
+    "Raise Spectre",
+    "Hatred",
+    "Herald of Ash",
+    "Vitality",
+    "Animate Guardian",
+    "Guardian's Blessing Support",
+    "Haste",
+    "Petrified Blood",
+    "Herald of Purity",
+    "Arrogance Support",
+    "Flame Dash",
+    "Lightning Warp",
+    "Automation",
+    "Righteous Fire",
+    "Elemental Weakness",
+    "Automation",
+    "Phase Run",
+    "Convocation"
+  ],
+  "items": [
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Heatshiver",
+      "typeLine": "Leather Hood",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Void Battery",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Pain Grasp",
+      "typeLine": "Dragonscale Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Void Battery",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Foulborn Badge of the Brotherhood",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Replica Restless Ward",
+      "typeLine": "Carnal Armour",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Call of the Brotherhood",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-20T12:12:37.077464Z"
+}

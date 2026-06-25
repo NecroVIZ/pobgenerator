@@ -1,0 +1,277 @@
+{
+  "account": "Ahonen-1217",
+  "name": "BuffedCopium",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Chieftain",
+  "ascendancy": "Chieftain",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Kraityn",
+  "defensiveStats": {
+    "life": 6013,
+    "energyShield": 222,
+    "mana": 765,
+    "ward": 0,
+    "movementSpeed": 236,
+    "lifeRegen": 2633,
+    "evasionRating": 426,
+    "armour": 15629,
+    "strength": 230,
+    "dexterity": 118,
+    "intelligence": 172,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 76119,
+    "physicalMaximumHitTaken": 18382,
+    "fireMaximumHitTaken": 62068,
+    "coldMaximumHitTaken": 58766,
+    "lightningMaximumHitTaken": 58766,
+    "chaosMaximumHitTaken": 22092,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 509,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 209,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 192,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 29,
+    "chaosResistanceMax": 75,
+    "blockChance": 75,
+    "spellBlockChance": 75,
+    "spellSuppressionChance": 19,
+    "spellDodgeChance": 0,
+    "itemRarity": 10,
+    "energyShieldRegen": 0,
+    "lifeReserved": 490,
+    "manaReserved": 763,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 60,
+      "lightning": 0,
+      "fire": 40,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 18382
+  },
+  "keyStones": [
+    {
+      "name": "Glancing Blows",
+      "icon": "Art/2DArt/SkillIcons/passives/GlancingBlows.webp",
+      "stats": [
+        "Chance to Block Attack Damage is doubled\nChance to Block Spell Damage is doubled\nYou take 65% of Damage from Blocked Hits"
+      ]
+    },
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 118,
+  "skillGroups": [
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Approaching Flames",
+        "Tempest Shield",
+        "Arrogance Support",
+        "Vitality",
+        "Flesh and Stone"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Vitality",
+        "Arrogance Support",
+        "Approaching Flames"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Tempest Shield",
+        "Approaching Flames"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flesh and Stone",
+        "Approaching Flames"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Righteous Fire",
+        "Swift Affliction Support",
+        "Lifetap Support",
+        "Burning Damage Support",
+        "Elemental Focus Support",
+        "Efficacy Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Fire Trap",
+        "Trap and Mine Damage Support",
+        "Swift Affliction Support",
+        "Lifetap Support",
+        "Burning Damage Support",
+        "Concentrated Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Shield Charge",
+        "Frostblink",
+        "Faster Attacks Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Enduring Cry",
+        "Lifetap Support",
+        "Punishment"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Summon Skitterbots",
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Purity of Fire"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Approaching Flames",
+    "Tempest Shield",
+    "Arrogance Support",
+    "Vitality",
+    "Flesh and Stone",
+    "Vitality",
+    "Arrogance Support",
+    "Approaching Flames",
+    "Tempest Shield",
+    "Approaching Flames",
+    "Flesh and Stone",
+    "Approaching Flames",
+    "Righteous Fire",
+    "Swift Affliction Support",
+    "Lifetap Support",
+    "Burning Damage Support",
+    "Elemental Focus Support",
+    "Efficacy Support",
+    "Fire Trap",
+    "Trap and Mine Damage Support",
+    "Swift Affliction Support",
+    "Lifetap Support",
+    "Burning Damage Support",
+    "Concentrated Effect Support",
+    "Shield Charge",
+    "Frostblink",
+    "Faster Attacks Support",
+    "Lifetap Support",
+    "Enduring Cry",
+    "Lifetap Support",
+    "Punishment",
+    "Summon Skitterbots",
+    "Malevolence",
+    "Purity of Fire"
+  ],
+  "items": [
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Cloak of Flame",
+      "typeLine": "Scholar's Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Annihilation's Approach",
+      "typeLine": "Dragonscale Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Spirit Ward",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Doom Badge",
+      "typeLine": "Colossal Tower Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Victory Eye",
+      "typeLine": "Cogwork Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Twyzel",
+      "typeLine": "Blasting Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Onslaught Charm",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Torment Hold",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-18T20:35:21.277373Z"
+}

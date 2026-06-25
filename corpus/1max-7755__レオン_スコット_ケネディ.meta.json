@@ -1,0 +1,272 @@
+{
+  "account": "1max-7755",
+  "name": "レオン・スコット・ケネディ",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Pathfinder",
+  "ascendancy": "Pathfinder",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4436,
+    "energyShield": 1771,
+    "mana": 812,
+    "ward": 0,
+    "movementSpeed": 326,
+    "lifeRegen": 355,
+    "evasionRating": 11439,
+    "armour": 0,
+    "strength": 79,
+    "dexterity": 69,
+    "intelligence": 36,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 33196,
+    "physicalMaximumHitTaken": 9789,
+    "fireMaximumHitTaken": 36450,
+    "coldMaximumHitTaken": 36450,
+    "lightningMaximumHitTaken": 36450,
+    "chaosMaximumHitTaken": 28348,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 26,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 40,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 34,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 16,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 81,
+    "energyShieldRegen": 0,
+    "lifeReserved": 2273,
+    "manaReserved": 793,
+    "evadeChance": 58,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 9789
+  },
+  "keyStones": [
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 2,
+  "passiveCount": 103,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Blade Vortex",
+        "Minion Pact Support",
+        "Increased Critical Damage Support",
+        "Hypothermia Support",
+        "Cruelty Support",
+        "Greater Unleash Support",
+        "Item Rarity Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Transfusion Support",
+        "Faster Casting Support",
+        "Spell Echo Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Petrified Blood",
+        "Awakened Enhance Support",
+        "Raise Spectre"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Petrified Blood",
+        "Awakened Empower Support",
+        "Raise Spectre",
+        "Eclipse Support",
+        "Companionship Support",
+        "Minion Life Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vitality",
+        "Arrogance Support",
+        "Awakened Enlighten Support",
+        "Herald of Purity"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Ash",
+        "Flesh and Stone",
+        "Hatred",
+        "Eclipse Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Automation",
+        "Steelskin",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Precision"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Blade Vortex",
+    "Minion Pact Support",
+    "Increased Critical Damage Support",
+    "Hypothermia Support",
+    "Cruelty Support",
+    "Greater Unleash Support",
+    "Item Rarity Support",
+    "Lifetap Support",
+    "Frostblink of Wintry Blast",
+    "Transfusion Support",
+    "Faster Casting Support",
+    "Spell Echo Support",
+    "Petrified Blood",
+    "Awakened Enhance Support",
+    "Raise Spectre",
+    "Petrified Blood",
+    "Awakened Empower Support",
+    "Raise Spectre",
+    "Eclipse Support",
+    "Companionship Support",
+    "Minion Life Support",
+    "Vitality",
+    "Arrogance Support",
+    "Awakened Enlighten Support",
+    "Herald of Purity",
+    "Herald of Ash",
+    "Flesh and Stone",
+    "Hatred",
+    "Eclipse Support",
+    "Automation",
+    "Steelskin",
+    "Lifetap Support",
+    "Precision"
+  ],
+  "items": [
+    {
+      "name": "Eagle Grip",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Carrion Knot",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "The Golden Charlatan",
+      "typeLine": "Lion Sword",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Carrion Idol",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Plague Grip",
+      "typeLine": "Geodesic Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Gale Ward",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Doom Spark",
+      "typeLine": "Phantom Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Plague Coat",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Skull Mark",
+      "typeLine": "Synthesised Spine Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Cataclysm Rod",
+      "typeLine": "Vile Arrow Quiver",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    }
+  ],
+  "jewelsCount": 17,
+  "lastCheckedUtc": "2026-06-18T15:36:09.838267Z"
+}

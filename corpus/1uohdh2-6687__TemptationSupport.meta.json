@@ -1,0 +1,256 @@
+{
+  "account": "1uohdh2-6687",
+  "name": "TemptationSupport",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Champion",
+  "ascendancy": "Champion",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 7929,
+    "mana": 2499,
+    "ward": 0,
+    "movementSpeed": 178,
+    "lifeRegen": 0,
+    "evasionRating": 1541,
+    "armour": 38166,
+    "strength": 438,
+    "dexterity": 2602,
+    "intelligence": 1729,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 362715,
+    "physicalMaximumHitTaken": 20836,
+    "fireMaximumHitTaken": 117308,
+    "coldMaximumHitTaken": 117308,
+    "lightningMaximumHitTaken": 117308,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 138,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 59,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 58,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 74,
+    "spellBlockChance": 65,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 34,
+    "energyShieldRegen": 1827,
+    "lifeReserved": 0,
+    "manaReserved": 2162,
+    "evadeChance": 6,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 20836
+  },
+  "keyStones": [
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 2,
+  "passiveCount": 110,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Hatred",
+        "Awakened Enlighten Support",
+        "Eclipse Support",
+        "Wrath",
+        "Generosity Support",
+        "Zealotry"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Purity of Fire",
+        "Eclipse Support",
+        "Tempest Shield",
+        "Vitality",
+        "Blind Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vaal Haste",
+        "Eclipse Support",
+        "Vaal Discipline",
+        "Determination"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Vaal Smite",
+        "Shield Charge",
+        "Raise Spectre",
+        "Hallow Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vaal Grace",
+        "Meat Shield Support",
+        "Animate Guardian",
+        "Guardian's Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Purity of Ice",
+        "Purity of Lightning",
+        "Eclipse Support",
+        "Enlighten Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Hatred",
+    "Awakened Enlighten Support",
+    "Eclipse Support",
+    "Wrath",
+    "Generosity Support",
+    "Zealotry",
+    "Purity of Fire",
+    "Eclipse Support",
+    "Tempest Shield",
+    "Vitality",
+    "Blind Support",
+    "Vaal Haste",
+    "Eclipse Support",
+    "Vaal Discipline",
+    "Determination",
+    "Vaal Smite",
+    "Shield Charge",
+    "Raise Spectre",
+    "Hallow Support",
+    "Vaal Grace",
+    "Meat Shield Support",
+    "Animate Guardian",
+    "Guardian's Blessing Support",
+    "Purity of Ice",
+    "Purity of Lightning",
+    "Eclipse Support",
+    "Enlighten Support"
+  ],
+  "items": [
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Phoenix Span",
+      "typeLine": "Synthesised Legion Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Dread Curtain",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "",
+      "typeLine": "Synthesised Upgraded Thicket Bow",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "The Celestial Brace",
+      "typeLine": "Goliath Gauntlets",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Death Gyre",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Doom Sanctuary",
+      "typeLine": "Transfer-attuned Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Phoenix Trap",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Onslaught Collar",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 10,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Dark Seer",
+      "typeLine": "Shadow Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Mask of the Tribunal",
+      "typeLine": "Synthesised Magistrate Crown",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-19T11:49:17.931125Z"
+}

@@ -1,0 +1,267 @@
+{
+  "account": "Axle_Plays-4554",
+  "name": "IHAVESEENGODANDHEFLICKS",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Slayer",
+  "ascendancy": "Slayer",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3750,
+    "energyShield": 598,
+    "mana": 803,
+    "ward": 0,
+    "movementSpeed": 189,
+    "lifeRegen": 60,
+    "evasionRating": 7188,
+    "armour": 7528,
+    "strength": 129,
+    "dexterity": 83,
+    "intelligence": 111,
+    "enduranceCharges": 11,
+    "frenzyCharges": 11,
+    "powerCharges": 6,
+    "effectiveHealthPool": 74241,
+    "physicalMaximumHitTaken": 13196,
+    "fireMaximumHitTaken": 38513,
+    "coldMaximumHitTaken": 38513,
+    "lightningMaximumHitTaken": 38513,
+    "chaosMaximumHitTaken": 20833,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 44,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 25,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 14,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 22,
+    "chaosResistanceMax": 75,
+    "blockChance": 45,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 92,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 717,
+    "evadeChance": 45,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 84,
+        "max": 90,
+        "effectiveAppliedArmour": 7528,
+        "base": 44,
+        "takenDamage": 2267
+      },
+      "fire": {
+        "value": 43,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 44,
+        "takenDamage": 2267
+      },
+      "cold": {
+        "value": 43,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 44,
+        "takenDamage": 2267
+      },
+      "lightning": {
+        "value": 43,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 44,
+        "takenDamage": 2267
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 13196
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 127,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Flicker Strike",
+        "Greater Multistrike Support",
+        "Endurance Charge on Melee Stun Support",
+        "Close Combat Support",
+        "Fortify Support",
+        "Ice Bite Support",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flesh and Stone",
+        "Purity of Elements",
+        "Arctic Armour",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink",
+        "Leap Slam",
+        "Bonechill Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Raise Spectre",
+        "Meat Shield Support",
+        "Companionship Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Unearth"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Assassin's Mark",
+        "Lifetap Support",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Automation",
+        "Steelskin",
+        "Lifetap Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Flicker Strike",
+    "Greater Multistrike Support",
+    "Endurance Charge on Melee Stun Support",
+    "Close Combat Support",
+    "Fortify Support",
+    "Ice Bite Support",
+    "Inspiration Support",
+    "Flesh and Stone",
+    "Purity of Elements",
+    "Arctic Armour",
+    "Precision",
+    "Frostblink",
+    "Leap Slam",
+    "Bonechill Support",
+    "Lifetap Support",
+    "Raise Spectre",
+    "Meat Shield Support",
+    "Companionship Support",
+    "Unearth",
+    "Assassin's Mark",
+    "Lifetap Support",
+    "Mark On Hit Support",
+    "Automation",
+    "Steelskin",
+    "Lifetap Support"
+  ],
+  "items": [
+    {
+      "name": "Yoke of Suffering",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Blunderbore",
+      "typeLine": "Astral Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Darkray Vectors",
+      "typeLine": "Dragonscale Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Beast Grip",
+      "typeLine": "Synthesised Coral Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Paradoxica",
+      "typeLine": "Vaal Rapier",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Kraken Mitts",
+      "typeLine": "Velour Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Ghoul Circle",
+      "typeLine": "Synthesised Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Behemoth Emblem",
+      "typeLine": "Cardinal Round Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    }
+  ],
+  "jewelsCount": 7,
+  "lastCheckedUtc": "2026-06-21T21:46:36.98815Z"
+}

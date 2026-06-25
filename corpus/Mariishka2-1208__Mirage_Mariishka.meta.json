@@ -1,0 +1,258 @@
+{
+  "account": "Mariishka2-1208",
+  "name": "Mirage_Mariishka",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Olroth Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 9190,
+    "energyShield": 1784,
+    "mana": 1050,
+    "ward": 0,
+    "movementSpeed": 159,
+    "lifeRegen": 1107,
+    "evasionRating": 26,
+    "armour": 19763,
+    "strength": 3319,
+    "dexterity": 168,
+    "intelligence": 559,
+    "enduranceCharges": 7,
+    "frenzyCharges": 4,
+    "powerCharges": 3,
+    "effectiveHealthPool": 749914,
+    "physicalMaximumHitTaken": 38456,
+    "fireMaximumHitTaken": 259891,
+    "coldMaximumHitTaken": 259891,
+    "lightningMaximumHitTaken": 259891,
+    "chaosMaximumHitTaken": 82470,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 11,
+    "fireResistanceMax": 90,
+    "coldResistance": -28,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 77,
+    "lightningResistance": -28,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 77,
+    "chaosResistance": 77,
+    "chaosResistanceOverCap": 43,
+    "chaosResistanceMax": 77,
+    "blockChance": 70,
+    "spellBlockChance": 71,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 630,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 38456
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Tempered by War",
+      "icon": "Art/2DArt/SkillIcons/passives/TemperedByWar.webp",
+      "stats": [
+        "50% of Cold and Lightning Damage taken as Fire Damage",
+        "50% less Cold Resistance",
+        "50% less Lightning Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 114,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Heavy Strike of Trarthus",
+        "Greater Ancestral Call Support",
+        "Increased Critical Damage Support",
+        "Lifetap Support",
+        "Greater Multistrike Support",
+        "Volatility Support",
+        "Endurance Charge on Melee Stun Support",
+        "Ruthless Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Animate Guardian",
+        "Empower Support",
+        "Elemental Army Support",
+        "Companionship Support",
+        "Minion Life Support",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Fire",
+        "Assassin's Mark",
+        "Arctic Armour",
+        "Blood Rage",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Leap Slam",
+        "Power Charge On Critical Support",
+        "Faster Attacks Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Immortal Call",
+        "More Duration Support",
+        "Enhance Support",
+        "Withering Step"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Enduring Cry",
+        "More Duration Support",
+        "Efficacy Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Heavy Strike of Trarthus",
+    "Greater Ancestral Call Support",
+    "Increased Critical Damage Support",
+    "Lifetap Support",
+    "Greater Multistrike Support",
+    "Volatility Support",
+    "Endurance Charge on Melee Stun Support",
+    "Ruthless Support",
+    "Animate Guardian",
+    "Empower Support",
+    "Elemental Army Support",
+    "Companionship Support",
+    "Minion Life Support",
+    "Meat Shield Support",
+    "Purity of Fire",
+    "Assassin's Mark",
+    "Arctic Armour",
+    "Blood Rage",
+    "Mark On Hit Support",
+    "Leap Slam",
+    "Power Charge On Critical Support",
+    "Faster Attacks Support",
+    "Lifetap Support",
+    "Immortal Call",
+    "More Duration Support",
+    "Enhance Support",
+    "Withering Step",
+    "Enduring Cry",
+    "More Duration Support",
+    "Efficacy Support"
+  ],
+  "items": [
+    {
+      "name": "Kraken Pole",
+      "typeLine": "Lathi",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Storm Heart",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Replica Alberon's Warpath",
+      "typeLine": "Soldier Boots",
+      "frameType": 10,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Phoenix Knot",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Nebuloch",
+      "typeLine": "Nightmare Mace",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Morbid Cowl",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Dread Suit",
+      "typeLine": "Sacred Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Redblade Banner",
+      "typeLine": "Painted Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Pandemonium Knot",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Armageddon Shackle",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Beast Clutches",
+      "typeLine": "Martyr Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-18T20:35:33.699746Z"
+}

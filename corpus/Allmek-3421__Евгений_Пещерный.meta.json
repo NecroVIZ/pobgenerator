@@ -1,0 +1,230 @@
+{
+  "account": "Allmek-3421",
+  "name": "Евгений_Пещерный",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Pathfinder",
+  "ascendancy": "Pathfinder",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4639,
+    "energyShield": 37,
+    "mana": 968,
+    "ward": 0,
+    "movementSpeed": 425,
+    "lifeRegen": 0,
+    "evasionRating": 63272,
+    "armour": 27497,
+    "strength": 161,
+    "dexterity": 382,
+    "intelligence": 142,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 147983,
+    "physicalMaximumHitTaken": 9757,
+    "fireMaximumHitTaken": 21195,
+    "coldMaximumHitTaken": 21195,
+    "lightningMaximumHitTaken": 21195,
+    "chaosMaximumHitTaken": 21651,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 36,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 68,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 39,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 2,
+    "chaosResistanceMax": 0,
+    "blockChance": 75,
+    "spellBlockChance": 72,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 9757
+  },
+  "keyStones": [
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    }
+  ],
+  "masteriesCount": 11,
+  "passiveCount": 133,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Automation",
+        "More Duration Support",
+        "Efficacy Support",
+        "Phase Run",
+        "Enhance Support",
+        "Empower Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Withering Step",
+        "Lifetap Support",
+        "Automation",
+        "Molten Shell"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vitality",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Determination",
+        "Grace",
+        "Haste",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Decoy Totem",
+        "Lifetap Support",
+        "Increased Area of Effect Support",
+        "Void Sphere"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frost Wall",
+        "More Duration Support",
+        "Lifetap Support",
+        "Spell Cascade Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Automation",
+    "More Duration Support",
+    "Efficacy Support",
+    "Phase Run",
+    "Enhance Support",
+    "Empower Support",
+    "Withering Step",
+    "Lifetap Support",
+    "Automation",
+    "Molten Shell",
+    "Vitality",
+    "Arrogance Support",
+    "Determination",
+    "Grace",
+    "Haste",
+    "Enlighten Support",
+    "Decoy Totem",
+    "Lifetap Support",
+    "Increased Area of Effect Support",
+    "Void Sphere",
+    "Frost Wall",
+    "More Duration Support",
+    "Lifetap Support",
+    "Spell Cascade Support"
+  ],
+  "items": [
+    {
+      "name": "Devoto's Devotion",
+      "typeLine": "Nightmare Bascinet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Queen of the Forest",
+      "typeLine": "Destiny Leather",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Rearguard",
+      "typeLine": "Blunt Arrow Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Corpse Grip",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Honour Paw",
+      "typeLine": "Velour Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Hypnotic Finger",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Warped Timepiece",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Beast Ward",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "The Retch",
+      "typeLine": "Rustic Sash",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Soul Trail",
+      "typeLine": "Velour Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 6,
+  "lastCheckedUtc": "2026-03-16T00:18:22.210798Z"
+}

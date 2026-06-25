@@ -1,0 +1,259 @@
+{
+  "account": "Angryspark-7984",
+  "name": "Shadowraze",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Trickster",
+  "ascendancy": "Trickster",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 8443,
+    "mana": 866,
+    "ward": 0,
+    "movementSpeed": 284,
+    "lifeRegen": 0,
+    "evasionRating": 61595,
+    "armour": 0,
+    "strength": 98,
+    "dexterity": 270,
+    "intelligence": 278,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 62598,
+    "physicalMaximumHitTaken": 11162,
+    "fireMaximumHitTaken": 35479,
+    "coldMaximumHitTaken": 35479,
+    "lightningMaximumHitTaken": 35479,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 70,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 78,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 57,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 22,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 95,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 785,
+    "evadeChance": 87,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 11
+    },
+    "lowestMaximumHitTaken": 11162
+  },
+  "keyStones": [
+    {
+      "name": "Wicked Ward",
+      "icon": "Art/2DArt/SkillIcons/passives/Occultist/EldrichBarrier.webp",
+      "stats": [
+        "Energy Shield Recharge is not interrupted by Damage if Recharge began Recently\n40% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 103,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Blight of Contagion",
+        "Efficacy Support",
+        "Swift Affliction Support",
+        "Empower Support",
+        "Infused Channelling Support",
+        "Controlled Destruction Support",
+        "Void Manipulation Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Vaal Discipline",
+        "Enlighten Support",
+        "Grace",
+        "Malevolence",
+        "Clarity",
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Contagion",
+        "Arcane Surge Support",
+        "Increased Area of Effect Support",
+        "Intensify Support",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Punishment",
+        "Bane",
+        "Hex Bloom Support",
+        "Despair"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Withering Step",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Momentum Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Blight of Contagion",
+    "Efficacy Support",
+    "Swift Affliction Support",
+    "Empower Support",
+    "Infused Channelling Support",
+    "Controlled Destruction Support",
+    "Void Manipulation Support",
+    "Vaal Discipline",
+    "Enlighten Support",
+    "Grace",
+    "Malevolence",
+    "Clarity",
+    "Flame Dash",
+    "Contagion",
+    "Arcane Surge Support",
+    "Increased Area of Effect Support",
+    "Intensify Support",
+    "Faster Casting Support",
+    "Punishment",
+    "Bane",
+    "Hex Bloom Support",
+    "Despair",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Withering Step",
+    "Automation",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Momentum Support"
+  ],
+  "items": [
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Oblivion Coil",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Gloom Rosary",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Tempest Fist",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Grim Dash",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Horror Salvation",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Brightbeak",
+      "typeLine": "War Hammer",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Agony Visor",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Cane of Kulemak",
+      "typeLine": "Serpentine Staff",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Perepiteia",
+      "typeLine": "Synthesised Ezomyte Spiked Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-22T12:59:04.088031Z"
+}

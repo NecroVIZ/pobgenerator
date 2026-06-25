@@ -1,0 +1,292 @@
+{
+  "account": "1024374270-4475",
+  "name": "請大笑大王",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Occultist",
+  "ascendancy": "Occultist",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ryslatha",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 3036,
+    "energyShield": 599,
+    "mana": 1080,
+    "ward": 0,
+    "movementSpeed": 240,
+    "lifeRegen": 214,
+    "evasionRating": 7632,
+    "armour": 6765,
+    "strength": 258,
+    "dexterity": 232,
+    "intelligence": 227,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 47218,
+    "physicalMaximumHitTaken": 4050,
+    "fireMaximumHitTaken": 10843,
+    "coldMaximumHitTaken": 10843,
+    "lightningMaximumHitTaken": 10843,
+    "chaosMaximumHitTaken": 12144,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 16,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 23,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 14,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 6,
+    "chaosResistanceMax": 75,
+    "blockChance": 75,
+    "spellBlockChance": 78,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 29,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 1046,
+    "evadeChance": 47,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 4050
+  },
+  "keyStones": [
+    {
+      "name": "Eldritch Battery",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
+      "stats": [
+        "Spend Energy Shield before Mana for Skill Mana Costs\nEnergy Shield protects Mana instead of Life\n50% less Energy Shield Recharge Rate"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 93,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Hexblast",
+        "Cruelty Support",
+        "Swift Affliction Support",
+        "Unbound Ailments Support",
+        "Efficacy Support",
+        "Lethal Dose Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Alchemist's Mark",
+        "Summon Stone Golem",
+        "Summon Chaos Golem",
+        "Arcanist Brand",
+        "Embrace Madness"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Tempest Shield",
+        "Automation",
+        "Herald of Ash",
+        "Steelskin"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Plague Bearer",
+        "Increased Area of Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Despair",
+        "Eldritch Blasphemy Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Herald of Agony",
+        "Faster Attacks Support",
+        "Shield Charge"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Hexblast",
+        "Hexblast"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Hexblast"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Hexblast",
+        "Added Lightning Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Bursting Toad"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Portal",
+        "Cast on Death Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flame Dash"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Hexblast",
+    "Cruelty Support",
+    "Swift Affliction Support",
+    "Unbound Ailments Support",
+    "Efficacy Support",
+    "Lethal Dose Support",
+    "Alchemist's Mark",
+    "Summon Stone Golem",
+    "Summon Chaos Golem",
+    "Arcanist Brand",
+    "Embrace Madness",
+    "Tempest Shield",
+    "Automation",
+    "Herald of Ash",
+    "Steelskin",
+    "Plague Bearer",
+    "Increased Area of Effect Support",
+    "Despair",
+    "Eldritch Blasphemy Support",
+    "Herald of Agony",
+    "Faster Attacks Support",
+    "Shield Charge",
+    "Hexblast",
+    "Hexblast",
+    "Hexblast",
+    "Hexblast",
+    "Added Lightning Damage Support",
+    "Bursting Toad",
+    "Portal",
+    "Cast on Death Support",
+    "Flame Dash"
+  ],
+  "items": [
+    {
+      "name": "Beacon of Madness",
+      "typeLine": "Two-Toned Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "",
+      "typeLine": "Somatic Wand",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Morbid Charm",
+      "typeLine": "Somatic Wand",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Death Tether",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Apocalypse Charm",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Havoc Circle",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Asenath's Gentle Touch",
+      "typeLine": "Silk Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Carcass Jack",
+      "typeLine": "Varnished Coat",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Cataclysm Watch",
+      "typeLine": "Crested Tower Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Replica Voideye",
+      "typeLine": "Unset Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Devoto's Devotion",
+      "typeLine": "Nightmare Bascinet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Le Heup of All",
+      "typeLine": "Iron Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Apep's Rage",
+      "typeLine": "Omen Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    }
+  ],
+  "jewelsCount": 17,
+  "lastCheckedUtc": "2026-06-24T13:34:56.125293Z"
+}

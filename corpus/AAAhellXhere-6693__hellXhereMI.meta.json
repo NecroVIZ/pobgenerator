@@ -1,0 +1,254 @@
+{
+  "account": "AAAhellXhere-6693",
+  "name": "hellXhereMI",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Inquisitor",
+  "ascendancy": "Inquisitor",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 7110,
+    "energyShield": 1797,
+    "mana": 1033,
+    "ward": 0,
+    "movementSpeed": 112,
+    "lifeRegen": 1807,
+    "evasionRating": 20,
+    "armour": 12392,
+    "strength": 368,
+    "dexterity": 161,
+    "intelligence": 265,
+    "enduranceCharges": 16,
+    "frenzyCharges": 4,
+    "powerCharges": 6,
+    "effectiveHealthPool": 33185,
+    "physicalMaximumHitTaken": 32976,
+    "fireMaximumHitTaken": 21511,
+    "coldMaximumHitTaken": 25544,
+    "lightningMaximumHitTaken": 20291,
+    "chaosMaximumHitTaken": 28440,
+    "fireResistance": -30,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 76,
+    "coldResistance": -9,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 76,
+    "lightningResistance": -38,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 76,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 7,
+    "chaosResistanceMax": 75,
+    "blockChance": 5,
+    "spellBlockChance": 18,
+    "spellSuppressionChance": 7,
+    "spellDodgeChance": 0,
+    "itemRarity": 39,
+    "energyShieldRegen": 1807,
+    "lifeReserved": 0,
+    "manaReserved": 1033,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 20291
+  },
+  "keyStones": [
+    {
+      "name": "Ancestral Bond",
+      "icon": "Art/2DArt/SkillIcons/passives/totemmax.webp",
+      "stats": [
+        "You can't deal Damage with Skills yourself\n+1 to maximum number of Summoned Totems"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 134,
+  "skillGroups": [
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Haste",
+        "Arctic Armour",
+        "Determination",
+        "Vaal Discipline",
+        "Leap Slam"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Vaal Discipline",
+        "Leap Slam",
+        "Haste"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Arctic Armour",
+        "Haste"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Determination",
+        "Haste"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Raise Spectre",
+        "Efficacy Support",
+        "More Duration Support",
+        "Increased Area of Effect Support",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Flesh and Stone"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Purifying Flame",
+        "Enhance Support",
+        "Searing Bond",
+        "Multiple Totems Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Molten Shell",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purifying Flame",
+        "Increased Area of Effect Support",
+        "Enhance Support",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 10,
+      "gems": [
+        "Enduring Cry"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Haste",
+    "Arctic Armour",
+    "Determination",
+    "Vaal Discipline",
+    "Leap Slam",
+    "Vaal Discipline",
+    "Leap Slam",
+    "Haste",
+    "Arctic Armour",
+    "Haste",
+    "Determination",
+    "Haste",
+    "Raise Spectre",
+    "Efficacy Support",
+    "More Duration Support",
+    "Increased Area of Effect Support",
+    "Meat Shield Support",
+    "Flesh and Stone",
+    "Purifying Flame",
+    "Enhance Support",
+    "Searing Bond",
+    "Multiple Totems Support",
+    "Molten Shell",
+    "Automation",
+    "Purifying Flame",
+    "Increased Area of Effect Support",
+    "Enhance Support",
+    "More Duration Support",
+    "Enduring Cry"
+  ],
+  "items": [
+    {
+      "name": "Sol Trail",
+      "typeLine": "Legion Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Gloom Knot",
+      "typeLine": "Synthesised Moonstone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Foulborn Ambu's Charge",
+      "typeLine": "Crusader Chainmail",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Kaom's Sign",
+      "typeLine": "Coral Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Rift Caress",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Rift Call",
+      "typeLine": "Eventuality Rod",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Perquil's Toe",
+      "typeLine": "Gold Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Wraithlord",
+      "typeLine": "Bone Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-25T05:16:14.980932Z"
+}

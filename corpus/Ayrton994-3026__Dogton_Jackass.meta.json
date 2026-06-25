@@ -1,0 +1,224 @@
+{
+  "account": "Ayrton994-3026",
+  "name": "Dogton_Jackass",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Gladiator",
+  "ascendancy": "Gladiator",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 16854,
+    "energyShield": 0,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 184,
+    "lifeRegen": 2432,
+    "evasionRating": 221,
+    "armour": 0,
+    "strength": 372,
+    "dexterity": 94,
+    "intelligence": 182,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 1224757,
+    "physicalMaximumHitTaken": 23661,
+    "fireMaximumHitTaken": 117701,
+    "coldMaximumHitTaken": 91545,
+    "lightningMaximumHitTaken": 91545,
+    "chaosMaximumHitTaken": 73822,
+    "fireResistance": 82,
+    "fireResistanceOverCap": 207,
+    "fireResistanceMax": 82,
+    "coldResistance": 76,
+    "coldResistanceOverCap": 76,
+    "coldResistanceMax": 76,
+    "lightningResistance": 76,
+    "lightningResistanceOverCap": 57,
+    "lightningResistanceMax": 76,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 6,
+    "chaosResistanceMax": 75,
+    "blockChance": 95,
+    "spellBlockChance": 95,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 20,
+    "energyShieldRegen": 0,
+    "lifeReserved": 244,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 23661
+  },
+  "keyStones": [
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "The Traitor",
+      "icon": "Art/2DArt/SkillIcons/passives/OasisKeystone.webp",
+      "stats": [
+        "Flasks Gain 4 Charges per empty Flask Slot every 5 seconds"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Infernal Blow",
+        "Close Combat Support",
+        "Elemental Focus Support",
+        "Greater Ancestral Call Support",
+        "Elemental Damage with Attacks Support",
+        "Greater Multistrike Support",
+        "Damage on Full Life Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Purity of Elements",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vitality",
+        "Shield Charge"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Enduring Cry"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Infernal Blow",
+    "Close Combat Support",
+    "Elemental Focus Support",
+    "Greater Ancestral Call Support",
+    "Elemental Damage with Attacks Support",
+    "Greater Multistrike Support",
+    "Damage on Full Life Support",
+    "Purity of Elements",
+    "Eternal Blessing Support",
+    "Frostblink",
+    "Vitality",
+    "Shield Charge",
+    "Enduring Cry"
+  ],
+  "items": [
+    {
+      "name": "The Apostate",
+      "typeLine": "Cabalist Regalia",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Enmity's Embrace",
+      "typeLine": "Vermillion Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Chimeric Goad",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Atziri's Disfavour",
+      "typeLine": "Vaal Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Crown of Eyes",
+      "typeLine": "Hubris Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Untouched Soul",
+      "typeLine": "Gold Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Rathpith Globe",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Grey Wind",
+      "typeLine": "Spectral Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Doom Knuckle",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Entropy Clasp",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Rune Band",
+      "typeLine": "Vermillion Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-20T03:05:17.536343Z"
+}

@@ -1,0 +1,261 @@
+{
+  "account": "Alaskimo-2679",
+  "name": "AlaskimoXtremez",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Trickster",
+  "ascendancy": "Trickster",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 3230,
+    "energyShield": 2571,
+    "mana": 1001,
+    "ward": 0,
+    "movementSpeed": 184,
+    "lifeRegen": 213,
+    "evasionRating": 19983,
+    "armour": 95,
+    "strength": 134,
+    "dexterity": 320,
+    "intelligence": 234,
+    "enduranceCharges": 8,
+    "frenzyCharges": 8,
+    "powerCharges": 3,
+    "effectiveHealthPool": 80744,
+    "physicalMaximumHitTaken": 8558,
+    "fireMaximumHitTaken": 30467,
+    "coldMaximumHitTaken": 30467,
+    "lightningMaximumHitTaken": 35545,
+    "chaosMaximumHitTaken": 7690,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 40,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 24,
+    "coldResistanceMax": 75,
+    "lightningResistance": 79,
+    "lightningResistanceOverCap": 58,
+    "lightningResistanceMax": 79,
+    "chaosResistance": 58,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 61,
+    "spellBlockChance": 56,
+    "spellSuppressionChance": 3,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 51,
+    "lifeReserved": 0,
+    "manaReserved": 730,
+    "evadeChance": 73,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 484,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 7690
+  },
+  "keyStones": [
+    {
+      "name": "Corrupted Soul",
+      "icon": "Art/2DArt/SkillIcons/passives/CorruptedDefences.webp",
+      "stats": [
+        "50% of Non-Chaos Damage taken bypasses Energy Shield",
+        "Gain 15% of Maximum Life as Extra Maximum Energy Shield"
+      ]
+    }
+  ],
+  "masteriesCount": 12,
+  "passiveCount": 128,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Wild Strike of Extremes",
+        "Greater Ancestral Call Support",
+        "Volatility Support",
+        "Greater Multistrike Support",
+        "Nightblade Support",
+        "Added Lightning Damage Support",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Sigil of Power",
+        "More Duration Support",
+        "Lifetap Support",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Steelskin",
+        "More Duration Support",
+        "Lifetap Support",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Herald of Thunder"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flesh and Stone"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Purity of Lightning"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Whirling Blades",
+        "Momentum Support",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Assassin's Mark",
+        "Lifetap Support",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Enduring Cry"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Wild Strike of Extremes",
+    "Greater Ancestral Call Support",
+    "Volatility Support",
+    "Greater Multistrike Support",
+    "Nightblade Support",
+    "Added Lightning Damage Support",
+    "Increased Critical Strikes Support",
+    "Sigil of Power",
+    "More Duration Support",
+    "Lifetap Support",
+    "Frostblink",
+    "Steelskin",
+    "More Duration Support",
+    "Lifetap Support",
+    "Automation",
+    "Herald of Thunder",
+    "Flesh and Stone",
+    "Tempest Shield",
+    "Purity of Lightning",
+    "Whirling Blades",
+    "Momentum Support",
+    "Faster Attacks Support",
+    "Assassin's Mark",
+    "Lifetap Support",
+    "Mark On Hit Support",
+    "Enduring Cry"
+  ],
+  "items": [
+    {
+      "name": "Redblade Banner",
+      "typeLine": "Painted Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Grim Grip",
+      "typeLine": "Sapphire Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Carrion Shroud",
+      "typeLine": "Syndicate's Garb",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Phoenix Song",
+      "typeLine": "Gemini Claw",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Morbid Fist",
+      "typeLine": "Gut Ripper",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Apocalypse Palm",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Onslaught Bulwark",
+      "typeLine": "Ezomyte Spiked Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Woe Hold",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Death Crest",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Darkness Enthroned",
+      "typeLine": "Stygian Vise",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Replica Badge of the Brotherhood",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-25T08:21:25.312621Z"
+}

@@ -1,0 +1,275 @@
+{
+  "account": "Asiangrandma-2957",
+  "name": "ITBITMETHESNAKE",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Oshabi Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 7895,
+    "mana": 2803,
+    "ward": 0,
+    "movementSpeed": 191,
+    "lifeRegen": 0,
+    "evasionRating": 9864,
+    "armour": 0,
+    "strength": 149,
+    "dexterity": 191,
+    "intelligence": 237,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 82100,
+    "physicalMaximumHitTaken": 14725,
+    "fireMaximumHitTaken": 97942,
+    "coldMaximumHitTaken": 97942,
+    "lightningMaximumHitTaken": 97942,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 9,
+    "fireResistanceMax": 0,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 28,
+    "coldResistanceMax": 0,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 24,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 30,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 82,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 18
+    },
+    "lowestMaximumHitTaken": 14725
+  },
+  "keyStones": [
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    },
+    {
+      "name": "Perfect Agony",
+      "icon": "Art/2DArt/SkillIcons/passives/CritAilments.webp",
+      "stats": [
+        "Damage over Time Multiplier for Ailments is equal to Critical Strike Multiplier\nCritical Strikes do not deal extra Damage\nNon-Critical Strikes cannot inflict Ailments"
+      ]
+    },
+    {
+      "name": "Ghost Reaver",
+      "icon": "Art/2DArt/SkillIcons/passives/ghostreaver.webp",
+      "stats": [
+        "Leech Energy Shield instead of Life\nMaximum total Energy Shield Recovery per second from Leech is doubled\nCannot Recharge Energy Shield"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 98,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Viper Strike of the Mamba",
+        "Greater Ancestral Call Support",
+        "Swift Affliction Support",
+        "Melee Physical Damage Support",
+        "Cruelty Support",
+        "Nightblade Support",
+        "Ruthless Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Whirling Blades",
+        "Faster Attacks Support",
+        "Frostblink",
+        "Cooldown Recovery Support",
+        "Brutality Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Autoexertion",
+        "General's Cry",
+        "Cyclone",
+        "Withering Touch Support",
+        "Brutality Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flesh and Stone",
+        "Enlighten Support",
+        "Discipline",
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Desecrate",
+        "Despair",
+        "Increased Area of Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Unearth",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Clarity"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Viper Strike of the Mamba",
+    "Greater Ancestral Call Support",
+    "Swift Affliction Support",
+    "Melee Physical Damage Support",
+    "Cruelty Support",
+    "Nightblade Support",
+    "Ruthless Support",
+    "Whirling Blades",
+    "Faster Attacks Support",
+    "Frostblink",
+    "Cooldown Recovery Support",
+    "Brutality Support",
+    "Autoexertion",
+    "General's Cry",
+    "Cyclone",
+    "Withering Touch Support",
+    "Brutality Support",
+    "Flesh and Stone",
+    "Enlighten Support",
+    "Discipline",
+    "Purity of Elements",
+    "Desecrate",
+    "Despair",
+    "Increased Area of Effect Support",
+    "Precision",
+    "Unearth",
+    "Faster Casting Support",
+    "Clarity"
+  ],
+  "items": [
+    {
+      "name": "The Hateful Accuser",
+      "typeLine": "Nameless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Shavronne's Revelation",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Entropy Talons",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Agony Brow",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Bino's Kitchen Knife",
+      "typeLine": "Slaughter Knife",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Maelström Spur",
+      "typeLine": "Phantom Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Whispers of Infinity",
+      "typeLine": "Seaglass Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Morbid Horn",
+      "typeLine": "Spine Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Wrath Sanctuary",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Essentia Sanguis",
+      "typeLine": "Vaal Claw",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    }
+  ],
+  "jewelsCount": 17,
+  "lastCheckedUtc": "2026-06-20T09:15:09.8704Z"
+}

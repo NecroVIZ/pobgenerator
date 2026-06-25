@@ -1,0 +1,280 @@
+{
+  "account": "Aesiir-4705",
+  "name": "HamaCantMute_exmine",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Trickster",
+  "ascendancy": "Trickster",
+  "secondaryAscendancy": "Saresh Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 3210,
+    "energyShield": 1791,
+    "mana": 979,
+    "ward": 0,
+    "movementSpeed": 173,
+    "lifeRegen": 279,
+    "evasionRating": 25244,
+    "armour": 0,
+    "strength": 115,
+    "dexterity": 183,
+    "intelligence": 188,
+    "enduranceCharges": 3,
+    "frenzyCharges": 7,
+    "powerCharges": 4,
+    "effectiveHealthPool": 35392,
+    "physicalMaximumHitTaken": 6914,
+    "fireMaximumHitTaken": 25753,
+    "coldMaximumHitTaken": 30059,
+    "lightningMaximumHitTaken": 25753,
+    "chaosMaximumHitTaken": 13544,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 16,
+    "fireResistanceMax": 75,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 48,
+    "coldResistanceMax": 80,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 15,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 57,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 84,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 73,
+    "manaReserved": 923,
+    "evadeChance": 79,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 430,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 1815
+      },
+      "fire": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 1397
+      },
+      "cold": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2650
+      },
+      "lightning": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 1397
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 6914
+  },
+  "keyStones": [
+    {
+      "name": "Lethe Shade",
+      "icon": "Art/2DArt/SkillIcons/passives/MomentofRespite.webp",
+      "stats": [
+        "Take 50% less Damage over Time if you've started taking Damage over Time in the past second\n100% more Duration of Ailments on you"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 117,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Reap",
+        "Trap and Mine Damage Support",
+        "Charged Mines Support",
+        "High-Impact Mine Support",
+        "Minefield Support",
+        "Increased Critical Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Hatred",
+        "Enlighten Support",
+        "Herald of Purity",
+        "Grace"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink",
+        "Whirling Blades",
+        "Bear Trap",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vaal Reap",
+        "Faster Casting Support",
+        "Arcanist Brand"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Enfeeble"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Summon Skitterbots",
+        "Bonechill Support",
+        "Unbound Ailments Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Steelskin",
+        "Detonate Mines",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Exsanguinate",
+        "Exsanguinate"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Reap",
+    "Trap and Mine Damage Support",
+    "Charged Mines Support",
+    "High-Impact Mine Support",
+    "Minefield Support",
+    "Increased Critical Damage Support",
+    "Hatred",
+    "Enlighten Support",
+    "Herald of Purity",
+    "Grace",
+    "Frostblink",
+    "Whirling Blades",
+    "Bear Trap",
+    "Faster Attacks Support",
+    "Vaal Reap",
+    "Faster Casting Support",
+    "Arcanist Brand",
+    "Enfeeble",
+    "Summon Skitterbots",
+    "Bonechill Support",
+    "Unbound Ailments Support",
+    "Steelskin",
+    "Detonate Mines",
+    "Automation",
+    "Exsanguinate",
+    "Exsanguinate"
+  ],
+  "items": [
+    {
+      "name": "Pandemonium Heart",
+      "typeLine": "Amber Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Behemoth Edge",
+      "typeLine": "Platinum Kris",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Rapture Etcher",
+      "typeLine": "Platinum Kris",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "The Arkhon's Tools",
+      "typeLine": "Cloth Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Heatshiver",
+      "typeLine": "Leather Hood",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Empyrean Circle",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Horror Caress",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Blood Stride",
+      "typeLine": "Carnal Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Fate Cloak",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-22T09:58:05.919907Z"
+}

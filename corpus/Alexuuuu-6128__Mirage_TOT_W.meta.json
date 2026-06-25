@@ -1,0 +1,305 @@
+{
+  "account": "Alexuuuu-6128",
+  "name": "Mirage_TOT_W",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Gladiator",
+  "ascendancy": "Gladiator",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5886,
+    "energyShield": 0,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 124,
+    "lifeRegen": 2715,
+    "evasionRating": 1478,
+    "armour": 13163,
+    "strength": 56,
+    "dexterity": 71,
+    "intelligence": 14,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 4747642,
+    "physicalMaximumHitTaken": 11328,
+    "fireMaximumHitTaken": 42162,
+    "coldMaximumHitTaken": 40054,
+    "lightningMaximumHitTaken": 40054,
+    "chaosMaximumHitTaken": 33378,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 155,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 48,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 65,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 74,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 99,
+    "spellBlockChance": 99,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 2641,
+    "manaReserved": 0,
+    "evadeChance": 5,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 94,
+      "lightning": 0,
+      "fire": 6,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 11328
+  },
+  "keyStones": [
+    {
+      "name": "The Agnostic",
+      "icon": "Art/2DArt/SkillIcons/passives/MiracleMaker.webp",
+      "stats": [
+        "Removes all Energy Shield\nWhile not on Full Life, Sacrifice 20% of Mana per Second to Recover that much Life"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 130,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Cremation of the Volcano",
+        "Shock Nova",
+        "Firestorm of Pelting",
+        "Flame Surge of Combusting",
+        "Cast when Stunned Support",
+        "Purifying Flame of Revelations",
+        "Unhinge",
+        "Culling Strike Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Wave of Conviction of Trarthus",
+        "Cast when Stunned Support",
+        "Cruelty Support",
+        "Vaal Detonate Dead (Detonate Dead of Scavenging)",
+        "Added Fire Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Flame Wall",
+        "Raise Zombie of Falling",
+        "Cold Snap",
+        "Cast when Stunned Support",
+        "Chance to Bleed Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Tempest Shield",
+        "Anger",
+        "Petrified Blood",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink",
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Elemental Weakness",
+        "Cast when Stunned Support",
+        "Flammability"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Raise Spectre",
+        "Greater Ancestral Call Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Raise Spectre"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Raise Spectre"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Raise Spectre"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Raise Spectre"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Cremation of the Volcano",
+    "Shock Nova",
+    "Firestorm of Pelting",
+    "Flame Surge of Combusting",
+    "Cast when Stunned Support",
+    "Purifying Flame of Revelations",
+    "Unhinge",
+    "Culling Strike Support",
+    "Wave of Conviction of Trarthus",
+    "Cast when Stunned Support",
+    "Cruelty Support",
+    "Vaal Detonate Dead (Detonate Dead of Scavenging)",
+    "Added Fire Damage Support",
+    "Flame Wall",
+    "Raise Zombie of Falling",
+    "Cold Snap",
+    "Cast when Stunned Support",
+    "Chance to Bleed Support",
+    "Tempest Shield",
+    "Anger",
+    "Petrified Blood",
+    "Eternal Blessing Support",
+    "Frostblink",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Vitality",
+    "Elemental Weakness",
+    "Cast when Stunned Support",
+    "Flammability",
+    "Raise Spectre",
+    "Greater Ancestral Call Support",
+    "Raise Spectre",
+    "Raise Spectre",
+    "Raise Spectre",
+    "Raise Spectre"
+  ],
+  "items": [
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Torment Hold",
+      "typeLine": "Nameless Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Wrath Corona",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Anvil",
+      "typeLine": "Amber Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Storm Span",
+      "typeLine": "Dragonscale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Doppelgänger Guise",
+      "typeLine": "Sadist Garb",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Brimstone Fist",
+      "typeLine": "Slink Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Azadi Crest",
+      "typeLine": "Lacquered Buckler",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Valyrium",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-18T20:35:41.895371Z"
+}

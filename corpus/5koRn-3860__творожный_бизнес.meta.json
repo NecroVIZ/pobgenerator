@@ -1,0 +1,238 @@
+{
+  "account": "5koRn-3860",
+  "name": "творожный_бизнес",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Pathfinder",
+  "ascendancy": "Pathfinder",
+  "secondaryAscendancy": "Olroth Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1855,
+    "energyShield": 0,
+    "mana": 917,
+    "ward": 31598,
+    "movementSpeed": 253,
+    "lifeRegen": 91,
+    "evasionRating": 5199,
+    "armour": 3618,
+    "strength": 175,
+    "dexterity": 184,
+    "intelligence": 249,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 18679,
+    "physicalMaximumHitTaken": 34161,
+    "fireMaximumHitTaken": 119475,
+    "coldMaximumHitTaken": 119475,
+    "lightningMaximumHitTaken": 119475,
+    "chaosMaximumHitTaken": 133812,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 57,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 60,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 62,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 25,
+    "chaosResistanceMax": 0,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 18,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 34161
+  },
+  "keyStones": [],
+  "masteriesCount": 3,
+  "passiveCount": 103,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Raise Zombie of Falling",
+        "Transfusion Support",
+        "Summon Skeletons",
+        "Summon Raging Spirit",
+        "Less Duration Support",
+        "Cast on Ward Break Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Elements",
+        "Herald of Ash",
+        "Herald of Purity",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Raise Spectre",
+        "Animate Guardian",
+        "Meat Shield Support",
+        "Minion Life Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Immortal Call",
+        "Cast on Ward Break Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Righteous Fire"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Clarity"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Phase Run",
+        "Cast on Ward Break Support",
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Purifying Flame",
+        "Elemental Weakness",
+        "Cast on Ward Break Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Raise Zombie of Falling",
+    "Transfusion Support",
+    "Summon Skeletons",
+    "Summon Raging Spirit",
+    "Less Duration Support",
+    "Cast on Ward Break Support",
+    "Purity of Elements",
+    "Herald of Ash",
+    "Herald of Purity",
+    "Enlighten Support",
+    "Raise Spectre",
+    "Animate Guardian",
+    "Meat Shield Support",
+    "Minion Life Support",
+    "Immortal Call",
+    "Cast on Ward Break Support",
+    "Righteous Fire",
+    "Clarity",
+    "Phase Run",
+    "Cast on Ward Break Support",
+    "Convocation",
+    "Purifying Flame",
+    "Elemental Weakness",
+    "Cast on Ward Break Support"
+  ],
+  "items": [
+    {
+      "name": "Vengeance Sanctuary",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Golem Gyre",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Grace of the Goddess",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Fate Knuckle",
+      "typeLine": "Runic Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Heartbound Loop",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Skull Locket",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Grace of the Goddess",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Faithguard",
+      "typeLine": "Runic Helm",
+      "frameType": 10,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Dusk Chant",
+      "typeLine": "Somatic Wand",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Gloom Spire",
+      "typeLine": "Somatic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Ynda's Stand",
+      "typeLine": "Studded Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Sorrow Hoof",
+      "typeLine": "Runic Sabatons",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-04-10T12:39:31.467345Z"
+}

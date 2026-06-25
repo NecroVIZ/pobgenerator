@@ -1,0 +1,254 @@
+{
+  "account": "Alamoz-4243",
+  "name": "IHaveHarbingBalls",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4562,
+    "energyShield": 4627,
+    "mana": 991,
+    "ward": 0,
+    "movementSpeed": 125,
+    "lifeRegen": 17,
+    "evasionRating": 30091,
+    "armour": 259,
+    "strength": 159,
+    "dexterity": 180,
+    "intelligence": 295,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 66435,
+    "physicalMaximumHitTaken": 15032,
+    "fireMaximumHitTaken": 65114,
+    "coldMaximumHitTaken": 48836,
+    "lightningMaximumHitTaken": 48836,
+    "chaosMaximumHitTaken": 27348,
+    "fireResistance": 82,
+    "fireResistanceOverCap": 207,
+    "fireResistanceMax": 82,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 18,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 21,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 2,
+    "chaosResistanceMax": 75,
+    "blockChance": 24,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 13,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 952,
+    "evadeChance": 89,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 414,
+    "baseEvadeChance": 7,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 0,
+      "fire": 11,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 15032
+  },
+  "keyStones": [
+    {
+      "name": "Corrupted Soul",
+      "icon": "Art/2DArt/SkillIcons/passives/CorruptedDefences.webp",
+      "stats": [
+        "50% of Non-Chaos Damage taken bypasses Energy Shield",
+        "Gain 15% of Maximum Life as Extra Maximum Energy Shield"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 94,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Arcanist Brand",
+        "Controlled Destruction Support",
+        "Elemental Focus Support",
+        "Foulgrasp",
+        "Rolling Magma",
+        "Greater Volley Support",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Vitality",
+        "Sniper's Mark",
+        "Clarity",
+        "Increased Critical Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Brand Recall",
+        "Enhance Support",
+        "Cooldown Recovery Support",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Fire",
+        "Anger",
+        "Grace",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Brand Recall",
+        "Empower Support",
+        "Enhance Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Steelskin",
+        "Automation",
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Armageddon Brand of Recall"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Arcanist Brand",
+    "Controlled Destruction Support",
+    "Elemental Focus Support",
+    "Foulgrasp",
+    "Rolling Magma",
+    "Greater Volley Support",
+    "Inspiration Support",
+    "Frostblink of Wintry Blast",
+    "Vitality",
+    "Sniper's Mark",
+    "Clarity",
+    "Increased Critical Damage Support",
+    "Brand Recall",
+    "Enhance Support",
+    "Cooldown Recovery Support",
+    "Automation",
+    "Purity of Fire",
+    "Anger",
+    "Grace",
+    "Enlighten Support",
+    "Brand Recall",
+    "Empower Support",
+    "Enhance Support",
+    "Steelskin",
+    "Automation",
+    "Convocation",
+    "Armageddon Brand of Recall"
+  ],
+  "items": [
+    {
+      "name": "Honourhome",
+      "typeLine": "Soldier Helmet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Soul Clutches",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Enmity's Embrace",
+      "typeLine": "Vermillion Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Silverbranch",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Marylene's Fallacy",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Eagle Grasp",
+      "typeLine": "Topaz Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Blight Shroud",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Agony Chant",
+      "typeLine": "Prophecy Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Dire League",
+      "typeLine": "Phantom Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Storm Spiral",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Doom Song",
+      "typeLine": "Ancient Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    }
+  ],
+  "jewelsCount": 13,
+  "lastCheckedUtc": "2026-06-21T00:24:24.120971Z"
+}

@@ -1,0 +1,276 @@
+{
+  "account": "justin76_-6339",
+  "name": "ButtersMirageOne",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 14326,
+    "mana": 2928,
+    "ward": 0,
+    "movementSpeed": 141,
+    "lifeRegen": 0,
+    "evasionRating": 45250,
+    "armour": 664,
+    "strength": 447,
+    "dexterity": 915,
+    "intelligence": 4030,
+    "enduranceCharges": 6,
+    "frenzyCharges": 3,
+    "powerCharges": 4,
+    "effectiveHealthPool": 146597,
+    "physicalMaximumHitTaken": 30006,
+    "fireMaximumHitTaken": 98086,
+    "coldMaximumHitTaken": 98086,
+    "lightningMaximumHitTaken": 98086,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 3,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 35,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 53,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 2071,
+    "evadeChance": 92,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 8,
+    "damageReductions": {
+      "physical": {
+        "value": 36,
+        "max": 90,
+        "effectiveAppliedArmour": 664,
+        "base": 30,
+        "takenDamage": 2259
+      },
+      "fire": {
+        "value": 24,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 24,
+        "takenDamage": 2259
+      },
+      "cold": {
+        "value": 24,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 24,
+        "takenDamage": 2259
+      },
+      "lightning": {
+        "value": 24,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 24,
+        "takenDamage": 2259
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 30006
+  },
+  "keyStones": [
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Reaver",
+      "icon": "Art/2DArt/SkillIcons/passives/ghostreaver.webp",
+      "stats": [
+        "Leech Energy Shield instead of Life\nMaximum total Energy Shield Recovery per second from Leech is doubled\nCannot Recharge Energy Shield"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 88,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Reave of Refraction",
+        "Volatility Support",
+        "Pulverise Support",
+        "Increased Critical Damage Support",
+        "Invert the Rules Support",
+        "Greater Multistrike Support",
+        "Damage on Full Life Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Purity of Elements",
+        "Enlighten Support",
+        "Blood and Sand",
+        "Grace"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Clarity",
+        "Frostblink",
+        "Whirling Blades",
+        "Fortify Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vaal Reave (Reave of Refraction)",
+        "Fortify Support",
+        "Awakened Enhance Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support",
+        "Cooldown Recovery Support",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Assassin's Mark",
+        "Precision",
+        "Mark On Hit Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Reave of Refraction",
+    "Volatility Support",
+    "Pulverise Support",
+    "Increased Critical Damage Support",
+    "Invert the Rules Support",
+    "Greater Multistrike Support",
+    "Damage on Full Life Support",
+    "Purity of Elements",
+    "Enlighten Support",
+    "Blood and Sand",
+    "Grace",
+    "Clarity",
+    "Frostblink",
+    "Whirling Blades",
+    "Fortify Support",
+    "Vaal Reave (Reave of Refraction)",
+    "Fortify Support",
+    "Awakened Enhance Support",
+    "Power Charge On Critical Support",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Cooldown Recovery Support",
+    "More Duration Support",
+    "Assassin's Mark",
+    "Precision",
+    "Mark On Hit Support"
+  ],
+  "items": [
+    {
+      "name": "Apocalypse Hoof",
+      "typeLine": "Stormrider Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Oblivion Carapace",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Foulborn Hand of Thought and Motion",
+      "typeLine": "Imperial Claw",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Mind Locket",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Dread Cry",
+      "typeLine": "Primordial Staff",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Plague Eye",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Grim Gyre",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Foulborn Hand of Thought and Motion",
+      "typeLine": "Imperial Claw",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Shaper's Touch",
+      "typeLine": "Crusader Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Dread Brow",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 17,
+  "lastCheckedUtc": "2026-06-22T12:38:06.821001Z"
+}

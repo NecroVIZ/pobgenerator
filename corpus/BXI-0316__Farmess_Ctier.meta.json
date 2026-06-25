@@ -1,0 +1,266 @@
+{
+  "account": "BXI-0316",
+  "name": "Farmess_Ctier",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Slayer",
+  "ascendancy": "Slayer",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 5523,
+    "energyShield": 67,
+    "mana": 1010,
+    "ward": 0,
+    "movementSpeed": 180,
+    "lifeRegen": 0,
+    "evasionRating": 1903,
+    "armour": 12413,
+    "strength": 399,
+    "dexterity": 191,
+    "intelligence": 135,
+    "enduranceCharges": 6,
+    "frenzyCharges": 4,
+    "powerCharges": 3,
+    "effectiveHealthPool": 55244,
+    "physicalMaximumHitTaken": 9176,
+    "fireMaximumHitTaken": 26749,
+    "coldMaximumHitTaken": 25794,
+    "lightningMaximumHitTaken": 25794,
+    "chaosMaximumHitTaken": 19883,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 46,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 24,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 14,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 62,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 65,
+    "spellBlockChance": 53,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 9176
+  },
+  "keyStones": [
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 135,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Cyclone",
+        "Infused Channelling Support",
+        "Increased Critical Damage Support",
+        "Pulverise Support",
+        "Void Shockwave",
+        "Melee Physical Damage Support",
+        "Added Fire Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Ground Slam of Earthshaking",
+        "General's Cry",
+        "Volatility Support",
+        "Autoexertion",
+        "Pulverise Support",
+        "Melee Physical Damage Support",
+        "Stun Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Blood Rage",
+        "Mark On Hit Support",
+        "Assassin's Mark",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Automation",
+        "Lifetap Support",
+        "Steelskin"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Leap Slam"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Precision",
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Blood and Sand"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flesh and Stone"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Cyclone",
+        "Cyclone",
+        "Cyclone"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Cyclone",
+        "Cyclone",
+        "Cyclone"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Cyclone",
+    "Infused Channelling Support",
+    "Increased Critical Damage Support",
+    "Pulverise Support",
+    "Void Shockwave",
+    "Melee Physical Damage Support",
+    "Added Fire Damage Support",
+    "Ground Slam of Earthshaking",
+    "General's Cry",
+    "Volatility Support",
+    "Autoexertion",
+    "Pulverise Support",
+    "Melee Physical Damage Support",
+    "Stun Support",
+    "Blood Rage",
+    "Mark On Hit Support",
+    "Assassin's Mark",
+    "Lifetap Support",
+    "Automation",
+    "Lifetap Support",
+    "Steelskin",
+    "Leap Slam",
+    "Precision",
+    "Purity of Elements",
+    "Blood and Sand",
+    "Flesh and Stone",
+    "Cyclone",
+    "Cyclone",
+    "Cyclone",
+    "Cyclone",
+    "Cyclone",
+    "Cyclone"
+  ],
+  "items": [
+    {
+      "name": "Blight Goad",
+      "typeLine": "Leviathan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Plague Ward",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Victory Nails",
+      "typeLine": "Crusader Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "",
+      "typeLine": "Glaciated Estoc of Conquest",
+      "frameType": 1,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "Polar Apex Rapier",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Maelström Hold",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Storm Spiral",
+      "typeLine": "Synthesised Coral Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Ghoul Peak",
+      "typeLine": "Conqueror's Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Behemoth Pole",
+      "typeLine": "Maelström Staff",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Stranglegasp",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 3,
+  "lastCheckedUtc": "2026-06-20T09:10:06.966755Z"
+}

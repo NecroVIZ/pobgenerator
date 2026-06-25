@@ -1,0 +1,234 @@
+{
+  "account": "ArcticWP-5330",
+  "name": "HolyWars_PunishmentDue",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Hierophant",
+  "ascendancy": "Hierophant",
+  "secondaryAscendancy": "Saresh Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1894,
+    "energyShield": 3214,
+    "mana": 7054,
+    "ward": 126,
+    "movementSpeed": 115,
+    "lifeRegen": 2125,
+    "evasionRating": 5442,
+    "armour": 4370,
+    "strength": 154,
+    "dexterity": 139,
+    "intelligence": 323,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 7,
+    "effectiveHealthPool": 99539,
+    "physicalMaximumHitTaken": 9438,
+    "fireMaximumHitTaken": 17318,
+    "coldMaximumHitTaken": 30306,
+    "lightningMaximumHitTaken": 30306,
+    "chaosMaximumHitTaken": 3156,
+    "fireResistance": 54,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 42,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 24,
+    "lightningResistanceMax": 75,
+    "chaosResistance": -24,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 71,
+    "spellBlockChance": 88,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 12,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 38,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 3156
+  },
+  "keyStones": [
+    {
+      "name": "Mind Over Matter",
+      "icon": "Art/2DArt/SkillIcons/passives/heroicspirit.webp",
+      "stats": [
+        "40% of Damage is taken from Mana before Life"
+      ]
+    },
+    {
+      "name": "Inner Conviction",
+      "icon": "Art/2DArt/SkillIcons/passives/InnerConviction.webp",
+      "stats": [
+        "3% more Spell Damage per Power Charge",
+        "Gain Power Charges instead of Frenzy Charges"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 127,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Shock Nova of Procession",
+        "Greater Spell Echo Support",
+        "Increased Critical Damage Support",
+        "Arcane Surge Support",
+        "Intensify Support",
+        "Archmage Support",
+        "Lightning Penetration Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Arcane Surge Support",
+        "Faster Casting Support",
+        "Archmage Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Automation",
+        "Arcane Cloak",
+        "More Duration Support",
+        "Cooldown Recovery Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Arcanist Brand",
+        "Elemental Weakness",
+        "Conductivity",
+        "Assassin's Mark"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frost Shield",
+        "Wave of Conviction",
+        "Hydrosphere"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Sigil of Power",
+        "Eternal Blessing Support",
+        "Zealotry"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Shock Nova of Procession",
+    "Greater Spell Echo Support",
+    "Increased Critical Damage Support",
+    "Arcane Surge Support",
+    "Intensify Support",
+    "Archmage Support",
+    "Lightning Penetration Support",
+    "Frostblink of Wintry Blast",
+    "Arcane Surge Support",
+    "Faster Casting Support",
+    "Archmage Support",
+    "Automation",
+    "Arcane Cloak",
+    "More Duration Support",
+    "Cooldown Recovery Support",
+    "Arcanist Brand",
+    "Elemental Weakness",
+    "Conductivity",
+    "Assassin's Mark",
+    "Frost Shield",
+    "Wave of Conviction",
+    "Hydrosphere",
+    "Sigil of Power",
+    "Eternal Blessing Support",
+    "Zealotry"
+  ],
+  "items": [
+    {
+      "name": "The Tides of Time",
+      "typeLine": "Vanguard Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Rage Nails",
+      "typeLine": "Martyr Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Honour Grasp",
+      "typeLine": "Gold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Anathema",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Corpse Charm",
+      "typeLine": "Profane Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Khatal's Geyser",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Mind Pelt",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Indigon",
+      "typeLine": "Hubris Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-20T15:16:13.811255Z"
+}

@@ -1,0 +1,224 @@
+{
+  "account": "Alderinxoxo-3911",
+  "name": "Niredla",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Olroth Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 1670,
+    "energyShield": 12,
+    "mana": 916,
+    "ward": 25290,
+    "movementSpeed": 125,
+    "lifeRegen": 429,
+    "evasionRating": 4810,
+    "armour": 3744,
+    "strength": 174,
+    "dexterity": 196,
+    "intelligence": 246,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 17472,
+    "physicalMaximumHitTaken": 27701,
+    "fireMaximumHitTaken": 81733,
+    "coldMaximumHitTaken": 96329,
+    "lightningMaximumHitTaken": 72897,
+    "chaosMaximumHitTaken": 89867,
+    "fireResistance": 70,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 9,
+    "coldResistanceMax": 75,
+    "lightningResistance": 66,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 70,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 25,
+    "spellBlockChance": 5,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 16,
+    "lifeReserved": 0,
+    "manaReserved": 534,
+    "evadeChance": 34,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 27701
+  },
+  "keyStones": [],
+  "masteriesCount": 2,
+  "passiveCount": 107,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Summon Raging Spirit",
+        "Summon Skeletons",
+        "Transfusion Support",
+        "Cast on Ward Break Support",
+        "Less Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Raise Zombie of Falling",
+        "Cast on Ward Break Support",
+        "Elemental Weakness",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Animate Guardian",
+        "Raise Spectre",
+        "Meat Shield Support",
+        "Minion Life Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Summon Stone Golem",
+        "Cast on Ward Break Support",
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Herald of Purity",
+        "Herald of Ash",
+        "Clarity"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Phase Run",
+        "Cast on Ward Break Support",
+        "Immortal Call"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Summon Raging Spirit",
+    "Summon Skeletons",
+    "Transfusion Support",
+    "Cast on Ward Break Support",
+    "Less Duration Support",
+    "Raise Zombie of Falling",
+    "Cast on Ward Break Support",
+    "Elemental Weakness",
+    "Power Charge On Critical Support",
+    "Animate Guardian",
+    "Raise Spectre",
+    "Meat Shield Support",
+    "Minion Life Support",
+    "Summon Stone Golem",
+    "Cast on Ward Break Support",
+    "Convocation",
+    "Herald of Purity",
+    "Herald of Ash",
+    "Clarity",
+    "Phase Run",
+    "Cast on Ward Break Support",
+    "Immortal Call"
+  ],
+  "items": [
+    {
+      "name": "Heartbound Loop",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Stranglegasp",
+      "typeLine": "Onyx Amulet",
+      "frameType": 10,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Pain Ram",
+      "typeLine": "Quartz Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Apocalypse Grinder",
+      "typeLine": "Darkwood Sceptre",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Ynda's Stand",
+      "typeLine": "Studded Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Grace of the Goddess",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Sorrow Mantle",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Pandemonium Coil",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Faithguard",
+      "typeLine": "Runic Helm",
+      "frameType": 10,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Grim Caress",
+      "typeLine": "Runic Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Grace of the Goddess",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Olroth's Charge",
+      "typeLine": "Runic Sollerets",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-19T21:02:15.549639Z"
+}

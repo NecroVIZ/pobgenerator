@@ -1,0 +1,236 @@
+{
+  "account": "1145141919810-2018",
+  "name": "閃打閃打閃打閃打閃打",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Slayer",
+  "ascendancy": "Slayer",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2897,
+    "energyShield": 73,
+    "mana": 663,
+    "ward": 0,
+    "movementSpeed": 284,
+    "lifeRegen": 75,
+    "evasionRating": 7077,
+    "armour": 5787,
+    "strength": 107,
+    "dexterity": 75,
+    "intelligence": 14,
+    "enduranceCharges": 8,
+    "frenzyCharges": 8,
+    "powerCharges": 3,
+    "effectiveHealthPool": 486900,
+    "physicalMaximumHitTaken": 7857,
+    "fireMaximumHitTaken": 18638,
+    "coldMaximumHitTaken": 18638,
+    "lightningMaximumHitTaken": 18638,
+    "chaosMaximumHitTaken": 6951,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 38,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 37,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 34,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 50,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 95,
+    "spellBlockChance": 95,
+    "spellSuppressionChance": 62,
+    "spellDodgeChance": 0,
+    "itemRarity": 115,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 648,
+    "evadeChance": 18,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 1316,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 6951
+  },
+  "keyStones": [
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 124,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Flicker Strike",
+        "Trinity Support",
+        "Close Combat Support",
+        "Melee Physical Damage Support",
+        "Greater Ancestral Call Support",
+        "Greater Multistrike Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Assassin's Mark",
+        "Frostblink",
+        "Mark On Hit Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Herald of Ice",
+        "Enhance Support",
+        "Enlighten Support",
+        "Increased Area of Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vaal Molten Shell",
+        "Herald of Ash",
+        "Herald of Purity"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Precision",
+        "Frostmage Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Flicker Strike",
+    "Trinity Support",
+    "Close Combat Support",
+    "Melee Physical Damage Support",
+    "Greater Ancestral Call Support",
+    "Greater Multistrike Support",
+    "Lifetap Support",
+    "Assassin's Mark",
+    "Frostblink",
+    "Mark On Hit Support",
+    "Lifetap Support",
+    "Herald of Ice",
+    "Enhance Support",
+    "Enlighten Support",
+    "Increased Area of Effect Support",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Lifetap Support",
+    "Vaal Molten Shell",
+    "Herald of Ash",
+    "Herald of Purity",
+    "Precision",
+    "Frostmage Support"
+  ],
+  "items": [
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Azadi Crest",
+      "typeLine": "Lacquered Buckler",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Honour Dash",
+      "typeLine": "Chimerascale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Skull Braid",
+      "typeLine": "Gold Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Blood Shroud",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Vortex Barb",
+      "typeLine": "Anarchic Spiritblade",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Atziri's Disfavour",
+      "typeLine": "Vaal Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Grim Nail",
+      "typeLine": "Diamond Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Lightpoacher",
+      "typeLine": "Great Crown",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Death Rush",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Shadows and Dust",
+      "typeLine": "Clasped Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-21T06:28:50.87821Z"
+}

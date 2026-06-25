@@ -1,0 +1,264 @@
+{
+  "account": "666Krauzer666-2315",
+  "name": "_Ozempik_power_",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Pathfinder",
+  "ascendancy": "Pathfinder",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Ryslatha",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3590,
+    "energyShield": 1032,
+    "mana": 1098,
+    "ward": 0,
+    "movementSpeed": 246,
+    "lifeRegen": 4456,
+    "evasionRating": 5208,
+    "armour": 378,
+    "strength": 196,
+    "dexterity": 346,
+    "intelligence": 271,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 37748,
+    "physicalMaximumHitTaken": 7884,
+    "fireMaximumHitTaken": 52274,
+    "coldMaximumHitTaken": 40222,
+    "lightningMaximumHitTaken": 40222,
+    "chaosMaximumHitTaken": 24113,
+    "fireResistance": 89,
+    "fireResistanceOverCap": 87,
+    "fireResistanceMax": 89,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 5,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 14,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 14,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 94,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 4277,
+    "lifeReserved": 0,
+    "manaReserved": 1062,
+    "evadeChance": 44,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 419,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 10,
+        "max": 90,
+        "effectiveAppliedArmour": 378,
+        "base": 6,
+        "takenDamage": 1811
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 7884
+  },
+  "keyStones": [
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Tempered by War",
+      "icon": "Art/2DArt/SkillIcons/passives/TemperedByWar.webp",
+      "stats": [
+        "50% of Cold and Lightning Damage taken as Fire Damage",
+        "50% less Cold Resistance",
+        "50% less Lightning Resistance"
+      ]
+    },
+    {
+      "name": "Eldritch Battery",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
+      "stats": [
+        "Spend Energy Shield before Mana for Skill Mana Costs\nEnergy Shield protects Mana instead of Life\n50% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Mind Over Matter",
+      "icon": "Art/2DArt/SkillIcons/passives/heroicspirit.webp",
+      "stats": [
+        "40% of Damage is taken from Mana before Life"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 123,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Arctic Armour",
+        "Purity of Fire",
+        "Petrified Blood",
+        "Enlighten Support",
+        "Flesh and Stone",
+        "Herald of Agony"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Temporal Chains",
+        "Deadly Ailments Support",
+        "Greater Spell Cascade Support",
+        "Unbound Ailments Support",
+        "Impending Doom Support",
+        "Efficacy Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Enfeeble",
+        "Punishment",
+        "Despair",
+        "Greater Spell Cascade Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Raise Spectre",
+        "Malevolence",
+        "Guardian's Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Righteous Fire of Arcane Devotion"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Immortal Call",
+        "Withering Step",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Faster Casting Support",
+        "Spell Echo Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Arctic Armour",
+    "Purity of Fire",
+    "Petrified Blood",
+    "Enlighten Support",
+    "Flesh and Stone",
+    "Herald of Agony",
+    "Temporal Chains",
+    "Deadly Ailments Support",
+    "Greater Spell Cascade Support",
+    "Unbound Ailments Support",
+    "Impending Doom Support",
+    "Efficacy Support",
+    "Enfeeble",
+    "Punishment",
+    "Despair",
+    "Greater Spell Cascade Support",
+    "Raise Spectre",
+    "Malevolence",
+    "Guardian's Blessing Support",
+    "Righteous Fire of Arcane Devotion",
+    "Immortal Call",
+    "Withering Step",
+    "Automation",
+    "Frostblink of Wintry Blast",
+    "Faster Casting Support",
+    "Spell Echo Support"
+  ],
+  "items": [
+    {
+      "name": "Dusk Beads",
+      "typeLine": "Agate Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Cloak of Defiance",
+      "typeLine": "Lacquered Garb",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Foulborn Doedre's Scorn",
+      "typeLine": "Lunaris Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Tides of Time",
+      "typeLine": "Vanguard Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Betrayal's Sting",
+      "typeLine": "Steel Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Golem Weaver",
+      "typeLine": "Accumulator Wand",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Tempest Edge",
+      "typeLine": "Accumulator Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Chimeric Knot",
+      "typeLine": "Cogwork Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Skull March",
+      "typeLine": "Phantom Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Vixen's Entrapment",
+      "typeLine": "Embroidered Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-22T18:41:31.545246Z"
+}

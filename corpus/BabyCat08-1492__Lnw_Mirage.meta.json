@@ -1,0 +1,259 @@
+{
+  "account": "BabyCat08-1492",
+  "name": "Lnw_Mirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Oshabi Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 3820,
+    "energyShield": 2841,
+    "mana": 820,
+    "ward": 0,
+    "movementSpeed": 229,
+    "lifeRegen": 262,
+    "evasionRating": 1757,
+    "armour": 946,
+    "strength": 140,
+    "dexterity": 173,
+    "intelligence": 295,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 146863,
+    "physicalMaximumHitTaken": 11213,
+    "fireMaximumHitTaken": 33792,
+    "coldMaximumHitTaken": 39424,
+    "lightningMaximumHitTaken": 33792,
+    "chaosMaximumHitTaken": 13264,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 20,
+    "fireResistanceMax": 75,
+    "coldResistance": 79,
+    "coldResistanceOverCap": 67,
+    "coldResistanceMax": 79,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 74,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 64,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 75,
+    "spellBlockChance": 74,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 697,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 567,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 10,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 11213
+  },
+  "keyStones": [
+    {
+      "name": "Elemental Equilibrium",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalEquilibrium.webp",
+      "stats": [
+        "Hits that deal Elemental Damage remove Exposure to those Elements and inflict Exposure to other Elements\nExposure inflicted this way applies -25% to Resistances"
+      ]
+    },
+    {
+      "name": "Ghost Reaver",
+      "icon": "Art/2DArt/SkillIcons/passives/ghostreaver.webp",
+      "stats": [
+        "Leech Energy Shield instead of Life\nMaximum total Energy Shield Recovery per second from Leech is doubled\nCannot Recharge Energy Shield"
+      ]
+    },
+    {
+      "name": "Corrupted Soul",
+      "icon": "Art/2DArt/SkillIcons/passives/CorruptedDefences.webp",
+      "stats": [
+        "50% of Non-Chaos Damage taken bypasses Energy Shield",
+        "Gain 15% of Maximum Life as Extra Maximum Energy Shield"
+      ]
+    },
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 129,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Wild Strike of Extremes",
+        "Greater Multistrike Support",
+        "Trinity Support",
+        "Inspiration Support",
+        "Nightblade Support",
+        "Greater Ancestral Call Support",
+        "Hypothermia Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vaal Discipline",
+        "Enlighten Support",
+        "Purity of Ice",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Sigil of Power",
+        "More Duration Support",
+        "Intensify Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flesh and Stone"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vitality",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Sniper's Mark",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Whirling Blades",
+        "Cast when Damage Taken Support",
+        "Ball Lightning of Static"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Wild Strike of Extremes",
+    "Greater Multistrike Support",
+    "Trinity Support",
+    "Inspiration Support",
+    "Nightblade Support",
+    "Greater Ancestral Call Support",
+    "Hypothermia Support",
+    "Vaal Discipline",
+    "Enlighten Support",
+    "Purity of Ice",
+    "Tempest Shield",
+    "Sigil of Power",
+    "More Duration Support",
+    "Intensify Support",
+    "Flesh and Stone",
+    "Vitality",
+    "Precision",
+    "Sniper's Mark",
+    "Mark On Hit Support",
+    "Whirling Blades",
+    "Cast when Damage Taken Support",
+    "Ball Lightning of Static"
+  ],
+  "items": [
+    {
+      "name": "Brood Halo",
+      "typeLine": "Blizzard Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Onslaught Guardian",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Dread Roar",
+      "typeLine": "Gemini Claw",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Death Rush",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn The Oppressor",
+      "typeLine": "Elegant Round Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Entropy Loop",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Kaom's Roots",
+      "typeLine": "Titan Greaves",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Dusk Choker",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Soul Ascension",
+      "typeLine": "Carnal Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 7,
+  "lastCheckedUtc": "2026-06-25T02:11:38.631313Z"
+}

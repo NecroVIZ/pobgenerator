@@ -1,0 +1,269 @@
+{
+  "account": "choco0-4773",
+  "name": "BeachSlut",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Breachlord Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4572,
+    "energyShield": 0,
+    "mana": 742,
+    "ward": 0,
+    "movementSpeed": 112,
+    "lifeRegen": 292,
+    "evasionRating": 0,
+    "armour": 91650,
+    "strength": 283,
+    "dexterity": 234,
+    "intelligence": 133,
+    "enduranceCharges": 3,
+    "frenzyCharges": 4,
+    "powerCharges": 3,
+    "effectiveHealthPool": 42588,
+    "physicalMaximumHitTaken": 17497,
+    "fireMaximumHitTaken": 25973,
+    "coldMaximumHitTaken": 19159,
+    "lightningMaximumHitTaken": 27273,
+    "chaosMaximumHitTaken": 40760,
+    "fireResistance": 57,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 76,
+    "coldResistance": 36,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": 61,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 79,
+    "chaosResistance": 80,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 80,
+    "blockChance": 40,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 181,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 647,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 17497
+  },
+  "keyStones": [
+    {
+      "name": "Iron Reflexes",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
+      "stats": [
+        "Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating"
+      ]
+    },
+    {
+      "name": "Precise Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/PreciseTechnique.webp",
+      "stats": [
+        "40% more Attack Damage if Accuracy Rating is higher than Maximum Life\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Divine Flesh",
+      "icon": "Art/2DArt/SkillIcons/passives/DivineFlesh.webp",
+      "stats": [
+        "All Damage taken bypasses Energy Shield",
+        "50% of Elemental Damage taken as Chaos Damage",
+        "+5% to maximum Chaos Resistance"
+      ]
+    },
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 121,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Reave of Refraction",
+        "Volatility Support",
+        "Elemental Damage with Attacks Support",
+        "Pulverise Support",
+        "Multistrike Support",
+        "Hypothermia Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Autoexertion",
+        "Volatility Support",
+        "Blade Flurry",
+        "General's Cry"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Molten Shell",
+        "Automation",
+        "Phase Run",
+        "Enhance Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Poacher's Mark",
+        "Mark On Hit Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Berserk",
+        "Blood Rage",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Blood and Sand",
+        "Petrified Blood"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostblink"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Reave of Refraction",
+    "Volatility Support",
+    "Elemental Damage with Attacks Support",
+    "Pulverise Support",
+    "Multistrike Support",
+    "Hypothermia Support",
+    "Autoexertion",
+    "Volatility Support",
+    "Blade Flurry",
+    "General's Cry",
+    "Molten Shell",
+    "Automation",
+    "Phase Run",
+    "Enhance Support",
+    "Poacher's Mark",
+    "Mark On Hit Support",
+    "Lifetap Support",
+    "Purity of Elements",
+    "Berserk",
+    "Blood Rage",
+    "Lifetap Support",
+    "Blood and Sand",
+    "Petrified Blood",
+    "Frostblink"
+  ],
+  "items": [
+    {
+      "name": "The Formless Flame",
+      "typeLine": "Royal Burgonet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Replica Perfect Form",
+      "typeLine": "Zodiac Leather",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Grim Nail",
+      "typeLine": "Synaptic Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Bramble Nail",
+      "typeLine": "Synaptic Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Damnation Hand",
+      "typeLine": "Velour Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Agony Stinger",
+      "typeLine": "Synthesised Fancy Foil",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Replica Dreamfeather",
+      "typeLine": "Eternal Sword",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Kaom's Binding",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Death Span",
+      "typeLine": "Stormrider Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Sorrow Stinger",
+      "typeLine": "Eternal Sword",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Replica Dreamfeather",
+      "typeLine": "Eternal Sword",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Ashes of the Stars",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-23T04:16:43.921309Z"
+}

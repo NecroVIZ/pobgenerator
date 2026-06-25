@@ -1,0 +1,244 @@
+{
+  "account": "Camou-4965",
+  "name": "camouu",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Saresh Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ryslatha",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 3841,
+    "energyShield": 395,
+    "mana": 683,
+    "ward": 244,
+    "movementSpeed": 198,
+    "lifeRegen": 0,
+    "evasionRating": 21,
+    "armour": 20928,
+    "strength": 75,
+    "dexterity": 41,
+    "intelligence": 116,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 22741,
+    "physicalMaximumHitTaken": 8631,
+    "fireMaximumHitTaken": 10147,
+    "coldMaximumHitTaken": 4711,
+    "lightningMaximumHitTaken": 5025,
+    "chaosMaximumHitTaken": 4806,
+    "fireResistance": 51,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 0,
+    "coldResistance": -9,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 0,
+    "lightningResistance": -2,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 16,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 68,
+    "spellBlockChance": 70,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": -35,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 4711
+  },
+  "keyStones": [
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 129,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Raise Spectre",
+        "Empower Support",
+        "Minion Life Support",
+        "Companionship Support",
+        "Eclipse Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Leap Slam",
+        "Faster Attacks Support",
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Enduring Cry",
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Arcanist Brand",
+        "Elemental Weakness",
+        "Flammability",
+        "Flame Surge"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink",
+        "Flesh and Stone"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Pyroclast Mine of Sabotage",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Summon Raging Spirit",
+        "More Duration Support",
+        "Death Wish"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Convocation"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Raise Spectre",
+    "Empower Support",
+    "Minion Life Support",
+    "Companionship Support",
+    "Eclipse Support",
+    "Leap Slam",
+    "Faster Attacks Support",
+    "Malevolence",
+    "Enduring Cry",
+    "Purity of Elements",
+    "Arcanist Brand",
+    "Elemental Weakness",
+    "Flammability",
+    "Flame Surge",
+    "Frostblink",
+    "Flesh and Stone",
+    "Pyroclast Mine of Sabotage",
+    "Arrogance Support",
+    "Summon Raging Spirit",
+    "More Duration Support",
+    "Death Wish",
+    "Convocation"
+  ],
+  "items": [
+    {
+      "name": "The Scourge",
+      "typeLine": "Terror Claw",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Doom Band",
+      "typeLine": "Bone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Nemesis Trail",
+      "typeLine": "Paladin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Maw of Mischief",
+      "typeLine": "Bone Helmet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Brass Dome",
+      "typeLine": "Gladiator Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Plague Caress",
+      "typeLine": "Martyr Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "The Broken Elegy",
+      "typeLine": "Foul Staff",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Soul Grasp",
+      "typeLine": "Bone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Honour Scarab",
+      "typeLine": "Agate Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 4,
+  "lastCheckedUtc": "2026-06-21T15:40:50.058267Z"
+}

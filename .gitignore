@@ -1,0 +1,26 @@
+# Тяжёлый vendored PoB (исходники ~444 МБ) — не коммитим
+/vendor/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Артефакты тестов
+/tests/fixtures/*.tmp
+
+# ML-артефакты (регенерируемые, мусор CatBoost)
+catboost_info/
+
+# Scraping temp (если появятся)
+*.html.tmp
+ninja_*.html
+_*.html
+chunk*.mjs
+dep_*.mjs
+
+# Скрипты-утилиты разового зондирования (временные)
+scripts/_dulwich_check.py

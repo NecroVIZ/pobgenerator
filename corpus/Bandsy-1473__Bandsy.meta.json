@@ -1,0 +1,265 @@
+{
+  "account": "Bandsy-1473",
+  "name": "Bandsy",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2117,
+    "energyShield": 956,
+    "mana": 1040,
+    "ward": 0,
+    "movementSpeed": 367,
+    "lifeRegen": 435,
+    "evasionRating": 2097,
+    "armour": 85,
+    "strength": 142,
+    "dexterity": 117,
+    "intelligence": 380,
+    "enduranceCharges": 3,
+    "frenzyCharges": 10,
+    "powerCharges": 10,
+    "effectiveHealthPool": 5295,
+    "physicalMaximumHitTaken": 1952,
+    "fireMaximumHitTaken": 10188,
+    "coldMaximumHitTaken": 6913,
+    "lightningMaximumHitTaken": 4118,
+    "chaosMaximumHitTaken": 1466,
+    "fireResistance": 84,
+    "fireResistanceOverCap": 24,
+    "fireResistanceMax": 84,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 55,
+    "coldResistanceMax": 75,
+    "lightningResistance": 56,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": -32,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 4,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 887,
+    "manaReserved": 1021,
+    "evadeChance": 12,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 1466
+  },
+  "keyStones": [
+    {
+      "name": "Runebinder",
+      "icon": "Art/2DArt/SkillIcons/passives/BrandKeystone.webp",
+      "stats": [
+        "-1 to maximum number of Summoned Totems\nYou can have an additional Brand Attached to an Enemy"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Eldritch Battery",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
+      "stats": [
+        "Spend Energy Shield before Mana for Skill Mana Costs\nEnergy Shield protects Mana instead of Life\n50% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Inner Conviction",
+      "icon": "Art/2DArt/SkillIcons/passives/InnerConviction.webp",
+      "stats": [
+        "3% more Spell Damage per Power Charge",
+        "Gain Power Charges instead of Frenzy Charges"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 109,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Penance Brand of Dissipation",
+        "Empower Support",
+        "Hypothermia Support",
+        "Power Charge On Critical Support",
+        "Concentrated Effect Support",
+        "Swiftbrand Support",
+        "Increased Critical Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Hatred",
+        "Guardian's Blessing Support",
+        "Animate Guardian",
+        "Meat Shield Support",
+        "Minion Life Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vitality",
+        "Herald of Ash",
+        "Raise Spectre",
+        "Flame Dash",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Convocation",
+        "Automation",
+        "Righteous Fire",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Haste",
+        "Petrified Blood"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Purity",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostbite",
+        "Cursed Ground Support",
+        "Assassin's Mark"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Penance Brand of Dissipation",
+    "Empower Support",
+    "Hypothermia Support",
+    "Power Charge On Critical Support",
+    "Concentrated Effect Support",
+    "Swiftbrand Support",
+    "Increased Critical Damage Support",
+    "Hatred",
+    "Guardian's Blessing Support",
+    "Animate Guardian",
+    "Meat Shield Support",
+    "Minion Life Support",
+    "Vitality",
+    "Herald of Ash",
+    "Raise Spectre",
+    "Flame Dash",
+    "Faster Casting Support",
+    "Convocation",
+    "Automation",
+    "Righteous Fire",
+    "Inspiration Support",
+    "Haste",
+    "Petrified Blood",
+    "Herald of Purity",
+    "Arrogance Support",
+    "Frostbite",
+    "Cursed Ground Support",
+    "Assassin's Mark"
+  ],
+  "items": [
+    {
+      "name": "Call of the Brotherhood",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Call of the Brotherhood",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Badge of the Brotherhood",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Restless Ward",
+      "typeLine": "Carnal Armour",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Void Battery",
+      "typeLine": "Prophecy Wand",
+      "frameType": 10,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Pandemonium Stinger",
+      "typeLine": "Spine Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Void Battery",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Rift Paw",
+      "typeLine": "Sorcerer Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Heatshiver",
+      "typeLine": "Leather Hood",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-20T21:23:10.414116Z"
+}

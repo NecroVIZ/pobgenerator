@@ -1,0 +1,240 @@
+{
+  "account": "BasicBananas-2472",
+  "name": "BroccoliBaron",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Slayer",
+  "ascendancy": "Slayer",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 6080,
+    "energyShield": 135,
+    "mana": 742,
+    "ward": 0,
+    "movementSpeed": 293,
+    "lifeRegen": 912,
+    "evasionRating": 12647,
+    "armour": 3156,
+    "strength": 172,
+    "dexterity": 182,
+    "intelligence": 106,
+    "enduranceCharges": 7,
+    "frenzyCharges": 7,
+    "powerCharges": 4,
+    "effectiveHealthPool": 92677,
+    "physicalMaximumHitTaken": 17538,
+    "fireMaximumHitTaken": 95815,
+    "coldMaximumHitTaken": 95815,
+    "lightningMaximumHitTaken": 95815,
+    "chaosMaximumHitTaken": 35094,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 77,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 60,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 76,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 3,
+    "chaosResistanceMax": 75,
+    "blockChance": 28,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 8,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 653,
+    "evadeChance": 63,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 484,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 93,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 7,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 17538
+  },
+  "keyStones": [],
+  "masteriesCount": 6,
+  "passiveCount": 111,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Elemental Hit",
+        "Trinity Support",
+        "Lifetap Support",
+        "Increased Critical Strikes Support",
+        "Faster Attacks Support",
+        "Elemental Damage with Attacks Support",
+        "Endurance Charge on Melee Stun Support",
+        "Greater Multistrike Support",
+        "Empower Support",
+        "Ruthless Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Hydrosphere",
+        "Combustion Support",
+        "Lifetap Support",
+        "Cast On Critical Strike Support",
+        "Faster Attacks Support",
+        "Whirling Blades",
+        "Culling Strike Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Steelskin",
+        "Enduring Cry",
+        "Blood Rage",
+        "Frostblink",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Elements",
+        "Enlighten Support",
+        "Flesh and Stone",
+        "Arctic Armour"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Assassin's Mark",
+        "Mark On Hit Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Vaal Haste"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Elemental Hit",
+    "Trinity Support",
+    "Lifetap Support",
+    "Increased Critical Strikes Support",
+    "Faster Attacks Support",
+    "Elemental Damage with Attacks Support",
+    "Endurance Charge on Melee Stun Support",
+    "Greater Multistrike Support",
+    "Empower Support",
+    "Ruthless Support",
+    "Hydrosphere",
+    "Combustion Support",
+    "Lifetap Support",
+    "Cast On Critical Strike Support",
+    "Faster Attacks Support",
+    "Whirling Blades",
+    "Culling Strike Support",
+    "Steelskin",
+    "Enduring Cry",
+    "Blood Rage",
+    "Frostblink",
+    "More Duration Support",
+    "Purity of Elements",
+    "Enlighten Support",
+    "Flesh and Stone",
+    "Arctic Armour",
+    "Assassin's Mark",
+    "Mark On Hit Support",
+    "Lifetap Support",
+    "Vaal Haste"
+  ],
+  "items": [
+    {
+      "name": "Armageddon Star",
+      "typeLine": "Deicide Mask",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Glyph Thirst",
+      "typeLine": "Thicket Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "The Squire",
+      "typeLine": "Elegant Round Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Unseen Hue",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Pandemonium Urge",
+      "typeLine": "Velour Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Ghoul Suit",
+      "typeLine": "Marshall's Brigandine",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Corpse Braid",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Horror Needle",
+      "typeLine": "Imperial Claw",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Dire Knuckle",
+      "typeLine": "Velour Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "The Unseen Hue",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 13,
+  "lastCheckedUtc": "2026-06-18T14:26:09.305852Z"
+}

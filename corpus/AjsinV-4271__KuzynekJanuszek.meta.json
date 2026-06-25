@@ -1,0 +1,246 @@
+{
+  "account": "AjsinV-4271",
+  "name": "KuzynekJanuszek",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Pathfinder",
+  "ascendancy": "Pathfinder",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3630,
+    "energyShield": 1248,
+    "mana": 917,
+    "ward": 0,
+    "movementSpeed": 242,
+    "lifeRegen": 2746,
+    "evasionRating": 33868,
+    "armour": 304,
+    "strength": 155,
+    "dexterity": 174,
+    "intelligence": 197,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 70809,
+    "physicalMaximumHitTaken": 13738,
+    "fireMaximumHitTaken": 49681,
+    "coldMaximumHitTaken": 59932,
+    "lightningMaximumHitTaken": 49681,
+    "chaosMaximumHitTaken": 23714,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 27,
+    "fireResistanceMax": 75,
+    "coldResistance": 82,
+    "coldResistanceOverCap": 12,
+    "coldResistanceMax": 82,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 7,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 60,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 35,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 21,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 803,
+    "evadeChance": 95,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 6,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 10,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 13738
+  },
+  "keyStones": [
+    {
+      "name": "Perfect Agony",
+      "icon": "Art/2DArt/SkillIcons/passives/CritAilments.webp",
+      "stats": [
+        "Damage over Time Multiplier for Ailments is equal to Critical Strike Multiplier\nCritical Strikes do not deal extra Damage\nNon-Critical Strikes cannot inflict Ailments"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 101,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Viper Strike of the Mamba",
+        "Melee Physical Damage Support",
+        "Cruelty Support",
+        "Swift Affliction Support",
+        "Deadly Ailments Support",
+        "Added Chaos Damage Support",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Whirling Blades",
+        "Brutality Support",
+        "Faster Attacks Support",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Steelskin",
+        "Lifetap Support",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Despair"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Autoexertion",
+        "Battlemage's Cry",
+        "Alchemist's Mark"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Withering Step",
+        "Enhance Support",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Grace",
+        "Petrified Blood"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Viper Strike of the Mamba",
+    "Melee Physical Damage Support",
+    "Cruelty Support",
+    "Swift Affliction Support",
+    "Deadly Ailments Support",
+    "Added Chaos Damage Support",
+    "Increased Critical Strikes Support",
+    "Whirling Blades",
+    "Brutality Support",
+    "Faster Attacks Support",
+    "Momentum Support",
+    "Steelskin",
+    "Lifetap Support",
+    "Automation",
+    "Despair",
+    "Autoexertion",
+    "Battlemage's Cry",
+    "Alchemist's Mark",
+    "Frostblink",
+    "Withering Step",
+    "Enhance Support",
+    "More Duration Support",
+    "Grace",
+    "Petrified Blood"
+  ],
+  "items": [
+    {
+      "name": "Wrath Goad",
+      "typeLine": "Harpyskin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Beast Gyre",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Brood Pelt",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Defiance of Destiny",
+      "typeLine": "Paua Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Corpse Visor",
+      "typeLine": "Jester Mask",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "",
+      "typeLine": "Discharging Recurve Bow of Staggering",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Dusk Grasp",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Apocalypse Bane",
+      "typeLine": "Pneumatic Dagger",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Tides of Time",
+      "typeLine": "Vanguard Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Kraken Touch",
+      "typeLine": "Velour Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Bino's Kitchen Knife",
+      "typeLine": "Slaughter Knife",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    }
+  ],
+  "jewelsCount": 17,
+  "lastCheckedUtc": "2026-06-21T06:29:21.554687Z"
+}

@@ -1,0 +1,250 @@
+{
+  "account": "Boom-5379",
+  "name": "WardingOffFemaleAttenti",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Olroth Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2464,
+    "energyShield": 0,
+    "mana": 777,
+    "ward": 36514,
+    "movementSpeed": 208,
+    "lifeRegen": 46,
+    "evasionRating": 3233,
+    "armour": 3324,
+    "strength": 187,
+    "dexterity": 208,
+    "intelligence": 120,
+    "enduranceCharges": 3,
+    "frenzyCharges": 5,
+    "powerCharges": 4,
+    "effectiveHealthPool": 156530,
+    "physicalMaximumHitTaken": 61166,
+    "fireMaximumHitTaken": 192579,
+    "coldMaximumHitTaken": 158190,
+    "lightningMaximumHitTaken": 152735,
+    "chaosMaximumHitTaken": 155912,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 52,
+    "fireResistanceMax": 80,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 36,
+    "coldResistanceMax": 75,
+    "lightningResistance": 74,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 78,
+    "spellBlockChance": 84,
+    "spellSuppressionChance": 32,
+    "spellDodgeChance": 0,
+    "itemRarity": 30,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 614,
+    "evadeChance": 90,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 484,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 61166
+  },
+  "keyStones": [
+    {
+      "name": "Lethe Shade",
+      "icon": "Art/2DArt/SkillIcons/passives/MomentofRespite.webp",
+      "stats": [
+        "Take 50% less Damage over Time if you've started taking Damage over Time in the past second\n100% more Duration of Ailments on you"
+      ]
+    },
+    {
+      "name": "Black Scythe Training",
+      "icon": "Art/2DArt/SkillIcons/passives/KalguuranDexKeystone.webp",
+      "stats": [
+        "Removes all Energy Shield",
+        "Chance to Evade Hits is based off of 200% of your Ward instead of your Evasion Rating",
+        "Physical Damage Reduction from Hits is based off of 200% of your Ward instead of your Armour"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 117,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Cobra Lash",
+        "Nightblade Support",
+        "Cruelty Support",
+        "Void Manipulation Support",
+        "Less Duration Support",
+        "Greater Chain Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Elements",
+        "Enlighten Support",
+        "Precision",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Sniper's Mark",
+        "Mark On Hit Support",
+        "Blood Rage",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Clarity",
+        "Automation",
+        "Steelskin"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Whirling Blades",
+        "Rage Support",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Portal",
+        "Cast on Death Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Despair"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Cobra Lash",
+    "Nightblade Support",
+    "Cruelty Support",
+    "Void Manipulation Support",
+    "Less Duration Support",
+    "Greater Chain Support",
+    "Power Charge On Critical Support",
+    "Purity of Elements",
+    "Enlighten Support",
+    "Precision",
+    "Tempest Shield",
+    "Sniper's Mark",
+    "Mark On Hit Support",
+    "Blood Rage",
+    "Frostblink",
+    "Clarity",
+    "Automation",
+    "Steelskin",
+    "Whirling Blades",
+    "Rage Support",
+    "Faster Attacks Support",
+    "Portal",
+    "Cast on Death Support",
+    "Despair"
+  ],
+  "items": [
+    {
+      "name": "Foulborn Le Heup of All",
+      "typeLine": "Iron Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Ynda's Stand",
+      "typeLine": "Studded Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Vengeance Guardian",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Gloom Urge",
+      "typeLine": "Runic Sabatons",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Nightgrip",
+      "typeLine": "Runic Gages",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Foulborn Le Heup of All",
+      "typeLine": "Iron Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Pain Edge",
+      "typeLine": "Boot Knife",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Hypnotic Song",
+      "typeLine": "Ambusher",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Faithguard",
+      "typeLine": "Runic Helm",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Rapture Needle",
+      "typeLine": "Flaying Knife",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Ashes of the Stars",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-19T01:57:49.918358Z"
+}

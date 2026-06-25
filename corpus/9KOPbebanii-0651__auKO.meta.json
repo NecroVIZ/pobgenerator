@@ -1,0 +1,278 @@
+{
+  "account": "9KOPbebanii-0651",
+  "name": "auKO",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Ascendant",
+  "ascendancy": "Ascendant",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 6649,
+    "mana": 1015,
+    "ward": 0,
+    "movementSpeed": 131,
+    "lifeRegen": 0,
+    "evasionRating": 0,
+    "armour": 201445,
+    "strength": 179,
+    "dexterity": 183,
+    "intelligence": 306,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 73325,
+    "physicalMaximumHitTaken": 20027,
+    "fireMaximumHitTaken": 35000,
+    "coldMaximumHitTaken": 51154,
+    "lightningMaximumHitTaken": 44333,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 84,
+    "fireResistanceOverCap": 71,
+    "fireResistanceMax": 0,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 43,
+    "coldResistanceMax": 0,
+    "lightningResistance": 88,
+    "lightningResistanceOverCap": 54,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 48,
+    "spellBlockChance": 44,
+    "spellSuppressionChance": 69,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 20027
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Ancestral Bond",
+      "icon": "Art/2DArt/SkillIcons/passives/totemmax.webp",
+      "stats": [
+        "You can't deal Damage with Skills yourself\n+1 to maximum number of Summoned Totems"
+      ]
+    },
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Glancing Blows",
+      "icon": "Art/2DArt/SkillIcons/passives/GlancingBlows.webp",
+      "stats": [
+        "Chance to Block Attack Damage is doubled\nChance to Block Spell Damage is doubled\nYou take 65% of Damage from Blocked Hits"
+      ]
+    },
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Iron Reflexes",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
+      "stats": [
+        "Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 117,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Anger",
+        "Empower Support",
+        "Precision",
+        "Enlighten Support",
+        "Vaal Haste",
+        "Vaal Discipline"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Vaal Smite",
+        "Empower Support",
+        "Generosity Support",
+        "Wrath",
+        "Divine Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Determination",
+        "Grace",
+        "Empower Support",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Lightning",
+        "Enlighten Support",
+        "Purity of Fire",
+        "Purity of Ice"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frost Shield",
+        "Increased Area of Effect Support",
+        "Vaal Cyclone"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vitality",
+        "Flame Dash"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Anger",
+    "Empower Support",
+    "Precision",
+    "Enlighten Support",
+    "Vaal Haste",
+    "Vaal Discipline",
+    "Vaal Smite",
+    "Empower Support",
+    "Generosity Support",
+    "Wrath",
+    "Divine Blessing Support",
+    "Determination",
+    "Grace",
+    "Empower Support",
+    "Enlighten Support",
+    "Purity of Lightning",
+    "Enlighten Support",
+    "Purity of Fire",
+    "Purity of Ice",
+    "Frost Shield",
+    "Increased Area of Effect Support",
+    "Vaal Cyclone",
+    "Vitality",
+    "Flame Dash"
+  ],
+  "items": [
+    {
+      "name": "The Dark Seer",
+      "typeLine": "Shadow Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "String of Servitude",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Damnation Hide",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Agony Gyre",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Rage Glance",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Whispers of Infinity",
+      "typeLine": "Seaglass Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Apocalypse Caress",
+      "typeLine": "Sorcerer Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Matua Tupuna",
+      "typeLine": "Tarnished Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Empyrean Coil",
+      "typeLine": "Unset Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Corpse Edge",
+      "typeLine": "Legion Sword",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Golem Sever",
+      "typeLine": "Legion Sword",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "March of the Legion",
+      "typeLine": "Legion Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-22T03:52:39.668833Z"
+}

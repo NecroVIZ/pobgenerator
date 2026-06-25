@@ -1,0 +1,256 @@
+{
+  "account": "Argons1-7398",
+  "name": "Alty_Sparkle",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Oshabi Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4779,
+    "energyShield": 718,
+    "mana": 634,
+    "ward": 0,
+    "movementSpeed": 322,
+    "lifeRegen": 518,
+    "evasionRating": 0,
+    "armour": 24265,
+    "strength": 0,
+    "dexterity": 99,
+    "intelligence": 53,
+    "enduranceCharges": 3,
+    "frenzyCharges": 5,
+    "powerCharges": 4,
+    "effectiveHealthPool": 38574,
+    "physicalMaximumHitTaken": 12067,
+    "fireMaximumHitTaken": 28782,
+    "coldMaximumHitTaken": 33783,
+    "lightningMaximumHitTaken": 28782,
+    "chaosMaximumHitTaken": 16532,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 23,
+    "fireResistanceMax": 75,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 47,
+    "coldResistanceMax": 80,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 69,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 53,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 52,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 30,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 156,
+    "manaReserved": 591,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 11,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 12067
+  },
+  "keyStones": [
+    {
+      "name": "Iron Reflexes",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
+      "stats": [
+        "Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating"
+      ]
+    },
+    {
+      "name": "Point Blank",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePointBlankArcher.webp",
+      "stats": [
+        "Projectile Attack Hits deal up to 30% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    },
+    {
+      "name": "Glancing Blows",
+      "icon": "Art/2DArt/SkillIcons/passives/GlancingBlows.webp",
+      "stats": [
+        "Chance to Block Attack Damage is doubled\nChance to Block Spell Damage is doubled\nYou take 65% of Damage from Blocked Hits"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 113,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Flesh and Stone",
+        "Eclipse Support",
+        "Awakened Enlighten Support",
+        "Petrified Blood",
+        "Herald of Purity",
+        "Hatred"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Spectral Shield Throw",
+        "Invert the Rules Support",
+        "Greater Fork Support",
+        "Vicious Projectiles Support",
+        "Hypothermia Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Blood Rage",
+        "Mark On Hit Support",
+        "Sniper's Mark",
+        "Awakened Enhance Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Molten Shell",
+        "Cast when Damage Taken Support",
+        "Transfusion Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Precision",
+        "Enlighten Support",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Flame Dash",
+        "Fortify Support",
+        "Shield Charge"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Flesh and Stone",
+    "Eclipse Support",
+    "Awakened Enlighten Support",
+    "Petrified Blood",
+    "Herald of Purity",
+    "Hatred",
+    "Spectral Shield Throw",
+    "Invert the Rules Support",
+    "Greater Fork Support",
+    "Vicious Projectiles Support",
+    "Hypothermia Support",
+    "Lifetap Support",
+    "Blood Rage",
+    "Mark On Hit Support",
+    "Sniper's Mark",
+    "Awakened Enhance Support",
+    "Lifetap Support",
+    "Molten Shell",
+    "Cast when Damage Taken Support",
+    "Transfusion Support",
+    "Precision",
+    "Enlighten Support",
+    "Arrogance Support",
+    "Flame Dash",
+    "Fortify Support",
+    "Shield Charge"
+  ],
+  "items": [
+    {
+      "name": "Foulborn Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Plague Sole",
+      "typeLine": "Wyvernscale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn Emperor's Vigilance",
+      "typeLine": "Steel Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Grace of the Goddess",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Brood Coil",
+      "typeLine": "Gloam Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Corpse Jack",
+      "typeLine": "Syndicate's Garb",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Onslaught Visor",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Miracle Hand",
+      "typeLine": "Harpyskin Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "The Princess",
+      "typeLine": "Sabre",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Defiance of Destiny",
+      "typeLine": "Paua Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-25T09:42:21.48056Z"
+}

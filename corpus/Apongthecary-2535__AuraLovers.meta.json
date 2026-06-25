@@ -1,0 +1,251 @@
+{
+  "account": "Apongthecary-2535",
+  "name": "AuraLovers",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3513,
+    "energyShield": 2023,
+    "mana": 1377,
+    "ward": 0,
+    "movementSpeed": 222,
+    "lifeRegen": 735,
+    "evasionRating": 773,
+    "armour": 11960,
+    "strength": 237,
+    "dexterity": 153,
+    "intelligence": 272,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 101911,
+    "physicalMaximumHitTaken": 7751,
+    "fireMaximumHitTaken": 28281,
+    "coldMaximumHitTaken": 27271,
+    "lightningMaximumHitTaken": 27271,
+    "chaosMaximumHitTaken": 14052,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 67,
+    "fireResistanceMax": 76,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 72,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 57,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 21,
+    "chaosResistanceMax": 75,
+    "blockChance": 75,
+    "spellBlockChance": 72,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 150,
+    "lifeReserved": 0,
+    "manaReserved": 1230,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 69,
+        "max": 90,
+        "effectiveAppliedArmour": 11960,
+        "base": 5,
+        "takenDamage": 1364
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 7751
+  },
+  "keyStones": [
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 118,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Corrupting Fever",
+        "Efficacy Support",
+        "Brutality Support",
+        "Swift Affliction Support",
+        "Vaal Reap",
+        "Empower Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Kinetic Blast",
+        "Greater Multiple Projectiles Support",
+        "Fork Support",
+        "Returning Projectiles Support",
+        "Culling Strike Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Summon Lightning Golem",
+        "Frostblink",
+        "Summon Carrion Golem of Hordes",
+        "Summon Flame Golem"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Pride",
+        "Summon Stone Golem"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Summon Chaos Golem"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Exsanguinate",
+        "Reap",
+        "Controlled Destruction Support"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Tempest Shield"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Corrupting Fever",
+    "Efficacy Support",
+    "Brutality Support",
+    "Swift Affliction Support",
+    "Vaal Reap",
+    "Empower Support",
+    "Kinetic Blast",
+    "Greater Multiple Projectiles Support",
+    "Fork Support",
+    "Returning Projectiles Support",
+    "Culling Strike Support",
+    "Summon Lightning Golem",
+    "Frostblink",
+    "Summon Carrion Golem of Hordes",
+    "Summon Flame Golem",
+    "Pride",
+    "Summon Stone Golem",
+    "Malevolence",
+    "Summon Chaos Golem",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Momentum Support",
+    "Exsanguinate",
+    "Reap",
+    "Controlled Destruction Support",
+    "Tempest Shield"
+  ],
+  "items": [
+    {
+      "name": "Dragon Medallion",
+      "typeLine": "Onyx Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Kraken Road",
+      "typeLine": "Wyvernscale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Pain Carapace",
+      "typeLine": "Sacred Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Haemophilia",
+      "typeLine": "Serpentscale Gauntlets",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Honour Twirl",
+      "typeLine": "Unset Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Sorrow Song",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Dark Monarch",
+      "typeLine": "Lich's Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Foulborn The Poet's Pen",
+      "typeLine": "Somatic Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Death Rush",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-21T21:46:40.697738Z"
+}

@@ -1,0 +1,269 @@
+{
+  "account": "Lacochone-2424",
+  "name": "WhoSawItTwerking",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 6532,
+    "mana": 923,
+    "ward": 300,
+    "movementSpeed": 255,
+    "lifeRegen": 340,
+    "evasionRating": 30,
+    "armour": 23169,
+    "strength": 46,
+    "dexterity": 71,
+    "intelligence": 61,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 6,
+    "effectiveHealthPool": 299811,
+    "physicalMaximumHitTaken": 14391,
+    "fireMaximumHitTaken": 34764,
+    "coldMaximumHitTaken": 34764,
+    "lightningMaximumHitTaken": 34764,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 28,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 16,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 13,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 84,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 23,
+    "energyShieldRegen": 230,
+    "lifeReserved": 0,
+    "manaReserved": 815,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 11
+    },
+    "lowestMaximumHitTaken": 14391
+  },
+  "keyStones": [
+    {
+      "name": "Runebinder",
+      "icon": "Art/2DArt/SkillIcons/passives/BrandKeystone.webp",
+      "stats": [
+        "-1 to maximum number of Summoned Totems\nYou can have an additional Brand Attached to an Enemy"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 97,
+  "skillGroups": [
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Penance Brand of Dissipation",
+        "Increased Critical Damage Support",
+        "Arcane Surge Support",
+        "Inspiration Support",
+        "Concentrated Effect Support",
+        "Hypothermia Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Hatred",
+        "Awakened Enlighten Support",
+        "Tempest Shield",
+        "Herald of Ash",
+        "Herald of Ice",
+        "Herald of Thunder"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Lightning Golem",
+        "Awakened Enhance Support",
+        "Summon Stone Golem",
+        "Summon Flame Golem"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Elemental Weakness",
+        "Wave of Conviction",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Vaal Molten Shell"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Zealotry",
+        "Summon Ice Golem",
+        "Guardian's Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Herald of Agony",
+        "Flame Dash",
+        "Herald of Purity"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Penance Brand of Dissipation",
+    "Increased Critical Damage Support",
+    "Arcane Surge Support",
+    "Inspiration Support",
+    "Concentrated Effect Support",
+    "Hypothermia Support",
+    "Power Charge On Critical Support",
+    "Hatred",
+    "Awakened Enlighten Support",
+    "Tempest Shield",
+    "Herald of Ash",
+    "Herald of Ice",
+    "Herald of Thunder",
+    "Summon Lightning Golem",
+    "Awakened Enhance Support",
+    "Summon Stone Golem",
+    "Summon Flame Golem",
+    "Elemental Weakness",
+    "Wave of Conviction",
+    "Inspiration Support",
+    "Vaal Molten Shell",
+    "Zealotry",
+    "Summon Ice Golem",
+    "Guardian's Blessing Support",
+    "Herald of Agony",
+    "Flame Dash",
+    "Herald of Purity",
+    "Herald of the Hive"
+  ],
+  "items": [
+    {
+      "name": "Armageddon Charm",
+      "typeLine": "Profane Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "",
+      "typeLine": "Thicket Bow of Craft",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Morbid Track",
+      "typeLine": "Paladin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Foe Claw",
+      "typeLine": "Paladin Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Armageddon Guardian",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Hate Charm",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Miracle Circle",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Miracle Salvation",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    }
+  ],
+  "jewelsCount": 18,
+  "lastCheckedUtc": "2026-06-18T20:35:39.406804Z"
+}

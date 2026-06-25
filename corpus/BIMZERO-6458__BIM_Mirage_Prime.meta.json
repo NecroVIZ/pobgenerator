@@ -1,0 +1,287 @@
+{
+  "account": "BIMZERO-6458",
+  "name": "BIM_Mirage_Prime",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Pathfinder",
+  "ascendancy": "Pathfinder",
+  "secondaryAscendancy": "Olroth Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5137,
+    "energyShield": 1804,
+    "mana": 885,
+    "ward": 0,
+    "movementSpeed": 343,
+    "lifeRegen": 518,
+    "evasionRating": 7626,
+    "armour": 0,
+    "strength": 142,
+    "dexterity": 151,
+    "intelligence": 152,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 66564,
+    "physicalMaximumHitTaken": 19528,
+    "fireMaximumHitTaken": 90207,
+    "coldMaximumHitTaken": 90207,
+    "lightningMaximumHitTaken": 90207,
+    "chaosMaximumHitTaken": 76089,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 51,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 26,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 74,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 1,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 840,
+    "evadeChance": 47,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 93,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 7,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 19528
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Decadence",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeDecadence.webp",
+      "stats": [
+        "Life Recovery from Flasks also applies to Energy Shield",
+        "30% less Life Recovery from Flasks"
+      ]
+    },
+    {
+      "name": "Corrupted Soul",
+      "icon": "Art/2DArt/SkillIcons/passives/CorruptedDefences.webp",
+      "stats": [
+        "50% of Non-Chaos Damage taken bypasses Energy Shield",
+        "Gain 15% of Maximum Life as Extra Maximum Energy Shield"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Toxic Rain",
+        "Empower Support",
+        "Vicious Projectiles Support",
+        "Efficacy Support",
+        "Void Manipulation Support",
+        "Mirage Archer Support",
+        "Unhinge",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Determination",
+        "Determination",
+        "Determination",
+        "Determination",
+        "Determination",
+        "Determination"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Rain of Arrows of Saturation",
+        "Frenzy",
+        "Manaforged Arrows Support",
+        "Toxic Rain of Withering",
+        "Culling Strike Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Phase Run"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Haste",
+        "Enlighten Support",
+        "Malevolence",
+        "Purity of Lightning"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Immortal Call",
+        "More Duration Support",
+        "Automation",
+        "Vaal Grace"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Despair",
+        "Clarity"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Petrified Blood"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Determination",
+        "Determination",
+        "Determination"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Toxic Rain",
+    "Empower Support",
+    "Vicious Projectiles Support",
+    "Efficacy Support",
+    "Void Manipulation Support",
+    "Mirage Archer Support",
+    "Unhinge",
+    "More Duration Support",
+    "Determination",
+    "Determination",
+    "Determination",
+    "Determination",
+    "Determination",
+    "Determination",
+    "Rain of Arrows of Saturation",
+    "Frenzy",
+    "Manaforged Arrows Support",
+    "Toxic Rain of Withering",
+    "Culling Strike Support",
+    "Phase Run",
+    "Haste",
+    "Enlighten Support",
+    "Malevolence",
+    "Purity of Lightning",
+    "Immortal Call",
+    "More Duration Support",
+    "Automation",
+    "Vaal Grace",
+    "Despair",
+    "Clarity",
+    "Petrified Blood",
+    "Flame Dash",
+    "Determination",
+    "Determination",
+    "Determination"
+  ],
+  "items": [
+    {
+      "name": "Doppelgänger Guise",
+      "typeLine": "Sadist Garb",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Wrath League",
+      "typeLine": "Harpyskin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Soul Corona",
+      "typeLine": "Torturer's Mask",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Rapture Knot",
+      "typeLine": "Sapphire Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Replica Soul Tether",
+      "typeLine": "Cloth Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Brimstone Grip",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Grim Fingers",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Hate Hail",
+      "typeLine": "Broadhead Arrow Quiver",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-19T23:42:18.515718Z"
+}

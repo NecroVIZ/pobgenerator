@@ -1,0 +1,254 @@
+{
+  "account": "Brainwar-1546",
+  "name": "Brainㆍ",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Chieftain",
+  "ascendancy": "Chieftain",
+  "secondaryAscendancy": "Breachlord Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 5433,
+    "energyShield": 109,
+    "mana": 787,
+    "ward": 0,
+    "movementSpeed": 194,
+    "lifeRegen": 2085,
+    "evasionRating": 365,
+    "armour": 20088,
+    "strength": 374,
+    "dexterity": 124,
+    "intelligence": 140,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 119551,
+    "physicalMaximumHitTaken": 20212,
+    "fireMaximumHitTaken": 72604,
+    "coldMaximumHitTaken": 72613,
+    "lightningMaximumHitTaken": 72616,
+    "chaosMaximumHitTaken": 20672,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 125,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 76,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 61,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 64,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 63,
+    "spellBlockChance": 37,
+    "spellSuppressionChance": 10,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 742,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 80,
+      "lightning": 0,
+      "fire": 20,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 20212
+  },
+  "keyStones": [
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Righteous Fire",
+        "Swift Affliction Support",
+        "Lifetap Support",
+        "Elemental Focus Support",
+        "Burning Damage Support",
+        "Efficacy Support",
+        "Concentrated Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Fire Trap",
+        "Swift Affliction Support",
+        "Trap and Mine Damage Support",
+        "Lifetap Support",
+        "Burning Damage Support",
+        "Concentrated Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Punishment",
+        "Lifetap Support",
+        "Enduring Cry",
+        "Blood Rage",
+        "Approaching Flames"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink",
+        "Faster Attacks Support",
+        "Lifetap Support",
+        "Shield Charge"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vaal Molten Shell",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Summon Skitterbots",
+        "Purity of Fire"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Malevolence"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Righteous Fire",
+    "Swift Affliction Support",
+    "Lifetap Support",
+    "Elemental Focus Support",
+    "Burning Damage Support",
+    "Efficacy Support",
+    "Concentrated Effect Support",
+    "Fire Trap",
+    "Swift Affliction Support",
+    "Trap and Mine Damage Support",
+    "Lifetap Support",
+    "Burning Damage Support",
+    "Concentrated Effect Support",
+    "Punishment",
+    "Lifetap Support",
+    "Enduring Cry",
+    "Blood Rage",
+    "Approaching Flames",
+    "Frostblink",
+    "Faster Attacks Support",
+    "Lifetap Support",
+    "Shield Charge",
+    "Vaal Molten Shell",
+    "Cast when Damage Taken Support",
+    "Tempest Shield",
+    "Summon Skitterbots",
+    "Purity of Fire",
+    "Malevolence"
+  ],
+  "items": [
+    {
+      "name": "Morbid Horn",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Corpse Suit",
+      "typeLine": "Legion Plate",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "",
+      "typeLine": "Bronze Sceptre",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "",
+      "typeLine": "Fir Round Shield",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Wrath Eye",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Empyrean Turn",
+      "typeLine": "Cogwork Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Agony Lash",
+      "typeLine": "Leather Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Dawnbreaker",
+      "typeLine": "Colossal Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Gale Idol",
+      "typeLine": "Citrine Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Annihilation's Approach",
+      "typeLine": "Dragonscale Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Gale Palm",
+      "typeLine": "Ancient Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 7,
+  "lastCheckedUtc": "2026-06-22T22:08:18.98397Z"
+}

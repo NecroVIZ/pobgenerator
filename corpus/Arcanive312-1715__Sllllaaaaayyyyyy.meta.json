@@ -1,0 +1,235 @@
+{
+  "account": "Arcanive312-1715",
+  "name": "Sllllaaaaayyyyyy",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Slayer",
+  "ascendancy": "Slayer",
+  "secondaryAscendancy": "Saresh Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5625,
+    "energyShield": 96,
+    "mana": 790,
+    "ward": 0,
+    "movementSpeed": 150,
+    "lifeRegen": 702,
+    "evasionRating": 687,
+    "armour": 17671,
+    "strength": 299,
+    "dexterity": 178,
+    "intelligence": 156,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 79409,
+    "physicalMaximumHitTaken": 12778,
+    "fireMaximumHitTaken": 35139,
+    "coldMaximumHitTaken": 33884,
+    "lightningMaximumHitTaken": 33884,
+    "chaosMaximumHitTaken": 13519,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 26,
+    "fireResistanceMax": 76,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 45,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 24,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 31,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 65,
+    "spellBlockChance": 65,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 714,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 94,
+      "lightning": 0,
+      "fire": 6,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 12778
+  },
+  "keyStones": [
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    },
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 122,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Ground Slam of Earthshaking",
+        "General's Cry",
+        "Autoexertion",
+        "Melee Physical Damage Support",
+        "Pulverise Support",
+        "Brutality Support",
+        "Volatility Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Cyclone of Tumult",
+        "Infused Channelling Support",
+        "Pulverise Support",
+        "Brutality Support",
+        "Melee Physical Damage Support",
+        "Void Shockwave",
+        "Impale Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Pride",
+        "Steelskin",
+        "Automation",
+        "Blood Rage"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Desecrate",
+        "Frostblink",
+        "Leap Slam",
+        "Blood and Sand"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Assassin's Mark",
+        "Mark On Hit Support",
+        "Transfusion Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Precision"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Ground Slam of Earthshaking",
+    "General's Cry",
+    "Autoexertion",
+    "Melee Physical Damage Support",
+    "Pulverise Support",
+    "Brutality Support",
+    "Volatility Support",
+    "Cyclone of Tumult",
+    "Infused Channelling Support",
+    "Pulverise Support",
+    "Brutality Support",
+    "Melee Physical Damage Support",
+    "Void Shockwave",
+    "Impale Support",
+    "Pride",
+    "Steelskin",
+    "Automation",
+    "Blood Rage",
+    "Desecrate",
+    "Frostblink",
+    "Leap Slam",
+    "Blood and Sand",
+    "Assassin's Mark",
+    "Mark On Hit Support",
+    "Transfusion Support",
+    "Precision"
+  ],
+  "items": [
+    {
+      "name": "Carrion Nock",
+      "typeLine": "Highborn Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Rage Song",
+      "typeLine": "Judgement Staff",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Pain Locket",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Stampede",
+      "typeLine": "Assassin's Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Beast Grasp",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Dire Hand",
+      "typeLine": "Titan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Rift Loop",
+      "typeLine": "Coral Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Viper Brow",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Dragon Keep",
+      "typeLine": "Royal Plate",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Corruption Braid",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-19T02:31:30.005152Z"
+}

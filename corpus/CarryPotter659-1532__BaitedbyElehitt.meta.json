@@ -1,0 +1,238 @@
+{
+  "account": "CarryPotter659-1532",
+  "name": "BaitedbyElehitt",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Slayer",
+  "ascendancy": "Slayer",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 5117,
+    "energyShield": 0,
+    "mana": 793,
+    "ward": 0,
+    "movementSpeed": 215,
+    "lifeRegen": 286,
+    "evasionRating": 17830,
+    "armour": 1769,
+    "strength": 173,
+    "dexterity": 172,
+    "intelligence": 105,
+    "enduranceCharges": 8,
+    "frenzyCharges": 8,
+    "powerCharges": 3,
+    "effectiveHealthPool": 73389,
+    "physicalMaximumHitTaken": 15972,
+    "fireMaximumHitTaken": 54342,
+    "coldMaximumHitTaken": 54342,
+    "lightningMaximumHitTaken": 54342,
+    "chaosMaximumHitTaken": 35767,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 69,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 36,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 59,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 73,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 29,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 95,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 703,
+    "evadeChance": 76,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 8,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 93,
+      "lightning": 7,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 15972
+  },
+  "keyStones": [],
+  "masteriesCount": 8,
+  "passiveCount": 112,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Elemental Hit",
+        "Empower Support",
+        "Trinity Support",
+        "Increased Critical Strikes Support",
+        "Multistrike Support",
+        "Increased Critical Damage Support",
+        "Elemental Damage with Attacks Support",
+        "Endurance Charge on Melee Stun Support",
+        "Greater Ancestral Call Support",
+        "Item Rarity Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Flesh and Stone",
+        "Grace",
+        "Enlighten Support",
+        "Precision",
+        "Arctic Armour",
+        "Blood and Sand"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Blood Rage",
+        "Mark On Hit Support",
+        "Assassin's Mark",
+        "Enhance Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Steelskin",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Enduring Cry",
+        "Urgent Orders Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Frostblink",
+        "Lifetap Support",
+        "Whirling Blades"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Elemental Hit",
+    "Empower Support",
+    "Trinity Support",
+    "Increased Critical Strikes Support",
+    "Multistrike Support",
+    "Increased Critical Damage Support",
+    "Elemental Damage with Attacks Support",
+    "Endurance Charge on Melee Stun Support",
+    "Greater Ancestral Call Support",
+    "Item Rarity Support",
+    "Lifetap Support",
+    "Flesh and Stone",
+    "Grace",
+    "Enlighten Support",
+    "Precision",
+    "Arctic Armour",
+    "Blood and Sand",
+    "Blood Rage",
+    "Mark On Hit Support",
+    "Assassin's Mark",
+    "Enhance Support",
+    "Lifetap Support",
+    "Steelskin",
+    "Cast when Damage Taken Support",
+    "Enduring Cry",
+    "Urgent Orders Support",
+    "Frostblink",
+    "Lifetap Support",
+    "Whirling Blades"
+  ],
+  "items": [
+    {
+      "name": "Gale Fingers",
+      "typeLine": "Velour Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Death Dash",
+      "typeLine": "Harpyskin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Squire",
+      "typeLine": "Elegant Round Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Unseen Hue",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Dragon Charm",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "",
+      "typeLine": "Upgraded Crude Bow",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Rift Brow",
+      "typeLine": "Dire Pelt",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Skull Scratch",
+      "typeLine": "Imperial Claw",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Maelström Jack",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-18T11:21:34.406558Z"
+}

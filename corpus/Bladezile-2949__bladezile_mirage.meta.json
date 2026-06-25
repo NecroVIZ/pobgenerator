@@ -1,0 +1,262 @@
+{
+  "account": "Bladezile-2949",
+  "name": "bladezile_mirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Olroth Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1598,
+    "energyShield": 0,
+    "mana": 958,
+    "ward": 45334,
+    "movementSpeed": 238,
+    "lifeRegen": 55,
+    "evasionRating": 7494,
+    "armour": 1660,
+    "strength": 200,
+    "dexterity": 224,
+    "intelligence": 195,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 4,
+    "effectiveHealthPool": 29586,
+    "physicalMaximumHitTaken": 66500,
+    "fireMaximumHitTaken": 167614,
+    "coldMaximumHitTaken": 167614,
+    "lightningMaximumHitTaken": 167614,
+    "chaosMaximumHitTaken": 109144,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 9,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 11,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 57,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 719,
+    "evadeChance": 91,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 90668,
+        "base": 8,
+        "takenDamage": 2259
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 66500
+  },
+  "keyStones": [
+    {
+      "name": "Black Scythe Training",
+      "icon": "Art/2DArt/SkillIcons/passives/KalguuranDexKeystone.webp",
+      "stats": [
+        "Removes all Energy Shield",
+        "Chance to Evade Hits is based off of 200% of your Ward instead of your Evasion Rating",
+        "Physical Damage Reduction from Hits is based off of 200% of your Ward instead of your Armour"
+      ]
+    }
+  ],
+  "masteriesCount": 1,
+  "passiveCount": 106,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Exsanguinate",
+        "Chain Support",
+        "Cast on Ward Break Support",
+        "Awakened Empower Support",
+        "Hypothermia Support",
+        "Increased Critical Damage Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink",
+        "Hatred",
+        "Herald of Ash",
+        "Righteous Fire",
+        "Bonechill Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Phase Run",
+        "Less Duration Support",
+        "Cast on Ward Break Support",
+        "Summon Skeletons",
+        "Swift Affliction Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Raise Spectre",
+        "Minion Life Support",
+        "Animate Guardian",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Immortal Call",
+        "Convocation",
+        "Cast on Ward Break Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Summon Stone Golem",
+        "Cast when Damage Taken Support",
+        "Assassin's Mark",
+        "Inspiration Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Exsanguinate",
+    "Chain Support",
+    "Cast on Ward Break Support",
+    "Awakened Empower Support",
+    "Hypothermia Support",
+    "Increased Critical Damage Support",
+    "Power Charge On Critical Support",
+    "Frostblink",
+    "Hatred",
+    "Herald of Ash",
+    "Righteous Fire",
+    "Bonechill Support",
+    "Phase Run",
+    "Less Duration Support",
+    "Cast on Ward Break Support",
+    "Summon Skeletons",
+    "Swift Affliction Support",
+    "Raise Spectre",
+    "Minion Life Support",
+    "Animate Guardian",
+    "Meat Shield Support",
+    "Immortal Call",
+    "Convocation",
+    "Cast on Ward Break Support",
+    "Lifetap Support",
+    "Summon Stone Golem",
+    "Cast when Damage Taken Support",
+    "Assassin's Mark",
+    "Inspiration Support"
+  ],
+  "items": [
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Blood Fist",
+      "typeLine": "Velour Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Wrath Ward",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Beast Shell",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Plague Coil",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Golem Torc",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Foulborn Heartbound Loop",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Corruption Bane",
+      "typeLine": "Decimation Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Ynda's Stand",
+      "typeLine": "Studded Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Honour March",
+      "typeLine": "Runic Sabatons",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Divinarius",
+      "typeLine": "Imperial Skean",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Vengeance Edge",
+      "typeLine": "Thorn Rapier",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Faithguard",
+      "typeLine": "Runic Helm",
+      "frameType": 10,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 20,
+  "lastCheckedUtc": "2026-06-25T08:52:22.464664Z"
+}

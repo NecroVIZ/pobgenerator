@@ -1,0 +1,238 @@
+{
+  "account": "AwwYissBuDdi-4834",
+  "name": "Carry_Maus",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Inquisitor",
+  "ascendancy": "Inquisitor",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 16088,
+    "energyShield": 8849,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 269,
+    "lifeRegen": 7920,
+    "evasionRating": 19,
+    "armour": 2411,
+    "strength": 362,
+    "dexterity": 142,
+    "intelligence": 223,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 82624,
+    "physicalMaximumHitTaken": 21975,
+    "fireMaximumHitTaken": 165415,
+    "coldMaximumHitTaken": 126494,
+    "lightningMaximumHitTaken": 126494,
+    "chaosMaximumHitTaken": 50620,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 81,
+    "fireResistanceMax": 90,
+    "coldResistance": 86,
+    "coldResistanceOverCap": 30,
+    "coldResistanceMax": 86,
+    "lightningResistance": 86,
+    "lightningResistanceOverCap": 21,
+    "lightningResistanceMax": 86,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 3,
+    "chaosResistanceMax": 75,
+    "blockChance": 25,
+    "spellBlockChance": 12,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 7920,
+    "lifeReserved": 8495,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 21975
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 129,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Arc of Oscillating",
+        "Greater Chain Support",
+        "Spellblade Support",
+        "Arcane Surge Support",
+        "Greater Spell Echo Support",
+        "Increased Critical Damage Support",
+        "Lightning Penetration Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Automation",
+        "Convocation",
+        "Conductivity",
+        "Concentrated Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Raise Spectre",
+        "Meat Shield Support",
+        "Companionship Support",
+        "Minion Life Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Arctic Armour",
+        "Enlighten Support",
+        "Petrified Blood"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Energy Blade",
+        "Righteous Fire",
+        "Empower Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Zealotry",
+        "Eternal Blessing Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Arc of Oscillating",
+    "Greater Chain Support",
+    "Spellblade Support",
+    "Arcane Surge Support",
+    "Greater Spell Echo Support",
+    "Increased Critical Damage Support",
+    "Lightning Penetration Support",
+    "Frostblink of Wintry Blast",
+    "Automation",
+    "Convocation",
+    "Conductivity",
+    "Concentrated Effect Support",
+    "Raise Spectre",
+    "Meat Shield Support",
+    "Companionship Support",
+    "Minion Life Support",
+    "Arctic Armour",
+    "Enlighten Support",
+    "Petrified Blood",
+    "Energy Blade",
+    "Righteous Fire",
+    "Empower Support",
+    "Zealotry",
+    "Eternal Blessing Support"
+  ],
+  "items": [
+    {
+      "name": "Rathpith Globe",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Behemoth Gorget",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Torment Fist",
+      "typeLine": "Titan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Rift Spark",
+      "typeLine": "Legion Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Wrath Grasp",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Foulborn Ghostwrithe",
+      "typeLine": "Silken Vest",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "",
+      "typeLine": "Energy Blade",
+      "frameType": 0,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Damnation Salvation",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-23T04:17:34.750231Z"
+}

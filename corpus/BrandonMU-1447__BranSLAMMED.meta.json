@@ -1,0 +1,294 @@
+{
+  "account": "BrandonMU-1447",
+  "name": "BranSLAMMED",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Berserker",
+  "ascendancy": "Berserker",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 10894,
+    "energyShield": 4685,
+    "mana": 873,
+    "ward": 0,
+    "movementSpeed": 203,
+    "lifeRegen": 172,
+    "evasionRating": 84,
+    "armour": 7093,
+    "strength": 254,
+    "dexterity": 113,
+    "intelligence": 224,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 330046,
+    "physicalMaximumHitTaken": 28600,
+    "fireMaximumHitTaken": 111764,
+    "coldMaximumHitTaken": 87815,
+    "lightningMaximumHitTaken": 87815,
+    "chaosMaximumHitTaken": 55020,
+    "fireResistance": 81,
+    "fireResistanceOverCap": 83,
+    "fireResistanceMax": 81,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 50,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 29,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 1,
+    "chaosResistanceMax": 75,
+    "blockChance": 75,
+    "spellBlockChance": 76,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": -235,
+    "lifeReserved": 0,
+    "manaReserved": 603,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 67,
+        "max": 90,
+        "effectiveAppliedArmour": 7093,
+        "base": 26,
+        "takenDamage": 2047
+      },
+      "fire": {
+        "value": 20,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 20,
+        "takenDamage": 2047
+      },
+      "cold": {
+        "value": 20,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 20,
+        "takenDamage": 2047
+      },
+      "lightning": {
+        "value": 20,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 20,
+        "takenDamage": 2047
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 28600
+  },
+  "keyStones": [
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Immortal Ambition",
+      "icon": "Art/2DArt/SkillIcons/passives/SoulTetherKeystone.webp",
+      "stats": [
+        "Energy Shield starts at zero",
+        "Cannot Recharge or Regenerate Energy Shield",
+        "Lose 5% of Energy Shield per second",
+        "Life Leech effects are not removed when Unreserved Life is Filled",
+        "Life Leech effects Recover Energy Shield instead while on Full Life"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 114,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Smite of Divine Judgement",
+        "Greater Multistrike Support",
+        "Elemental Damage with Attacks Support",
+        "Volatility Support",
+        "Damage on Full Life Support",
+        "Lightning Penetration Support",
+        "Fortify Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support",
+        "More Duration Support",
+        "Vaal Smite"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Shield Charge",
+        "Momentum Support",
+        "Faster Attacks Support",
+        "Rage Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flesh and Stone",
+        "Tempest Shield",
+        "Enlighten Support",
+        "Arctic Armour"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Energy Blade",
+        "Enhance Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Enduring Cry",
+        "Conductivity"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Smite of Divine Judgement",
+    "Greater Multistrike Support",
+    "Elemental Damage with Attacks Support",
+    "Volatility Support",
+    "Damage on Full Life Support",
+    "Lightning Penetration Support",
+    "Fortify Support",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "More Duration Support",
+    "Vaal Smite",
+    "Shield Charge",
+    "Momentum Support",
+    "Faster Attacks Support",
+    "Rage Support",
+    "Flesh and Stone",
+    "Tempest Shield",
+    "Enlighten Support",
+    "Arctic Armour",
+    "Energy Blade",
+    "Enhance Support",
+    "Frostblink",
+    "Enduring Cry",
+    "Conductivity"
+  ],
+  "items": [
+    {
+      "name": "Rathpith Globe",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Vengeance March",
+      "typeLine": "Leviathan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Brood Stinger",
+      "typeLine": "Battered Foil",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Foulborn Ghostwrithe",
+      "typeLine": "Silken Vest",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Squirming Terror",
+      "typeLine": "Unset Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Armageddon Band",
+      "typeLine": "Synthesised Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Voice of the Storm",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Pain Spiral",
+      "typeLine": "Vermillion Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Hypnotic Paw",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Silverbranch",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Golem Girdle",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Crown of Eyes",
+      "typeLine": "Hubris Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-22T12:59:29.606932Z"
+}

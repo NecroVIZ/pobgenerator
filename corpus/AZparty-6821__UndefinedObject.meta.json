@@ -1,0 +1,228 @@
+{
+  "account": "AZparty-6821",
+  "name": "UndefinedObject",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Guardian",
+  "ascendancy": "Guardian",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 9559,
+    "mana": 1666,
+    "ward": 0,
+    "movementSpeed": 190,
+    "lifeRegen": 0,
+    "evasionRating": 106,
+    "armour": 4582,
+    "strength": 208,
+    "dexterity": 155,
+    "intelligence": 402,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 93629,
+    "physicalMaximumHitTaken": 11688,
+    "fireMaximumHitTaken": 39833,
+    "coldMaximumHitTaken": 35407,
+    "lightningMaximumHitTaken": 47800,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 79,
+    "fireResistanceOverCap": 58,
+    "fireResistanceMax": 79,
+    "coldResistance": 76,
+    "coldResistanceOverCap": 12,
+    "coldResistanceMax": 76,
+    "lightningResistance": 83,
+    "lightningResistanceOverCap": 45,
+    "lightningResistanceMax": 83,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 56,
+    "spellBlockChance": 75,
+    "spellSuppressionChance": 16,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 1299,
+    "lifeReserved": 0,
+    "manaReserved": 914,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 11
+    },
+    "lowestMaximumHitTaken": 11688
+  },
+  "keyStones": [
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Mind Over Matter",
+      "icon": "Art/2DArt/SkillIcons/passives/heroicspirit.webp",
+      "stats": [
+        "40% of Damage is taken from Mana before Life"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 11,
+  "passiveCount": 136,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Raise Spectre",
+        "Vicious Projectiles Support",
+        "Culling Strike Support",
+        "Greater Volley Support",
+        "Congregation Support",
+        "Empower Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vitality",
+        "Vaal Haste",
+        "Vaal Discipline",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Precision",
+        "Tempest Shield",
+        "Awakened Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Greater Spell Echo Support",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Convocation"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Raise Spectre",
+    "Vicious Projectiles Support",
+    "Culling Strike Support",
+    "Greater Volley Support",
+    "Congregation Support",
+    "Empower Support",
+    "Vitality",
+    "Vaal Haste",
+    "Vaal Discipline",
+    "Enlighten Support",
+    "Precision",
+    "Tempest Shield",
+    "Awakened Enlighten Support",
+    "Frostblink of Wintry Blast",
+    "Greater Spell Echo Support",
+    "Faster Casting Support",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Convocation"
+  ],
+  "items": [
+    {
+      "name": "Wraithlord",
+      "typeLine": "Bone Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Golem Claw",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Miracle Circle",
+      "typeLine": "Ruby Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Morbid Tread",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Demon Pendant",
+      "typeLine": "Citrine Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Demon Chant",
+      "typeLine": "Fossilised Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Chimeric Gnarl",
+      "typeLine": "Convening Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Skull Coil",
+      "typeLine": "Moonstone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Mind Salvation",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Ghoul Twine",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-19T02:42:17.321594Z"
+}

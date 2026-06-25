@@ -1,0 +1,248 @@
+{
+  "account": "Arxalix-7521",
+  "name": "ContagiousKohqs",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Trickster",
+  "ascendancy": "Trickster",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 9066,
+    "mana": 1196,
+    "ward": 0,
+    "movementSpeed": 180,
+    "lifeRegen": 0,
+    "evasionRating": 66829,
+    "armour": 36,
+    "strength": 122,
+    "dexterity": 223,
+    "intelligence": 219,
+    "enduranceCharges": 3,
+    "frenzyCharges": 5,
+    "powerCharges": 3,
+    "effectiveHealthPool": 74295,
+    "physicalMaximumHitTaken": 15400,
+    "fireMaximumHitTaken": 49476,
+    "coldMaximumHitTaken": 49476,
+    "lightningMaximumHitTaken": 49476,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 34,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 57,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 9,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 22,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 456,
+    "lifeReserved": 0,
+    "manaReserved": 1196,
+    "evadeChance": 95,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 7,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 10
+    },
+    "lowestMaximumHitTaken": 15400
+  },
+  "keyStones": [
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 104,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Blight of Contagion",
+        "Void Manipulation Support",
+        "Swift Affliction Support",
+        "Empower Support",
+        "Infused Channelling Support",
+        "Arcane Surge Support",
+        "Controlled Destruction Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Malevolence",
+        "Vaal Discipline",
+        "Purity of Elements",
+        "Grace",
+        "Clarity"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Contagion",
+        "Enhance Support",
+        "Increased Area of Effect Support",
+        "Intensify Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Bane",
+        "Despair",
+        "Hex Bloom Support",
+        "Punishment"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Withering Step",
+        "Vaal Righteous Fire"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flame Dash",
+        "Arcane Surge Support"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Shield Charge",
+        "Momentum Support",
+        "Faster Attacks Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Blight of Contagion",
+    "Void Manipulation Support",
+    "Swift Affliction Support",
+    "Empower Support",
+    "Infused Channelling Support",
+    "Arcane Surge Support",
+    "Controlled Destruction Support",
+    "Malevolence",
+    "Vaal Discipline",
+    "Purity of Elements",
+    "Grace",
+    "Clarity",
+    "Contagion",
+    "Enhance Support",
+    "Increased Area of Effect Support",
+    "Intensify Support",
+    "Bane",
+    "Despair",
+    "Hex Bloom Support",
+    "Punishment",
+    "Withering Step",
+    "Vaal Righteous Fire",
+    "Flame Dash",
+    "Arcane Surge Support",
+    "Shield Charge",
+    "Momentum Support",
+    "Faster Attacks Support"
+  ],
+  "items": [
+    {
+      "name": "Cane of Kulemak",
+      "typeLine": "Serpentine Staff",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Miracle Eye",
+      "typeLine": "Cogwork Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Apep's Supremacy",
+      "typeLine": "Vaal Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Eagle Veil",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Havoc Fist",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Wildslash",
+      "typeLine": "Awl",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Corruption Shackle",
+      "typeLine": "Crystal Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Grim Trail",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Grim Visor",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-18T20:35:39.912207Z"
+}

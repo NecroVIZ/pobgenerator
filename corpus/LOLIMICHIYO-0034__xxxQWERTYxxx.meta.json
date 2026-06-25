@@ -1,0 +1,241 @@
+{
+  "account": "LOLIMICHIYO-0034",
+  "name": "xxxQWERTYxxx",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3544,
+    "energyShield": 2455,
+    "mana": 1253,
+    "ward": 0,
+    "movementSpeed": 167,
+    "lifeRegen": 0,
+    "evasionRating": 201,
+    "armour": 11510,
+    "strength": 242,
+    "dexterity": 169,
+    "intelligence": 235,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 96057,
+    "physicalMaximumHitTaken": 8299,
+    "fireMaximumHitTaken": 29719,
+    "coldMaximumHitTaken": 28657,
+    "lightningMaximumHitTaken": 28657,
+    "chaosMaximumHitTaken": 8055,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 50,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 53,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 36,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 56,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 78,
+    "spellBlockChance": 72,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 8055
+  },
+  "keyStones": [
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 113,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Vaal Reap",
+        "Swift Affliction Support",
+        "Corrupting Fever",
+        "Empower Support",
+        "Efficacy Support",
+        "Brutality Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Pride",
+        "Tempest Shield",
+        "Malevolence",
+        "Summon Carrion Golem of Hordes"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Kinetic Blast",
+        "Greater Multiple Projectiles Support",
+        "Returning Projectiles Support",
+        "Fork Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Summon Lightning Golem",
+        "Summon Flame Golem"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Summon Stone Golem"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Summon Chaos Golem"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostblink",
+        "Shield Charge",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Reap",
+        "Exsanguinate",
+        "Controlled Destruction Support"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Vulnerability"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Vaal Reap",
+    "Swift Affliction Support",
+    "Corrupting Fever",
+    "Empower Support",
+    "Efficacy Support",
+    "Brutality Support",
+    "Pride",
+    "Tempest Shield",
+    "Malevolence",
+    "Summon Carrion Golem of Hordes",
+    "Kinetic Blast",
+    "Greater Multiple Projectiles Support",
+    "Returning Projectiles Support",
+    "Fork Support",
+    "Summon Lightning Golem",
+    "Summon Flame Golem",
+    "Summon Stone Golem",
+    "Summon Chaos Golem",
+    "Frostblink",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Reap",
+    "Exsanguinate",
+    "Controlled Destruction Support",
+    "Vulnerability"
+  ],
+  "items": [
+    {
+      "name": "Maelström Knuckle",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Morbid Song",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Bramble Tread",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Mark of Submission",
+      "typeLine": "Unset Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Foulborn The Poet's Pen",
+      "typeLine": "Somatic Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Haemophilia",
+      "typeLine": "Serpentscale Gauntlets",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "The Dark Monarch",
+      "typeLine": "Lich's Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Blood Locket",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Hypnotic Salvation",
+      "typeLine": "Sacred Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-19T14:54:19.148522Z"
+}

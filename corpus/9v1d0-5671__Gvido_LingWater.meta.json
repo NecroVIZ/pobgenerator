@@ -1,0 +1,252 @@
+{
+  "account": "9v1d0-5671",
+  "name": "Gvido_LingWater",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 4713,
+    "energyShield": 2643,
+    "mana": 1044,
+    "ward": 0,
+    "movementSpeed": 391,
+    "lifeRegen": 59,
+    "evasionRating": 17576,
+    "armour": 0,
+    "strength": 98,
+    "dexterity": 145,
+    "intelligence": 179,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 63958,
+    "physicalMaximumHitTaken": 11875,
+    "fireMaximumHitTaken": 43570,
+    "coldMaximumHitTaken": 43570,
+    "lightningMaximumHitTaken": 43570,
+    "chaosMaximumHitTaken": 26104,
+    "fireResistance": 77,
+    "fireResistanceOverCap": 36,
+    "fireResistanceMax": 77,
+    "coldResistance": 77,
+    "coldResistanceOverCap": 32,
+    "coldResistanceMax": 77,
+    "lightningResistance": 77,
+    "lightningResistanceOverCap": 35,
+    "lightningResistanceMax": 77,
+    "chaosResistance": 77,
+    "chaosResistanceOverCap": 14,
+    "chaosResistanceMax": 77,
+    "blockChance": 28,
+    "spellBlockChance": 8,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 958,
+    "evadeChance": 68,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 0,
+      "fire": 11,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 11875
+  },
+  "keyStones": [
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    },
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 118,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Spark of the Nova",
+        "Faster Projectiles Support",
+        "Greater Spell Echo Support",
+        "Unbound Ailments Support",
+        "Efficacy Support",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Arctic Armour",
+        "Enlighten Support",
+        "Discipline",
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Flesh and Stone",
+        "Vaal Clarity",
+        "Enlighten Support",
+        "Frostblink of Wintry Blast"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Sigil of Power",
+        "Increased Area of Effect Support",
+        "Withering Step"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Despair",
+        "Hexpass Support",
+        "Arcane Surge Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Flame Dash"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Spark of the Nova",
+    "Faster Projectiles Support",
+    "Greater Spell Echo Support",
+    "Unbound Ailments Support",
+    "Efficacy Support",
+    "Inspiration Support",
+    "Arctic Armour",
+    "Enlighten Support",
+    "Discipline",
+    "Malevolence",
+    "Flesh and Stone",
+    "Vaal Clarity",
+    "Enlighten Support",
+    "Frostblink of Wintry Blast",
+    "Sigil of Power",
+    "Increased Area of Effect Support",
+    "Withering Step",
+    "Despair",
+    "Hexpass Support",
+    "Arcane Surge Support",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Flame Dash"
+  ],
+  "items": [
+    {
+      "name": "Onslaught Crack",
+      "typeLine": "Opal Sceptre",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Grim Rosary",
+      "typeLine": "Agate Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Havoc Spiral",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Dusk Stride",
+      "typeLine": "Phantom Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Betrayal's Sting",
+      "typeLine": "Steel Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Grim Fist",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Gloom Song",
+      "typeLine": "Thicket Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Hate Circle",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Empyrean Grinder",
+      "typeLine": "Oscillating Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Tempest Veil",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-19T02:43:01.986948Z"
+}

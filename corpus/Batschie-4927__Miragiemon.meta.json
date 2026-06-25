@@ -1,0 +1,257 @@
+{
+  "account": "Batschie-4927",
+  "name": "Miragiemon",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Hierophant",
+  "ascendancy": "Hierophant",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 4441,
+    "energyShield": 3359,
+    "mana": 913,
+    "ward": 0,
+    "movementSpeed": 236,
+    "lifeRegen": 1392,
+    "evasionRating": 23,
+    "armour": 61391,
+    "strength": 251,
+    "dexterity": 133,
+    "intelligence": 235,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 5,
+    "effectiveHealthPool": 104790,
+    "physicalMaximumHitTaken": 31734,
+    "fireMaximumHitTaken": 78578,
+    "coldMaximumHitTaken": 68328,
+    "lightningMaximumHitTaken": 56127,
+    "chaosMaximumHitTaken": 36200,
+    "fireResistance": 83,
+    "fireResistanceOverCap": 66,
+    "fireResistanceMax": 83,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 20,
+    "coldResistanceMax": 80,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 19,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 5,
+    "chaosResistanceMax": 75,
+    "blockChance": 75,
+    "spellBlockChance": 75,
+    "spellSuppressionChance": 19,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 391,
+    "manaReserved": 851,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 31734
+  },
+  "keyStones": [
+    {
+      "name": "Ancestral Bond",
+      "icon": "Art/2DArt/SkillIcons/passives/totemmax.webp",
+      "stats": [
+        "You can't deal Damage with Skills yourself\n+1 to maximum number of Summoned Totems"
+      ]
+    },
+    {
+      "name": "Glancing Blows",
+      "icon": "Art/2DArt/SkillIcons/passives/GlancingBlows.webp",
+      "stats": [
+        "Chance to Block Attack Damage is doubled\nChance to Block Spell Damage is doubled\nYou take 65% of Damage from Blocked Hits"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 121,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Fusillade",
+        "Ballista Totem Support",
+        "Concentrated Effect Support",
+        "Greater Volley Support",
+        "Increased Critical Damage Support",
+        "Less Duration Support",
+        "Elemental Damage with Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Arcanist Brand",
+        "More Duration Support",
+        "Flame Wall",
+        "Sniper's Mark"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Frenzy",
+        "Vitality",
+        "Shield Charge",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Tempest Shield",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Precision",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Determination",
+        "Enlighten Support",
+        "Anger"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Vaal Molten Shell",
+        "More Duration Support",
+        "Cast when Damage Taken Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Fusillade",
+    "Ballista Totem Support",
+    "Concentrated Effect Support",
+    "Greater Volley Support",
+    "Increased Critical Damage Support",
+    "Less Duration Support",
+    "Elemental Damage with Attacks Support",
+    "Arcanist Brand",
+    "More Duration Support",
+    "Flame Wall",
+    "Sniper's Mark",
+    "Frenzy",
+    "Vitality",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Tempest Shield",
+    "Frostblink",
+    "Precision",
+    "Arrogance Support",
+    "Determination",
+    "Enlighten Support",
+    "Anger",
+    "Vaal Molten Shell",
+    "More Duration Support",
+    "Cast when Damage Taken Support"
+  ],
+  "items": [
+    {
+      "name": "Gloom Goad",
+      "typeLine": "Paladin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Yoke of Suffering",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Apocalypse Thirst",
+      "typeLine": "Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Cataclysm Wrap",
+      "typeLine": "Sacred Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Miracle Nails",
+      "typeLine": "Paladin Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Gloom Finger",
+      "typeLine": "Dusk Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Golem Veil",
+      "typeLine": "Divine Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Foulborn Aegis Aurora",
+      "typeLine": "Champion Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Gloom Turn",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Armageddon Roar",
+      "typeLine": "Tyrant's Sekhem",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "",
+      "typeLine": "Wicked Karui Sceptre of the Worthy",
+      "frameType": 1,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Foulborn Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-18T14:25:47.646593Z"
+}

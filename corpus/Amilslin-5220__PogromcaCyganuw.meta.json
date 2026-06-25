@@ -1,0 +1,214 @@
+{
+  "account": "Amilslin-5220",
+  "name": "PogromcaCyganuw",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Pathfinder",
+  "ascendancy": "Pathfinder",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4166,
+    "energyShield": 1278,
+    "mana": 838,
+    "ward": 0,
+    "movementSpeed": 329,
+    "lifeRegen": 83,
+    "evasionRating": 10346,
+    "armour": 0,
+    "strength": 171,
+    "dexterity": 200,
+    "intelligence": 43,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 38253,
+    "physicalMaximumHitTaken": 11626,
+    "fireMaximumHitTaken": 43169,
+    "coldMaximumHitTaken": 43169,
+    "lightningMaximumHitTaken": 43169,
+    "chaosMaximumHitTaken": 32759,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 4,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 32,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 8,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 17,
+    "chaosResistanceMax": 0,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 11626
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 110,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Blade Vortex",
+        "Eclipse Support",
+        "Greater Unleash Support",
+        "Increased Critical Damage Support",
+        "Minion Pact Support",
+        "Void Manipulation Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Haste",
+        "Enlighten Support",
+        "Herald of Ash",
+        "Vaal Arctic Armour",
+        "Herald of Purity"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Raise Spectre",
+        "Awakened Empower Support",
+        "Minion Life Support",
+        "Companionship Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Automation",
+        "Steelskin",
+        "Lifetap Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Blade Vortex",
+    "Eclipse Support",
+    "Greater Unleash Support",
+    "Increased Critical Damage Support",
+    "Minion Pact Support",
+    "Void Manipulation Support",
+    "Lifetap Support",
+    "Haste",
+    "Enlighten Support",
+    "Herald of Ash",
+    "Vaal Arctic Armour",
+    "Herald of Purity",
+    "Frostblink",
+    "Lifetap Support",
+    "Raise Spectre",
+    "Awakened Empower Support",
+    "Minion Life Support",
+    "Companionship Support",
+    "Automation",
+    "Steelskin",
+    "Lifetap Support"
+  ],
+  "items": [
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Golden Charlatan",
+      "typeLine": "Lion Sword",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Death Rush",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Defiance of Destiny",
+      "typeLine": "Paua Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Storm Grip",
+      "typeLine": "Shagreen Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Torment Spur",
+      "typeLine": "Fugitive Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Phoenix Suit",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Golem Twirl",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Brimstone Twine",
+      "typeLine": "Spine Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-19T11:49:26.25231Z"
+}

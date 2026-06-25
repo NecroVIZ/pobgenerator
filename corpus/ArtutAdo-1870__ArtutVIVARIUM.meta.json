@@ -1,0 +1,297 @@
+{
+  "account": "ArtutAdo-1870",
+  "name": "ArtutVIVARIUM",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Trickster",
+  "ascendancy": "Trickster",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2958,
+    "energyShield": 2286,
+    "mana": 1000,
+    "ward": 0,
+    "movementSpeed": 197,
+    "lifeRegen": 389,
+    "evasionRating": 60964,
+    "armour": 0,
+    "strength": 160,
+    "dexterity": 227,
+    "intelligence": 175,
+    "enduranceCharges": 3,
+    "frenzyCharges": 7,
+    "powerCharges": 4,
+    "effectiveHealthPool": 36930,
+    "physicalMaximumHitTaken": 8220,
+    "fireMaximumHitTaken": 27244,
+    "coldMaximumHitTaken": 27244,
+    "lightningMaximumHitTaken": 27244,
+    "chaosMaximumHitTaken": 12735,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 33,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 51,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 32,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 58,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 37,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 75,
+    "manaReserved": 980,
+    "evadeChance": 87,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2030
+      },
+      "fire": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2256
+      },
+      "cold": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2256
+      },
+      "lightning": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2481
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 10,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 8220
+  },
+  "keyStones": [
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Reap",
+        "Charged Mines Support",
+        "High-Impact Mine Support",
+        "Trap and Mine Damage Support",
+        "Increased Critical Damage Support",
+        "Minefield Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Elemental Weakness",
+        "Unbound Ailments Support",
+        "Summon Skitterbots",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Zealotry",
+        "Enlighten Support",
+        "Hatred",
+        "Grace"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Detonate Mines",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Bear Trap"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Vaal Reap",
+        "Arcanist Brand",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Zealotry",
+        "Minion Pact Support",
+        "Zealotry"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Holy Strike",
+        "Molten Shell",
+        "Chain Hook"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Reap",
+    "Charged Mines Support",
+    "High-Impact Mine Support",
+    "Trap and Mine Damage Support",
+    "Increased Critical Damage Support",
+    "Minefield Support",
+    "Elemental Weakness",
+    "Unbound Ailments Support",
+    "Summon Skitterbots",
+    "Enlighten Support",
+    "Zealotry",
+    "Enlighten Support",
+    "Hatred",
+    "Grace",
+    "Detonate Mines",
+    "Automation",
+    "Bear Trap",
+    "Frostblink",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Momentum Support",
+    "Vaal Reap",
+    "Arcanist Brand",
+    "Lifetap Support",
+    "Zealotry",
+    "Minion Pact Support",
+    "Zealotry",
+    "Holy Strike",
+    "Molten Shell",
+    "Chain Hook"
+  ],
+  "items": [
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Victory Scalpel",
+      "typeLine": "Platinum Kris",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Oblivion Fist",
+      "typeLine": "Murder Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Dusk Suit",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Armageddon Song",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Corruption Spire",
+      "typeLine": "Blasting Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Brimstone Guard",
+      "typeLine": "Teak Round Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Pain Goad",
+      "typeLine": "Assassin's Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Kraken Medallion",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Heatshiver",
+      "typeLine": "Leather Hood",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-22T12:59:21.172654Z"
+}

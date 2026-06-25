@@ -1,0 +1,263 @@
+{
+  "account": "AshenSoul_-4097",
+  "name": "Ash_Fromage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Inquisitor",
+  "ascendancy": "Inquisitor",
+  "secondaryAscendancy": "Breachlord Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 10231,
+    "energyShield": 4400,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 240,
+    "lifeRegen": 4283,
+    "evasionRating": 1497,
+    "armour": 3316,
+    "strength": 292,
+    "dexterity": 171,
+    "intelligence": 172,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 127481,
+    "physicalMaximumHitTaken": 13567,
+    "fireMaximumHitTaken": 92395,
+    "coldMaximumHitTaken": 51741,
+    "lightningMaximumHitTaken": 61597,
+    "chaosMaximumHitTaken": 29432,
+    "fireResistance": 89,
+    "fireResistanceOverCap": 1,
+    "fireResistanceMax": 89,
+    "coldResistance": 78,
+    "coldResistanceOverCap": 11,
+    "coldResistanceMax": 78,
+    "lightningResistance": 82,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 82,
+    "chaosResistance": 71,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 63,
+    "spellBlockChance": 76,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 4283,
+    "lifeReserved": 5106,
+    "manaReserved": 0,
+    "evadeChance": 5,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 23,
+        "max": 90,
+        "effectiveAppliedArmour": 3316,
+        "base": 0,
+        "takenDamage": 2277
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 13567
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 134,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Shock Nova of Procession",
+        "Intensify Support",
+        "Increased Critical Damage Support",
+        "Spellblade Support",
+        "Arcane Surge Support",
+        "Greater Spell Echo Support",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Tempest Shield",
+        "Enlighten Support",
+        "Vitality",
+        "Petrified Blood"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Wrath",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Righteous Fire"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Assassin's Mark"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Immortal Call",
+        "More Duration Support",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Energy Blade"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostblink"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Shock Nova of Procession",
+    "Intensify Support",
+    "Increased Critical Damage Support",
+    "Spellblade Support",
+    "Arcane Surge Support",
+    "Greater Spell Echo Support",
+    "Increased Critical Strikes Support",
+    "Tempest Shield",
+    "Enlighten Support",
+    "Vitality",
+    "Petrified Blood",
+    "Wrath",
+    "Eternal Blessing Support",
+    "Righteous Fire",
+    "Assassin's Mark",
+    "Immortal Call",
+    "More Duration Support",
+    "Cast when Damage Taken Support",
+    "Frostblink of Wintry Blast",
+    "Faster Casting Support",
+    "Energy Blade",
+    "Frostblink"
+  ],
+  "items": [
+    {
+      "name": "Horror Brow",
+      "typeLine": "Haunted Bascinet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "",
+      "typeLine": "Energy Blade",
+      "frameType": 0,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "",
+      "typeLine": "Blasting Wand",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Woe Span",
+      "typeLine": "Leviathan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Rathpith Globe",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Beast Pendant",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Foulborn Ghostwrithe",
+      "typeLine": "Silken Vest",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Agony Nails",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Miracle Spiral",
+      "typeLine": "Synaptic Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    }
+  ],
+  "jewelsCount": 6,
+  "lastCheckedUtc": "2026-06-25T11:23:20.381409Z"
+}

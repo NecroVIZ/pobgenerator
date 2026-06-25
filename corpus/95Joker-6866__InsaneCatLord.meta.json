@@ -1,0 +1,252 @@
+{
+  "account": "95Joker-6866",
+  "name": "InsaneCatLord",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Slayer",
+  "ascendancy": "Slayer",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3329,
+    "energyShield": 523,
+    "mana": 722,
+    "ward": 0,
+    "movementSpeed": 332,
+    "lifeRegen": 199,
+    "evasionRating": 25270,
+    "armour": 9431,
+    "strength": 195,
+    "dexterity": 193,
+    "intelligence": 108,
+    "enduranceCharges": 6,
+    "frenzyCharges": 6,
+    "powerCharges": 3,
+    "effectiveHealthPool": 61195,
+    "physicalMaximumHitTaken": 14714,
+    "fireMaximumHitTaken": 32027,
+    "coldMaximumHitTaken": 32027,
+    "lightningMaximumHitTaken": 32027,
+    "chaosMaximumHitTaken": 20310,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 12,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 3,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 12,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 71,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 28,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 503,
+    "evadeChance": 75,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 11,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 14714
+  },
+  "keyStones": [],
+  "masteriesCount": 7,
+  "passiveCount": 110,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Elemental Hit",
+        "Empower Support",
+        "Greater Multistrike Support",
+        "Increased Critical Strikes Support",
+        "Elemental Damage with Attacks Support",
+        "Fortify Support",
+        "Inspiration Support",
+        "Trinity Support",
+        "Ruthless Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Assassin's Mark",
+        "Enhance Support",
+        "Transfusion Support",
+        "Mark On Hit Support",
+        "Blood Rage"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Enduring Cry"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Grace",
+        "Enlighten Support",
+        "Flesh and Stone",
+        "Blood and Sand"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Frostblink",
+        "Bonechill Support",
+        "Culling Strike Support",
+        "Hydrosphere"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Whirling Blades",
+        "Lifetap Support",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Seize the Flesh"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Elemental Hit",
+    "Empower Support",
+    "Greater Multistrike Support",
+    "Increased Critical Strikes Support",
+    "Elemental Damage with Attacks Support",
+    "Fortify Support",
+    "Inspiration Support",
+    "Trinity Support",
+    "Ruthless Support",
+    "Assassin's Mark",
+    "Enhance Support",
+    "Transfusion Support",
+    "Mark On Hit Support",
+    "Blood Rage",
+    "Enduring Cry",
+    "Grace",
+    "Enlighten Support",
+    "Flesh and Stone",
+    "Blood and Sand",
+    "Frostblink",
+    "Bonechill Support",
+    "Culling Strike Support",
+    "Hydrosphere",
+    "Whirling Blades",
+    "Lifetap Support",
+    "Faster Attacks Support",
+    "Precision",
+    "Seize the Flesh"
+  ],
+  "items": [
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Unseen Hue",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Dusk Spark",
+      "typeLine": "Wyvernscale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Cataclysm Pelt",
+      "typeLine": "Marshall's Brigandine",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Glyph Song",
+      "typeLine": "Fancy Foil",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Admiral's Arrogance",
+      "typeLine": "Antique Gauntlets",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Bramble Strike",
+      "typeLine": "Citadel Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Squire",
+      "typeLine": "Elegant Round Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Unseen Hue",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Grim Beads",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-22T06:54:23.661954Z"
+}

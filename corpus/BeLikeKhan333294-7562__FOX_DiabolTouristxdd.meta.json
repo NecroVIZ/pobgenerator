@@ -1,0 +1,205 @@
+{
+  "account": "BeLikeKhan333294-7562",
+  "name": "FOX_DiabolTouristxdd",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Guardian",
+  "ascendancy": "Guardian",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3293,
+    "energyShield": 261,
+    "mana": 726,
+    "ward": 0,
+    "movementSpeed": 280,
+    "lifeRegen": 291,
+    "evasionRating": 4037,
+    "armour": 13005,
+    "strength": 175,
+    "dexterity": 115,
+    "intelligence": 73,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 4,
+    "effectiveHealthPool": 27976,
+    "physicalMaximumHitTaken": 8518,
+    "fireMaximumHitTaken": 19777,
+    "coldMaximumHitTaken": 19777,
+    "lightningMaximumHitTaken": 19777,
+    "chaosMaximumHitTaken": 18487,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 52,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 99,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 68,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 28,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 92,
+    "spellDodgeChance": 0,
+    "itemRarity": 116,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 29,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 8518
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 116,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Blade Vortex",
+        "Minion Pact Support",
+        "Added Fire Damage Support",
+        "Greater Unleash Support",
+        "Eclipse Support",
+        "Invert the Rules Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Automation",
+        "Withering Step",
+        "Steelskin",
+        "Immortal Call",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Raise Spectre",
+        "Empower Support",
+        "Minion Life Support",
+        "Companionship Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Faster Casting Support",
+        "Lifetap Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Blade Vortex",
+    "Minion Pact Support",
+    "Added Fire Damage Support",
+    "Greater Unleash Support",
+    "Eclipse Support",
+    "Invert the Rules Support",
+    "Lifetap Support",
+    "Automation",
+    "Withering Step",
+    "Steelskin",
+    "Immortal Call",
+    "Lifetap Support",
+    "Raise Spectre",
+    "Empower Support",
+    "Minion Life Support",
+    "Companionship Support",
+    "Frostblink of Wintry Blast",
+    "Faster Casting Support",
+    "Lifetap Support"
+  ],
+  "items": [
+    {
+      "name": "Skull Vise",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Death Rush",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Dire Ward",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Sol Whorl",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Skull March",
+      "typeLine": "Hydrascale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Defiance of Destiny",
+      "typeLine": "Paua Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-20T09:10:10.606265Z"
+}

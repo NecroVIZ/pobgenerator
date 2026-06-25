@@ -1,0 +1,252 @@
+{
+  "account": "ZomBieKluay-1715",
+  "name": "ตองที่สัว",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3816,
+    "energyShield": 933,
+    "mana": 961,
+    "ward": 0,
+    "movementSpeed": 170,
+    "lifeRegen": 273,
+    "evasionRating": 541,
+    "armour": 3498,
+    "strength": 183,
+    "dexterity": 87,
+    "intelligence": 225,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 100654,
+    "physicalMaximumHitTaken": 5478,
+    "fireMaximumHitTaken": 27872,
+    "coldMaximumHitTaken": 26877,
+    "lightningMaximumHitTaken": 26877,
+    "chaosMaximumHitTaken": 15264,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 56,
+    "fireResistanceMax": 76,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 5,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 31,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 9,
+    "chaosResistanceMax": 75,
+    "blockChance": 75,
+    "spellBlockChance": 78,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 872,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5478
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Ethereal Knives of the Massacre",
+        "Lifetap Support",
+        "Swift Affliction Support",
+        "Cruelty Support",
+        "Burning Damage Support",
+        "Combustion Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Herald of Thunder",
+        "Herald of Agony",
+        "Herald of Ash",
+        "Herald of Purity",
+        "Herald of Ice"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Shield Charge",
+        "Lifetap Support",
+        "Faster Attacks Support",
+        "Brutality Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Stone Golem",
+        "Summon Chaos Golem"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Flame Golem"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Lightning Golem"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Malevolence",
+        "Enlighten Support",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Ethereal Knives of the Massacre",
+    "Lifetap Support",
+    "Swift Affliction Support",
+    "Cruelty Support",
+    "Burning Damage Support",
+    "Combustion Support",
+    "Herald of Thunder",
+    "Herald of Agony",
+    "Herald of Ash",
+    "Herald of Purity",
+    "Herald of Ice",
+    "Shield Charge",
+    "Lifetap Support",
+    "Faster Attacks Support",
+    "Brutality Support",
+    "Summon Stone Golem",
+    "Summon Chaos Golem",
+    "Summon Flame Golem",
+    "Summon Lightning Golem",
+    "Malevolence",
+    "Enlighten Support",
+    "Tempest Shield",
+    "Frostblink",
+    "Herald of the Hive"
+  ],
+  "items": [
+    {
+      "name": "Ashes of the Stars",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Onslaught Stride",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Pain Thirst",
+      "typeLine": "Omen Wand",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Torment Gnarl",
+      "typeLine": "Omen Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Blight Emblem",
+      "typeLine": "Transfer-attuned Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Grace of the Goddess",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Foulborn Berek's Respite",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Fate Fist",
+      "typeLine": "Shagreen Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Cataclysm Brow",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Foulborn The Coming Calamity",
+      "typeLine": "Destroyer Regalia",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-25T08:20:13.898176Z"
+}

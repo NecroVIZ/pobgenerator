@@ -1,0 +1,244 @@
+{
+  "account": "Akumy-1691",
+  "name": "Akumy",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Guardian",
+  "ascendancy": "Guardian",
+  "secondaryAscendancy": "Chaos Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4198,
+    "energyShield": 862,
+    "mana": 896,
+    "ward": 223,
+    "movementSpeed": 234,
+    "lifeRegen": 479,
+    "evasionRating": 315,
+    "armour": 20500,
+    "strength": 165,
+    "dexterity": 155,
+    "intelligence": 248,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 373036,
+    "physicalMaximumHitTaken": 9318,
+    "fireMaximumHitTaken": 44766,
+    "coldMaximumHitTaken": 44766,
+    "lightningMaximumHitTaken": 44766,
+    "chaosMaximumHitTaken": 44210,
+    "fireResistance": -81,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 77,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 75,
+    "coldResistanceMax": 90,
+    "lightningResistance": -200,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 76,
+    "chaosResistance": 90,
+    "chaosResistanceOverCap": 16,
+    "chaosResistanceMax": 90,
+    "blockChance": 87,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 8,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 856,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 9318
+  },
+  "keyStones": [
+    {
+      "name": "Eldritch Battery",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
+      "stats": [
+        "Spend Energy Shield before Mana for Skill Mana Costs\nEnergy Shield protects Mana instead of Life\n50% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Divine Flesh",
+      "icon": "Art/2DArt/SkillIcons/passives/DivineFlesh.webp",
+      "stats": [
+        "All Damage taken bypasses Energy Shield",
+        "50% of Elemental Damage taken as Chaos Damage",
+        "+5% to maximum Chaos Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 111,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Animate Guardian of Smiting",
+        "Minion Life Support",
+        "Empower Support",
+        "Meat Shield Support",
+        "Raise Spectre",
+        "Summon Stone Golem",
+        "Feeding Frenzy Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vaal Absolution",
+        "Physical to Lightning Support",
+        "Greater Spell Echo Support",
+        "Increased Critical Damage Support",
+        "Minion Damage Support",
+        "Hypothermia Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Molten Shell",
+        "Convocation",
+        "Cooldown Recovery Support",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Flame Dash",
+        "Purity of Ice",
+        "Empower Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Arctic Armour"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Desecrate",
+        "Spirit Offering",
+        "Assassin's Mark"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Purifying Flame of Revelations",
+        "Increased Area of Effect Support",
+        "Tempest Shield"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Animate Guardian of Smiting",
+    "Minion Life Support",
+    "Empower Support",
+    "Meat Shield Support",
+    "Raise Spectre",
+    "Summon Stone Golem",
+    "Feeding Frenzy Support",
+    "Vaal Absolution",
+    "Physical to Lightning Support",
+    "Greater Spell Echo Support",
+    "Increased Critical Damage Support",
+    "Minion Damage Support",
+    "Hypothermia Support",
+    "Molten Shell",
+    "Convocation",
+    "Cooldown Recovery Support",
+    "Automation",
+    "Flame Dash",
+    "Purity of Ice",
+    "Empower Support",
+    "Arctic Armour",
+    "Desecrate",
+    "Spirit Offering",
+    "Assassin's Mark",
+    "Purifying Flame of Revelations",
+    "Increased Area of Effect Support",
+    "Tempest Shield"
+  ],
+  "items": [
+    {
+      "name": "Empyrean Stride",
+      "typeLine": "Vaal Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Havoc Needle",
+      "typeLine": "Convoking Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Rapture Shelter",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Vengeance Charm",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Storm Grasp",
+      "typeLine": "Murder Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Sol Finger",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Fate Gyre",
+      "typeLine": "Fugitive Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Doryani's Prototype",
+      "typeLine": "Saint's Hauberk",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-20T21:23:13.737447Z"
+}

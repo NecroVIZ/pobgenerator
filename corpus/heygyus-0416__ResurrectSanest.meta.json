@@ -1,0 +1,245 @@
+{
+  "account": "heygyus-0416",
+  "name": "ResurrectSanest",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Pathfinder",
+  "ascendancy": "Pathfinder",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5376,
+    "energyShield": 2624,
+    "mana": 1132,
+    "ward": 0,
+    "movementSpeed": 192,
+    "lifeRegen": 1034,
+    "evasionRating": 16141,
+    "armour": 0,
+    "strength": 134,
+    "dexterity": 289,
+    "intelligence": 244,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 77729,
+    "physicalMaximumHitTaken": 17167,
+    "fireMaximumHitTaken": 67157,
+    "coldMaximumHitTaken": 67157,
+    "lightningMaximumHitTaken": 67157,
+    "chaosMaximumHitTaken": 20814,
+    "fireResistance": 81,
+    "fireResistanceOverCap": 61,
+    "fireResistanceMax": 81,
+    "coldResistance": 81,
+    "coldResistanceOverCap": 23,
+    "coldResistanceMax": 81,
+    "lightningResistance": 81,
+    "lightningResistanceOverCap": 43,
+    "lightningResistanceMax": 81,
+    "chaosResistance": 58,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 24,
+    "spellBlockChance": 25,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 150,
+    "lifeReserved": 0,
+    "manaReserved": 1123,
+    "evadeChance": 72,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 419,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 10,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 17167
+  },
+  "keyStones": [
+    {
+      "name": "Mind Over Matter",
+      "icon": "Art/2DArt/SkillIcons/passives/heroicspirit.webp",
+      "stats": [
+        "40% of Damage is taken from Mana before Life"
+      ]
+    },
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Eldritch Battery",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
+      "stats": [
+        "Spend Energy Shield before Mana for Skill Mana Costs\nEnergy Shield protects Mana instead of Life\n50% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 126,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Frost Shield",
+        "Flesh and Stone",
+        "Herald of Agony",
+        "Tempest Shield",
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Temporal Chains",
+        "Unbound Ailments Support",
+        "Void Manipulation Support",
+        "Spell Cascade Support",
+        "Impending Doom Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Conductivity",
+        "Enfeeble",
+        "Despair",
+        "Spell Cascade Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Immortal Call",
+        "More Duration Support",
+        "Cast when Damage Taken Support",
+        "Withering Step"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flame Dash",
+        "Plague Bearer",
+        "Increased Area of Effect Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Frost Shield",
+    "Flesh and Stone",
+    "Herald of Agony",
+    "Tempest Shield",
+    "Malevolence",
+    "Temporal Chains",
+    "Unbound Ailments Support",
+    "Void Manipulation Support",
+    "Spell Cascade Support",
+    "Impending Doom Support",
+    "Conductivity",
+    "Enfeeble",
+    "Despair",
+    "Spell Cascade Support",
+    "Immortal Call",
+    "More Duration Support",
+    "Cast when Damage Taken Support",
+    "Withering Step",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Momentum Support",
+    "Flame Dash",
+    "Plague Bearer",
+    "Increased Area of Effect Support"
+  ],
+  "items": [
+    {
+      "name": "Spirit Duty",
+      "typeLine": "Supreme Spiked Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Grim Knuckle",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Sorrow Pelt",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Carrion Grasp",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Pain Beads",
+      "typeLine": "Citrine Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Vixen's Entrapment",
+      "typeLine": "Embroidered Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Doom Gnarl",
+      "typeLine": "Profane Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Foulborn Doedre's Scorn",
+      "typeLine": "Lunaris Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Hate Sole",
+      "typeLine": "Phantom Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Hypnotic Bond",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 7,
+  "lastCheckedUtc": "2026-06-23T11:28:05.161879Z"
+}

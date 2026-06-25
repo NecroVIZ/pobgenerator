@@ -1,0 +1,277 @@
+{
+  "account": "Cappoccino-7757",
+  "name": "HeavyStrikeOfUnemployed",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 8386,
+    "energyShield": 512,
+    "mana": 818,
+    "ward": 0,
+    "movementSpeed": 179,
+    "lifeRegen": 1073,
+    "evasionRating": 29,
+    "armour": 19960,
+    "strength": 3397,
+    "dexterity": 246,
+    "intelligence": 286,
+    "enduranceCharges": 7,
+    "frenzyCharges": 4,
+    "powerCharges": 3,
+    "effectiveHealthPool": 256749,
+    "physicalMaximumHitTaken": 77752,
+    "fireMaximumHitTaken": 216493,
+    "coldMaximumHitTaken": 216493,
+    "lightningMaximumHitTaken": 216493,
+    "chaosMaximumHitTaken": 69234,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 29,
+    "fireResistanceMax": 90,
+    "coldResistance": -17,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": -27,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 1,
+    "chaosResistanceMax": 75,
+    "blockChance": 17,
+    "spellBlockChance": 42,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 155,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 696,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 19960,
+        "base": 73,
+        "takenDamage": 2274
+      },
+      "fire": {
+        "value": 35,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 35,
+        "takenDamage": 6823
+      },
+      "cold": {
+        "value": 35,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 35,
+        "takenDamage": 0
+      },
+      "lightning": {
+        "value": 35,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 35,
+        "takenDamage": 0
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 69234
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Tempered by War",
+      "icon": "Art/2DArt/SkillIcons/passives/TemperedByWar.webp",
+      "stats": [
+        "50% of Cold and Lightning Damage taken as Fire Damage",
+        "50% less Cold Resistance",
+        "50% less Lightning Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 115,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Heavy Strike of Trarthus",
+        "Void Manipulation Support",
+        "Greater Multistrike Support",
+        "Volatility Support",
+        "Lifetap Support",
+        "Greater Ancestral Call Support",
+        "Endurance Charge on Melee Stun Support",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Leap Slam",
+        "Fortify Support",
+        "Momentum Support",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Withering Step",
+        "Enhance Support",
+        "More Duration Support",
+        "Immortal Call"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Assassin's Mark",
+        "Mark On Hit Support",
+        "Urgent Orders Support",
+        "Battlemage's Cry"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Molten Shell",
+        "Cast when Damage Taken Support",
+        "Purity of Fire",
+        "Arctic Armour"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Aspect of the Crab"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Heavy Strike of Trarthus",
+    "Void Manipulation Support",
+    "Greater Multistrike Support",
+    "Volatility Support",
+    "Lifetap Support",
+    "Greater Ancestral Call Support",
+    "Endurance Charge on Melee Stun Support",
+    "Momentum Support",
+    "Leap Slam",
+    "Fortify Support",
+    "Momentum Support",
+    "Faster Attacks Support",
+    "Withering Step",
+    "Enhance Support",
+    "More Duration Support",
+    "Immortal Call",
+    "Assassin's Mark",
+    "Mark On Hit Support",
+    "Urgent Orders Support",
+    "Battlemage's Cry",
+    "Molten Shell",
+    "Cast when Damage Taken Support",
+    "Purity of Fire",
+    "Arctic Armour",
+    "Aspect of the Crab"
+  ],
+  "items": [
+    {
+      "name": "Honour Paw",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Replica Alberon's Warpath",
+      "typeLine": "Soldier Boots",
+      "frameType": 10,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Squire",
+      "typeLine": "Elegant Round Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Brood Scarab",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Rift Cloak",
+      "typeLine": "Devout Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Havoc Band",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "",
+      "typeLine": "Cobalt Convening Wand of Ice",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Mind Branch",
+      "typeLine": "Lathi",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Rapture Crest",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-23T07:16:36.15967Z"
+}

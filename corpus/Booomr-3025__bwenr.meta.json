@@ -1,0 +1,227 @@
+{
+  "account": "Booomr-3025",
+  "name": "bwenr",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Pathfinder",
+  "ascendancy": "Pathfinder",
+  "secondaryAscendancy": "Breachlord Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4512,
+    "energyShield": 78,
+    "mana": 1081,
+    "ward": 0,
+    "movementSpeed": 631,
+    "lifeRegen": 1576,
+    "evasionRating": 89496,
+    "armour": 44394,
+    "strength": 219,
+    "dexterity": 217,
+    "intelligence": 161,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 112011,
+    "physicalMaximumHitTaken": 10699,
+    "fireMaximumHitTaken": 20883,
+    "coldMaximumHitTaken": 21656,
+    "lightningMaximumHitTaken": 20883,
+    "chaosMaximumHitTaken": 24201,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 22,
+    "fireResistanceMax": 75,
+    "coldResistance": 76,
+    "coldResistanceOverCap": 32,
+    "coldResistanceMax": 76,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 18,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 20,
+    "chaosResistanceMax": 75,
+    "blockChance": 75,
+    "spellBlockChance": 51,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 957,
+    "evadeChance": 91,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 10699
+  },
+  "keyStones": [
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 134,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Automation",
+        "Cooldown Recovery Support",
+        "More Duration Support",
+        "Phase Run",
+        "Enhance Support",
+        "Withering Step"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frost Wall",
+        "Spell Cascade Support",
+        "Lifetap Support",
+        "Increased Area of Effect Support",
+        "Void Sphere"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Molten Shell",
+        "Enhance Support",
+        "More Duration Support",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Haste",
+        "Enlighten Support",
+        "Grace",
+        "Determination"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Decoy Totem",
+        "Increased Area of Effect Support",
+        "Lifetap Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Automation",
+    "Cooldown Recovery Support",
+    "More Duration Support",
+    "Phase Run",
+    "Enhance Support",
+    "Withering Step",
+    "Frost Wall",
+    "Spell Cascade Support",
+    "Lifetap Support",
+    "Increased Area of Effect Support",
+    "Void Sphere",
+    "Molten Shell",
+    "Enhance Support",
+    "More Duration Support",
+    "Cast when Damage Taken Support",
+    "Haste",
+    "Enlighten Support",
+    "Grace",
+    "Determination",
+    "Decoy Totem",
+    "Increased Area of Effect Support",
+    "Lifetap Support"
+  ],
+  "items": [
+    {
+      "name": "Queen of the Forest",
+      "typeLine": "Destiny Leather",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Beast Barrage",
+      "typeLine": "Short Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Rearguard",
+      "typeLine": "Blunt Arrow Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Empyrean Spur",
+      "typeLine": "Wyvernscale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Behemoth Gyre",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Pandemonium Knuckle",
+      "typeLine": "Moonstone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Warped Timepiece",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Morbid Caress",
+      "typeLine": "Ancient Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Devoto's Devotion",
+      "typeLine": "Nightmare Bascinet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 7,
+  "lastCheckedUtc": "2026-06-21T12:35:08.634226Z"
+}

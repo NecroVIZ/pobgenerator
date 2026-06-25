@@ -1,0 +1,236 @@
+{
+  "account": "Bendortiker-4313",
+  "name": "Kynikous",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Trickster",
+  "ascendancy": "Trickster",
+  "secondaryAscendancy": "Oshabi Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4039,
+    "energyShield": 2104,
+    "mana": 1052,
+    "ward": 0,
+    "movementSpeed": 294,
+    "lifeRegen": 333,
+    "evasionRating": 55888,
+    "armour": 0,
+    "strength": 181,
+    "dexterity": 227,
+    "intelligence": 206,
+    "enduranceCharges": 3,
+    "frenzyCharges": 7,
+    "powerCharges": 4,
+    "effectiveHealthPool": 41522,
+    "physicalMaximumHitTaken": 7616,
+    "fireMaximumHitTaken": 26207,
+    "coldMaximumHitTaken": 26207,
+    "lightningMaximumHitTaken": 26207,
+    "chaosMaximumHitTaken": 6295,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 31,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 37,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 15,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 10,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 23,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 99,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 73,
+    "manaReserved": 1019,
+    "evadeChance": 94,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 8,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 0,
+      "fire": 10,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 6295
+  },
+  "keyStones": [
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 11,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Reap",
+        "Empower Support",
+        "High-Impact Mine Support",
+        "Minefield Support",
+        "Charged Mines Support",
+        "Trap and Mine Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Arcanist Brand",
+        "Faster Casting Support",
+        "Vaal Reap",
+        "Assassin's Mark"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Zealotry",
+        "Enlighten Support",
+        "Grace",
+        "Hatred"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Shield Charge",
+        "Lifetap Support",
+        "Flame Dash",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Summon Skitterbots",
+        "Enlighten Support",
+        "Bonechill Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Detonate Mines",
+        "Steelskin",
+        "Automation"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Reap",
+    "Empower Support",
+    "High-Impact Mine Support",
+    "Minefield Support",
+    "Charged Mines Support",
+    "Trap and Mine Damage Support",
+    "Arcanist Brand",
+    "Faster Casting Support",
+    "Vaal Reap",
+    "Assassin's Mark",
+    "Zealotry",
+    "Enlighten Support",
+    "Grace",
+    "Hatred",
+    "Shield Charge",
+    "Lifetap Support",
+    "Flame Dash",
+    "Faster Attacks Support",
+    "Summon Skitterbots",
+    "Enlighten Support",
+    "Bonechill Support",
+    "Detonate Mines",
+    "Steelskin",
+    "Automation"
+  ],
+  "items": [
+    {
+      "name": "Torment Charm",
+      "typeLine": "Omen Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Viper Knuckle",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Hate Suit",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Heatshiver",
+      "typeLine": "Leather Hood",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Null's Inclination",
+      "typeLine": "Ranger Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Torment Urge",
+      "typeLine": "Velour Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Havoc Hold",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Maelström Pith",
+      "typeLine": "Chiming Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Pain Whorl",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-20T09:11:23.012513Z"
+}

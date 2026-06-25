@@ -1,0 +1,219 @@
+{
+  "account": "Ai_Avenger6-2315",
+  "name": "MISTER_PUDGE",
+  "league": "Mirage",
+  "level": 88,
+  "class": "Marauder",
+  "ascendancy": null,
+  "secondaryAscendancy": null,
+  "pantheonMajor": null,
+  "pantheonMinor": null,
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 5111,
+    "energyShield": 0,
+    "mana": 728,
+    "ward": 0,
+    "movementSpeed": 210,
+    "lifeRegen": 226,
+    "evasionRating": 57,
+    "armour": 3894,
+    "strength": 781,
+    "dexterity": 135,
+    "intelligence": 122,
+    "enduranceCharges": 5,
+    "frenzyCharges": 4,
+    "powerCharges": 3,
+    "effectiveHealthPool": 6380,
+    "physicalMaximumHitTaken": 5797,
+    "fireMaximumHitTaken": 4822,
+    "coldMaximumHitTaken": 5324,
+    "lightningMaximumHitTaken": 8379,
+    "chaosMaximumHitTaken": 20444,
+    "fireResistance": -3,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 77,
+    "coldResistance": 7,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 76,
+    "lightningResistance": 42,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 76,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 8,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 25,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 728,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 26,
+        "max": 90,
+        "effectiveAppliedArmour": 3894,
+        "base": 0,
+        "takenDamage": 2274
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 4822
+  },
+  "keyStones": [
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    },
+    {
+      "name": "Point Blank",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePointBlankArcher.webp",
+      "stats": [
+        "Projectile Attack Hits deal up to 30% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther"
+      ]
+    }
+  ],
+  "masteriesCount": 2,
+  "passiveCount": 93,
+  "skillGroups": [
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Autoexertion",
+        "Intimidating Cry",
+        "Seismic Cry",
+        "Herald of Ash"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Leap Slam",
+        "Momentum Support",
+        "Faster Attacks Support",
+        "Blood Rage"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Purity of Elements",
+        "Flesh and Stone"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Frostblink",
+        "Pride"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Shield Charge"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Autoexertion",
+    "Intimidating Cry",
+    "Seismic Cry",
+    "Herald of Ash",
+    "Leap Slam",
+    "Momentum Support",
+    "Faster Attacks Support",
+    "Blood Rage",
+    "Purity of Elements",
+    "Flesh and Stone",
+    "Frostblink",
+    "Pride",
+    "Shield Charge"
+  ],
+  "items": [
+    {
+      "name": "Brood Knuckle",
+      "typeLine": "Topaz Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Skull Idol",
+      "typeLine": "Agate Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Kaom's Heart",
+      "typeLine": "Glorious Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Carrion Bond",
+      "typeLine": "Heavy Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Rune Sunder",
+      "typeLine": "Timber Axe",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "",
+      "typeLine": "Goathide Buckler",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Thrillsteel",
+      "typeLine": "Barbute Helmet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Grim Grip",
+      "typeLine": "Bronze Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Seven-League Step",
+      "typeLine": "Rawhide Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Golem Band",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 3,
+  "lastCheckedUtc": "2026-06-13T20:24:07.534049Z"
+}

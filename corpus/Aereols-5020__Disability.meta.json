@@ -1,0 +1,244 @@
+{
+  "account": "Aereols-5020",
+  "name": "Disability",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Champion",
+  "ascendancy": "Champion",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3883,
+    "energyShield": 0,
+    "mana": 759,
+    "ward": 0,
+    "movementSpeed": 159,
+    "lifeRegen": 345,
+    "evasionRating": 79652,
+    "armour": 90303,
+    "strength": 227,
+    "dexterity": 263,
+    "intelligence": 165,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 538333,
+    "physicalMaximumHitTaken": 32649,
+    "fireMaximumHitTaken": 118247,
+    "coldMaximumHitTaken": 118247,
+    "lightningMaximumHitTaken": 118247,
+    "chaosMaximumHitTaken": 23015,
+    "fireResistance": 87,
+    "fireResistanceOverCap": 33,
+    "fireResistanceMax": 0,
+    "coldResistance": 87,
+    "coldResistanceOverCap": 30,
+    "coldResistanceMax": 0,
+    "lightningResistance": 87,
+    "lightningResistanceOverCap": 48,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 32,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 68,
+    "spellBlockChance": 55,
+    "spellSuppressionChance": 91,
+    "spellDodgeChance": 0,
+    "itemRarity": 19,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 23015
+  },
+  "keyStones": [
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 117,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Smite",
+        "Inspiration Support",
+        "Volatility Support",
+        "Elemental Damage with Attacks Support",
+        "Invert the Rules Support",
+        "Greater Multistrike Support",
+        "Increased Critical Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Automation",
+        "More Duration Support",
+        "Vaal Molten Shell",
+        "Vaal Smite"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Sigil of Power",
+        "Mark On Hit Support",
+        "Assassin's Mark",
+        "Whirling Blades"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Wrath",
+        "Determination",
+        "Grace",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Enduring Cry",
+        "Frostblink",
+        "Urgent Orders Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Precision",
+        "Blood Rage",
+        "Arrogance Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Smite",
+    "Inspiration Support",
+    "Volatility Support",
+    "Elemental Damage with Attacks Support",
+    "Invert the Rules Support",
+    "Greater Multistrike Support",
+    "Increased Critical Damage Support",
+    "Automation",
+    "More Duration Support",
+    "Vaal Molten Shell",
+    "Vaal Smite",
+    "Sigil of Power",
+    "Mark On Hit Support",
+    "Assassin's Mark",
+    "Whirling Blades",
+    "Wrath",
+    "Determination",
+    "Grace",
+    "Enlighten Support",
+    "Enduring Cry",
+    "Frostblink",
+    "Urgent Orders Support",
+    "Precision",
+    "Blood Rage",
+    "Arrogance Support"
+  ],
+  "items": [
+    {
+      "name": "Oblivion Shelter",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Chimeric Knuckle",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Celestial Brace",
+      "typeLine": "Goliath Gauntlets",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Perseverance",
+      "typeLine": "Vanguard Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Hate Peak",
+      "typeLine": "Haunted Bascinet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Utmost",
+      "typeLine": "Gold Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Dragon Wind",
+      "typeLine": "Highborn Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Grim Trinket",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Gale Track",
+      "typeLine": "Chimerascale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Demon Scalpel",
+      "typeLine": "Anarchic Spiritblade",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Vortex Hunger",
+      "typeLine": "Anarchic Spiritblade",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Kraken Coil",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-22T16:02:36.205736Z"
+}

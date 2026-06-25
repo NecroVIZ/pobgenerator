@@ -1,0 +1,259 @@
+{
+  "account": "ssaltong21-3386",
+  "name": "일지뽑기",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 16439,
+    "energyShield": 0,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 207,
+    "lifeRegen": 460,
+    "evasionRating": 6713,
+    "armour": 1618,
+    "strength": 208,
+    "dexterity": 178,
+    "intelligence": 160,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 114987,
+    "physicalMaximumHitTaken": 16756,
+    "fireMaximumHitTaken": 60885,
+    "coldMaximumHitTaken": 58711,
+    "lightningMaximumHitTaken": 58711,
+    "chaosMaximumHitTaken": 65756,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 5,
+    "fireResistanceMax": 76,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 5,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 25,
+    "spellBlockChance": 14,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 54,
+    "itemRarity": 15,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 44,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 16756
+  },
+  "keyStones": [
+    {
+      "name": "Eternal Youth",
+      "icon": "Art/2DArt/SkillIcons/passives/EternalYouth.webp",
+      "stats": [
+        "50% less Life Regeneration Rate\n50% less maximum Total Life Recovery per Second from Leech\nEnergy Shield Recharge instead applies to Life"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Acrobatics",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneAcrobatics.webp",
+      "stats": [
+        "Modifiers to Chance to Suppress Spell Damage instead apply to Chance to Dodge Spell Hits at 50% of their value\nMaximum Chance to Dodge Spell Hits is 75%"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 126,
+  "skillGroups": [
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Spark of the Nova",
+        "Increased Critical Damage Support",
+        "Greater Fork Support",
+        "Greater Spell Echo Support",
+        "Faster Projectiles Support",
+        "Faster Casting Support",
+        "Sacrifice Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Raise Spectre",
+        "Elemental Army Support",
+        "Minion Life Support",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vaal Grace",
+        "Empower Support",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink",
+        "Faster Attacks Support",
+        "Shield Charge"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Wither",
+        "Spell Totem Support",
+        "Multiple Totems Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Spark of the Nova",
+    "Increased Critical Damage Support",
+    "Greater Fork Support",
+    "Greater Spell Echo Support",
+    "Faster Projectiles Support",
+    "Faster Casting Support",
+    "Sacrifice Support",
+    "Raise Spectre",
+    "Elemental Army Support",
+    "Minion Life Support",
+    "Meat Shield Support",
+    "Vaal Grace",
+    "Empower Support",
+    "Eternal Blessing Support",
+    "Convocation",
+    "Frostblink",
+    "Faster Attacks Support",
+    "Shield Charge",
+    "Wither",
+    "Spell Totem Support",
+    "Multiple Totems Support"
+  ],
+  "items": [
+    {
+      "name": "Dragon Weaver",
+      "typeLine": "Prophecy Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Glyph Caress",
+      "typeLine": "Fingerless Silk Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Pain Coil",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Rathpith Globe",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Malachai's Simula",
+      "typeLine": "Iron Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "",
+      "typeLine": "Goathide Buckler",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Rage Gyre",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Marylene's Fallacy",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Kaom's Heart",
+      "typeLine": "Glorious Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Golem Road",
+      "typeLine": "Velour Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-20T21:26:23.953809Z"
+}

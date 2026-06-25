@@ -1,0 +1,257 @@
+{
+  "account": "retrogram-9326",
+  "name": "VENOMSUCC",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3401,
+    "energyShield": 8038,
+    "mana": 884,
+    "ward": 373,
+    "movementSpeed": 226,
+    "lifeRegen": 968,
+    "evasionRating": 32,
+    "armour": 1268,
+    "strength": 13,
+    "dexterity": 54,
+    "intelligence": 47,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 579676,
+    "physicalMaximumHitTaken": 13673,
+    "fireMaximumHitTaken": 107401,
+    "coldMaximumHitTaken": 107401,
+    "lightningMaximumHitTaken": 107401,
+    "chaosMaximumHitTaken": 18232,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 40,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 41,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 42,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 77,
+    "chaosResistanceOverCap": 52,
+    "chaosResistanceMax": 77,
+    "blockChance": 89,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 230,
+    "lifeReserved": 0,
+    "manaReserved": 884,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 13673
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 98,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Vaal Reap",
+        "Brutality Support",
+        "Swift Affliction Support",
+        "Corrupting Fever",
+        "Awakened Empower Support",
+        "Eclipse Support",
+        "Efficacy Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Bladefall of Trarthus",
+        "Summon Chaos Golem",
+        "Summon Lightning Golem",
+        "Summon Flame Golem",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vulnerability",
+        "Spell Echo Support",
+        "Faster Casting Support",
+        "Frostblink of Wintry Blast",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Pride",
+        "Tempest Shield",
+        "Herald of Ash",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Herald of Thunder",
+        "Herald of Purity",
+        "Summon Stone Golem of Safeguarding"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Summon Carrion Golem of Hordes",
+        "Summon Stone Golem",
+        "Congregation Support"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Aspect of the Cat"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Vaal Reap",
+    "Brutality Support",
+    "Swift Affliction Support",
+    "Corrupting Fever",
+    "Awakened Empower Support",
+    "Eclipse Support",
+    "Efficacy Support",
+    "Bladefall of Trarthus",
+    "Summon Chaos Golem",
+    "Summon Lightning Golem",
+    "Summon Flame Golem",
+    "Lifetap Support",
+    "Vulnerability",
+    "Spell Echo Support",
+    "Faster Casting Support",
+    "Frostblink of Wintry Blast",
+    "Lifetap Support",
+    "Pride",
+    "Tempest Shield",
+    "Herald of Ash",
+    "Enlighten Support",
+    "Herald of Thunder",
+    "Herald of Purity",
+    "Summon Stone Golem of Safeguarding",
+    "Summon Carrion Golem of Hordes",
+    "Summon Stone Golem",
+    "Congregation Support",
+    "Aspect of the Cat",
+    "Herald of the Hive"
+  ],
+  "items": [
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "The Primordial Chain",
+      "typeLine": "Coral Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Ghoul Spark",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "",
+      "typeLine": "Short Bow of Craft",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Loath Knot",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Spirit Spire",
+      "typeLine": "Synthesised Convening Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Pandemonium Touch",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Morbid Ward",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Dark Monarch",
+      "typeLine": "Lich's Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 13,
+  "lastCheckedUtc": "2026-06-20T06:07:15.549287Z"
+}

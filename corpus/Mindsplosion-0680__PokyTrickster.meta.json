@@ -1,0 +1,234 @@
+{
+  "account": "Mindsplosion-0680",
+  "name": "PokyTrickster",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Saresh Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1335,
+    "energyShield": 342,
+    "mana": 868,
+    "ward": 0,
+    "movementSpeed": 257,
+    "lifeRegen": 253,
+    "evasionRating": 6055,
+    "armour": 162,
+    "strength": 83,
+    "dexterity": 98,
+    "intelligence": 302,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 10,
+    "effectiveHealthPool": 805,
+    "physicalMaximumHitTaken": 588,
+    "fireMaximumHitTaken": 1073,
+    "coldMaximumHitTaken": 641,
+    "lightningMaximumHitTaken": 664,
+    "chaosMaximumHitTaken": 157,
+    "fireResistance": 51,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 0,
+    "coldResistance": 16,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 0,
+    "lightningResistance": 19,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 0,
+    "chaosResistance": -38,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 157
+  },
+  "keyStones": [
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 106,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Cold Snap of Power",
+        "Power Charge On Critical Support",
+        "Elemental Focus Support",
+        "Greater Spell Echo Support",
+        "Minion Pact Support",
+        "Concentrated Effect Support",
+        "Increased Critical Strikes Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostbite",
+        "Cursed Ground Support",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Elemental Weakness",
+        "Blasphemy Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Hatred",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Fire",
+        "Zealotry"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Raise Spectre",
+        "Minion Life Support",
+        "Empower Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Cold Snap of Power",
+    "Power Charge On Critical Support",
+    "Elemental Focus Support",
+    "Greater Spell Echo Support",
+    "Minion Pact Support",
+    "Concentrated Effect Support",
+    "Increased Critical Strikes Support",
+    "Frostbite",
+    "Cursed Ground Support",
+    "Faster Casting Support",
+    "Elemental Weakness",
+    "Blasphemy Support",
+    "Hatred",
+    "Arrogance Support",
+    "Purity of Fire",
+    "Zealotry",
+    "Raise Spectre",
+    "Minion Life Support",
+    "Empower Support"
+  ],
+  "items": [
+    {
+      "name": "Ghoul Remnant",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Foulborn Romira's Banquet",
+      "typeLine": "Diamond Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Annihilating Light",
+      "typeLine": "Quarterstaff",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Eyes of the Greatwolf",
+      "typeLine": "Greatwolf Talisman",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Dialla's Malefaction",
+      "typeLine": "Sage's Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Golem Guide",
+      "typeLine": "Decimation Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Foulborn Romira's Banquet",
+      "typeLine": "Diamond Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Wraithlord",
+      "typeLine": "Bone Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Maelström Clutches",
+      "typeLine": "Zealot Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 19,
+  "lastCheckedUtc": "2026-06-25T05:17:08.511042Z"
+}

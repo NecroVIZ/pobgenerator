@@ -1,0 +1,288 @@
+{
+  "account": "MugglyPOE-3993",
+  "name": "MugglyZen",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 7221,
+    "energyShield": 401,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 200,
+    "lifeRegen": 1044,
+    "evasionRating": 28,
+    "armour": 4433,
+    "strength": 2565,
+    "dexterity": 203,
+    "intelligence": 157,
+    "enduranceCharges": 7,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 51421,
+    "physicalMaximumHitTaken": 13379,
+    "fireMaximumHitTaken": 56544,
+    "coldMaximumHitTaken": 53568,
+    "lightningMaximumHitTaken": 53568,
+    "chaosMaximumHitTaken": 17033,
+    "fireResistance": 85,
+    "fireResistanceOverCap": 5,
+    "fireResistanceMax": 85,
+    "coldResistance": 84,
+    "coldResistanceOverCap": 9,
+    "coldResistanceMax": 84,
+    "lightningResistance": 84,
+    "lightningResistanceOverCap": 15,
+    "lightningResistanceMax": 84,
+    "chaosResistance": 62,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 51,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": -36,
+    "energyShieldRegen": 0,
+    "lifeReserved": 2949,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 70,
+        "max": 90,
+        "effectiveAppliedArmour": 4433,
+        "base": 42,
+        "takenDamage": 2247
+      },
+      "fire": {
+        "value": 28,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 28,
+        "takenDamage": 2247
+      },
+      "cold": {
+        "value": 28,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 28,
+        "takenDamage": 2247
+      },
+      "lightning": {
+        "value": 28,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 28,
+        "takenDamage": 2247
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 13379
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Precise Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/PreciseTechnique.webp",
+      "stats": [
+        "40% more Attack Damage if Accuracy Rating is higher than Maximum Life\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Point Blank",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePointBlankArcher.webp",
+      "stats": [
+        "Projectile Attack Hits deal up to 30% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Molten Strike of the Zenith",
+        "Void Manipulation Support",
+        "Greater Multistrike Support",
+        "Greater Multiple Projectiles Support",
+        "Volatility Support",
+        "Slower Projectiles Support",
+        "Endurance Charge on Melee Stun Support",
+        "Fortify Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Sniper's Mark",
+        "Purity of Elements",
+        "Eternal Blessing Support",
+        "Mark On Hit Support",
+        "Cast when Damage Taken Support",
+        "Immortal Call"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Leap Slam",
+        "Culling Strike Support",
+        "Rage Support",
+        "Despair",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Blood Rage",
+        "Withering Step",
+        "Enhance Support",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vitality",
+        "Pride",
+        "Enlighten Support",
+        "Berserk"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Molten Strike of the Zenith",
+    "Void Manipulation Support",
+    "Greater Multistrike Support",
+    "Greater Multiple Projectiles Support",
+    "Volatility Support",
+    "Slower Projectiles Support",
+    "Endurance Charge on Melee Stun Support",
+    "Fortify Support",
+    "Sniper's Mark",
+    "Purity of Elements",
+    "Eternal Blessing Support",
+    "Mark On Hit Support",
+    "Cast when Damage Taken Support",
+    "Immortal Call",
+    "Leap Slam",
+    "Culling Strike Support",
+    "Rage Support",
+    "Despair",
+    "Faster Attacks Support",
+    "Blood Rage",
+    "Withering Step",
+    "Enhance Support",
+    "Automation",
+    "Vitality",
+    "Pride",
+    "Enlighten Support",
+    "Berserk"
+  ],
+  "items": [
+    {
+      "name": "Brimstone Fist",
+      "typeLine": "Vaal Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Carrion Noose",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Rise of the Phoenix",
+      "typeLine": "Mosaic Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Soul Nail",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "The Iron Fortress",
+      "typeLine": "Crusader Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Cataclysm Skewer",
+      "typeLine": "Reaver Sword",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Nimis",
+      "typeLine": "Topaz Ring",
+      "frameType": 10,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Crown of Eyes",
+      "typeLine": "Hubris Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Ghoul Roar",
+      "typeLine": "Darkwood Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Replica Alberon's Warpath",
+      "typeLine": "Soldier Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-21T21:46:29.524181Z"
+}

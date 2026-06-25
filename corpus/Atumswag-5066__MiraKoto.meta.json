@@ -1,0 +1,295 @@
+{
+  "account": "Atumswag-5066",
+  "name": "MiraKoto",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Berserker",
+  "ascendancy": "Berserker",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 11580,
+    "energyShield": 5790,
+    "mana": 480,
+    "ward": 0,
+    "movementSpeed": 143,
+    "lifeRegen": 577,
+    "evasionRating": 447,
+    "armour": 2336,
+    "strength": 359,
+    "dexterity": 168,
+    "intelligence": 179,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 67724,
+    "physicalMaximumHitTaken": 27632,
+    "fireMaximumHitTaken": 99942,
+    "coldMaximumHitTaken": 96099,
+    "lightningMaximumHitTaken": 99942,
+    "chaosMaximumHitTaken": 53303,
+    "fireResistance": 78,
+    "fireResistanceOverCap": 20,
+    "fireResistanceMax": 78,
+    "coldResistance": 77,
+    "coldResistanceOverCap": 37,
+    "coldResistanceMax": 77,
+    "lightningResistance": 78,
+    "lightningResistanceOverCap": 12,
+    "lightningResistanceMax": 78,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 11,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": -290,
+    "lifeReserved": 0,
+    "manaReserved": 458,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 42,
+        "max": 90,
+        "effectiveAppliedArmour": 2336,
+        "base": 26,
+        "takenDamage": 2274
+      },
+      "fire": {
+        "value": 20,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 20,
+        "takenDamage": 2279
+      },
+      "cold": {
+        "value": 20,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 20,
+        "takenDamage": 2274
+      },
+      "lightning": {
+        "value": 20,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 20,
+        "takenDamage": 2274
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 27632
+  },
+  "keyStones": [
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    },
+    {
+      "name": "Immortal Ambition",
+      "icon": "Art/2DArt/SkillIcons/passives/SoulTetherKeystone.webp",
+      "stats": [
+        "Energy Shield starts at zero",
+        "Cannot Recharge or Regenerate Energy Shield",
+        "Lose 5% of Energy Shield per second",
+        "Life Leech effects are not removed when Unreserved Life is Filled",
+        "Life Leech effects Recover Energy Shield instead while on Full Life"
+      ]
+    }
+  ],
+  "masteriesCount": 13,
+  "passiveCount": 127,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Smite of Divine Judgement",
+        "Greater Multistrike Support",
+        "Volatility Support",
+        "Elemental Damage with Attacks Support",
+        "Cruelty Support",
+        "Invert the Rules Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Portal"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Berserk"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flesh and Stone"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Leap Slam",
+        "Faster Attacks Support",
+        "Lifetap Support",
+        "Burning Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Energy Blade",
+        "Awakened Enhance Support",
+        "Blood Rage",
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Poacher's Mark",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Vitality"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Smite of Divine Judgement",
+    "Greater Multistrike Support",
+    "Volatility Support",
+    "Elemental Damage with Attacks Support",
+    "Cruelty Support",
+    "Invert the Rules Support",
+    "Lifetap Support",
+    "Frostblink",
+    "Portal",
+    "Precision",
+    "Berserk",
+    "Flesh and Stone",
+    "Leap Slam",
+    "Faster Attacks Support",
+    "Lifetap Support",
+    "Burning Damage Support",
+    "Energy Blade",
+    "Awakened Enhance Support",
+    "Blood Rage",
+    "Purity of Elements",
+    "Poacher's Mark",
+    "Mark On Hit Support",
+    "Vitality"
+  ],
+  "items": [
+    {
+      "name": "Brimstone Clutches",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Voice of the Storm",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Behemoth Road",
+      "typeLine": "Paladin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Kraken Whorl",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Ghostwrithe",
+      "typeLine": "Silken Vest",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Fate Loop",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Sinvicta's Mettle",
+      "typeLine": "Ezomyte Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "",
+      "typeLine": "Energy Blade",
+      "frameType": 0,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Wrath Finger",
+      "typeLine": "Vermillion Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-23T07:16:39.465296Z"
+}

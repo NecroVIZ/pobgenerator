@@ -1,0 +1,252 @@
+{
+  "account": "Bimme700-2898",
+  "name": "BillsManaman",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Hierophant",
+  "ascendancy": "Hierophant",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4704,
+    "energyShield": 3034,
+    "mana": 873,
+    "ward": 0,
+    "movementSpeed": 218,
+    "lifeRegen": 446,
+    "evasionRating": 22,
+    "armour": 75148,
+    "strength": 326,
+    "dexterity": 118,
+    "intelligence": 217,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 5,
+    "effectiveHealthPool": 62030,
+    "physicalMaximumHitTaken": 24553,
+    "fireMaximumHitTaken": 39443,
+    "coldMaximumHitTaken": 48018,
+    "lightningMaximumHitTaken": 39443,
+    "chaosMaximumHitTaken": 23205,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 30,
+    "fireResistanceMax": 75,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 24,
+    "coldResistanceMax": 80,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 38,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 35,
+    "chaosResistanceMax": 75,
+    "blockChance": 76,
+    "spellBlockChance": 75,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 44,
+    "energyShieldRegen": 0,
+    "lifeReserved": 353,
+    "manaReserved": 751,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 93,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 7,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 23205
+  },
+  "keyStones": [
+    {
+      "name": "Ancestral Bond",
+      "icon": "Art/2DArt/SkillIcons/passives/totemmax.webp",
+      "stats": [
+        "You can't deal Damage with Skills yourself\n+1 to maximum number of Summoned Totems"
+      ]
+    },
+    {
+      "name": "Glancing Blows",
+      "icon": "Art/2DArt/SkillIcons/passives/GlancingBlows.webp",
+      "stats": [
+        "Chance to Block Attack Damage is doubled\nChance to Block Spell Damage is doubled\nYou take 65% of Damage from Blocked Hits"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 127,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Fusillade",
+        "Invert the Rules Support",
+        "Less Duration Support",
+        "Ballista Totem Support",
+        "Greater Volley Support",
+        "Increased Critical Damage Support",
+        "Elemental Damage with Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Frenzy",
+        "Momentum Support",
+        "Faster Attacks Support",
+        "Shield Charge"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Arcanist Brand",
+        "Sniper's Mark",
+        "Flame Wall",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Anger",
+        "Enlighten Support",
+        "Determination",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink",
+        "Arrogance Support",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Molten Shell",
+        "Cast when Damage Taken Support",
+        "More Duration Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Fusillade",
+    "Invert the Rules Support",
+    "Less Duration Support",
+    "Ballista Totem Support",
+    "Greater Volley Support",
+    "Increased Critical Damage Support",
+    "Elemental Damage with Attacks Support",
+    "Frenzy",
+    "Momentum Support",
+    "Faster Attacks Support",
+    "Shield Charge",
+    "Arcanist Brand",
+    "Sniper's Mark",
+    "Flame Wall",
+    "More Duration Support",
+    "Anger",
+    "Enlighten Support",
+    "Determination",
+    "Tempest Shield",
+    "Frostblink",
+    "Arrogance Support",
+    "Precision",
+    "Molten Shell",
+    "Cast when Damage Taken Support",
+    "More Duration Support"
+  ],
+  "items": [
+    {
+      "name": "Victory Glance",
+      "typeLine": "Paladin Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Death Twirl",
+      "typeLine": "Dusk Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Death Caress",
+      "typeLine": "Paladin Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Ghoul Bane",
+      "typeLine": "Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Aegis Aurora",
+      "typeLine": "Champion Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Yoke of Suffering",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Wrath Coil",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Vortex Bond",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Behemoth Hoof",
+      "typeLine": "Paladin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Brimstone Gnarl",
+      "typeLine": "Convoking Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Demon Goad",
+      "typeLine": "Omen Wand",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Morbid Carapace",
+      "typeLine": "Sacred Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-21T09:31:39.727089Z"
+}

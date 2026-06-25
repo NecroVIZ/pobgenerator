@@ -1,0 +1,178 @@
+{
+  "account": "Adamolski-5388",
+  "name": "CNLXUIBUDESH",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Guardian",
+  "ascendancy": "Guardian",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": null,
+  "pantheonMinor": null,
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 8371,
+    "mana": 31240,
+    "ward": 0,
+    "movementSpeed": 224,
+    "lifeRegen": 0,
+    "evasionRating": 0,
+    "armour": 67635,
+    "strength": 192,
+    "dexterity": 155,
+    "intelligence": 1070,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 9809,
+    "physicalMaximumHitTaken": 15621,
+    "fireMaximumHitTaken": 8906,
+    "coldMaximumHitTaken": 5814,
+    "lightningMaximumHitTaken": 5265,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 9,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 75,
+    "coldResistance": -41,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": -56,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 53,
+    "energyShieldRegen": 676,
+    "lifeReserved": 0,
+    "manaReserved": 31240,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5265
+  },
+  "keyStones": [
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 1,
+  "passiveCount": 108,
+  "skillGroups": [
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flesh and Stone",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Raise Spectre",
+        "Meat Shield Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Flesh and Stone",
+    "Inspiration Support",
+    "Malevolence",
+    "Raise Spectre",
+    "Meat Shield Support"
+  ],
+  "items": [
+    {
+      "name": "Death Buckle",
+      "typeLine": "Synthesised Heavy Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Rift Fingers",
+      "typeLine": "Soldier Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Shavronne's Revelation",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Replica Kaom's Heart",
+      "typeLine": "Glorious Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Tempest Song",
+      "typeLine": "Demon's Horn",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Storm Band",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Memory Vault",
+      "typeLine": "Praetor Crown",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Sol Cry",
+      "typeLine": "Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Untouched Soul",
+      "typeLine": "Gold Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Foe League",
+      "typeLine": "Synthesised Conjurer Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 10,
+  "lastCheckedUtc": "2026-06-22T19:03:40.659281Z"
+}

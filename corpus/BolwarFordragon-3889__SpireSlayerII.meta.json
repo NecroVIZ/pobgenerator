@@ -1,0 +1,263 @@
+{
+  "account": "BolwarFordragon-3889",
+  "name": "SpireSlayerII",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Chieftain",
+  "ascendancy": "Chieftain",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 7686,
+    "energyShield": 184,
+    "mana": 771,
+    "ward": 0,
+    "movementSpeed": 209,
+    "lifeRegen": 2278,
+    "evasionRating": 413,
+    "armour": 10780,
+    "strength": 306,
+    "dexterity": 131,
+    "intelligence": 133,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 82165,
+    "physicalMaximumHitTaken": 19924,
+    "fireMaximumHitTaken": 72070,
+    "coldMaximumHitTaken": 72070,
+    "lightningMaximumHitTaken": 72070,
+    "chaosMaximumHitTaken": 22606,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 96,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 52,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 10,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 66,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 75,
+    "spellBlockChance": 75,
+    "spellSuppressionChance": 10,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 723,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 60,
+      "lightning": 0,
+      "fire": 40,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 19924
+  },
+  "keyStones": [
+    {
+      "name": "Glancing Blows",
+      "icon": "Art/2DArt/SkillIcons/passives/GlancingBlows.webp",
+      "stats": [
+        "Chance to Block Attack Damage is doubled\nChance to Block Spell Damage is doubled\nYou take 65% of Damage from Blocked Hits"
+      ]
+    }
+  ],
+  "masteriesCount": 13,
+  "passiveCount": 133,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Righteous Fire",
+        "Efficacy Support",
+        "Lifetap Support",
+        "Swift Affliction Support",
+        "Elemental Focus Support",
+        "Burning Damage Support",
+        "Concentrated Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Fire Trap",
+        "Trap and Mine Damage Support",
+        "Swift Affliction Support",
+        "Lifetap Support",
+        "Burning Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Flesh and Stone",
+        "Purity of Fire",
+        "Searing Bond of Detonation",
+        "Summon Skitterbots"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Punishment",
+        "Lifetap Support",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Shield Charge",
+        "Lifetap Support",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Righteous Fire",
+        "Righteous Fire",
+        "Righteous Fire"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Righteous Fire",
+        "Righteous Fire"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Righteous Fire"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Tempest Shield",
+        "Approaching Flames"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Righteous Fire",
+    "Efficacy Support",
+    "Lifetap Support",
+    "Swift Affliction Support",
+    "Elemental Focus Support",
+    "Burning Damage Support",
+    "Concentrated Effect Support",
+    "Fire Trap",
+    "Trap and Mine Damage Support",
+    "Swift Affliction Support",
+    "Lifetap Support",
+    "Burning Damage Support",
+    "Flesh and Stone",
+    "Purity of Fire",
+    "Searing Bond of Detonation",
+    "Summon Skitterbots",
+    "Punishment",
+    "Lifetap Support",
+    "Frostblink",
+    "Shield Charge",
+    "Lifetap Support",
+    "Momentum Support",
+    "Righteous Fire",
+    "Righteous Fire",
+    "Righteous Fire",
+    "Righteous Fire",
+    "Righteous Fire",
+    "Righteous Fire",
+    "Tempest Shield",
+    "Approaching Flames"
+  ],
+  "items": [
+    {
+      "name": "Cloak of Flame",
+      "typeLine": "Scholar's Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Immortal Flesh",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 10,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Annihilation's Approach",
+      "typeLine": "Dragonscale Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Demon Glance",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Havoc Spiral",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Viper Touch",
+      "typeLine": "Precursor Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Glyph Duty",
+      "typeLine": "Bronze Tower Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Behemoth Gnarl",
+      "typeLine": "Karui Sceptre",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Golem Crack",
+      "typeLine": "Carnal Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Onslaught Gyre",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Sol Pendant",
+      "typeLine": "Citrine Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 3,
+  "lastCheckedUtc": "2026-06-20T03:05:13.650004Z"
+}

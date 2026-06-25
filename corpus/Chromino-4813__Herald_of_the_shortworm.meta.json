@@ -1,0 +1,289 @@
+{
+  "account": "Chromino-4813",
+  "name": "Herald_of_the_shortworm",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Trickster",
+  "ascendancy": "Trickster",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2543,
+    "energyShield": 1920,
+    "mana": 1081,
+    "ward": 1094,
+    "movementSpeed": 144,
+    "lifeRegen": 12,
+    "evasionRating": 10565,
+    "armour": 4910,
+    "strength": 152,
+    "dexterity": 186,
+    "intelligence": 195,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 55708,
+    "physicalMaximumHitTaken": 7269,
+    "fireMaximumHitTaken": 45748,
+    "coldMaximumHitTaken": 45748,
+    "lightningMaximumHitTaken": 45748,
+    "chaosMaximumHitTaken": 19793,
+    "fireResistance": 89,
+    "fireResistanceOverCap": 4,
+    "fireResistanceMax": 89,
+    "coldResistance": 89,
+    "coldResistanceOverCap": 24,
+    "coldResistanceMax": 89,
+    "lightningResistance": 89,
+    "lightningResistanceOverCap": 52,
+    "lightningResistanceMax": 89,
+    "chaosResistance": 70,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 32,
+    "spellBlockChance": 26,
+    "spellSuppressionChance": 99,
+    "spellDodgeChance": 0,
+    "itemRarity": 23,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 951,
+    "evadeChance": 56,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 30,
+        "max": 90,
+        "effectiveAppliedArmour": 4910,
+        "base": 0,
+        "takenDamage": 2265
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 7269
+  },
+  "keyStones": [
+    {
+      "name": "Wicked Ward",
+      "icon": "Art/2DArt/SkillIcons/passives/Occultist/EldrichBarrier.webp",
+      "stats": [
+        "Energy Shield Recharge is not interrupted by Damage if Recharge began Recently\n40% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Lethe Shade",
+      "icon": "Art/2DArt/SkillIcons/passives/MomentofRespite.webp",
+      "stats": [
+        "Take 50% less Damage over Time if you've started taking Damage over Time in the past second\n100% more Duration of Ailments on you"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    },
+    {
+      "name": "Supreme Decadence",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeDecadence.webp",
+      "stats": [
+        "Life Recovery from Flasks also applies to Energy Shield",
+        "30% less Life Recovery from Flasks"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 82,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Herald of Agony",
+        "Empower Support",
+        "Vicious Projectiles Support",
+        "Minion Damage Support",
+        "Exemplar Support",
+        "Greater Fork Support",
+        "Void Manipulation Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frost Shield",
+        "Frost Wall",
+        "Spirit Offering",
+        "Void Sphere",
+        "Cast when Stunned Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vitality",
+        "Tempest Shield",
+        "Convocation",
+        "Holy Flame Totem",
+        "Multiple Totems Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Cyclone",
+        "Cast while Channelling Support",
+        "Ball Lightning of Orbiting",
+        "Tornado of Elemental Turbulence",
+        "Excommunicate Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Withering Step",
+        "Immortal Call",
+        "Automation",
+        "Discipline",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flesh and Stone",
+        "Animate Guardian",
+        "Raise Spectre",
+        "Feeding Frenzy Support"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Flame Dash",
+        "Second Wind Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Herald of Agony",
+    "Empower Support",
+    "Vicious Projectiles Support",
+    "Minion Damage Support",
+    "Exemplar Support",
+    "Greater Fork Support",
+    "Void Manipulation Support",
+    "Frost Shield",
+    "Frost Wall",
+    "Spirit Offering",
+    "Void Sphere",
+    "Cast when Stunned Support",
+    "Vitality",
+    "Tempest Shield",
+    "Convocation",
+    "Holy Flame Totem",
+    "Multiple Totems Support",
+    "Cyclone",
+    "Cast while Channelling Support",
+    "Ball Lightning of Orbiting",
+    "Tornado of Elemental Turbulence",
+    "Excommunicate Support",
+    "Withering Step",
+    "Immortal Call",
+    "Automation",
+    "Discipline",
+    "More Duration Support",
+    "Flesh and Stone",
+    "Animate Guardian",
+    "Raise Spectre",
+    "Feeding Frenzy Support",
+    "Flame Dash",
+    "Second Wind Support"
+  ],
+  "items": [
+    {
+      "name": "Empyrean Sole",
+      "typeLine": "Runic Sabatons",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Skin of the Loyal",
+      "typeLine": "Simple Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Corpse Gyre",
+      "typeLine": "Unset Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Ashes of the Stars",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Rift Visage",
+      "typeLine": "Harlequin Mask",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Triad Grip",
+      "typeLine": "Mesh Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Foulborn Aegis Aurora",
+      "typeLine": "Champion Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Circle of Ambition",
+      "typeLine": "Synthesised Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Maata's Teaching",
+      "typeLine": "Karui Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Onslaught Skewer",
+      "typeLine": "Tiger's Paw",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Dragon Duty",
+      "typeLine": "Lacewood Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 22,
+  "lastCheckedUtc": "2026-06-22T14:02:05.270617Z"
+}

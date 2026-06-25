@@ -1,0 +1,226 @@
+{
+  "account": "JestaPoE-4283",
+  "name": "Jesta",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 8864,
+    "energyShield": 1875,
+    "mana": 950,
+    "ward": 0,
+    "movementSpeed": 181,
+    "lifeRegen": 1070,
+    "evasionRating": 32,
+    "armour": 14288,
+    "strength": 3551,
+    "dexterity": 179,
+    "intelligence": 633,
+    "enduranceCharges": 7,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 226006,
+    "physicalMaximumHitTaken": 32064,
+    "fireMaximumHitTaken": 191377,
+    "coldMaximumHitTaken": 167455,
+    "lightningMaximumHitTaken": 167455,
+    "chaosMaximumHitTaken": 56893,
+    "fireResistance": 89,
+    "fireResistanceOverCap": 39,
+    "fireResistanceMax": 89,
+    "coldResistance": 87,
+    "coldResistanceOverCap": 45,
+    "coldResistanceMax": 87,
+    "lightningResistance": 87,
+    "lightningResistanceOverCap": 21,
+    "lightningResistanceMax": 87,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 11,
+    "chaosResistanceMax": 75,
+    "blockChance": 17,
+    "spellBlockChance": 44,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 836,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 93,
+      "lightning": 0,
+      "fire": 7,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 32064
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 117,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Heavy Strike of Trarthus",
+        "Void Manipulation Support",
+        "Ruthless Support",
+        "Greater Multistrike Support",
+        "Volatility Support",
+        "Greater Ancestral Call Support",
+        "Endurance Charge on Melee Stun Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Blood Rage",
+        "Companionship Support",
+        "Animate Guardian",
+        "Empower Support",
+        "Minion Life Support",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Leap Slam",
+        "Faster Attacks Support",
+        "Assassin's Mark",
+        "Lifetap Support",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flesh and Stone",
+        "Arctic Armour",
+        "Purity of Elements",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Withering Step",
+        "Enhance Support",
+        "More Duration Support",
+        "Molten Shell"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Heavy Strike of Trarthus",
+    "Void Manipulation Support",
+    "Ruthless Support",
+    "Greater Multistrike Support",
+    "Volatility Support",
+    "Greater Ancestral Call Support",
+    "Endurance Charge on Melee Stun Support",
+    "Lifetap Support",
+    "Blood Rage",
+    "Companionship Support",
+    "Animate Guardian",
+    "Empower Support",
+    "Minion Life Support",
+    "Meat Shield Support",
+    "Leap Slam",
+    "Faster Attacks Support",
+    "Assassin's Mark",
+    "Lifetap Support",
+    "Mark On Hit Support",
+    "Flesh and Stone",
+    "Arctic Armour",
+    "Purity of Elements",
+    "Enlighten Support",
+    "Withering Step",
+    "Enhance Support",
+    "More Duration Support",
+    "Molten Shell"
+  ],
+  "items": [
+    {
+      "name": "Doom Song",
+      "typeLine": "Lathi",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Damnation Grip",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Dire Pendant",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Loath Crown",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Foe Shroud",
+      "typeLine": "Sacred Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Apocalypse Fingers",
+      "typeLine": "Legion Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Replica Alberon's Warpath",
+      "typeLine": "Soldier Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-20T18:19:18.535633Z"
+}

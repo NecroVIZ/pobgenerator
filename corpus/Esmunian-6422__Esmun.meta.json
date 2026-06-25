@@ -1,0 +1,281 @@
+{
+  "account": "Esmunian-6422",
+  "name": "Esmun",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 8361,
+    "energyShield": 483,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 248,
+    "lifeRegen": 974,
+    "evasionRating": 28,
+    "armour": 3607,
+    "strength": 2393,
+    "dexterity": 200,
+    "intelligence": 162,
+    "enduranceCharges": 7,
+    "frenzyCharges": 4,
+    "powerCharges": 3,
+    "effectiveHealthPool": 117503,
+    "physicalMaximumHitTaken": 25069,
+    "fireMaximumHitTaken": 141846,
+    "coldMaximumHitTaken": 141846,
+    "lightningMaximumHitTaken": 141846,
+    "chaosMaximumHitTaken": 43133,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 5,
+    "fireResistanceMax": 90,
+    "coldResistance": -19,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": -17,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 20,
+    "chaosResistanceMax": 75,
+    "blockChance": 47,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 4031,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 25069
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Precise Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/PreciseTechnique.webp",
+      "stats": [
+        "40% more Attack Damage if Accuracy Rating is higher than Maximum Life\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Point Blank",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePointBlankArcher.webp",
+      "stats": [
+        "Projectile Attack Hits deal up to 30% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther"
+      ]
+    },
+    {
+      "name": "Tempered by War",
+      "icon": "Art/2DArt/SkillIcons/passives/TemperedByWar.webp",
+      "stats": [
+        "50% of Cold and Lightning Damage taken as Fire Damage",
+        "50% less Cold Resistance",
+        "50% less Lightning Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 118,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Molten Strike of the Zenith",
+        "Greater Multiple Projectiles Support",
+        "Void Manipulation Support",
+        "Volatility Support",
+        "Greater Multistrike Support",
+        "Slower Projectiles Support",
+        "Endurance Charge on Melee Stun Support",
+        "Fortify Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Withering Step",
+        "Blood Rage",
+        "Awakened Enhance Support",
+        "More Duration Support",
+        "Automation",
+        "Immortal Call",
+        "Efficacy Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Fire",
+        "Eternal Blessing Support",
+        "Leap Slam",
+        "Faster Attacks Support",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Sniper's Mark",
+        "Mark On Hit Support",
+        "Awakened Enhance Support",
+        "Despair"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Petrified Blood",
+        "Blood and Sand",
+        "Arctic Armour",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Enduring Cry",
+        "Urgent Orders Support",
+        "More Duration Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Molten Strike of the Zenith",
+    "Greater Multiple Projectiles Support",
+    "Void Manipulation Support",
+    "Volatility Support",
+    "Greater Multistrike Support",
+    "Slower Projectiles Support",
+    "Endurance Charge on Melee Stun Support",
+    "Fortify Support",
+    "Withering Step",
+    "Blood Rage",
+    "Awakened Enhance Support",
+    "More Duration Support",
+    "Automation",
+    "Immortal Call",
+    "Efficacy Support",
+    "Purity of Fire",
+    "Eternal Blessing Support",
+    "Leap Slam",
+    "Faster Attacks Support",
+    "Momentum Support",
+    "Sniper's Mark",
+    "Mark On Hit Support",
+    "Awakened Enhance Support",
+    "Despair",
+    "Petrified Blood",
+    "Blood and Sand",
+    "Arctic Armour",
+    "Enlighten Support",
+    "Enduring Cry",
+    "Urgent Orders Support",
+    "More Duration Support"
+  ],
+  "items": [
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Kraken Turn",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Miracle Grip",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Redblade Banner",
+      "typeLine": "Painted Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Al Dhih",
+      "typeLine": "Timeworn Claw",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Replica Alberon's Warpath",
+      "typeLine": "Soldier Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Nimis",
+      "typeLine": "Topaz Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Iron Fortress",
+      "typeLine": "Crusader Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Beast Bane",
+      "typeLine": "Reaver Sword",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Crown of Eyes",
+      "typeLine": "Hubris Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Rage Choker",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-21T03:27:20.743285Z"
+}

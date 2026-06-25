@@ -1,0 +1,288 @@
+{
+  "account": "slandapoe-5094",
+  "name": "兰达兰达",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Garukhan",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3635,
+    "energyShield": 0,
+    "mana": 1250,
+    "ward": 0,
+    "movementSpeed": 257,
+    "lifeRegen": 0,
+    "evasionRating": 1238,
+    "armour": 343,
+    "strength": 131,
+    "dexterity": 194,
+    "intelligence": 379,
+    "enduranceCharges": 3,
+    "frenzyCharges": 5,
+    "powerCharges": 5,
+    "effectiveHealthPool": 15285,
+    "physicalMaximumHitTaken": 3702,
+    "fireMaximumHitTaken": 24037,
+    "coldMaximumHitTaken": 32027,
+    "lightningMaximumHitTaken": 24037,
+    "chaosMaximumHitTaken": 2391,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 16,
+    "fireResistanceMax": 75,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 71,
+    "coldResistanceMax": 80,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 11,
+    "lightningResistanceMax": 75,
+    "chaosResistance": -52,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 23,
+    "spellBlockChance": 25,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 3045,
+    "manaReserved": 1062,
+    "evadeChance": 1,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 3,
+        "max": 90,
+        "effectiveAppliedArmour": 343,
+        "base": 0,
+        "takenDamage": 2274
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 2391
+  },
+  "keyStones": [
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 118,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Herald of Ash",
+        "Summon Flame Golem",
+        "Meat Shield Support",
+        "Summon Lightning Golem",
+        "Raise Spectre"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Herald of Purity"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Glacial Cascade of the Fissure",
+        "Charged Mines Support",
+        "High-Impact Mine Support",
+        "Minefield Support",
+        "Trap and Mine Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flame Dash",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Hatred",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Automation",
+        "Detonate Mines"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Summon Skitterbots",
+        "Unbound Ailments Support",
+        "Bonechill Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Arcanist Brand",
+        "Assassin's Mark",
+        "Frostbite"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Purity of Elements",
+        "Purity of Elements",
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Purity of Elements",
+        "Purity of Elements"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Purity of Elements"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Herald of Ash",
+    "Summon Flame Golem",
+    "Meat Shield Support",
+    "Summon Lightning Golem",
+    "Raise Spectre",
+    "Herald of Purity",
+    "Glacial Cascade of the Fissure",
+    "Charged Mines Support",
+    "High-Impact Mine Support",
+    "Minefield Support",
+    "Trap and Mine Damage Support",
+    "Flame Dash",
+    "Tempest Shield",
+    "Hatred",
+    "Arrogance Support",
+    "Automation",
+    "Detonate Mines",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Summon Skitterbots",
+    "Unbound Ailments Support",
+    "Bonechill Support",
+    "Arcanist Brand",
+    "Assassin's Mark",
+    "Frostbite",
+    "Purity of Elements",
+    "Purity of Elements",
+    "Purity of Elements",
+    "Purity of Elements",
+    "Purity of Elements",
+    "Purity of Elements"
+  ],
+  "items": [
+    {
+      "name": "Corruption Stride",
+      "typeLine": "Slink Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Cataclysm Wish",
+      "typeLine": "Harmonic Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Foulborn Tulborn",
+      "typeLine": "Opal Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Havoc Mantle",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Arkhon's Tools",
+      "typeLine": "Cloth Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Soul Halo",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Winterweave",
+      "typeLine": "Coral Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Blood Heart",
+      "typeLine": "Citrine Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "",
+      "typeLine": "Bone Spirit Shield",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "Empowering Blasting Wand of Electricity",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Dread Paw",
+      "typeLine": "Sharkskin Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-24T01:37:22.122135Z"
+}

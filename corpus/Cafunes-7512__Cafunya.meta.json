@@ -1,0 +1,234 @@
+{
+  "account": "Cafunes-7512",
+  "name": "Cafunya",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Slayer",
+  "ascendancy": "Slayer",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4355,
+    "energyShield": 47,
+    "mana": 786,
+    "ward": 0,
+    "movementSpeed": 161,
+    "lifeRegen": 167,
+    "evasionRating": 36363,
+    "armour": 6537,
+    "strength": 207,
+    "dexterity": 231,
+    "intelligence": 122,
+    "enduranceCharges": 7,
+    "frenzyCharges": 7,
+    "powerCharges": 3,
+    "effectiveHealthPool": 64451,
+    "physicalMaximumHitTaken": 11732,
+    "fireMaximumHitTaken": 34944,
+    "coldMaximumHitTaken": 34944,
+    "lightningMaximumHitTaken": 34944,
+    "chaosMaximumHitTaken": 26883,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 3,
+    "fireResistanceMax": 76,
+    "coldResistance": 76,
+    "coldResistanceOverCap": 4,
+    "coldResistanceMax": 76,
+    "lightningResistance": 76,
+    "lightningResistanceOverCap": 5,
+    "lightningResistanceMax": 76,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 76,
+    "blockChance": 37,
+    "spellBlockChance": 4,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 669,
+    "evadeChance": 83,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 484,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 94,
+      "lightning": 0,
+      "fire": 6,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 11732
+  },
+  "keyStones": [],
+  "masteriesCount": 6,
+  "passiveCount": 116,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Elemental Hit",
+        "Ruthless Support",
+        "Multistrike Support",
+        "Faster Attacks Support",
+        "Elemental Damage with Attacks Support",
+        "Increased Area of Effect Support",
+        "Inspiration Support",
+        "Trinity Support",
+        "Greater Ancestral Call Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Blood Rage",
+        "Cast when Damage Taken Support",
+        "Immortal Call",
+        "More Duration Support",
+        "Mark On Hit Support",
+        "Assassin's Mark"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Whirling Blades",
+        "Momentum Support",
+        "Faster Attacks Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Flesh and Stone",
+        "Blood and Sand",
+        "Frostblink",
+        "Grace"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Portal",
+        "Cast on Death Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Automation",
+        "Steelskin"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Elemental Hit",
+    "Ruthless Support",
+    "Multistrike Support",
+    "Faster Attacks Support",
+    "Elemental Damage with Attacks Support",
+    "Increased Area of Effect Support",
+    "Inspiration Support",
+    "Trinity Support",
+    "Greater Ancestral Call Support",
+    "Blood Rage",
+    "Cast when Damage Taken Support",
+    "Immortal Call",
+    "More Duration Support",
+    "Mark On Hit Support",
+    "Assassin's Mark",
+    "Whirling Blades",
+    "Momentum Support",
+    "Faster Attacks Support",
+    "Lifetap Support",
+    "Flesh and Stone",
+    "Blood and Sand",
+    "Frostblink",
+    "Grace",
+    "Portal",
+    "Cast on Death Support",
+    "Automation",
+    "Steelskin"
+  ],
+  "items": [
+    {
+      "name": "The Squire",
+      "typeLine": "Elegant Round Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Tempest Jack",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Death Touch",
+      "typeLine": "Wyvernscale Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Maelström Track",
+      "typeLine": "Velour Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Unseen Hue",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Cataclysm Scarab",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Morbid Shelter",
+      "typeLine": "Harlequin Mask",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Unseen Hue",
+      "typeLine": "Opal Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "",
+      "typeLine": "Noble Claw",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "",
+      "typeLine": "Noble Claw",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Grim Slicer",
+      "typeLine": "Imperial Claw",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Anarchy Leash",
+      "typeLine": "Stygian Vise",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 13,
+  "lastCheckedUtc": "2026-06-24T07:48:13.882569Z"
+}

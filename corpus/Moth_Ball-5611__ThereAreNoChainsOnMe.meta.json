@@ -1,0 +1,246 @@
+{
+  "account": "Moth_Ball-5611",
+  "name": "ThereAreNoChainsOnMe",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5672,
+    "energyShield": 591,
+    "mana": 805,
+    "ward": 0,
+    "movementSpeed": 200,
+    "lifeRegen": 329,
+    "evasionRating": 2248,
+    "armour": 11322,
+    "strength": 1934,
+    "dexterity": 301,
+    "intelligence": 342,
+    "enduranceCharges": 7,
+    "frenzyCharges": 5,
+    "powerCharges": 4,
+    "effectiveHealthPool": 56941,
+    "physicalMaximumHitTaken": 19396,
+    "fireMaximumHitTaken": 119150,
+    "coldMaximumHitTaken": 28759,
+    "lightningMaximumHitTaken": 23008,
+    "chaosMaximumHitTaken": 33762,
+    "fireResistance": 89,
+    "fireResistanceOverCap": 44,
+    "fireResistanceMax": 89,
+    "coldResistance": 1,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": -28,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 72,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 64,
+    "spellBlockChance": 62,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 603,
+    "evadeChance": 14,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 19396
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Glancing Blows",
+      "icon": "Art/2DArt/SkillIcons/passives/GlancingBlows.webp",
+      "stats": [
+        "Chance to Block Attack Damage is doubled\nChance to Block Spell Damage is doubled\nYou take 65% of Damage from Blocked Hits"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Tempered by War",
+      "icon": "Art/2DArt/SkillIcons/passives/TemperedByWar.webp",
+      "stats": [
+        "50% of Cold and Lightning Damage taken as Fire Damage",
+        "50% less Cold Resistance",
+        "50% less Lightning Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 111,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Flicker Strike",
+        "Increased Critical Damage Support",
+        "Void Manipulation Support",
+        "Close Combat Support",
+        "Greater Multistrike Support",
+        "Volatility Support",
+        "Fortify Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Shield Charge",
+        "Withering Touch Support",
+        "Rage Support",
+        "Rage Vortex of Berserking",
+        "Aspect of the Cat"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Assassin's Mark",
+        "Mark On Hit Support",
+        "Despair",
+        "Enhance Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Arctic Armour",
+        "Enlighten Support",
+        "Purity of Fire",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support",
+        "Cooldown Recovery Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Flicker Strike",
+    "Increased Critical Damage Support",
+    "Void Manipulation Support",
+    "Close Combat Support",
+    "Greater Multistrike Support",
+    "Volatility Support",
+    "Fortify Support",
+    "Shield Charge",
+    "Withering Touch Support",
+    "Rage Support",
+    "Rage Vortex of Berserking",
+    "Aspect of the Cat",
+    "Assassin's Mark",
+    "Mark On Hit Support",
+    "Despair",
+    "Enhance Support",
+    "Arctic Armour",
+    "Enlighten Support",
+    "Purity of Fire",
+    "Tempest Shield",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Cooldown Recovery Support"
+  ],
+  "items": [
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Pain Fist",
+      "typeLine": "Spiked Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Gloom Torc",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Replica Alberon's Warpath",
+      "typeLine": "Soldier Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Crown of Eyes",
+      "typeLine": "Hubris Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Damnation Grasp",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Foe Badge",
+      "typeLine": "Synthesised Angelic Kite Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Tempest Bite",
+      "typeLine": "Exquisite Blade",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Paradoxica",
+      "typeLine": "Vaal Rapier",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Farrul's Fur",
+      "typeLine": "Triumphant Lamellar",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-22T00:50:22.323846Z"
+}

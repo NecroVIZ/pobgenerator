@@ -1,0 +1,240 @@
+{
+  "account": "9darkdragon9-7556",
+  "name": "Testovichock",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Deadeye",
+  "ascendancy": "Deadeye",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3820,
+    "energyShield": 2039,
+    "mana": 906,
+    "ward": 0,
+    "movementSpeed": 264,
+    "lifeRegen": 0,
+    "evasionRating": 13972,
+    "armour": 0,
+    "strength": 193,
+    "dexterity": 199,
+    "intelligence": 195,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 32491,
+    "physicalMaximumHitTaken": 7793,
+    "fireMaximumHitTaken": 31010,
+    "coldMaximumHitTaken": 25473,
+    "lightningMaximumHitTaken": 25473,
+    "chaosMaximumHitTaken": 7276,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 40,
+    "fireResistanceMax": 80,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 3,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 4,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 30,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 24,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 94,
+    "spellDodgeChance": 0,
+    "itemRarity": 139,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 806,
+    "evadeChance": 63,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 0,
+      "fire": 11,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 7276
+  },
+  "keyStones": [
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 113,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Blast",
+        "Volatility Support",
+        "Elemental Damage with Attacks Support",
+        "Increased Critical Damage Support",
+        "Item Rarity Support",
+        "Greater Fork Support",
+        "Trinity Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Sniper's Mark",
+        "Enhance Support",
+        "Mark On Hit Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frostblink",
+        "Faster Attacks Support",
+        "Shield Charge"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Herald of Ice",
+        "Enlighten Support",
+        "Sigil of Power"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Tornado",
+        "Hydrosphere",
+        "Spellslinger"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Ash",
+        "Hatred",
+        "Enlighten Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Blast",
+    "Volatility Support",
+    "Elemental Damage with Attacks Support",
+    "Increased Critical Damage Support",
+    "Item Rarity Support",
+    "Greater Fork Support",
+    "Trinity Support",
+    "Sniper's Mark",
+    "Enhance Support",
+    "Mark On Hit Support",
+    "Lifetap Support",
+    "Frostblink",
+    "Faster Attacks Support",
+    "Shield Charge",
+    "Herald of Ice",
+    "Enlighten Support",
+    "Sigil of Power",
+    "Tornado",
+    "Hydrosphere",
+    "Spellslinger",
+    "Herald of Ash",
+    "Hatred",
+    "Enlighten Support"
+  ],
+  "items": [
+    {
+      "name": "",
+      "typeLine": "Synthesised Upgraded Thicket Bow",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Tempest Fetish",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Honour Curtain",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Doom Caress",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Damnation Tread",
+      "typeLine": "Phantom Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Plague Twirl",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Nimis",
+      "typeLine": "Topaz Ring",
+      "frameType": 10,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Foulborn Esh's Mirror",
+      "typeLine": "Vaal Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Yoke of Suffering",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Maelström Spell",
+      "typeLine": "Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Tempest Shelter",
+      "typeLine": "Deicide Mask",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-19T18:21:31.90148Z"
+}

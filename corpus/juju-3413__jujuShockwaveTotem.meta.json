@@ -1,0 +1,260 @@
+{
+  "account": "juju-3413",
+  "name": "jujuShockwaveTotem",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Hierophant",
+  "ascendancy": "Hierophant",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Garukhan",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 2427,
+    "energyShield": 1077,
+    "mana": 1067,
+    "ward": 0,
+    "movementSpeed": 391,
+    "lifeRegen": 966,
+    "evasionRating": 2353,
+    "armour": 80,
+    "strength": 162,
+    "dexterity": 169,
+    "intelligence": 181,
+    "enduranceCharges": 3,
+    "frenzyCharges": 12,
+    "powerCharges": 12,
+    "effectiveHealthPool": 8385,
+    "physicalMaximumHitTaken": 3165,
+    "fireMaximumHitTaken": 17484,
+    "coldMaximumHitTaken": 11239,
+    "lightningMaximumHitTaken": 11239,
+    "chaosMaximumHitTaken": 4133,
+    "fireResistance": 85,
+    "fireResistanceOverCap": 43,
+    "fireResistanceMax": 85,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 39,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 2,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 33,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 27,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 1214,
+    "manaReserved": 771,
+    "evadeChance": 15,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 3165
+  },
+  "keyStones": [
+    {
+      "name": "Ancestral Bond",
+      "icon": "Art/2DArt/SkillIcons/passives/totemmax.webp",
+      "stats": [
+        "You can't deal Damage with Skills yourself\n+1 to maximum number of Summoned Totems"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Eldritch Battery",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
+      "stats": [
+        "Spend Energy Shield before Mana for Skill Mana Costs\nEnergy Shield protects Mana instead of Life\n50% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Inner Conviction",
+      "icon": "Art/2DArt/SkillIcons/passives/InnerConviction.webp",
+      "stats": [
+        "3% more Spell Damage per Power Charge",
+        "Gain Power Charges instead of Frenzy Charges"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 110,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Shockwave Totem",
+        "Awakened Empower Support",
+        "Increased Critical Damage Support",
+        "Multiple Totems Support",
+        "Concentrated Effect Support",
+        "Hypothermia Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Automation",
+        "Steelskin",
+        "Phase Run",
+        "Vaal Righteous Fire",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Herald of Purity",
+        "Arrogance Support",
+        "Assassin's Mark",
+        "Flame Dash",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Animate Guardian",
+        "Hatred",
+        "Guardian's Blessing Support",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Vaal Haste",
+        "Zealotry",
+        "Elemental Weakness",
+        "Cursed Ground Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Petrified Blood",
+        "Herald of Ash",
+        "Vitality"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Shockwave Totem",
+    "Awakened Empower Support",
+    "Increased Critical Damage Support",
+    "Multiple Totems Support",
+    "Concentrated Effect Support",
+    "Hypothermia Support",
+    "Power Charge On Critical Support",
+    "Automation",
+    "Steelskin",
+    "Phase Run",
+    "Vaal Righteous Fire",
+    "More Duration Support",
+    "Herald of Purity",
+    "Arrogance Support",
+    "Assassin's Mark",
+    "Flame Dash",
+    "Faster Casting Support",
+    "Animate Guardian",
+    "Hatred",
+    "Guardian's Blessing Support",
+    "Meat Shield Support",
+    "Vaal Haste",
+    "Zealotry",
+    "Elemental Weakness",
+    "Cursed Ground Support",
+    "Petrified Blood",
+    "Herald of Ash",
+    "Vitality"
+  ],
+  "items": [
+    {
+      "name": "Astral Projector",
+      "typeLine": "Topaz Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Void Battery",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Precursor's Emblem",
+      "typeLine": "Topaz Ring",
+      "frameType": 10,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Heatshiver",
+      "typeLine": "Leather Hood",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Dusk Paw",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Badge of the Brotherhood",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Malachai's Loop",
+      "typeLine": "Harmonic Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Replica Restless Ward",
+      "typeLine": "Carnal Armour",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Hypnotic Remnant",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-24T10:53:15.543787Z"
+}

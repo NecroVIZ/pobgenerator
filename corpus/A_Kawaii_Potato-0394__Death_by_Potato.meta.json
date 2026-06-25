@@ -1,0 +1,291 @@
+{
+  "account": "A_Kawaii_Potato-0394",
+  "name": "Death_by_Potato",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Guardian",
+  "ascendancy": "Guardian",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4664,
+    "energyShield": 768,
+    "mana": 1051,
+    "ward": 0,
+    "movementSpeed": 173,
+    "lifeRegen": 741,
+    "evasionRating": 4547,
+    "armour": 21660,
+    "strength": 239,
+    "dexterity": 124,
+    "intelligence": 167,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 105370,
+    "physicalMaximumHitTaken": 10440,
+    "fireMaximumHitTaken": 26512,
+    "coldMaximumHitTaken": 26512,
+    "lightningMaximumHitTaken": 26512,
+    "chaosMaximumHitTaken": 23320,
+    "fireResistance": 64,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 76,
+    "coldResistance": 84,
+    "coldResistanceOverCap": 66,
+    "coldResistanceMax": 84,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 47,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 80,
+    "chaosResistanceOverCap": 156,
+    "chaosResistanceMax": 80,
+    "blockChance": 57,
+    "spellBlockChance": 78,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 745,
+    "evadeChance": 33,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 10440
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Divine Flesh",
+      "icon": "Art/2DArt/SkillIcons/passives/DivineFlesh.webp",
+      "stats": [
+        "All Damage taken bypasses Energy Shield",
+        "50% of Elemental Damage taken as Chaos Damage",
+        "+5% to maximum Chaos Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 120,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Vaal Domination",
+        "Minion Damage Support",
+        "Elemental Damage with Attacks Support",
+        "Multistrike Support",
+        "Congregation Support",
+        "Melee Physical Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Animate Guardian",
+        "Minion Life Support",
+        "Feeding Frenzy Support",
+        "Annihilation Support",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Summon Stone Golem",
+        "Raise Spectre",
+        "Meat Shield Support",
+        "Minion Life Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Tempest Shield",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Convocation",
+        "Summon Holy Relic"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Punishment",
+        "Flesh Offering",
+        "Desecrate"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Arctic Armour",
+        "Purity of Ice",
+        "Shield Charge"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Animate Guardian",
+        "Animate Guardian"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Animate Guardian"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Animate Guardian",
+        "Animate Guardian"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Animate Guardian"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Vaal Domination",
+    "Minion Damage Support",
+    "Elemental Damage with Attacks Support",
+    "Multistrike Support",
+    "Congregation Support",
+    "Melee Physical Damage Support",
+    "Animate Guardian",
+    "Minion Life Support",
+    "Feeding Frenzy Support",
+    "Annihilation Support",
+    "Meat Shield Support",
+    "Summon Stone Golem",
+    "Raise Spectre",
+    "Meat Shield Support",
+    "Minion Life Support",
+    "Tempest Shield",
+    "Frostblink",
+    "Convocation",
+    "Summon Holy Relic",
+    "Punishment",
+    "Flesh Offering",
+    "Desecrate",
+    "Arctic Armour",
+    "Purity of Ice",
+    "Shield Charge",
+    "Animate Guardian",
+    "Animate Guardian",
+    "Animate Guardian",
+    "Animate Guardian",
+    "Animate Guardian",
+    "Animate Guardian"
+  ],
+  "items": [
+    {
+      "name": "Anarchy Slippers",
+      "typeLine": "Vaal Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Golem Shelter",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Pandemonium Turn",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Rapture Lock",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Doryani's Prototype",
+      "typeLine": "Saint's Hauberk",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Honour Roar",
+      "typeLine": "Gemini Claw",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Golem Loop",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Rapture Wing",
+      "typeLine": "Synthesised Battle Buckler",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "",
+      "typeLine": "Dream Mace",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Vortex Wing",
+      "typeLine": "Archon Kite Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Triad Grip",
+      "typeLine": "Mesh Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-24T17:02:19.063635Z"
+}

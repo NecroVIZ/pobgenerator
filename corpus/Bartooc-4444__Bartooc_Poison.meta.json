@@ -1,0 +1,291 @@
+{
+  "account": "Bartooc-4444",
+  "name": "Bartooc_Poison",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Garukhan",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3307,
+    "energyShield": 1266,
+    "mana": 769,
+    "ward": 0,
+    "movementSpeed": 187,
+    "lifeRegen": 0,
+    "evasionRating": 25927,
+    "armour": 0,
+    "strength": 159,
+    "dexterity": 257,
+    "intelligence": 182,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 69772,
+    "physicalMaximumHitTaken": 9667,
+    "fireMaximumHitTaken": 67896,
+    "coldMaximumHitTaken": 67896,
+    "lightningMaximumHitTaken": 67896,
+    "chaosMaximumHitTaken": 56170,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 40,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 70,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 79,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 90,
+    "chaosResistanceOverCap": 52,
+    "chaosResistanceMax": 90,
+    "blockChance": 25,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 119,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 539,
+    "evadeChance": 81,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 398,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 1512
+      },
+      "fire": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 1680
+      },
+      "cold": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 1680
+      },
+      "lightning": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 1848
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 10,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 9667
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Ego",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeEgo.webp",
+      "stats": [
+        "Auras from your Skills can only affect you\nAura Skills have 1% more Aura Effect per 2% of maximum Mana they Reserve\n40% more Mana Reservation of Aura Skills"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    },
+    {
+      "name": "Perfect Agony",
+      "icon": "Art/2DArt/SkillIcons/passives/CritAilments.webp",
+      "stats": [
+        "Damage over Time Multiplier for Ailments is equal to Critical Strike Multiplier\nCritical Strikes do not deal extra Damage\nNon-Critical Strikes cannot inflict Ailments"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 121,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Static Strike",
+        "Added Cold Damage Support",
+        "Efficacy Support",
+        "Melee Physical Damage Support",
+        "Nightblade Support",
+        "Unbound Ailments Support",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Cyclone",
+        "Despair",
+        "Temporal Chains",
+        "Enfeeble",
+        "Cast On Critical Strike Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Phase Run",
+        "Withering Step",
+        "Steelskin",
+        "Automation",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Plague Bearer",
+        "Empower Support",
+        "Increased Area of Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Ambush",
+        "Lifetap Support",
+        "Second Wind Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Malevolence"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Whirling Blades",
+        "Faster Attacks Support",
+        "Enhance Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Static Strike",
+    "Added Cold Damage Support",
+    "Efficacy Support",
+    "Melee Physical Damage Support",
+    "Nightblade Support",
+    "Unbound Ailments Support",
+    "More Duration Support",
+    "Cyclone",
+    "Despair",
+    "Temporal Chains",
+    "Enfeeble",
+    "Cast On Critical Strike Support",
+    "Phase Run",
+    "Withering Step",
+    "Steelskin",
+    "Automation",
+    "Lifetap Support",
+    "Plague Bearer",
+    "Empower Support",
+    "Increased Area of Effect Support",
+    "Frostblink",
+    "Ambush",
+    "Lifetap Support",
+    "Second Wind Support",
+    "Malevolence",
+    "Whirling Blades",
+    "Faster Attacks Support",
+    "Enhance Support"
+  ],
+  "items": [
+    {
+      "name": "Bino's Kitchen Knife",
+      "typeLine": "Slaughter Knife",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Horror Dash",
+      "typeLine": "Infiltrator Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 10,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Marylene's Fallacy",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Viper Mantle",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Apocalypse Clutches",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Atziri's Reflection",
+      "typeLine": "Golden Buckler",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Betrayal's Sting",
+      "typeLine": "Steel Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Agony Knuckle",
+      "typeLine": "Coral Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-24T04:45:11.199665Z"
+}

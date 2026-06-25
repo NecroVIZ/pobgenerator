@@ -1,0 +1,273 @@
+{
+  "account": "Beton-8841",
+  "name": "Aurafarm_",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Hierophant",
+  "ascendancy": "Hierophant",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Garukhan",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3347,
+    "energyShield": 311,
+    "mana": 1510,
+    "ward": 0,
+    "movementSpeed": 222,
+    "lifeRegen": 43,
+    "evasionRating": 781,
+    "armour": 1703,
+    "strength": 136,
+    "dexterity": 117,
+    "intelligence": 53,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 6,
+    "effectiveHealthPool": 14796,
+    "physicalMaximumHitTaken": 6553,
+    "fireMaximumHitTaken": 21884,
+    "coldMaximumHitTaken": 21884,
+    "lightningMaximumHitTaken": 21884,
+    "chaosMaximumHitTaken": 19206,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 9,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 62,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 26,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 24,
+    "chaosResistanceMax": 75,
+    "blockChance": 0,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 198,
+    "energyShieldRegen": 0,
+    "lifeReserved": 106,
+    "manaReserved": 1315,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 30,
+        "max": 90,
+        "effectiveAppliedArmour": 1703,
+        "base": 16,
+        "takenDamage": 2047
+      },
+      "fire": {
+        "value": 16,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 16,
+        "takenDamage": 2047
+      },
+      "cold": {
+        "value": 16,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 16,
+        "takenDamage": 2047
+      },
+      "lightning": {
+        "value": 16,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 16,
+        "takenDamage": 2047
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 6553
+  },
+  "keyStones": [
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 108,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Ethereal Knives of the Massacre",
+        "Invert the Rules Support",
+        "Greater Fork Support",
+        "Arcane Surge Support",
+        "Inspiration Support",
+        "Greater Spell Echo Support",
+        "Hypothermia Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Herald of Thunder",
+        "Enlighten Support",
+        "Herald of Purity",
+        "Herald of Ash",
+        "Herald of Ice",
+        "Herald of Agony"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Raise Spectre",
+        "Minion Life Support",
+        "Companionship Support",
+        "Elemental Army Support",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Faster Casting Support",
+        "Spell Echo Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vaal Clarity",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Automation",
+        "Cooldown Recovery Support",
+        "Convocation",
+        "Immortal Call"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Ethereal Knives of the Massacre",
+    "Invert the Rules Support",
+    "Greater Fork Support",
+    "Arcane Surge Support",
+    "Inspiration Support",
+    "Greater Spell Echo Support",
+    "Hypothermia Support",
+    "Herald of Thunder",
+    "Enlighten Support",
+    "Herald of Purity",
+    "Herald of Ash",
+    "Herald of Ice",
+    "Herald of Agony",
+    "Raise Spectre",
+    "Minion Life Support",
+    "Companionship Support",
+    "Elemental Army Support",
+    "Meat Shield Support",
+    "Frostblink of Wintry Blast",
+    "Faster Casting Support",
+    "Spell Echo Support",
+    "Vaal Clarity",
+    "Arrogance Support",
+    "Automation",
+    "Cooldown Recovery Support",
+    "Convocation",
+    "Immortal Call",
+    "Herald of the Hive"
+  ],
+  "items": [
+    {
+      "name": "Hate Medallion",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Atziri's Disfavour",
+      "typeLine": "Vaal Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Blunderbore",
+      "typeLine": "Astral Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Wrath Remnant",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Ghoul Clutches",
+      "typeLine": "Phantom Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Miracle Band",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "The Golden Charlatan",
+      "typeLine": "Lion Sword",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Empyrean March",
+      "typeLine": "Fugitive Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-23T13:21:26.765098Z"
+}

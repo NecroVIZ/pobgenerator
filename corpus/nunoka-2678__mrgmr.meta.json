@@ -1,0 +1,274 @@
+{
+  "account": "nunoka-2678",
+  "name": "mrgmr",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Olroth Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 6965,
+    "energyShield": 1765,
+    "mana": 1027,
+    "ward": 0,
+    "movementSpeed": 233,
+    "lifeRegen": 1136,
+    "evasionRating": 1592,
+    "armour": 61992,
+    "strength": 3069,
+    "dexterity": 352,
+    "intelligence": 300,
+    "enduranceCharges": 8,
+    "frenzyCharges": 5,
+    "powerCharges": 4,
+    "effectiveHealthPool": 158792,
+    "physicalMaximumHitTaken": 80177,
+    "fireMaximumHitTaken": 128376,
+    "coldMaximumHitTaken": 123992,
+    "lightningMaximumHitTaken": 123831,
+    "chaosMaximumHitTaken": 44755,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 42,
+    "fireResistanceMax": 90,
+    "coldResistance": -17,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": -21,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 66,
+    "chaosResistanceMax": 75,
+    "blockChance": 36,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 24,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 1009,
+    "evadeChance": 3,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 631,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 44755
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Point Blank",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePointBlankArcher.webp",
+      "stats": [
+        "Projectile Attack Hits deal up to 30% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther"
+      ]
+    },
+    {
+      "name": "Tempered by War",
+      "icon": "Art/2DArt/SkillIcons/passives/TemperedByWar.webp",
+      "stats": [
+        "50% of Cold and Lightning Damage taken as Fire Damage",
+        "50% less Cold Resistance",
+        "50% less Lightning Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 95,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Power Siphon",
+        "Volatility Support",
+        "Increased Critical Damage Support",
+        "Lifetap Support",
+        "Summon Sacred Wisps",
+        "Greater Fork Support",
+        "Returning Projectiles Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Molten Shell",
+        "Cooldown Recovery Support",
+        "Automation",
+        "Lifetap Support",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Shield Charge",
+        "Poacher's Mark",
+        "Mark On Hit Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Fire",
+        "Flesh and Stone",
+        "Determination",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Purifying Flame of Revelations",
+        "Cast when Damage Taken Support",
+        "Frost Bomb"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Arctic Armour",
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Precision"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Power Siphon",
+    "Volatility Support",
+    "Increased Critical Damage Support",
+    "Lifetap Support",
+    "Summon Sacred Wisps",
+    "Greater Fork Support",
+    "Returning Projectiles Support",
+    "Molten Shell",
+    "Cooldown Recovery Support",
+    "Automation",
+    "Lifetap Support",
+    "Inspiration Support",
+    "Shield Charge",
+    "Poacher's Mark",
+    "Mark On Hit Support",
+    "Lifetap Support",
+    "Purity of Fire",
+    "Flesh and Stone",
+    "Determination",
+    "Enlighten Support",
+    "Purifying Flame of Revelations",
+    "Cast when Damage Taken Support",
+    "Frost Bomb",
+    "Arctic Armour",
+    "Vitality",
+    "Precision"
+  ],
+  "items": [
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Flawed Refuge",
+      "typeLine": "Maple Round Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Mind Twirl",
+      "typeLine": "Synthesised Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Eyes of the Greatwolf",
+      "typeLine": "Greatwolf Talisman",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Dread Salvation",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Apocalypse Curio",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Pandemonium Spell",
+      "typeLine": "Synthesised Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Gloom Curtain",
+      "typeLine": "Sacred Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Beast Spiral",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Soul Ascension",
+      "typeLine": "Carnal Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Replica Alberon's Warpath",
+      "typeLine": "Soldier Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-18T20:35:34.633247Z"
+}

@@ -1,0 +1,244 @@
+{
+  "account": "BallinSheep-6469",
+  "name": "SheepSparky",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Inquisitor",
+  "ascendancy": "Inquisitor",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1929,
+    "energyShield": 7174,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 169,
+    "lifeRegen": 0,
+    "evasionRating": 924,
+    "armour": 0,
+    "strength": 233,
+    "dexterity": 240,
+    "intelligence": 2408,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 16380,
+    "physicalMaximumHitTaken": 8138,
+    "fireMaximumHitTaken": 35383,
+    "coldMaximumHitTaken": 15355,
+    "lightningMaximumHitTaken": 13563,
+    "chaosMaximumHitTaken": 32552,
+    "fireResistance": 80,
+    "fireResistanceOverCap": 14,
+    "fireResistanceMax": 0,
+    "coldResistance": 50,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 0,
+    "lightningResistance": 43,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 27,
+    "chaosResistanceMax": 0,
+    "blockChance": 0,
+    "spellBlockChance": 25,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 381,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 8138
+  },
+  "keyStones": [
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "The Traitor",
+      "icon": "Art/2DArt/SkillIcons/passives/OasisKeystone.webp",
+      "stats": [
+        "Flasks Gain 4 Charges per empty Flask Slot every 5 seconds"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 101,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Spark of the Nova",
+        "Greater Spell Echo Support",
+        "Invert the Rules Support",
+        "Controlled Destruction Support",
+        "Faster Projectiles Support",
+        "Arcane Surge Support",
+        "Energy Leech Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Incinerate of Venting",
+        "Item Rarity Support",
+        "Controlled Destruction Support",
+        "Invert the Rules Support",
+        "Focused Channelling Support",
+        "Arcane Surge Support",
+        "Infused Channelling Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Flesh and Stone",
+        "Frostblink of Wintry Blast",
+        "Arctic Armour",
+        "Righteous Fire"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Animate Guardian",
+        "Empower Support",
+        "Meat Shield Support",
+        "Minion Life Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Conductivity",
+        "Arcanist Brand",
+        "Purity of Elements",
+        "Eternal Blessing Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Spark of the Nova",
+    "Greater Spell Echo Support",
+    "Invert the Rules Support",
+    "Controlled Destruction Support",
+    "Faster Projectiles Support",
+    "Arcane Surge Support",
+    "Energy Leech Support",
+    "Incinerate of Venting",
+    "Item Rarity Support",
+    "Controlled Destruction Support",
+    "Invert the Rules Support",
+    "Focused Channelling Support",
+    "Arcane Surge Support",
+    "Infused Channelling Support",
+    "Flesh and Stone",
+    "Frostblink of Wintry Blast",
+    "Arctic Armour",
+    "Righteous Fire",
+    "Animate Guardian",
+    "Empower Support",
+    "Meat Shield Support",
+    "Minion Life Support",
+    "Conductivity",
+    "Arcanist Brand",
+    "Purity of Elements",
+    "Eternal Blessing Support"
+  ],
+  "items": [
+    {
+      "name": "Soul Ascension",
+      "typeLine": "Carnal Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Bramble Visor",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Tempest Shelter",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Jiquani's Potential",
+      "typeLine": "Imperial Staff",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Apocalypse Collar",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Cane of Kulemak",
+      "typeLine": "Serpentine Staff",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Onslaught Band",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Wondertrap",
+      "typeLine": "Velvet Slippers",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 17,
+  "lastCheckedUtc": "2026-06-24T04:43:15.625129Z"
+}

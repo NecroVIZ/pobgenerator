@@ -1,0 +1,245 @@
+{
+  "account": "sampza2009-5317",
+  "name": "llSllMirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Oshabi Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 7126,
+    "mana": 2628,
+    "ward": 0,
+    "movementSpeed": 217,
+    "lifeRegen": 0,
+    "evasionRating": 12522,
+    "armour": 0,
+    "strength": 175,
+    "dexterity": 228,
+    "intelligence": 427,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 50767,
+    "physicalMaximumHitTaken": 8587,
+    "fireMaximumHitTaken": 47513,
+    "coldMaximumHitTaken": 47513,
+    "lightningMaximumHitTaken": 47513,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 88,
+    "fireResistanceOverCap": 31,
+    "fireResistanceMax": 88,
+    "coldResistance": 88,
+    "coldResistanceOverCap": 39,
+    "coldResistanceMax": 88,
+    "lightningResistance": 88,
+    "lightningResistanceOverCap": 32,
+    "lightningResistanceMax": 88,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 92,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 427,
+    "lifeReserved": 0,
+    "manaReserved": 2601,
+    "evadeChance": 33,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 1323,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 83,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 17
+    },
+    "lowestMaximumHitTaken": 8587
+  },
+  "keyStones": [
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    },
+    {
+      "name": "Perfect Agony",
+      "icon": "Art/2DArt/SkillIcons/passives/CritAilments.webp",
+      "stats": [
+        "Damage over Time Multiplier for Ailments is equal to Critical Strike Multiplier\nCritical Strikes do not deal extra Damage\nNon-Critical Strikes cannot inflict Ailments"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 96,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Viper Strike of the Mamba",
+        "Greater Ancestral Call Support",
+        "Melee Physical Damage Support",
+        "Cruelty Support",
+        "Void Manipulation Support",
+        "Nightblade Support",
+        "Endurance Charge on Melee Stun Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Discipline",
+        "Flesh and Stone",
+        "Purity of Elements",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Whirling Blades",
+        "Faster Attacks Support",
+        "Brutality Support",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Autoexertion",
+        "General's Cry",
+        "Cyclone",
+        "Withering Touch Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Despair",
+        "Desecrate",
+        "Precision"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Ancestral Cry",
+        "Urgent Orders Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Clarity"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Viper Strike of the Mamba",
+    "Greater Ancestral Call Support",
+    "Melee Physical Damage Support",
+    "Cruelty Support",
+    "Void Manipulation Support",
+    "Nightblade Support",
+    "Endurance Charge on Melee Stun Support",
+    "Discipline",
+    "Flesh and Stone",
+    "Purity of Elements",
+    "Enlighten Support",
+    "Whirling Blades",
+    "Faster Attacks Support",
+    "Brutality Support",
+    "Frostblink",
+    "Autoexertion",
+    "General's Cry",
+    "Cyclone",
+    "Withering Touch Support",
+    "Despair",
+    "Desecrate",
+    "Precision",
+    "Ancestral Cry",
+    "Urgent Orders Support",
+    "Clarity"
+  ],
+  "items": [
+    {
+      "name": "Whispers of Infinity",
+      "typeLine": "Seaglass Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "The Hateful Accuser",
+      "typeLine": "Nameless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Demon Stinger",
+      "typeLine": "Pneumatic Dagger",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Bino's Kitchen Knife",
+      "typeLine": "Slaughter Knife",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Torment Grasp",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Wrath Veil",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Shavronne's Revelation",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Plague Shell",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Chimeric Road",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 17,
+  "lastCheckedUtc": "2026-06-19T14:55:34.129779Z"
+}

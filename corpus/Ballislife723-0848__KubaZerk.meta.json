@@ -1,0 +1,286 @@
+{
+  "account": "Ballislife723-0848",
+  "name": "KubaZerk",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Berserker",
+  "ascendancy": "Berserker",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 9836,
+    "energyShield": 3935,
+    "mana": 777,
+    "ward": 0,
+    "movementSpeed": 137,
+    "lifeRegen": -481,
+    "evasionRating": 34,
+    "armour": 8608,
+    "strength": 350,
+    "dexterity": 125,
+    "intelligence": 159,
+    "enduranceCharges": 5,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 210978,
+    "physicalMaximumHitTaken": 23313,
+    "fireMaximumHitTaken": 88914,
+    "coldMaximumHitTaken": 85048,
+    "lightningMaximumHitTaken": 97805,
+    "chaosMaximumHitTaken": 44709,
+    "fireResistance": 81,
+    "fireResistanceOverCap": 48,
+    "fireResistanceMax": 81,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 42,
+    "coldResistanceMax": 80,
+    "lightningResistance": 83,
+    "lightningResistanceOverCap": 51,
+    "lightningResistanceMax": 83,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 16,
+    "chaosResistanceMax": 75,
+    "blockChance": 68,
+    "spellBlockChance": 63,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": -197,
+    "lifeReserved": 0,
+    "manaReserved": 537,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 23313
+  },
+  "keyStones": [
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Immortal Ambition",
+      "icon": "Art/2DArt/SkillIcons/passives/SoulTetherKeystone.webp",
+      "stats": [
+        "Energy Shield starts at zero",
+        "Cannot Recharge or Regenerate Energy Shield",
+        "Lose 5% of Energy Shield per second",
+        "Life Leech effects are not removed when Unreserved Life is Filled",
+        "Life Leech effects Recover Energy Shield instead while on Full Life"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 116,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Smite of Divine Judgement",
+        "Volatility Support",
+        "Elemental Damage with Attacks Support",
+        "Greater Multistrike Support",
+        "Inspiration Support",
+        "Lightning Penetration Support",
+        "Fortify Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Leap Slam",
+        "Faster Attacks Support",
+        "Endurance Charge on Melee Stun Support",
+        "Momentum Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Arctic Armour",
+        "Flesh and Stone",
+        "Tempest Shield",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vaal Smite",
+        "More Duration Support",
+        "Cast when Damage Taken Support",
+        "Immortal Call"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Arctic Armour",
+        "Arctic Armour",
+        "Arctic Armour"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Arctic Armour",
+        "Arctic Armour"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Arctic Armour"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Arcanist Brand",
+        "Conductivity"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Energy Blade",
+        "Enhance Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Smite of Divine Judgement",
+    "Volatility Support",
+    "Elemental Damage with Attacks Support",
+    "Greater Multistrike Support",
+    "Inspiration Support",
+    "Lightning Penetration Support",
+    "Fortify Support",
+    "Leap Slam",
+    "Faster Attacks Support",
+    "Endurance Charge on Melee Stun Support",
+    "Momentum Support",
+    "Arctic Armour",
+    "Flesh and Stone",
+    "Tempest Shield",
+    "Enlighten Support",
+    "Vaal Smite",
+    "More Duration Support",
+    "Cast when Damage Taken Support",
+    "Immortal Call",
+    "Arctic Armour",
+    "Arctic Armour",
+    "Arctic Armour",
+    "Arctic Armour",
+    "Arctic Armour",
+    "Arctic Armour",
+    "Arcanist Brand",
+    "Conductivity",
+    "Frostblink",
+    "Energy Blade",
+    "Enhance Support"
+  ],
+  "items": [
+    {
+      "name": "Foulborn Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Rune Slippers",
+      "typeLine": "Precursor Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Crown of Eyes",
+      "typeLine": "Hubris Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Viper Spiral",
+      "typeLine": "Vermillion Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Ghostwrithe",
+      "typeLine": "Silken Vest",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "",
+      "typeLine": "Energy Blade",
+      "frameType": 0,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Skull Sever",
+      "typeLine": "Graceful Sword",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "Heated Graceful Sword",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Miracle Twirl",
+      "typeLine": "Vermillion Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Rathpith Globe",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Foulborn Voice of the Storm",
+      "typeLine": "Lapis Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Ghoul Fingers",
+      "typeLine": "Precursor Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-24T10:53:32.599365Z"
+}

@@ -1,0 +1,255 @@
+{
+  "account": "444831425-0342",
+  "name": "moyuhooo",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Slayer",
+  "ascendancy": "Slayer",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 3160,
+    "energyShield": 61,
+    "mana": 649,
+    "ward": 0,
+    "movementSpeed": 381,
+    "lifeRegen": 82,
+    "evasionRating": 2657,
+    "armour": 4994,
+    "strength": 83,
+    "dexterity": 58,
+    "intelligence": 62,
+    "enduranceCharges": 9,
+    "frenzyCharges": 9,
+    "powerCharges": 3,
+    "effectiveHealthPool": 577175,
+    "physicalMaximumHitTaken": 8592,
+    "fireMaximumHitTaken": 20900,
+    "coldMaximumHitTaken": 20900,
+    "lightningMaximumHitTaken": 20900,
+    "chaosMaximumHitTaken": 14698,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 11,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 2,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 6,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 2,
+    "chaosResistanceMax": 75,
+    "blockChance": 95,
+    "spellBlockChance": 95,
+    "spellSuppressionChance": 29,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 649,
+    "evadeChance": 18,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 8592
+  },
+  "keyStones": [
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 112,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Cyclone",
+        "Lifetap Support",
+        "Pulverise Support",
+        "Trinity Support",
+        "Infused Channelling Support",
+        "Melee Physical Damage Support",
+        "Endurance Charge on Melee Stun Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Molten Shell",
+        "Automation",
+        "Phase Run",
+        "Lifetap Support",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Shield Charge",
+        "Lifetap Support",
+        "Faster Attacks Support",
+        "Endurance Charge on Melee Stun Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink",
+        "Lifetap Support",
+        "Mark On Hit Support",
+        "Assassin's Mark"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Purity",
+        "Frostmage Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Haste"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Herald of Ash"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Cyclone",
+    "Lifetap Support",
+    "Pulverise Support",
+    "Trinity Support",
+    "Infused Channelling Support",
+    "Melee Physical Damage Support",
+    "Endurance Charge on Melee Stun Support",
+    "Molten Shell",
+    "Automation",
+    "Phase Run",
+    "Lifetap Support",
+    "More Duration Support",
+    "Shield Charge",
+    "Lifetap Support",
+    "Faster Attacks Support",
+    "Endurance Charge on Melee Stun Support",
+    "Frostblink",
+    "Lifetap Support",
+    "Mark On Hit Support",
+    "Assassin's Mark",
+    "Herald of Purity",
+    "Frostmage Support",
+    "Haste",
+    "Herald of Ash"
+  ],
+  "items": [
+    {
+      "name": "Stranglegasp",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Azadi Crest",
+      "typeLine": "Lacquered Buckler",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Bramble Gutter",
+      "typeLine": "Anarchic Spiritblade",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Foulborn Darkray Vectors",
+      "typeLine": "Dragonscale Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Blunderbore",
+      "typeLine": "Astral Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Pandemonium Curio",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Carrion Finger",
+      "typeLine": "Synthesised Ruby Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Blight Loop",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Shadows and Dust",
+      "typeLine": "Clasped Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Atziri's Disfavour",
+      "typeLine": "Vaal Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Lightpoacher",
+      "typeLine": "Great Crown",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Death Rush",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-24T04:43:21.640683Z"
+}

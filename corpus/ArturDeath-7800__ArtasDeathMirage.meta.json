@@ -1,0 +1,239 @@
+{
+  "account": "ArturDeath-7800",
+  "name": "ArtasDeathMirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Champion",
+  "ascendancy": "Champion",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 3682,
+    "energyShield": 344,
+    "mana": 780,
+    "ward": 0,
+    "movementSpeed": 201,
+    "lifeRegen": 651,
+    "evasionRating": 37,
+    "armour": 37448,
+    "strength": 269,
+    "dexterity": 200,
+    "intelligence": 100,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 61494,
+    "physicalMaximumHitTaken": 7929,
+    "fireMaximumHitTaken": 36222,
+    "coldMaximumHitTaken": 36222,
+    "lightningMaximumHitTaken": 36222,
+    "chaosMaximumHitTaken": 49943,
+    "fireResistance": 78,
+    "fireResistanceOverCap": 166,
+    "fireResistanceMax": 78,
+    "coldResistance": 78,
+    "coldResistanceOverCap": 226,
+    "coldResistanceMax": 78,
+    "lightningResistance": 78,
+    "lightningResistanceOverCap": 134,
+    "lightningResistanceMax": 78,
+    "chaosResistance": 80,
+    "chaosResistanceOverCap": 41,
+    "chaosResistanceMax": 80,
+    "blockChance": 60,
+    "spellBlockChance": 5,
+    "spellSuppressionChance": 97,
+    "spellDodgeChance": 0,
+    "itemRarity": 30,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 670,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 7929
+  },
+  "keyStones": [
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    },
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    },
+    {
+      "name": "Divine Flesh",
+      "icon": "Art/2DArt/SkillIcons/passives/DivineFlesh.webp",
+      "stats": [
+        "All Damage taken bypasses Energy Shield",
+        "50% of Elemental Damage taken as Chaos Damage",
+        "+5% to maximum Chaos Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 124,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Desecrate",
+        "Infused Channelling Support",
+        "Pulverise Support",
+        "Lifetap Support",
+        "Void Shockwave",
+        "Cyclone",
+        "Cast while Channelling Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Lacerate of Butchering",
+        "Brutality Support",
+        "Melee Physical Damage Support",
+        "General's Cry",
+        "Autoexertion",
+        "Pulverise Support",
+        "Overexertion Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Automation",
+        "Cooldown Recovery Support",
+        "More Duration Support",
+        "Molten Shell"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Blood and Sand",
+        "Enlighten Support",
+        "Pride",
+        "Determination"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Defiance Banner",
+        "Bloodsoaked Banner Support",
+        "Dread Banner",
+        "War Banner"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Desecrate",
+    "Infused Channelling Support",
+    "Pulverise Support",
+    "Lifetap Support",
+    "Void Shockwave",
+    "Cyclone",
+    "Cast while Channelling Support",
+    "Lacerate of Butchering",
+    "Brutality Support",
+    "Melee Physical Damage Support",
+    "General's Cry",
+    "Autoexertion",
+    "Pulverise Support",
+    "Overexertion Support",
+    "Automation",
+    "Cooldown Recovery Support",
+    "More Duration Support",
+    "Molten Shell",
+    "Blood and Sand",
+    "Enlighten Support",
+    "Pride",
+    "Determination",
+    "Defiance Banner",
+    "Bloodsoaked Banner Support",
+    "Dread Banner",
+    "War Banner"
+  ],
+  "items": [
+    {
+      "name": "Death Hold",
+      "typeLine": "Vermillion Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Uul-Netol's Kiss",
+      "typeLine": "Vaal Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Viper Knuckle",
+      "typeLine": "Precursor Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Cataclysm Circle",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Woespike",
+      "typeLine": "Steel Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Abyssus",
+      "typeLine": "Ezomyte Burgonet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Plague Pace",
+      "typeLine": "Leviathan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "The Fourth Vow",
+      "typeLine": "Devout Chainmail",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Rift Idol",
+      "typeLine": "Lapis Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-20T12:13:09.763079Z"
+}

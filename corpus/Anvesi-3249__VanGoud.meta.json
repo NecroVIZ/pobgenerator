@@ -1,0 +1,253 @@
+{
+  "account": "Anvesi-3249",
+  "name": "VanGoud",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Olroth Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1995,
+    "energyShield": 0,
+    "mana": 958,
+    "ward": 32882,
+    "movementSpeed": 139,
+    "lifeRegen": 369,
+    "evasionRating": 4751,
+    "armour": 3512,
+    "strength": 188,
+    "dexterity": 177,
+    "intelligence": 252,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 27713,
+    "physicalMaximumHitTaken": 61059,
+    "fireMaximumHitTaken": 169026,
+    "coldMaximumHitTaken": 196925,
+    "lightningMaximumHitTaken": 169026,
+    "chaosMaximumHitTaken": 51645,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 46,
+    "fireResistanceMax": 75,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 150,
+    "coldResistanceMax": 80,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 55,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 18,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 998,
+    "manaReserved": 719,
+    "evadeChance": 91,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 51645
+  },
+  "keyStones": [
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Black Scythe Training",
+      "icon": "Art/2DArt/SkillIcons/passives/KalguuranDexKeystone.webp",
+      "stats": [
+        "Removes all Energy Shield",
+        "Chance to Evade Hits is based off of 200% of your Ward instead of your Evasion Rating",
+        "Physical Damage Reduction from Hits is based off of 200% of your Ward instead of your Armour"
+      ]
+    }
+  ],
+  "masteriesCount": 4,
+  "passiveCount": 108,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Summon Raging Spirit",
+        "Less Duration Support",
+        "Raise Zombie of Falling",
+        "Cast on Ward Break Support",
+        "Transfusion Support",
+        "Summon Skeletons"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Righteous Fire",
+        "Purity of Elements",
+        "Raise Spectre",
+        "Animate Guardian"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Phase Run",
+        "Transfusion Support",
+        "Cast on Ward Break Support",
+        "Immortal Call"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Summon Stone Golem",
+        "Cast when Damage Taken Support",
+        "Elemental Weakness"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Herald of Purity",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Herald of Ash"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Convocation",
+        "Cast on Ward Break Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Flame Dash"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Summon Raging Spirit",
+    "Less Duration Support",
+    "Raise Zombie of Falling",
+    "Cast on Ward Break Support",
+    "Transfusion Support",
+    "Summon Skeletons",
+    "Righteous Fire",
+    "Purity of Elements",
+    "Raise Spectre",
+    "Animate Guardian",
+    "Phase Run",
+    "Transfusion Support",
+    "Cast on Ward Break Support",
+    "Immortal Call",
+    "Summon Stone Golem",
+    "Cast when Damage Taken Support",
+    "Elemental Weakness",
+    "Herald of Purity",
+    "Arrogance Support",
+    "Herald of Ash",
+    "Convocation",
+    "Cast on Ward Break Support",
+    "Flame Dash"
+  ],
+  "items": [
+    {
+      "name": "Heartbound Loop",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Armageddon Claw",
+      "typeLine": "Runic Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Beast Coat",
+      "typeLine": "Conquest Lamellar",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Spirit Bite",
+      "typeLine": "Slaughter Knife",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Grace of the Goddess",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Skull Hold",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Olroth's Charge",
+      "typeLine": "Runic Sollerets",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Blood Razor",
+      "typeLine": "Slaughter Knife",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Grace of the Goddess",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Faithguard",
+      "typeLine": "Runic Helm",
+      "frameType": 10,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Ynda's Stand",
+      "typeLine": "Studded Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Eyes of the Greatwolf",
+      "typeLine": "Greatwolf Talisman",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 16,
+  "lastCheckedUtc": "2026-06-25T07:39:48.355858Z"
+}

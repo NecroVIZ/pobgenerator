@@ -1,0 +1,277 @@
+{
+  "account": "Gerrador-4355",
+  "name": "Tíogairarís",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Guardian",
+  "ascendancy": "Guardian",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 7901,
+    "mana": 894,
+    "ward": 0,
+    "movementSpeed": 178,
+    "lifeRegen": 0,
+    "evasionRating": 20,
+    "armour": 61850,
+    "strength": 179,
+    "dexterity": 124,
+    "intelligence": 300,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 164413,
+    "physicalMaximumHitTaken": 17802,
+    "fireMaximumHitTaken": 28221,
+    "coldMaximumHitTaken": 34357,
+    "lightningMaximumHitTaken": 28221,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 79,
+    "fireResistanceMax": 75,
+    "coldResistance": 80,
+    "coldResistanceOverCap": 77,
+    "coldResistanceMax": 80,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 92,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 78,
+    "spellBlockChance": 75,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 1152,
+    "lifeReserved": 0,
+    "manaReserved": 773,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 87,
+        "max": 90,
+        "effectiveAppliedArmour": 61850,
+        "base": 0,
+        "takenDamage": 1843
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 82,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 18
+    },
+    "lowestMaximumHitTaken": 17802
+  },
+  "keyStones": [
+    {
+      "name": "Divine Shield",
+      "icon": "Art/2DArt/SkillIcons/passives/EnergisedFortress.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second"
+      ]
+    },
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Second Sight",
+      "icon": "Art/2DArt/SkillIcons/passives/TheBlindMonk.webp",
+      "stats": [
+        "You are Blind",
+        "Blind does not affect your Light Radius",
+        "25% more Melee Critical Strike Chance while Blinded"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 104,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Dominating Blow of Inspiring",
+        "Greater Multistrike Support",
+        "Volatility Support",
+        "Inspiration Support",
+        "Damage on Full Life Support",
+        "Elemental Damage with Attacks Support",
+        "Ruthless Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Raise Spectre",
+        "Animate Guardian",
+        "Congregation Support",
+        "Meat Shield Support",
+        "Minion Life Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Holy Relic",
+        "Summon Lightning Golem",
+        "Meat Shield Support",
+        "Feeding Frenzy Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Determination",
+        "Tempest Shield",
+        "General's Cry",
+        "Autoexertion"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Molten Shell",
+        "Convocation",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Assassin's Mark",
+        "Mark On Hit Support",
+        "Leap Slam"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Dominating Blow of Inspiring",
+    "Greater Multistrike Support",
+    "Volatility Support",
+    "Inspiration Support",
+    "Damage on Full Life Support",
+    "Elemental Damage with Attacks Support",
+    "Ruthless Support",
+    "Raise Spectre",
+    "Animate Guardian",
+    "Congregation Support",
+    "Meat Shield Support",
+    "Minion Life Support",
+    "Summon Holy Relic",
+    "Summon Lightning Golem",
+    "Meat Shield Support",
+    "Feeding Frenzy Support",
+    "Determination",
+    "Tempest Shield",
+    "General's Cry",
+    "Autoexertion",
+    "Molten Shell",
+    "Convocation",
+    "Automation",
+    "Assassin's Mark",
+    "Mark On Hit Support",
+    "Leap Slam"
+  ],
+  "items": [
+    {
+      "name": "Rune Mitts",
+      "typeLine": "Martyr Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Rapture Whorl",
+      "typeLine": "Bone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Bonemeld",
+      "typeLine": "Marble Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Redblade Banner",
+      "typeLine": "Painted Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Rune Razor",
+      "typeLine": "Elegant Foil",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Ancient Remnant",
+      "typeLine": "Thief's Trinket",
+      "frameType": 2,
+      "inventoryId": "Trinket"
+    },
+    {
+      "name": "Dread Mantle",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Agony Call",
+      "typeLine": "Opal Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Armageddon Trail",
+      "typeLine": "Paladin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Dire Peak",
+      "typeLine": "Divine Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Dragon Leash",
+      "typeLine": "Stygian Vise",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Prospero's Protection",
+      "typeLine": "Iron Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Aegis Aurora",
+      "typeLine": "Champion Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-25T08:21:11.497156Z"
+}

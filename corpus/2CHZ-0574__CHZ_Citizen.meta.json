@@ -1,0 +1,252 @@
+{
+  "account": "2CHZ-0574",
+  "name": "CHZ_Citizen",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Champion",
+  "ascendancy": "Champion",
+  "secondaryAscendancy": "Saresh Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 7619,
+    "energyShield": 421,
+    "mana": 750,
+    "ward": 0,
+    "movementSpeed": 246,
+    "lifeRegen": 2995,
+    "evasionRating": 1480,
+    "armour": 15690,
+    "strength": 565,
+    "dexterity": 117,
+    "intelligence": 148,
+    "enduranceCharges": 10,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 201703,
+    "physicalMaximumHitTaken": 28036,
+    "fireMaximumHitTaken": 137295,
+    "coldMaximumHitTaken": 129219,
+    "lightningMaximumHitTaken": 129219,
+    "chaosMaximumHitTaken": 45336,
+    "fireResistance": 87,
+    "fireResistanceOverCap": 40,
+    "fireResistanceMax": 87,
+    "coldResistance": 86,
+    "coldResistanceOverCap": 36,
+    "coldResistanceMax": 86,
+    "lightningResistance": 86,
+    "lightningResistanceOverCap": 33,
+    "lightningResistanceMax": 86,
+    "chaosResistance": 71,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 65,
+    "spellBlockChance": 2,
+    "spellSuppressionChance": 72,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 496,
+    "evadeChance": 5,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 94,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 6,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 28036
+  },
+  "keyStones": [
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 132,
+  "skillGroups": [
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Embrace Madness",
+        "Purity of Elements",
+        "Enhance Support",
+        "Temporal Rift"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Purity of Elements",
+        "Enhance Support",
+        "Embrace Madness"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Temporal Rift",
+        "Embrace Madness"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Defiance Banner",
+        "Dread Banner",
+        "More Duration Support",
+        "Increased Area of Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Ancestral Cry",
+        "Battlemage's Cry",
+        "More Duration Support",
+        "Urgent Orders Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Enduring Cry",
+        "Intimidating Cry",
+        "More Duration Support",
+        "Urgent Orders Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flame Dash",
+        "Brutality Support",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Molten Shell",
+        "Cast when Damage Taken Support",
+        "Brutality Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Embrace Madness",
+    "Purity of Elements",
+    "Enhance Support",
+    "Temporal Rift",
+    "Purity of Elements",
+    "Enhance Support",
+    "Embrace Madness",
+    "Temporal Rift",
+    "Embrace Madness",
+    "Defiance Banner",
+    "Dread Banner",
+    "More Duration Support",
+    "Increased Area of Effect Support",
+    "Ancestral Cry",
+    "Battlemage's Cry",
+    "More Duration Support",
+    "Urgent Orders Support",
+    "Enduring Cry",
+    "Intimidating Cry",
+    "More Duration Support",
+    "Urgent Orders Support",
+    "Flame Dash",
+    "Brutality Support",
+    "Faster Casting Support",
+    "Molten Shell",
+    "Cast when Damage Taken Support",
+    "Brutality Support"
+  ],
+  "items": [
+    {
+      "name": "Warped Timepiece",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Beacon of Madness",
+      "typeLine": "Two-Toned Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn Ambu's Charge",
+      "typeLine": "Crusader Chainmail",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Dark Seer",
+      "typeLine": "Shadow Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "",
+      "typeLine": "Chest Splitter of the Gorilla",
+      "frameType": 1,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "Ceremonial Axe of Ire",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Carrion Star",
+      "typeLine": "General's Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Redblade Banner",
+      "typeLine": "Painted Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Celestial Brace",
+      "typeLine": "Goliath Gauntlets",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Maelström Grasp",
+      "typeLine": "Synthesised Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "The Torrent's Reclamation",
+      "typeLine": "Cloth Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 5,
+  "lastCheckedUtc": "2026-06-19T18:22:25.035107Z"
+}

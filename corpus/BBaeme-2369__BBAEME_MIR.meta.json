@@ -1,0 +1,264 @@
+{
+  "account": "BBaeme-2369",
+  "name": "BBAEME_MIR",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Hierophant",
+  "ascendancy": "Hierophant",
+  "secondaryAscendancy": "Breachlord Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4159,
+    "energyShield": 1277,
+    "mana": 920,
+    "ward": 134,
+    "movementSpeed": 289,
+    "lifeRegen": 533,
+    "evasionRating": 22,
+    "armour": 41883,
+    "strength": 227,
+    "dexterity": 115,
+    "intelligence": 227,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 5,
+    "effectiveHealthPool": 488805,
+    "physicalMaximumHitTaken": 18027,
+    "fireMaximumHitTaken": 41553,
+    "coldMaximumHitTaken": 41553,
+    "lightningMaximumHitTaken": 48780,
+    "chaosMaximumHitTaken": 32589,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 4,
+    "fireResistanceMax": 76,
+    "coldResistance": 76,
+    "coldResistanceOverCap": 12,
+    "coldResistanceMax": 76,
+    "lightningResistance": 80,
+    "lightningResistanceOverCap": 17,
+    "lightningResistanceMax": 80,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 8,
+    "chaosResistanceMax": 75,
+    "blockChance": 89,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 19,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 334,
+    "manaReserved": 822,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 18027
+  },
+  "keyStones": [
+    {
+      "name": "Ancestral Bond",
+      "icon": "Art/2DArt/SkillIcons/passives/totemmax.webp",
+      "stats": [
+        "You can't deal Damage with Skills yourself\n+1 to maximum number of Summoned Totems"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 127,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Fusillade",
+        "Less Duration Support",
+        "Greater Volley Support",
+        "Volatility Support",
+        "Elemental Damage with Attacks Support",
+        "Ballista Totem Support",
+        "Increased Critical Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Frenzy",
+        "Faster Attacks Support",
+        "Shield Charge",
+        "Culling Strike Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Determination"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Raise Spectre",
+        "Companionship Support",
+        "Minion Life Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Sniper's Mark",
+        "Mark On Hit Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Automation",
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Precision",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Sigil of Power",
+        "More Duration Support",
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Tempest Shield",
+        "Wrath",
+        "Vaal Molten Shell"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Fusillade",
+    "Less Duration Support",
+    "Greater Volley Support",
+    "Volatility Support",
+    "Elemental Damage with Attacks Support",
+    "Ballista Totem Support",
+    "Increased Critical Damage Support",
+    "Frenzy",
+    "Faster Attacks Support",
+    "Shield Charge",
+    "Culling Strike Support",
+    "Determination",
+    "Raise Spectre",
+    "Companionship Support",
+    "Minion Life Support",
+    "Sniper's Mark",
+    "Mark On Hit Support",
+    "Automation",
+    "Convocation",
+    "Precision",
+    "Arrogance Support",
+    "Sigil of Power",
+    "More Duration Support",
+    "Flame Dash",
+    "Tempest Shield",
+    "Wrath",
+    "Vaal Molten Shell"
+  ],
+  "items": [
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Dread March",
+      "typeLine": "Vaal Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Rapture Scratch",
+      "typeLine": "Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 10,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "",
+      "typeLine": "Cerulean Faun's Horn of Flight",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Behemoth Finger",
+      "typeLine": "Synaptic Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Death Gnarl",
+      "typeLine": "Goat's Horn",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Honour Grasp",
+      "typeLine": "Precursor Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Oblivion Crest",
+      "typeLine": "Divine Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Bramble Wrap",
+      "typeLine": "Sacred Chainmail",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Warped Timepiece",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 6,
+  "lastCheckedUtc": "2026-06-22T19:03:39.520763Z"
+}

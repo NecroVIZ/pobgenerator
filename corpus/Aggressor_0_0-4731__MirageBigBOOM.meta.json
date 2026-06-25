@@ -1,0 +1,329 @@
+{
+  "account": "Aggressor_0_0-4731",
+  "name": "MirageBigBOOM",
+  "league": "Mirage",
+  "level": 93,
+  "class": "Duelist",
+  "ascendancy": null,
+  "secondaryAscendancy": null,
+  "pantheonMajor": null,
+  "pantheonMinor": null,
+  "banditChoice": "Kraityn",
+  "defensiveStats": {
+    "life": 5152,
+    "energyShield": 171,
+    "mana": 1456,
+    "ward": 0,
+    "movementSpeed": 137,
+    "lifeRegen": 329,
+    "evasionRating": 1415,
+    "armour": 1792,
+    "strength": 312,
+    "dexterity": 314,
+    "intelligence": 384,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 14930,
+    "physicalMaximumHitTaken": 5660,
+    "fireMaximumHitTaken": 19715,
+    "coldMaximumHitTaken": 19011,
+    "lightningMaximumHitTaken": 19011,
+    "chaosMaximumHitTaken": 19815,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 7,
+    "fireResistanceMax": 76,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 74,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 12,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 4,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 14,
+        "max": 90,
+        "effectiveAppliedArmour": 1792,
+        "base": 0,
+        "takenDamage": 2273
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 5660
+  },
+  "keyStones": [],
+  "masteriesCount": 2,
+  "passiveCount": 112,
+  "skillGroups": [
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Ravenous",
+        "Void Shockwave",
+        "Void Shockwave",
+        "Void Shockwave",
+        "Void Shockwave"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Void Shockwave",
+        "Void Shockwave",
+        "Ravenous"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Void Shockwave",
+        "Ravenous"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Void Shockwave",
+        "Ravenous"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Void Shockwave",
+        "Vile Toxins Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Void Shockwave",
+        "Vile Toxins Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Void Shockwave",
+        "Vile Toxins Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Void Shockwave",
+        "Vile Toxins Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Void Shockwave",
+        "Void Shockwave"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Void Shockwave",
+        "Eclipse Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Void Shockwave"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Void Shockwave"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Void Shockwave"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Void Shockwave"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Void Shockwave"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Void Shockwave",
+        "Void Shockwave",
+        "Void Shockwave"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Void Shockwave",
+        "Void Shockwave",
+        "Void Shockwave"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Void Shockwave",
+        "Void Shockwave"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Void Shockwave"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Ravenous",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Ravenous",
+    "Void Shockwave",
+    "Ravenous",
+    "Void Shockwave",
+    "Ravenous",
+    "Void Shockwave",
+    "Vile Toxins Support",
+    "Void Shockwave",
+    "Vile Toxins Support",
+    "Void Shockwave",
+    "Vile Toxins Support",
+    "Void Shockwave",
+    "Vile Toxins Support",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Eclipse Support",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave",
+    "Void Shockwave"
+  ],
+  "items": [
+    {
+      "name": "The Supreme Truth",
+      "typeLine": "Crystal Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Honour Edge",
+      "typeLine": "Vaal Hatchet",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "Discharging Ceremonial Axe of the Combatant",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Belly of the Beast",
+      "typeLine": "Full Wyrmscale",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Veruso's Ambition",
+      "typeLine": "Shackled Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foulborn Saresh's Darkness",
+      "typeLine": "Chain Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "The Jinxed Juju",
+      "typeLine": "Citrine Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "The Embalmer",
+      "typeLine": "Carnal Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Perandus Signet",
+      "typeLine": "Paua Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Perandus Signet",
+      "typeLine": "Paua Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Chitus' Apex",
+      "typeLine": "Necromancer Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Supreme Truth",
+      "typeLine": "Crystal Sceptre",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    }
+  ],
+  "jewelsCount": 0,
+  "lastCheckedUtc": "2026-06-11T05:10:54.685675Z"
+}

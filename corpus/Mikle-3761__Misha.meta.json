@@ -1,0 +1,336 @@
+{
+  "account": "Mikle-3761",
+  "name": "Misha",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Ascendant",
+  "ascendancy": "Ascendant",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 11590,
+    "mana": 1137,
+    "ward": 0,
+    "movementSpeed": 375,
+    "lifeRegen": 0,
+    "evasionRating": 0,
+    "armour": 1156312,
+    "strength": 167,
+    "dexterity": 181,
+    "intelligence": 367,
+    "enduranceCharges": 9,
+    "frenzyCharges": 4,
+    "powerCharges": 4,
+    "effectiveHealthPool": 584330,
+    "physicalMaximumHitTaken": 65581,
+    "fireMaximumHitTaken": 149294,
+    "coldMaximumHitTaken": 149294,
+    "lightningMaximumHitTaken": 149294,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 89,
+    "fireResistanceOverCap": 676,
+    "fireResistanceMax": 89,
+    "coldResistance": 89,
+    "coldResistanceOverCap": 101,
+    "coldResistanceMax": 89,
+    "lightningResistance": 89,
+    "lightningResistanceOverCap": 88,
+    "lightningResistanceMax": 89,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 65,
+    "spellBlockChance": 65,
+    "spellSuppressionChance": 5,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 1066,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 1156312,
+        "base": 0,
+        "takenDamage": 2248
+      },
+      "fire": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 46252,
+        "base": 0,
+        "takenDamage": 2248
+      },
+      "cold": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 46252,
+        "base": 0,
+        "takenDamage": 2248
+      },
+      "lightning": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 46252,
+        "base": 0,
+        "takenDamage": 2248
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 65581
+  },
+  "keyStones": [
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Glancing Blows",
+      "icon": "Art/2DArt/SkillIcons/passives/GlancingBlows.webp",
+      "stats": [
+        "Chance to Block Attack Damage is doubled\nChance to Block Spell Damage is doubled\nYou take 65% of Damage from Blocked Hits"
+      ]
+    },
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    },
+    {
+      "name": "Iron Reflexes",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
+      "stats": [
+        "Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    }
+  ],
+  "masteriesCount": 2,
+  "passiveCount": 99,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Smite of Divine Judgement",
+        "Greater Multistrike Support",
+        "Damage on Full Life Support",
+        "Greater Ancestral Call Support",
+        "Unholy Trinity Support",
+        "Volatility Support",
+        "Item Rarity Support",
+        "Endurance Charge on Melee Stun Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Phase Run",
+        "Enhance Support",
+        "Automation",
+        "Efficacy Support",
+        "More Duration Support",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Wrath",
+        "Awakened Enlighten Support",
+        "Determination",
+        "Grace"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Leap Slam",
+        "Awakened Empower Support",
+        "Vaal Smite",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Precision",
+        "Purity of Fire",
+        "Awakened Enlighten Support",
+        "Clarity"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Discipline",
+        "Haste",
+        "Purity of Elements",
+        "Awakened Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Temporal Rift",
+        "Molten Shell",
+        "Awakened Enhance Support"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Conductivity"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Smite of Divine Judgement",
+    "Greater Multistrike Support",
+    "Damage on Full Life Support",
+    "Greater Ancestral Call Support",
+    "Unholy Trinity Support",
+    "Volatility Support",
+    "Item Rarity Support",
+    "Endurance Charge on Melee Stun Support",
+    "Phase Run",
+    "Enhance Support",
+    "Automation",
+    "Efficacy Support",
+    "More Duration Support",
+    "Inspiration Support",
+    "Wrath",
+    "Awakened Enlighten Support",
+    "Determination",
+    "Grace",
+    "Leap Slam",
+    "Awakened Empower Support",
+    "Vaal Smite",
+    "Faster Attacks Support",
+    "Precision",
+    "Purity of Fire",
+    "Awakened Enlighten Support",
+    "Clarity",
+    "Discipline",
+    "Haste",
+    "Purity of Elements",
+    "Awakened Enlighten Support",
+    "Temporal Rift",
+    "Molten Shell",
+    "Awakened Enhance Support",
+    "Conductivity"
+  ],
+  "items": [
+    {
+      "name": "Beast Jack",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Replica Dreamfeather",
+      "typeLine": "Eternal Sword",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Dusk Tread",
+      "typeLine": "Synthesised Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Dragon Clutches",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Phoenix Bulwark",
+      "typeLine": "Supreme Spiked Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Damnation Grip",
+      "typeLine": "Synthesised Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Doom Bane",
+      "typeLine": "Maraketh Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Morbid Braid",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Damnation Grip",
+      "typeLine": "Synthesised Two-Stone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Demon Dart",
+      "typeLine": "Fire Arrow Quiver",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 19,
+  "lastCheckedUtc": "2026-06-25T08:20:03.41467Z"
+}

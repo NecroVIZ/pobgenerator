@@ -1,0 +1,280 @@
+{
+  "account": "BlazePentium-0886",
+  "name": "Blayse_KBD",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Champion",
+  "ascendancy": "Champion",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 8875,
+    "mana": 831,
+    "ward": 0,
+    "movementSpeed": 204,
+    "lifeRegen": 0,
+    "evasionRating": 0,
+    "armour": 285728,
+    "strength": 155,
+    "dexterity": 162,
+    "intelligence": 340,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 340528,
+    "physicalMaximumHitTaken": 38914,
+    "fireMaximumHitTaken": 90075,
+    "coldMaximumHitTaken": 96053,
+    "lightningMaximumHitTaken": 90057,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 89,
+    "fireResistanceOverCap": 62,
+    "fireResistanceMax": 89,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 34,
+    "coldResistanceMax": 90,
+    "lightningResistance": 89,
+    "lightningResistanceOverCap": 34,
+    "lightningResistanceMax": 89,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 71,
+    "spellBlockChance": 63,
+    "spellSuppressionChance": 37,
+    "spellDodgeChance": 0,
+    "itemRarity": 32,
+    "energyShieldRegen": 1348,
+    "lifeReserved": 0,
+    "manaReserved": 827,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 90,
+        "max": 90,
+        "effectiveAppliedArmour": 285728,
+        "base": 12,
+        "takenDamage": 2272
+      },
+      "fire": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 1977
+      },
+      "cold": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 1977
+      },
+      "lightning": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2863
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 38914
+  },
+  "keyStones": [
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Iron Reflexes",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
+      "stats": [
+        "Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 113,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Determination",
+        "Tempest Shield",
+        "Vaal Discipline",
+        "Vitality",
+        "Awakened Enlighten Support",
+        "Grace"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Haste",
+        "Hatred",
+        "Enlighten Support",
+        "Generosity Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Ice",
+        "Purity of Lightning",
+        "Purity of Fire",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Smite",
+        "More Duration Support",
+        "Protective Link"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Molten Shell",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Determination",
+    "Tempest Shield",
+    "Vaal Discipline",
+    "Vitality",
+    "Awakened Enlighten Support",
+    "Grace",
+    "Haste",
+    "Hatred",
+    "Enlighten Support",
+    "Generosity Support",
+    "Purity of Ice",
+    "Purity of Lightning",
+    "Purity of Fire",
+    "Enlighten Support",
+    "Smite",
+    "More Duration Support",
+    "Protective Link",
+    "Molten Shell",
+    "Cast when Damage Taken Support",
+    "Flame Dash",
+    "Shield Charge",
+    "Faster Attacks Support"
+  ],
+  "items": [
+    {
+      "name": "Morbid Circle",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Aegis Aurora",
+      "typeLine": "Champion Kite Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Cataclysm Curtain",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Dragon Star",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Hand of Phrecia",
+      "typeLine": "Mesh Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Whispers of Infinity",
+      "typeLine": "Seaglass Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Grim Knot",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Dark Seer",
+      "typeLine": "Shadow Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "",
+      "typeLine": "Adept's Spiraled Wand",
+      "frameType": 1,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "Quartz Wand",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Bubonic Trail",
+      "typeLine": "Murder Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-24T23:09:15.708247Z"
+}

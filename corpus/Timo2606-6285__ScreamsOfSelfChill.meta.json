@@ -1,0 +1,254 @@
+{
+  "account": "Timo2606-6285",
+  "name": "ScreamsOfSelfChill",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Assassin",
+  "ascendancy": "Assassin",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5899,
+    "energyShield": 1705,
+    "mana": 1025,
+    "ward": 0,
+    "movementSpeed": 173,
+    "lifeRegen": 118,
+    "evasionRating": 9181,
+    "armour": 0,
+    "strength": 162,
+    "dexterity": 183,
+    "intelligence": 186,
+    "enduranceCharges": 3,
+    "frenzyCharges": 5,
+    "powerCharges": 3,
+    "effectiveHealthPool": 45081,
+    "physicalMaximumHitTaken": 10665,
+    "fireMaximumHitTaken": 36803,
+    "coldMaximumHitTaken": 36803,
+    "lightningMaximumHitTaken": 36803,
+    "chaosMaximumHitTaken": 7591,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 12,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 39,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 18,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 1,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 24,
+    "spellBlockChance": 25,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 967,
+    "evadeChance": 52,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 2,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 2,
+        "takenDamage": 2016
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 10,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 7591
+  },
+  "keyStones": [
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    },
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 123,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Spark of the Nova",
+        "Greater Spell Echo Support",
+        "Inspiration Support",
+        "Unbound Ailments Support",
+        "Faster Projectiles Support",
+        "Added Lightning Damage Support",
+        "Efficacy Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Steelskin",
+        "Cooldown Recovery Support",
+        "Frost Shield",
+        "Automation",
+        "Arcane Surge Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Faster Casting Support",
+        "Ice Bite Support",
+        "Spell Echo Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Arctic Armour",
+        "Malevolence",
+        "Tempest Shield"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Plague Bearer",
+        "Increased Area of Effect Support",
+        "Sigil of Power"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vaal Clarity",
+        "Flesh and Stone",
+        "Despair"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Spark of the Nova",
+    "Greater Spell Echo Support",
+    "Inspiration Support",
+    "Unbound Ailments Support",
+    "Faster Projectiles Support",
+    "Added Lightning Damage Support",
+    "Efficacy Support",
+    "Steelskin",
+    "Cooldown Recovery Support",
+    "Frost Shield",
+    "Automation",
+    "Arcane Surge Support",
+    "Frostblink of Wintry Blast",
+    "Faster Casting Support",
+    "Ice Bite Support",
+    "Spell Echo Support",
+    "Arctic Armour",
+    "Malevolence",
+    "Tempest Shield",
+    "Plague Bearer",
+    "Increased Area of Effect Support",
+    "Sigil of Power",
+    "Vaal Clarity",
+    "Flesh and Stone",
+    "Despair"
+  ],
+  "items": [
+    {
+      "name": "Screams of the Desiccated",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Armageddon Hoof",
+      "typeLine": "Phantom Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Icefang Orbit",
+      "typeLine": "Iron Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Winterweave",
+      "typeLine": "Coral Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Pandemonium Finger",
+      "typeLine": "Sapphire Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Apep's Slumber",
+      "typeLine": "Vaal Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Gull",
+      "typeLine": "Raven Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Vortex Grinder",
+      "typeLine": "Oscillating Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Corruption Guardian",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Soul Ascension",
+      "typeLine": "Carnal Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Armageddon Locket",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-23T19:32:09.53876Z"
+}

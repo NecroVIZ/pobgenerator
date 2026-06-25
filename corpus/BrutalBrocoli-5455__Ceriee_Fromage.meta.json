@@ -1,0 +1,276 @@
+{
+  "account": "BrutalBrocoli-5455",
+  "name": "Ceriee_Fromage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Gladiator",
+  "ascendancy": "Gladiator",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 4631,
+    "energyShield": 0,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 143,
+    "lifeRegen": 2441,
+    "evasionRating": 1488,
+    "armour": 7000,
+    "strength": 85,
+    "dexterity": 80,
+    "intelligence": 124,
+    "enduranceCharges": 6,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 2513280,
+    "physicalMaximumHitTaken": 7555,
+    "fireMaximumHitTaken": 29054,
+    "coldMaximumHitTaken": 29054,
+    "lightningMaximumHitTaken": 26979,
+    "chaosMaximumHitTaken": 12973,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 84,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 18,
+    "coldResistanceMax": 90,
+    "lightningResistance": 89,
+    "lightningResistanceOverCap": 19,
+    "lightningResistanceMax": 89,
+    "chaosResistance": 68,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 76,
+    "blockChance": 99,
+    "spellBlockChance": 98,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 3012,
+    "manaReserved": 0,
+    "evadeChance": 5,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 94,
+      "lightning": 0,
+      "fire": 6,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 7555
+  },
+  "keyStones": [
+    {
+      "name": "The Agnostic",
+      "icon": "Art/2DArt/SkillIcons/passives/MiracleMaker.webp",
+      "stats": [
+        "Removes all Energy Shield\nWhile not on Full Life, Sacrifice 20% of Mana per Second to Recover that much Life"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 128,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Cremation of the Volcano",
+        "Burning Damage Support",
+        "Combustion Support",
+        "Cast when Stunned Support",
+        "Detonate Dead of Scavenging",
+        "Unbound Ailments Support",
+        "Unhinge",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Tempest Shield",
+        "Raise Zombie of Falling",
+        "Cast when Stunned Support",
+        "Chance to Bleed Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Firestorm of Pelting",
+        "Purifying Flame of Revelations",
+        "Flame Surge of Combusting",
+        "Cast when Stunned Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Petrified Blood",
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Malevolence",
+        "Frostblink",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Elemental Weakness",
+        "Flammability",
+        "Cast when Stunned Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Purifying Flame",
+        "Purifying Flame"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Cremation of the Volcano",
+    "Burning Damage Support",
+    "Combustion Support",
+    "Cast when Stunned Support",
+    "Detonate Dead of Scavenging",
+    "Unbound Ailments Support",
+    "Unhinge",
+    "Faster Casting Support",
+    "Tempest Shield",
+    "Raise Zombie of Falling",
+    "Cast when Stunned Support",
+    "Chance to Bleed Support",
+    "Firestorm of Pelting",
+    "Purifying Flame of Revelations",
+    "Flame Surge of Combusting",
+    "Cast when Stunned Support",
+    "Petrified Blood",
+    "Vitality",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Malevolence",
+    "Frostblink",
+    "Eternal Blessing Support",
+    "Elemental Weakness",
+    "Flammability",
+    "Cast when Stunned Support",
+    "Purifying Flame",
+    "Purifying Flame"
+  ],
+  "items": [
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Azadi Crest",
+      "typeLine": "Lacquered Buckler",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Death Rush",
+      "typeLine": "Amethyst Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Miracle Road",
+      "typeLine": "Leviathan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "",
+      "typeLine": "Abyssal Sceptre",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Doppelgänger Guise",
+      "typeLine": "Sadist Garb",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Viper Talons",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "The Anvil",
+      "typeLine": "Amber Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Valyrium",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Maata's Teaching",
+      "typeLine": "Karui Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Carrion Glance",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-20T03:05:22.623636Z"
+}

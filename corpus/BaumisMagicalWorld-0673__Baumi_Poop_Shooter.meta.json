@@ -1,0 +1,303 @@
+{
+  "account": "BaumisMagicalWorld-0673",
+  "name": "Baumi_Poop_Shooter",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Oak",
+  "defensiveStats": {
+    "life": 7753,
+    "energyShield": 74,
+    "mana": 0,
+    "ward": 464,
+    "movementSpeed": 130,
+    "lifeRegen": 15,
+    "evasionRating": 426,
+    "armour": 329,
+    "strength": 162,
+    "dexterity": 111,
+    "intelligence": 103,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 7,
+    "effectiveHealthPool": 19448,
+    "physicalMaximumHitTaken": 7965,
+    "fireMaximumHitTaken": 28215,
+    "coldMaximumHitTaken": 28215,
+    "lightningMaximumHitTaken": 28215,
+    "chaosMaximumHitTaken": 12041,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 40,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 70,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 58,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 35,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 5,
+    "spellBlockChance": 25,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 2975,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 3,
+        "max": 90,
+        "effectiveAppliedArmour": 329,
+        "base": 0,
+        "takenDamage": 2274
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 7965
+  },
+  "keyStones": [
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Inner Conviction",
+      "icon": "Art/2DArt/SkillIcons/passives/InnerConviction.webp",
+      "stats": [
+        "3% more Spell Damage per Power Charge",
+        "Gain Power Charges instead of Frenzy Charges"
+      ]
+    },
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 134,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Ethereal Knives of the Massacre",
+        "Greater Volley Support",
+        "Fireball",
+        "Cast when Damage Taken Support",
+        "Frostbolt",
+        "Freezing Pulse",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Ice Spear",
+        "Blazing Salvo",
+        "Essence Drain of Wickedness",
+        "Greater Volley Support",
+        "Soulrend of Reaping",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Ice Spear",
+        "Greater Volley Support",
+        "Freezing Pulse",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Convocation"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Forbidden Rite"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Assassin's Mark",
+        "Cast when Damage Taken Support",
+        "Crackling Lance of Branching",
+        "Purifying Flame of Revelations"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Rolling Magma",
+        "Cast when Damage Taken Support",
+        "Greater Volley Support",
+        "Ball Lightning"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Eye of Winter",
+        "Cast when Damage Taken Support",
+        "Spark of the Nova"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Despair"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Petrified Blood"
+      ]
+    },
+    {
+      "itemSlot": 10,
+      "gems": [
+        "Vitality"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Ethereal Knives of the Massacre",
+    "Greater Volley Support",
+    "Fireball",
+    "Cast when Damage Taken Support",
+    "Frostbolt",
+    "Freezing Pulse",
+    "Lifetap Support",
+    "Ice Spear",
+    "Blazing Salvo",
+    "Essence Drain of Wickedness",
+    "Greater Volley Support",
+    "Soulrend of Reaping",
+    "Cast when Damage Taken Support",
+    "Ice Spear",
+    "Greater Volley Support",
+    "Freezing Pulse",
+    "Cast when Damage Taken Support",
+    "Convocation",
+    "Forbidden Rite",
+    "Assassin's Mark",
+    "Cast when Damage Taken Support",
+    "Crackling Lance of Branching",
+    "Purifying Flame of Revelations",
+    "Rolling Magma",
+    "Cast when Damage Taken Support",
+    "Greater Volley Support",
+    "Ball Lightning",
+    "Eye of Winter",
+    "Cast when Damage Taken Support",
+    "Spark of the Nova",
+    "Flame Dash",
+    "Despair",
+    "Petrified Blood",
+    "Vitality"
+  ],
+  "items": [
+    {
+      "name": "Ngamahu's Sign",
+      "typeLine": "Ruby Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Burden of Shadows",
+      "typeLine": "Primordial Staff",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Blight Grip",
+      "typeLine": "Unset Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Agony Knot",
+      "typeLine": "Unset Ring",
+      "frameType": 2,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Corruption Clutches",
+      "typeLine": "Runic Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Malachai's Simula",
+      "typeLine": "Iron Mask",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Behemoth Dash",
+      "typeLine": "Runic Sabatons",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Eye of Innocence",
+      "typeLine": "Citrine Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Fate Pelt",
+      "typeLine": "Hussar Brigandine",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Gale Song",
+      "typeLine": "Highborn Staff",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Foe Shackle",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 5,
+  "lastCheckedUtc": "2026-06-25T09:36:31.729695Z"
+}

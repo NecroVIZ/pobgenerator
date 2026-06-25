@@ -1,0 +1,268 @@
+{
+  "account": "Blu-5363",
+  "name": "Blu_WitchMirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Necromancer",
+  "ascendancy": "Necromancer",
+  "secondaryAscendancy": "Breachlord Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3917,
+    "energyShield": 197,
+    "mana": 932,
+    "ward": 158,
+    "movementSpeed": 194,
+    "lifeRegen": 39,
+    "evasionRating": 1072,
+    "armour": 2226,
+    "strength": 234,
+    "dexterity": 43,
+    "intelligence": 102,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 140835,
+    "physicalMaximumHitTaken": 7330,
+    "fireMaximumHitTaken": 20227,
+    "coldMaximumHitTaken": 20227,
+    "lightningMaximumHitTaken": 19418,
+    "chaosMaximumHitTaken": 6174,
+    "fireResistance": 79,
+    "fireResistanceOverCap": 68,
+    "fireResistanceMax": 79,
+    "coldResistance": 79,
+    "coldResistanceOverCap": 36,
+    "coldResistanceMax": 79,
+    "lightningResistance": 78,
+    "lightningResistanceOverCap": 27,
+    "lightningResistanceMax": 78,
+    "chaosResistance": 34,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 90,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 10,
+    "spellDodgeChance": 0,
+    "itemRarity": 48,
+    "energyShieldRegen": 10,
+    "lifeReserved": 0,
+    "manaReserved": 657,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 6174
+  },
+  "keyStones": [
+    {
+      "name": "Resolute Technique",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneResoluteTechnique.webp",
+      "stats": [
+        "Your hits can't be Evaded\nNever deal Critical Strikes"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 121,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Summon Holy Relic of Conviction",
+        "Empower Support",
+        "Eclipse Support",
+        "Void Manipulation Support",
+        "Minion Damage Support",
+        "Unbound Ailments Support",
+        "Meat Shield Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Animate Guardian",
+        "Meat Shield Support",
+        "Minion Life Support",
+        "Raise Spectre"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Lancing Steel of Spraying",
+        "Life Gain on Hit Support",
+        "Withering Touch Support",
+        "Returning Projectiles Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Tempest Shield",
+        "Frostblink",
+        "Flesh and Stone",
+        "Arctic Armour"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Whirling Blades",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Summon Raging Spirit"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Despair"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Bone Offering"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Desecrate"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Aspect of the Crab"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Summon Holy Relic of Conviction",
+    "Empower Support",
+    "Eclipse Support",
+    "Void Manipulation Support",
+    "Minion Damage Support",
+    "Unbound Ailments Support",
+    "Meat Shield Support",
+    "Animate Guardian",
+    "Meat Shield Support",
+    "Minion Life Support",
+    "Raise Spectre",
+    "Lancing Steel of Spraying",
+    "Life Gain on Hit Support",
+    "Withering Touch Support",
+    "Returning Projectiles Support",
+    "Tempest Shield",
+    "Frostblink",
+    "Flesh and Stone",
+    "Arctic Armour",
+    "Whirling Blades",
+    "Faster Attacks Support",
+    "Summon Raging Spirit",
+    "Despair",
+    "Bone Offering",
+    "Desecrate",
+    "Aspect of the Crab"
+  ],
+  "items": [
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Dialla's Malefaction",
+      "typeLine": "Sage's Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Rift Grasp",
+      "typeLine": "Bone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Darkness Enthroned",
+      "typeLine": "Stygian Vise",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Ashes of the Stars",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Geofri's Crest",
+      "typeLine": "Great Crown",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Rift Fingers",
+      "typeLine": "Slink Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Mind Track",
+      "typeLine": "Slink Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Blight Fang",
+      "typeLine": "Elegant Foil",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Onslaught Sever",
+      "typeLine": "Jewelled Foil",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Death Eye",
+      "typeLine": "Topaz Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Horror Slicer",
+      "typeLine": "Serrated Foil",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-19T11:49:25.683789Z"
+}

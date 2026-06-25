@@ -1,0 +1,299 @@
+{
+  "account": "youd1sappear3ddd-0392",
+  "name": "パラサイト",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Juggernaut",
+  "ascendancy": "Juggernaut",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 10237,
+    "energyShield": 101,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 193,
+    "lifeRegen": 1115,
+    "evasionRating": 29,
+    "armour": 10949,
+    "strength": 3720,
+    "dexterity": 258,
+    "intelligence": 208,
+    "enduranceCharges": 7,
+    "frenzyCharges": 4,
+    "powerCharges": 3,
+    "effectiveHealthPool": 86615,
+    "physicalMaximumHitTaken": 10095,
+    "fireMaximumHitTaken": 42199,
+    "coldMaximumHitTaken": 39978,
+    "lightningMaximumHitTaken": 39978,
+    "chaosMaximumHitTaken": 8969,
+    "fireResistance": 85,
+    "fireResistanceOverCap": 42,
+    "fireResistanceMax": 85,
+    "coldResistance": 84,
+    "coldResistanceOverCap": 36,
+    "coldResistanceMax": 84,
+    "lightningResistance": 84,
+    "lightningResistanceOverCap": 14,
+    "lightningResistanceMax": 84,
+    "chaosResistance": 37,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 65,
+    "spellBlockChance": 71,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 4869,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 77,
+        "max": 90,
+        "effectiveAppliedArmour": 10949,
+        "base": 28,
+        "takenDamage": 2256
+      },
+      "fire": {
+        "value": 28,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 28,
+        "takenDamage": 2256
+      },
+      "cold": {
+        "value": 28,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 28,
+        "takenDamage": 2256
+      },
+      "lightning": {
+        "value": 28,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 28,
+        "takenDamage": 2256
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 8969
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    },
+    {
+      "name": "Point Blank",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePointBlankArcher.webp",
+      "stats": [
+        "Projectile Attack Hits deal up to 30% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 114,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Blast",
+        "Greater Fork Support",
+        "Void Manipulation Support",
+        "Increased Critical Damage Support",
+        "Summon Sacred Wisps",
+        "Volatility Support",
+        "Returning Projectiles Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Precision",
+        "Mark On Hit Support",
+        "Enhance Support",
+        "Assassin's Mark"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Purity of Elements",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Portal",
+        "Cast on Death Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Tornado",
+        "Spellslinger"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Automation",
+        "Steelskin"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Blood Rage",
+        "Withering Step",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Shield Charge",
+        "Vitality",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Aspect of the Spider"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Blast",
+    "Greater Fork Support",
+    "Void Manipulation Support",
+    "Increased Critical Damage Support",
+    "Summon Sacred Wisps",
+    "Volatility Support",
+    "Returning Projectiles Support",
+    "Precision",
+    "Mark On Hit Support",
+    "Enhance Support",
+    "Assassin's Mark",
+    "Purity of Elements",
+    "Eternal Blessing Support",
+    "Portal",
+    "Cast on Death Support",
+    "Tornado",
+    "Spellslinger",
+    "Automation",
+    "Steelskin",
+    "Blood Rage",
+    "Withering Step",
+    "Frostblink",
+    "Shield Charge",
+    "Vitality",
+    "Faster Attacks Support",
+    "Aspect of the Spider"
+  ],
+  "items": [
+    {
+      "name": "Replica Alberon's Warpath",
+      "typeLine": "Soldier Boots",
+      "frameType": 10,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Glyph Bane",
+      "typeLine": "Synthesised Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Fate Choker",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "The Iron Fortress",
+      "typeLine": "Crusader Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Blight Band",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Atziri's Disfavour",
+      "typeLine": "Vaal Axe",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Hypnotic Hand",
+      "typeLine": "Precursor Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Pandemonium Bastion",
+      "typeLine": "Synthesised Steel Kite Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Skull Visage",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 10,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-23T04:16:39.858617Z"
+}

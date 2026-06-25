@@ -1,0 +1,213 @@
+{
+  "account": "BGTS-7088",
+  "name": "StaMiLikIgra",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Ascendant",
+  "ascendancy": "Ascendant",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 28992,
+    "energyShield": 0,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 275,
+    "lifeRegen": 80,
+    "evasionRating": 601,
+    "armour": 107,
+    "strength": 343,
+    "dexterity": 100,
+    "intelligence": 224,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 80653,
+    "physicalMaximumHitTaken": 29013,
+    "fireMaximumHitTaken": 107378,
+    "coldMaximumHitTaken": 103543,
+    "lightningMaximumHitTaken": 103543,
+    "chaosMaximumHitTaken": 87855,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 31,
+    "fireResistanceMax": 76,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 6,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 11,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 67,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 25,
+    "spellBlockChance": 13,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 78,
+    "energyShieldRegen": 0,
+    "lifeReserved": 28992,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 29013
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Eternal Youth",
+      "icon": "Art/2DArt/SkillIcons/passives/EternalYouth.webp",
+      "stats": [
+        "50% less Life Regeneration Rate\n50% less maximum Total Life Recovery per Second from Leech\nEnergy Shield Recharge instead applies to Life"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 123,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Blood Sacrament",
+        "Brutality Support",
+        "Second Wind Support",
+        "Increased Critical Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Petrified Blood"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 9,
+      "gems": [
+        "Pride"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Blood Sacrament",
+    "Brutality Support",
+    "Second Wind Support",
+    "Increased Critical Damage Support",
+    "Petrified Blood",
+    "Flame Dash",
+    "Pride"
+  ],
+  "items": [
+    {
+      "name": "Relic of the Pact",
+      "typeLine": "Sage Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Entropic Devastation",
+      "typeLine": "Assassin's Mitts",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Dire Bane",
+      "typeLine": "Void Sceptre",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Dusk Mangler",
+      "typeLine": "Siege Axe",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Rathpith Globe",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Empyrean Peak",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Apostate",
+      "typeLine": "Cabalist Regalia",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Untouched Soul",
+      "typeLine": "Gold Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Kraken Dash",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Sorrow Loop",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Essence Worm",
+      "typeLine": "Unset Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    }
+  ],
+  "jewelsCount": 21,
+  "lastCheckedUtc": "2026-06-21T15:41:47.034382Z"
+}

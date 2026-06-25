@@ -1,0 +1,245 @@
+{
+  "account": "Reflex-4632",
+  "name": "Reflex_HolyHunter",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Elementalist",
+  "ascendancy": "Elementalist",
+  "secondaryAscendancy": "Lycia Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1920,
+    "energyShield": 4575,
+    "mana": 741,
+    "ward": 304,
+    "movementSpeed": 241,
+    "lifeRegen": 0,
+    "evasionRating": 28,
+    "armour": 9847,
+    "strength": 22,
+    "dexterity": 50,
+    "intelligence": 29,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 6,
+    "effectiveHealthPool": 224380,
+    "physicalMaximumHitTaken": 9665,
+    "fireMaximumHitTaken": 26705,
+    "coldMaximumHitTaken": 26705,
+    "lightningMaximumHitTaken": 26705,
+    "chaosMaximumHitTaken": 8020,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 20,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 19,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 3,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 2,
+    "chaosResistanceMax": 0,
+    "blockChance": 89,
+    "spellBlockChance": 89,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 8020
+  },
+  "keyStones": [
+    {
+      "name": "Runebinder",
+      "icon": "Art/2DArt/SkillIcons/passives/BrandKeystone.webp",
+      "stats": [
+        "-1 to maximum number of Summoned Totems\nYou can have an additional Brand Attached to an Enemy"
+      ]
+    },
+    {
+      "name": "Supreme Ostentation",
+      "icon": "Art/2DArt/SkillIcons/passives/SupremeProdigy.webp",
+      "stats": [
+        "Ignore Attribute Requirements",
+        "Gain no inherent bonuses from Attributes"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 102,
+  "skillGroups": [
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Penance Brand of Dissipation",
+        "Increased Critical Damage Support",
+        "Inspiration Support",
+        "Arcane Surge Support",
+        "Concentrated Effect Support",
+        "Hypothermia Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Herald of Ash",
+        "Herald of Thunder",
+        "Herald of Agony",
+        "Herald of Ice",
+        "Herald of Purity",
+        "Awakened Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink of Wintry Blast",
+        "Faster Casting Support",
+        "Spell Echo Support",
+        "Inspiration Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Summon Flame Golem",
+        "Awakened Enhance Support",
+        "Summon Ice Golem",
+        "Summon Lightning Golem"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Precision",
+        "Arrogance Support",
+        "Clarity"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Tempest Shield",
+        "Summon Stone Golem",
+        "Elemental Weakness"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Herald of the Hive"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Penance Brand of Dissipation",
+    "Increased Critical Damage Support",
+    "Inspiration Support",
+    "Arcane Surge Support",
+    "Concentrated Effect Support",
+    "Hypothermia Support",
+    "Power Charge On Critical Support",
+    "Herald of Ash",
+    "Herald of Thunder",
+    "Herald of Agony",
+    "Herald of Ice",
+    "Herald of Purity",
+    "Awakened Enlighten Support",
+    "Frostblink of Wintry Blast",
+    "Faster Casting Support",
+    "Spell Echo Support",
+    "Inspiration Support",
+    "Summon Flame Golem",
+    "Awakened Enhance Support",
+    "Summon Ice Golem",
+    "Summon Lightning Golem",
+    "Precision",
+    "Arrogance Support",
+    "Clarity",
+    "Tempest Shield",
+    "Summon Stone Golem",
+    "Elemental Weakness",
+    "Herald of the Hive"
+  ],
+  "items": [
+    {
+      "name": "Bramble Spell",
+      "typeLine": "Synthesised Karui Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Svalinn",
+      "typeLine": "Girded Tower Shield",
+      "frameType": 10,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Onslaught Halo",
+      "typeLine": "Archdemon Crown",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Glyph Shroud",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Mind Slippers",
+      "typeLine": "Paladin Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Corruption Loop",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Sorrow Hand",
+      "typeLine": "Paladin Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Lost Unity",
+      "typeLine": "Formless Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Gloom Pendant",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 19,
+  "lastCheckedUtc": "2026-06-25T05:17:09.263255Z"
+}

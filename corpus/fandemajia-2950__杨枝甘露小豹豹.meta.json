@@ -1,0 +1,280 @@
+{
+  "account": "fandemajia-2950",
+  "name": "杨枝甘露小豹豹",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Chieftain",
+  "ascendancy": "Chieftain",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5361,
+    "energyShield": 27,
+    "mana": 782,
+    "ward": 0,
+    "movementSpeed": 217,
+    "lifeRegen": 1925,
+    "evasionRating": 818,
+    "armour": 28297,
+    "strength": 633,
+    "dexterity": 184,
+    "intelligence": 180,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 139532,
+    "physicalMaximumHitTaken": 14652,
+    "fireMaximumHitTaken": 52490,
+    "coldMaximumHitTaken": 52507,
+    "lightningMaximumHitTaken": 52501,
+    "chaosMaximumHitTaken": 21444,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 199,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 136,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 197,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 31,
+    "chaosResistanceMax": 75,
+    "blockChance": 65,
+    "spellBlockChance": 66,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 26,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 686,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 72,
+      "lightning": 0,
+      "fire": 21,
+      "cold": 7,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 14652
+  },
+  "keyStones": [
+    {
+      "name": "Avatar of Fire",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneAvatarOfFire.webp",
+      "stats": [
+        "50% of Physical, Cold and Lightning Damage Converted to Fire Damage\nDeal no Non-Fire Damage"
+      ]
+    },
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    },
+    {
+      "name": "Iron Will",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneIronWill.webp",
+      "stats": [
+        "Strength's Damage bonus applies to all Spell Damage as well"
+      ]
+    },
+    {
+      "name": "Elemental Overload",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneElementalOverload.webp",
+      "stats": [
+        "Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 112,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Vaal Blade Vortex",
+        "Elemental Focus Support",
+        "Increased Area of Effect Support",
+        "Minion Pact Support",
+        "Greater Unleash Support",
+        "Lifetap Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Automation",
+        "Tempest Shield",
+        "Molten Shell",
+        "Phase Run"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Raise Spectre",
+        "Minion Life Support",
+        "Companionship Support",
+        "Empower Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Determination",
+        "Enlighten Support",
+        "Purity of Fire",
+        "Herald of Ash"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Righteous Fire",
+        "Empower Support",
+        "Enduring Cry"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flame Dash",
+        "Faster Attacks Support",
+        "Shield Charge"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Detonate Dead of Scavenging",
+        "Arc of Surging"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Divine Ire of Holy Lightning"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Bladestorm of Uncertainty"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Vaal Blade Vortex",
+    "Elemental Focus Support",
+    "Increased Area of Effect Support",
+    "Minion Pact Support",
+    "Greater Unleash Support",
+    "Lifetap Support",
+    "Automation",
+    "Tempest Shield",
+    "Molten Shell",
+    "Phase Run",
+    "Raise Spectre",
+    "Minion Life Support",
+    "Companionship Support",
+    "Empower Support",
+    "Determination",
+    "Enlighten Support",
+    "Purity of Fire",
+    "Herald of Ash",
+    "Righteous Fire",
+    "Empower Support",
+    "Enduring Cry",
+    "Flame Dash",
+    "Faster Attacks Support",
+    "Shield Charge",
+    "Detonate Dead of Scavenging",
+    "Arc of Surging",
+    "Divine Ire of Holy Lightning",
+    "Bladestorm of Uncertainty"
+  ],
+  "items": [
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Foulborn Skin of the Loyal",
+      "typeLine": "Simple Robe",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Foulborn Xoph's Blood",
+      "typeLine": "Amber Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "",
+      "typeLine": "Jingling Spirit Shield",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "",
+      "typeLine": "Petrified Club",
+      "frameType": 0,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Enmity's Embrace",
+      "typeLine": "Vermillion Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Dawnbreaker",
+      "typeLine": "Colossal Tower Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Rune Hand",
+      "typeLine": "Hydrascale Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Dire Span",
+      "typeLine": "Hydrascale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Dread Halo",
+      "typeLine": "Pig-Faced Bascinet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Rune Turn",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-20T11:55:19.411202Z"
+}

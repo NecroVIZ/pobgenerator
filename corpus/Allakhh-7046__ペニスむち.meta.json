@@ -1,0 +1,280 @@
+{
+  "account": "Allakhh-7046",
+  "name": "ペニスむち",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Trickster",
+  "ascendancy": "Trickster",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 3185,
+    "energyShield": 1945,
+    "mana": 1028,
+    "ward": 0,
+    "movementSpeed": 204,
+    "lifeRegen": 403,
+    "evasionRating": 35756,
+    "armour": 269,
+    "strength": 160,
+    "dexterity": 184,
+    "intelligence": 191,
+    "enduranceCharges": 3,
+    "frenzyCharges": 7,
+    "powerCharges": 5,
+    "effectiveHealthPool": 25268,
+    "physicalMaximumHitTaken": 7355,
+    "fireMaximumHitTaken": 26052,
+    "coldMaximumHitTaken": 26052,
+    "lightningMaximumHitTaken": 26052,
+    "chaosMaximumHitTaken": 4812,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 36,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 29,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 12,
+    "lightningResistanceMax": 75,
+    "chaosResistance": -17,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 91,
+    "manaReserved": 956,
+    "evadeChance": 81,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 4812
+  },
+  "keyStones": [
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 9,
+  "passiveCount": 105,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Exsanguinate",
+        "Charged Mines Support",
+        "Minefield Support",
+        "Greater Chain Support",
+        "Empower Support",
+        "High-Impact Mine Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Whirling Blades",
+        "Faster Attacks Support",
+        "Lifetap Support",
+        "Frostblink",
+        "Brutality Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Detonate Mines",
+        "Cooldown Recovery Support",
+        "Automation",
+        "Enhance Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Arcanist Brand",
+        "Faster Casting Support",
+        "Vaal Reap",
+        "Assassin's Mark"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Summon Skitterbots",
+        "Bonechill Support",
+        "Unbound Ailments Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Grace",
+        "Enlighten Support",
+        "Hatred"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Summon Skitterbots"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Summon Skitterbots"
+      ]
+    },
+    {
+      "itemSlot": 15,
+      "gems": [
+        "Summon Skitterbots"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Summon Skitterbots"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Summon Skitterbots"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Summon Skitterbots"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Exsanguinate",
+    "Charged Mines Support",
+    "Minefield Support",
+    "Greater Chain Support",
+    "Empower Support",
+    "High-Impact Mine Support",
+    "Whirling Blades",
+    "Faster Attacks Support",
+    "Lifetap Support",
+    "Frostblink",
+    "Brutality Support",
+    "Detonate Mines",
+    "Cooldown Recovery Support",
+    "Automation",
+    "Enhance Support",
+    "Arcanist Brand",
+    "Faster Casting Support",
+    "Vaal Reap",
+    "Assassin's Mark",
+    "Summon Skitterbots",
+    "Bonechill Support",
+    "Unbound Ailments Support",
+    "Grace",
+    "Enlighten Support",
+    "Hatred",
+    "Summon Skitterbots",
+    "Summon Skitterbots",
+    "Summon Skitterbots",
+    "Summon Skitterbots",
+    "Summon Skitterbots",
+    "Summon Skitterbots"
+  ],
+  "items": [
+    {
+      "name": "Plague Claw",
+      "typeLine": "Assassin's Mitts",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Rift Stinger",
+      "typeLine": "Platinum Kris",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "",
+      "typeLine": "Frigid Blasting Wand of Renown",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "",
+      "typeLine": "Blasting Wand",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Blood Bane",
+      "typeLine": "Imperial Skean",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Arkhon's Tools",
+      "typeLine": "Cloth Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Hypnotic Clasp",
+      "typeLine": "Amber Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Plague Track",
+      "typeLine": "Wyvernscale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Heatshiver",
+      "typeLine": "Leather Hood",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Mind Shelter",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-19T18:24:25.645835Z"
+}

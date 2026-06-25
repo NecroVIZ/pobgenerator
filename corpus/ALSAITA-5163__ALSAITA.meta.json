@@ -1,0 +1,243 @@
+{
+  "account": "ALSAITA-5163",
+  "name": "ALSAITA",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Trickster",
+  "ascendancy": "Trickster",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "Lunaris",
+  "pantheonMinor": "Gruthkul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 10241,
+    "mana": 1189,
+    "ward": 0,
+    "movementSpeed": 316,
+    "lifeRegen": 0,
+    "evasionRating": 24187,
+    "armour": 0,
+    "strength": 99,
+    "dexterity": 170,
+    "intelligence": 236,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 5,
+    "effectiveHealthPool": 67835,
+    "physicalMaximumHitTaken": 15557,
+    "fireMaximumHitTaken": 50537,
+    "coldMaximumHitTaken": 50537,
+    "lightningMaximumHitTaken": 50537,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 16,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 23,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 14,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 6,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 153,
+    "lifeReserved": 0,
+    "manaReserved": 1158,
+    "evadeChance": 74,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 90,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 10
+    },
+    "lowestMaximumHitTaken": 15557
+  },
+  "keyStones": [
+    {
+      "name": "Magebane",
+      "icon": "Art/2DArt/SkillIcons/passives/Deaden.webp",
+      "stats": [
+        "Dexterity provides no inherent bonus to Evasion Rating\n+1% Chance to Suppress Spell Damage per 15 Dexterity"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    },
+    {
+      "name": "Ghost Reaver",
+      "icon": "Art/2DArt/SkillIcons/passives/ghostreaver.webp",
+      "stats": [
+        "Leech Energy Shield instead of Life\nMaximum total Energy Shield Recovery per second from Leech is doubled\nCannot Recharge Energy Shield"
+      ]
+    },
+    {
+      "name": "Inner Conviction",
+      "icon": "Art/2DArt/SkillIcons/passives/InnerConviction.webp",
+      "stats": [
+        "3% more Spell Damage per Power Charge",
+        "Gain Power Charges instead of Frenzy Charges"
+      ]
+    }
+  ],
+  "masteriesCount": 11,
+  "passiveCount": 121,
+  "skillGroups": [
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Spark of the Nova",
+        "Inspiration Support",
+        "Energy Leech Support",
+        "Spell Echo Support",
+        "Faster Projectiles Support",
+        "Faster Casting Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Clarity",
+        "Enlighten Support",
+        "Wrath",
+        "Discipline",
+        "Zealotry",
+        "Haste"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Frostblink of Wintry Blast"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Portal",
+        "Cast on Death Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Portal"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Spark of the Nova",
+    "Inspiration Support",
+    "Energy Leech Support",
+    "Spell Echo Support",
+    "Faster Projectiles Support",
+    "Faster Casting Support",
+    "Power Charge On Critical Support",
+    "Clarity",
+    "Enlighten Support",
+    "Wrath",
+    "Discipline",
+    "Zealotry",
+    "Haste",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Frostblink of Wintry Blast",
+    "Portal",
+    "Cast on Death Support",
+    "Portal"
+  ],
+  "items": [
+    {
+      "name": "Beast Spell",
+      "typeLine": "Profane Wand",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Maelström Coil",
+      "typeLine": "Synthesised Sapphire Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Vengeance Skin",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Hate Caress",
+      "typeLine": "Fingerless Silk Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Blood Song",
+      "typeLine": "Profane Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Beast Halo",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Plague Loop",
+      "typeLine": "Moonstone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Anarchy Stride",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-19T14:54:38.999984Z"
+}

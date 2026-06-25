@@ -1,0 +1,243 @@
+{
+  "account": "AquaMino-4953",
+  "name": "임영웅",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Trickster",
+  "ascendancy": "Trickster",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Yugul",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 19500,
+    "mana": 2230,
+    "ward": 0,
+    "movementSpeed": 286,
+    "lifeRegen": 0,
+    "evasionRating": 41356,
+    "armour": 0,
+    "strength": 414,
+    "dexterity": 355,
+    "intelligence": 3192,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 6,
+    "effectiveHealthPool": 189402,
+    "physicalMaximumHitTaken": 31462,
+    "fireMaximumHitTaken": 227491,
+    "coldMaximumHitTaken": 227491,
+    "lightningMaximumHitTaken": 227491,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 28,
+    "fireResistanceMax": 0,
+    "coldResistance": -19,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 0,
+    "lightningResistance": -30,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 0,
+    "blockChance": 25,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 100,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 31462
+  },
+  "keyStones": [
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    },
+    {
+      "name": "Tempered by War",
+      "icon": "Art/2DArt/SkillIcons/passives/TemperedByWar.webp",
+      "stats": [
+        "50% of Cold and Lightning Damage taken as Fire Damage",
+        "50% less Cold Resistance",
+        "50% less Lightning Resistance"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 97,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Blast",
+        "Summon Sacred Wisps",
+        "Invert the Rules Support",
+        "Barrage Support",
+        "Volatility Support",
+        "Greater Fork Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Purity of Fire",
+        "Arctic Armour",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Spellslinger",
+        "Culling Strike Support",
+        "Tornado"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Sniper's Mark",
+        "Mark On Hit Support",
+        "Enhance Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Immortal Call",
+        "Sigil of Power",
+        "Automation"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Aspect of the Spider"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Blast",
+    "Summon Sacred Wisps",
+    "Invert the Rules Support",
+    "Barrage Support",
+    "Volatility Support",
+    "Greater Fork Support",
+    "Power Charge On Critical Support",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Frostblink",
+    "Purity of Fire",
+    "Arctic Armour",
+    "Enlighten Support",
+    "Spellslinger",
+    "Culling Strike Support",
+    "Tornado",
+    "Sniper's Mark",
+    "Mark On Hit Support",
+    "Enhance Support",
+    "Immortal Call",
+    "Sigil of Power",
+    "Automation",
+    "Aspect of the Spider"
+  ],
+  "items": [
+    {
+      "name": "Brood Span",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Sorrow Mark",
+      "typeLine": "Synthesised Titanium Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Dire Crest",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Skull Rosary",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Doom Coat",
+      "typeLine": "Necrotic Armour",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 10,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Death Knot",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Entropy Fingers",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Dragon Bane",
+      "typeLine": "Synthesised Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-23T01:10:39.076448Z"
+}

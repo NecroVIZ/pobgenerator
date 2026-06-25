@@ -1,0 +1,243 @@
+{
+  "account": "Abbaj-2877",
+  "name": "Mirage_NecroJAPA",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Necromancer",
+  "ascendancy": "Necromancer",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 8116,
+    "mana": 8335,
+    "ward": 0,
+    "movementSpeed": 284,
+    "lifeRegen": 0,
+    "evasionRating": 20,
+    "armour": 1180,
+    "strength": 175,
+    "dexterity": 163,
+    "intelligence": 1131,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 6,
+    "effectiveHealthPool": 95684,
+    "physicalMaximumHitTaken": 10420,
+    "fireMaximumHitTaken": 32210,
+    "coldMaximumHitTaken": 32210,
+    "lightningMaximumHitTaken": 32210,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 1,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 22,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 75,
+    "spellBlockChance": 75,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 100,
+    "energyShieldRegen": 560,
+    "lifeReserved": 0,
+    "manaReserved": 7906,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 484,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 89,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 11
+    },
+    "lowestMaximumHitTaken": 10420
+  },
+  "keyStones": [
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Ghost Reaver",
+      "icon": "Art/2DArt/SkillIcons/passives/ghostreaver.webp",
+      "stats": [
+        "Leech Energy Shield instead of Life\nMaximum total Energy Shield Recovery per second from Leech is doubled\nCannot Recharge Energy Shield"
+      ]
+    }
+  ],
+  "masteriesCount": 6,
+  "passiveCount": 114,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Kinetic Blast of Clustering",
+        "Greater Fork Support",
+        "Increased Critical Damage Support",
+        "Hypothermia Support",
+        "Returning Projectiles Support",
+        "Damage on Full Life Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Blood Rage",
+        "Enhance Support",
+        "Shield Charge",
+        "Faster Attacks Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Volatile Dead of Seething",
+        "Desecrate",
+        "Greater Spell Cascade Support",
+        "Spellslinger"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Bone Offering",
+        "Spellslinger",
+        "Tornado"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Sniper's Mark",
+        "Mark On Hit Support",
+        "Frostblink"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Precision",
+        "Tempest Shield",
+        "Clarity"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Kinetic Blast of Clustering",
+    "Greater Fork Support",
+    "Increased Critical Damage Support",
+    "Hypothermia Support",
+    "Returning Projectiles Support",
+    "Damage on Full Life Support",
+    "Power Charge On Critical Support",
+    "Blood Rage",
+    "Enhance Support",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Volatile Dead of Seething",
+    "Desecrate",
+    "Greater Spell Cascade Support",
+    "Spellslinger",
+    "Bone Offering",
+    "Spellslinger",
+    "Tornado",
+    "Sniper's Mark",
+    "Mark On Hit Support",
+    "Frostblink",
+    "Precision",
+    "Tempest Shield",
+    "Clarity"
+  ],
+  "items": [
+    {
+      "name": "",
+      "typeLine": "Upgraded Crude Bow",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Oblivion Palm",
+      "typeLine": "Warlock Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Whispers of Infinity",
+      "typeLine": "Seaglass Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Crown of the Inward Eye",
+      "typeLine": "Prophet Crown",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Foe Needle",
+      "typeLine": "Synthesised Kinetic Wand",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Skull Mark",
+      "typeLine": "Harmonic Spirit Shield",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 10,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Chimeric Finger",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Storm Carapace",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Shavronne's Revelation",
+      "typeLine": "Moonstone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Armageddon Spark",
+      "typeLine": "Warlock Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    }
+  ],
+  "jewelsCount": 12,
+  "lastCheckedUtc": "2026-06-19T05:44:01.395582Z"
+}

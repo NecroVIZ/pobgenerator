@@ -1,0 +1,230 @@
+{
+  "account": "Asalefot-6508",
+  "name": "ShockNovaBaited",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Inquisitor",
+  "ascendancy": "Inquisitor",
+  "secondaryAscendancy": "Aul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3274,
+    "energyShield": 2667,
+    "mana": 1200,
+    "ward": 0,
+    "movementSpeed": 185,
+    "lifeRegen": 0,
+    "evasionRating": 30,
+    "armour": 2640,
+    "strength": 289,
+    "dexterity": 151,
+    "intelligence": 337,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 4,
+    "effectiveHealthPool": 31034,
+    "physicalMaximumHitTaken": 6719,
+    "fireMaximumHitTaken": 21218,
+    "coldMaximumHitTaken": 21218,
+    "lightningMaximumHitTaken": 21218,
+    "chaosMaximumHitTaken": 13096,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 1,
+    "fireResistanceMax": 0,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 31,
+    "coldResistanceMax": 0,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 19,
+    "lightningResistanceMax": 0,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 11,
+    "chaosResistanceMax": 0,
+    "blockChance": 42,
+    "spellBlockChance": 61,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 0,
+    "enemyAccuracy": 0,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 94,
+      "lightning": 6,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 6719
+  },
+  "keyStones": [
+    {
+      "name": "Corrupted Soul",
+      "icon": "Art/2DArt/SkillIcons/passives/CorruptedDefences.webp",
+      "stats": [
+        "50% of Non-Chaos Damage taken bypasses Energy Shield",
+        "Gain 15% of Maximum Life as Extra Maximum Energy Shield"
+      ]
+    },
+    {
+      "name": "Lone Messenger",
+      "icon": "Art/2DArt/SkillIcons/passives/LoneMessenger.webp",
+      "stats": [
+        "You can only have one Herald\n50% more Effect of Herald Buffs on you\n100% more Damage with Hits from Herald Skills\n50% more Damage Over Time with Herald Skills\nMinions from Herald Skills deal 25% more Damage\nYour Aura Skills are Disabled"
+      ]
+    }
+  ],
+  "masteriesCount": 5,
+  "passiveCount": 108,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Herald of Thunder",
+        "Increased Critical Damage Support",
+        "Scornful Herald Support",
+        "Added Lightning Damage Support",
+        "Cruelty Support",
+        "Elemental Focus Support",
+        "Life Leech Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support",
+        "Enhance Support",
+        "Lifetap Support",
+        "More Duration Support",
+        "Summon Stone Golem"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Phase Run",
+        "Enhance Support",
+        "More Duration Support",
+        "Automation",
+        "Aspect of the Spider"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Cold Snap",
+        "Cast when Damage Taken Support",
+        "Inspiration Support",
+        "Sigil of Power"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Crackling Lance of Branching",
+        "Cast when Damage Taken Support",
+        "Storm Brand"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Flame Dash"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Herald of Thunder",
+    "Increased Critical Damage Support",
+    "Scornful Herald Support",
+    "Added Lightning Damage Support",
+    "Cruelty Support",
+    "Elemental Focus Support",
+    "Life Leech Support",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Enhance Support",
+    "Lifetap Support",
+    "More Duration Support",
+    "Summon Stone Golem",
+    "Phase Run",
+    "Enhance Support",
+    "More Duration Support",
+    "Automation",
+    "Aspect of the Spider",
+    "Cold Snap",
+    "Cast when Damage Taken Support",
+    "Inspiration Support",
+    "Sigil of Power",
+    "Crackling Lance of Branching",
+    "Cast when Damage Taken Support",
+    "Storm Brand",
+    "Flame Dash"
+  ],
+  "items": [
+    {
+      "name": "Storm Secret",
+      "typeLine": "Topaz Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Storm Secret",
+      "typeLine": "Topaz Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Foulborn The Coming Calamity",
+      "typeLine": "Destroyer Regalia",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Asenath's Gentle Touch",
+      "typeLine": "Silk Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Headhunter",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Loath Goad",
+      "typeLine": "Sage Slippers",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Vortex Veil",
+      "typeLine": "Lich's Circlet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Annihilating Light",
+      "typeLine": "Quarterstaff",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Ashes of the Stars",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    }
+  ],
+  "jewelsCount": 14,
+  "lastCheckedUtc": "2026-06-21T02:18:32.317565Z"
+}

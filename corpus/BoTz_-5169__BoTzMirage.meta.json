@@ -1,0 +1,247 @@
+{
+  "account": "BoTz_-5169",
+  "name": "BoTzMirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Chieftain",
+  "ascendancy": "Chieftain",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Tukohama",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 10506,
+    "energyShield": 633,
+    "mana": 502,
+    "ward": 0,
+    "movementSpeed": 285,
+    "lifeRegen": 4151,
+    "evasionRating": 3234,
+    "armour": 13976,
+    "strength": 170,
+    "dexterity": 123,
+    "intelligence": 164,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 56870,
+    "physicalMaximumHitTaken": 14972,
+    "fireMaximumHitTaken": 82085,
+    "coldMaximumHitTaken": 82085,
+    "lightningMaximumHitTaken": 82085,
+    "chaosMaximumHitTaken": 10456,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 80,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 28,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 3,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 4,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 66,
+    "spellBlockChance": 70,
+    "spellSuppressionChance": 7,
+    "spellDodgeChance": 0,
+    "itemRarity": 168,
+    "energyShieldRegen": 0,
+    "lifeReserved": 468,
+    "manaReserved": 462,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 10456
+  },
+  "keyStones": [
+    {
+      "name": "Glancing Blows",
+      "icon": "Art/2DArt/SkillIcons/passives/GlancingBlows.webp",
+      "stats": [
+        "Chance to Block Attack Damage is doubled\nChance to Block Spell Damage is doubled\nYou take 65% of Damage from Blocked Hits"
+      ]
+    },
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 124,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Righteous Fire",
+        "Swift Affliction Support",
+        "Burning Damage Support",
+        "Lifetap Support",
+        "Elemental Focus Support",
+        "Efficacy Support",
+        "Increased Area of Effect Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Fire Trap",
+        "Lifetap Support",
+        "Automation",
+        "Blood Rage",
+        "Approaching Flames"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Tempest Shield",
+        "Malevolence",
+        "Flesh and Stone",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support",
+        "Lifetap Support",
+        "Enhance Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Flame Dash",
+        "Vitality",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Shield Charge",
+        "Lifetap Support",
+        "Faster Attacks Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Righteous Fire",
+    "Swift Affliction Support",
+    "Burning Damage Support",
+    "Lifetap Support",
+    "Elemental Focus Support",
+    "Efficacy Support",
+    "Increased Area of Effect Support",
+    "Fire Trap",
+    "Lifetap Support",
+    "Automation",
+    "Blood Rage",
+    "Approaching Flames",
+    "Tempest Shield",
+    "Malevolence",
+    "Flesh and Stone",
+    "Enlighten Support",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Lifetap Support",
+    "Enhance Support",
+    "Flame Dash",
+    "Vitality",
+    "Arrogance Support",
+    "Shield Charge",
+    "Lifetap Support",
+    "Faster Attacks Support"
+  ],
+  "items": [
+    {
+      "name": "Carcass Jack",
+      "typeLine": "Varnished Coat",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 10,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Rathpith Globe",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "",
+      "typeLine": "Fletcher's Recurve Bow of Needling",
+      "frameType": 1,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Devoto's Devotion",
+      "typeLine": "Nightmare Bascinet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Annihilation's Approach",
+      "typeLine": "Dragonscale Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Glyph Choker",
+      "typeLine": "Simplex Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Pain Knot",
+      "typeLine": "Manifold Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Miracle Fingers",
+      "typeLine": "Leviathan Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 11,
+  "lastCheckedUtc": "2026-06-25T02:11:25.778557Z"
+}

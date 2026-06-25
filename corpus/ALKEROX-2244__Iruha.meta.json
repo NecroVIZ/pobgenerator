@@ -1,0 +1,282 @@
+{
+  "account": "ALKEROX-2244",
+  "name": "Iruha",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Occultist",
+  "ascendancy": "Occultist",
+  "secondaryAscendancy": "Farrul Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ryslatha",
+  "banditChoice": "Alira",
+  "defensiveStats": {
+    "life": 2670,
+    "energyShield": 1229,
+    "mana": 1263,
+    "ward": 0,
+    "movementSpeed": 256,
+    "lifeRegen": 133,
+    "evasionRating": 1894,
+    "armour": 130,
+    "strength": 105,
+    "dexterity": 156,
+    "intelligence": 250,
+    "enduranceCharges": 3,
+    "frenzyCharges": 9,
+    "powerCharges": 9,
+    "effectiveHealthPool": 5960,
+    "physicalMaximumHitTaken": 2461,
+    "fireMaximumHitTaken": 9843,
+    "coldMaximumHitTaken": 12167,
+    "lightningMaximumHitTaken": 9843,
+    "chaosMaximumHitTaken": 1521,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 8,
+    "fireResistanceMax": 75,
+    "coldResistance": 83,
+    "coldResistanceOverCap": 100,
+    "coldResistanceMax": 83,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 1,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 4,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 1356,
+    "manaReserved": 1263,
+    "evadeChance": 10,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 1521
+  },
+  "keyStones": [
+    {
+      "name": "Runebinder",
+      "icon": "Art/2DArt/SkillIcons/passives/BrandKeystone.webp",
+      "stats": [
+        "-1 to maximum number of Summoned Totems\nYou can have an additional Brand Attached to an Enemy"
+      ]
+    },
+    {
+      "name": "Mind Over Matter",
+      "icon": "Art/2DArt/SkillIcons/passives/heroicspirit.webp",
+      "stats": [
+        "40% of Damage is taken from Mana before Life"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Eldritch Battery",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneEldritchBattery.webp",
+      "stats": [
+        "Spend Energy Shield before Mana for Skill Mana Costs\nEnergy Shield protects Mana instead of Life\n50% less Energy Shield Recharge Rate"
+      ]
+    },
+    {
+      "name": "Inner Conviction",
+      "icon": "Art/2DArt/SkillIcons/passives/InnerConviction.webp",
+      "stats": [
+        "3% more Spell Damage per Power Charge",
+        "Gain Power Charges instead of Frenzy Charges"
+      ]
+    }
+  ],
+  "masteriesCount": 10,
+  "passiveCount": 117,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Penance Brand of Dissipation",
+        "Hypothermia Support",
+        "Swiftbrand Support",
+        "Concentrated Effect Support",
+        "Increased Critical Damage Support",
+        "Empower Support",
+        "Power Charge On Critical Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Lightning Warp",
+        "Less Duration Support",
+        "Swift Affliction Support",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Immortal Call",
+        "Cast when Damage Taken Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Haste",
+        "Wrath"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Herald of Purity",
+        "Arrogance Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Summon Lightning Golem"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Hatred"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Elemental Weakness",
+        "Increased Area of Effect Support",
+        "Faster Casting Support"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Frostbite",
+        "Spell Totem Support",
+        "Multiple Totems Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Penance Brand of Dissipation",
+    "Hypothermia Support",
+    "Swiftbrand Support",
+    "Concentrated Effect Support",
+    "Increased Critical Damage Support",
+    "Empower Support",
+    "Power Charge On Critical Support",
+    "Lightning Warp",
+    "Less Duration Support",
+    "Swift Affliction Support",
+    "Faster Casting Support",
+    "Immortal Call",
+    "Cast when Damage Taken Support",
+    "Haste",
+    "Wrath",
+    "Herald of Purity",
+    "Arrogance Support",
+    "Summon Lightning Golem",
+    "Hatred",
+    "Elemental Weakness",
+    "Increased Area of Effect Support",
+    "Faster Casting Support",
+    "Frostbite",
+    "Spell Totem Support",
+    "Multiple Totems Support"
+  ],
+  "items": [
+    {
+      "name": "Ashcaller",
+      "typeLine": "Goat's Horn",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Sandstorm Visage",
+      "typeLine": "Necromancer Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Ghastly Theatre",
+      "typeLine": "Teak Round Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Foulborn Badge of the Brotherhood",
+      "typeLine": "Turquoise Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Call of the Brotherhood",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "The Restless Ward",
+      "typeLine": "Carnal Armour",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Pain Caress",
+      "typeLine": "Arcanist Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Honour Cord",
+      "typeLine": "Cord Belt",
+      "frameType": 2,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Void Battery",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Void Battery",
+      "typeLine": "Prophecy Wand",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Ralakesh's Impatience",
+      "typeLine": "Riveted Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Call of the Brotherhood",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 9,
+  "lastCheckedUtc": "2026-06-20T18:20:08.282457Z"
+}

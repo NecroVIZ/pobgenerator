@@ -1,0 +1,281 @@
+{
+  "account": "Anjunabeat13-1754",
+  "name": "Luucinante",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Gladiator",
+  "ascendancy": "Gladiator",
+  "secondaryAscendancy": "Chaos Bloodline",
+  "pantheonMajor": "Arakaali",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 20213,
+    "energyShield": 0,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 189,
+    "lifeRegen": 5015,
+    "evasionRating": 888,
+    "armour": 4471,
+    "strength": 199,
+    "dexterity": 136,
+    "intelligence": 129,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 755071,
+    "physicalMaximumHitTaken": 22853,
+    "fireMaximumHitTaken": 176687,
+    "coldMaximumHitTaken": 176687,
+    "lightningMaximumHitTaken": 176687,
+    "chaosMaximumHitTaken": 23641,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 96,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 16,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 10,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 10,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 90,
+    "spellBlockChance": 90,
+    "spellSuppressionChance": 10,
+    "spellDodgeChance": 0,
+    "itemRarity": 56,
+    "energyShieldRegen": 0,
+    "lifeReserved": 244,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 40,
+        "max": 90,
+        "effectiveAppliedArmour": 4471,
+        "base": 12,
+        "takenDamage": 2274
+      },
+      "fire": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2274
+      },
+      "cold": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2274
+      },
+      "lightning": {
+        "value": 12,
+        "max": 90,
+        "effectiveAppliedArmour": 0,
+        "base": 12,
+        "takenDamage": 2274
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 22853
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    },
+    {
+      "name": "Unwavering Stance",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneUnwaveringStance.webp",
+      "stats": [
+        "Cannot Evade enemy Attacks\nCannot be Stunned"
+      ]
+    },
+    {
+      "name": "Versatile Combatant",
+      "icon": "Art/2DArt/SkillIcons/passives/VersatileCombatant.webp",
+      "stats": [
+        "-10% to maximum Chance to Block Attack Damage\n-10% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 11,
+  "passiveCount": 119,
+  "skillGroups": [
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Animate Guardian of Smiting",
+        "Fire Penetration Support",
+        "Elemental Focus Support",
+        "Increased Critical Strikes Support",
+        "Ruthless Support",
+        "Increased Critical Damage Support",
+        "Elemental Damage with Attacks Support",
+        "Pulverise Support",
+        "Minion Damage Support",
+        "Greater Multistrike Support",
+        "Invert the Rules Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Desecrate",
+        "Spirit Offering",
+        "Assassin's Mark",
+        "Flame Link",
+        "More Duration Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Convocation",
+        "Automation",
+        "Transfusion Support",
+        "Corrupting Fever"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Frostblink",
+        "Purity of Elements",
+        "Eternal Blessing Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Vitality"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Despair"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Animate Guardian of Smiting",
+    "Fire Penetration Support",
+    "Elemental Focus Support",
+    "Increased Critical Strikes Support",
+    "Ruthless Support",
+    "Increased Critical Damage Support",
+    "Elemental Damage with Attacks Support",
+    "Pulverise Support",
+    "Minion Damage Support",
+    "Greater Multistrike Support",
+    "Invert the Rules Support",
+    "Desecrate",
+    "Spirit Offering",
+    "Assassin's Mark",
+    "Flame Link",
+    "More Duration Support",
+    "Convocation",
+    "Automation",
+    "Transfusion Support",
+    "Corrupting Fever",
+    "Frostblink",
+    "Purity of Elements",
+    "Eternal Blessing Support",
+    "Vitality",
+    "Despair"
+  ],
+  "items": [
+    {
+      "name": "Skull Hand",
+      "typeLine": "Chimerascale Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Corruption Nail",
+      "typeLine": "Bone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Plague Urge",
+      "typeLine": "Leviathan Greaves",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Brimstone Collar",
+      "typeLine": "Focused Amulet",
+      "frameType": 2,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Kaom's Heart",
+      "typeLine": "Glorious Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "The Hallowed Monarch",
+      "typeLine": "Faithful Helmet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "The Squire",
+      "typeLine": "Elegant Round Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Coward's Chains",
+      "typeLine": "Chain Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Phoenix Saw",
+      "typeLine": "Anarchic Spiritblade",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Glyph Twirl",
+      "typeLine": "Bone Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "The Sands of Time",
+      "typeLine": "Tyrant's Sekhem",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Singularity",
+      "typeLine": "Platinum Sceptre",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    }
+  ],
+  "jewelsCount": 13,
+  "lastCheckedUtc": "2026-06-23T07:16:46.737836Z"
+}

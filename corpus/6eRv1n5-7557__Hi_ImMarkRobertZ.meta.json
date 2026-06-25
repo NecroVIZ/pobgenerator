@@ -1,0 +1,243 @@
+{
+  "account": "6eRv1n5-7557",
+  "name": "Hi_ImMarkRobertZ",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Deadeye",
+  "ascendancy": "Deadeye",
+  "secondaryAscendancy": null,
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Shakari",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 1716,
+    "mana": 869,
+    "ward": 0,
+    "movementSpeed": 157,
+    "lifeRegen": 0,
+    "evasionRating": 221,
+    "armour": 1812,
+    "strength": 127,
+    "dexterity": 150,
+    "intelligence": 196,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 7,
+    "effectiveHealthPool": 2152,
+    "physicalMaximumHitTaken": 1706,
+    "fireMaximumHitTaken": 2360,
+    "coldMaximumHitTaken": 1635,
+    "lightningMaximumHitTaken": 1695,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 6,
+    "fireResistanceOverCap": 0,
+    "fireResistanceMax": 80,
+    "coldResistance": -37,
+    "coldResistanceOverCap": 0,
+    "coldResistanceMax": 75,
+    "lightningResistance": -32,
+    "lightningResistanceOverCap": 0,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 187,
+    "energyShieldRegen": 87,
+    "lifeReserved": 0,
+    "manaReserved": 819,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 1635
+  },
+  "keyStones": [
+    {
+      "name": "Zealot's Oath",
+      "icon": "Art/2DArt/SkillIcons/passives/liferegentoenergyshield.webp",
+      "stats": [
+        "Life Regeneration is applied to Energy Shield instead"
+      ]
+    },
+    {
+      "name": "Pain Attunement",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystonePainAttunement.webp",
+      "stats": [
+        "30% more Spell Damage when on Low Life"
+      ]
+    },
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    },
+    {
+      "name": "Inner Conviction",
+      "icon": "Art/2DArt/SkillIcons/passives/InnerConviction.webp",
+      "stats": [
+        "3% more Spell Damage per Power Charge",
+        "Gain Power Charges instead of Frenzy Charges"
+      ]
+    }
+  ],
+  "masteriesCount": 2,
+  "passiveCount": 107,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Spark of the Nova",
+        "Increased Critical Damage Support",
+        "Greater Spell Echo Support",
+        "Power Charge On Critical Support",
+        "Cold to Fire Support",
+        "Pinpoint Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Animate Guardian",
+        "Minion Life Support",
+        "Meat Shield Support",
+        "Empower Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Thunder",
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Herald of Ice"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Vaal Discipline",
+        "Vaal Haste"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Portal"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Vaal Clarity"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Spark of the Nova",
+    "Increased Critical Damage Support",
+    "Greater Spell Echo Support",
+    "Power Charge On Critical Support",
+    "Cold to Fire Support",
+    "Pinpoint Support",
+    "Animate Guardian",
+    "Minion Life Support",
+    "Meat Shield Support",
+    "Empower Support",
+    "Herald of Thunder",
+    "Flame Dash",
+    "Herald of Ice",
+    "Vaal Discipline",
+    "Vaal Haste",
+    "Portal",
+    "Vaal Clarity"
+  ],
+  "items": [
+    {
+      "name": "Wondertrap",
+      "typeLine": "Velvet Slippers",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Call of the Brotherhood",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Incandescent Heart",
+      "typeLine": "Saintly Chainmail",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Eber's Unification",
+      "typeLine": "Hubris Circlet",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Coward's Legacy",
+      "typeLine": "Chain Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Aurseize",
+      "typeLine": "Steelscale Gauntlets",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Mind Volley",
+      "typeLine": "Royal Bow",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "Call of the Brotherhood",
+      "typeLine": "Two-Stone Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    }
+  ],
+  "jewelsCount": 16,
+  "lastCheckedUtc": "2026-06-19T11:49:14.700296Z"
+}

@@ -1,0 +1,249 @@
+{
+  "account": "2BRStarScream-6455",
+  "name": "UnholyMightxQQQ",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Saboteur",
+  "ascendancy": "Saboteur",
+  "secondaryAscendancy": "Nameless Bloodline",
+  "pantheonMajor": "Solaris",
+  "pantheonMinor": "Ryslatha",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 3449,
+    "energyShield": 293,
+    "mana": 1200,
+    "ward": 0,
+    "movementSpeed": 311,
+    "lifeRegen": 0,
+    "evasionRating": 15183,
+    "armour": 566,
+    "strength": 134,
+    "dexterity": 209,
+    "intelligence": 159,
+    "enduranceCharges": 3,
+    "frenzyCharges": 5,
+    "powerCharges": 4,
+    "effectiveHealthPool": 16853,
+    "physicalMaximumHitTaken": 4801,
+    "fireMaximumHitTaken": 15723,
+    "coldMaximumHitTaken": 15723,
+    "lightningMaximumHitTaken": 15723,
+    "chaosMaximumHitTaken": 2536,
+    "fireResistance": 75,
+    "fireResistanceOverCap": 36,
+    "fireResistanceMax": 75,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 56,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 11,
+    "lightningResistanceMax": 75,
+    "chaosResistance": -60,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 20,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 60,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 1092,
+    "evadeChance": 70,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 430,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 2536
+  },
+  "keyStones": [
+    {
+      "name": "Ghost Dance",
+      "icon": "Art/2DArt/SkillIcons/passives/Trickster/AcrobaticWillpower.webp",
+      "stats": [
+        "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating"
+      ]
+    }
+  ],
+  "masteriesCount": 8,
+  "passiveCount": 121,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Glacial Cascade of the Fissure",
+        "High-Impact Mine Support",
+        "Trap and Mine Damage Support",
+        "Invert the Rules Support",
+        "Charged Mines Support",
+        "Minefield Support",
+        "Generosity Support",
+        "Bonechill Support"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Summon Skitterbots",
+        "Enlighten Support",
+        "Hatred",
+        "Grace"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Clarity",
+        "Elemental Weakness"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Precision",
+        "Bear Trap"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Arcanist Brand",
+        "Faster Casting Support",
+        "Assassin's Mark"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Automation",
+        "Enhance Support",
+        "Detonate Mines"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Flame Dash",
+        "Faster Casting Support",
+        "Lifetap Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Glacial Cascade of the Fissure",
+    "High-Impact Mine Support",
+    "Trap and Mine Damage Support",
+    "Invert the Rules Support",
+    "Charged Mines Support",
+    "Minefield Support",
+    "Generosity Support",
+    "Bonechill Support",
+    "Summon Skitterbots",
+    "Enlighten Support",
+    "Hatred",
+    "Grace",
+    "Clarity",
+    "Elemental Weakness",
+    "Precision",
+    "Bear Trap",
+    "Arcanist Brand",
+    "Faster Casting Support",
+    "Assassin's Mark",
+    "Automation",
+    "Enhance Support",
+    "Detonate Mines",
+    "Flame Dash",
+    "Faster Casting Support",
+    "Lifetap Support"
+  ],
+  "items": [
+    {
+      "name": "Ghoul Goad",
+      "typeLine": "Wyvernscale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Foe Mitts",
+      "typeLine": "Shagreen Gloves",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring3"
+    },
+    {
+      "name": "Death Grinder",
+      "typeLine": "Opal Sceptre",
+      "frameType": 2,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "The Sands of Time",
+      "typeLine": "Tyrant's Sekhem",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "The Taming",
+      "typeLine": "Prismatic Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Corruption Smasher",
+      "typeLine": "Opal Sceptre",
+      "frameType": 2,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Heatshiver",
+      "typeLine": "Leather Hood",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Replica Dragonfang's Flight",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Storm Turn",
+      "typeLine": "Ruby Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Victario's Influence",
+      "typeLine": "Lacquered Garb",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Maelström Spell",
+      "typeLine": "Opal Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon"
+    }
+  ],
+  "jewelsCount": 8,
+  "lastCheckedUtc": "2026-06-25T04:52:04.020109Z"
+}

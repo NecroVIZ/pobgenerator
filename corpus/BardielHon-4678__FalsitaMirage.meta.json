@@ -1,0 +1,228 @@
+{
+  "account": "BardielHon-4678",
+  "name": "FalsitaMirage",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Chieftain",
+  "ascendancy": "Chieftain",
+  "secondaryAscendancy": "Breachlord Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Ralakesh",
+  "banditChoice": "Kraityn",
+  "defensiveStats": {
+    "life": 17415,
+    "energyShield": 257,
+    "mana": 0,
+    "ward": 0,
+    "movementSpeed": 237,
+    "lifeRegen": 3779,
+    "evasionRating": 284,
+    "armour": 11165,
+    "strength": 400,
+    "dexterity": 130,
+    "intelligence": 166,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 126824,
+    "physicalMaximumHitTaken": 25089,
+    "fireMaximumHitTaken": 175631,
+    "coldMaximumHitTaken": 175631,
+    "lightningMaximumHitTaken": 175631,
+    "chaosMaximumHitTaken": 90000,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 164,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 93,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 66,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 43,
+    "chaosResistanceMax": 75,
+    "blockChance": 25,
+    "spellBlockChance": 13,
+    "spellSuppressionChance": 5,
+    "spellDodgeChance": 0,
+    "itemRarity": 0,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 0,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 25089
+  },
+  "keyStones": [
+    {
+      "name": "Blood Magic",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneBloodMagic.webp",
+      "stats": [
+        "Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana"
+      ]
+    }
+  ],
+  "masteriesCount": 7,
+  "passiveCount": 118,
+  "skillGroups": [
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vaal Righteous Fire",
+        "Elemental Focus Support",
+        "Swift Affliction Support",
+        "Lifetap Support",
+        "Increased Area of Effect Support",
+        "Burning Damage Support"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Scorching Ray",
+        "Infused Channelling Support",
+        "Burning Damage Support",
+        "Empower Support"
+      ]
+    },
+    {
+      "itemSlot": 16,
+      "gems": [
+        "Searing Bond",
+        "Malevolence",
+        "Leap Slam"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Shield Charge",
+        "Flame Dash",
+        "Blood Rage"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Portal",
+        "Cast on Death Support"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Malevolence",
+        "Eternal Blessing Support"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Vaal Righteous Fire",
+    "Elemental Focus Support",
+    "Swift Affliction Support",
+    "Lifetap Support",
+    "Increased Area of Effect Support",
+    "Burning Damage Support",
+    "Scorching Ray",
+    "Infused Channelling Support",
+    "Burning Damage Support",
+    "Empower Support",
+    "Searing Bond",
+    "Malevolence",
+    "Leap Slam",
+    "Shield Charge",
+    "Flame Dash",
+    "Blood Rage",
+    "Portal",
+    "Cast on Death Support",
+    "Malevolence",
+    "Eternal Blessing Support"
+  ],
+  "items": [
+    {
+      "name": "Kraken March",
+      "typeLine": "Hydrascale Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Rapture Gyre",
+      "typeLine": "Amethyst Ring",
+      "frameType": 2,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Gloom Turn",
+      "typeLine": "Coral Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Kaom's Heart",
+      "typeLine": "Glorious Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Grim Crack",
+      "typeLine": "Void Sceptre",
+      "frameType": 2,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "",
+      "typeLine": "Rotted Round Shield",
+      "frameType": 0,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "Defiance of Destiny",
+      "typeLine": "Paua Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Foulborn Rathpith Globe",
+      "typeLine": "Titanium Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "Corruption Caress",
+      "typeLine": "Precursor Gauntlets",
+      "frameType": 2,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Blight Peak",
+      "typeLine": "Giantslayer Helmet",
+      "frameType": 2,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Mageblood",
+      "typeLine": "Heavy Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Nebulis",
+      "typeLine": "Synthesised Void Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    }
+  ],
+  "jewelsCount": 15,
+  "lastCheckedUtc": "2026-06-19T08:46:22.95338Z"
+}

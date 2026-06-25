@@ -1,0 +1,243 @@
+{
+  "account": "BeADreamer-3194",
+  "name": "GigaBussyJuicer",
+  "league": "Mirage",
+  "level": 100,
+  "class": "Champion",
+  "ascendancy": "Champion",
+  "secondaryAscendancy": "Chaos Bloodline",
+  "pantheonMajor": "The Brine King",
+  "pantheonMinor": "Abberath",
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 1,
+    "energyShield": 9349,
+    "mana": 3108,
+    "ward": 0,
+    "movementSpeed": 170,
+    "lifeRegen": 838,
+    "evasionRating": 70119,
+    "armour": 77250,
+    "strength": 677,
+    "dexterity": 558,
+    "intelligence": 2502,
+    "enduranceCharges": 3,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 206604,
+    "physicalMaximumHitTaken": 20497,
+    "fireMaximumHitTaken": 89904,
+    "coldMaximumHitTaken": 89904,
+    "lightningMaximumHitTaken": 89904,
+    "chaosMaximumHitTaken": 2147483647,
+    "fireResistance": 90,
+    "fireResistanceOverCap": 44,
+    "fireResistanceMax": 90,
+    "coldResistance": 90,
+    "coldResistanceOverCap": 44,
+    "coldResistanceMax": 90,
+    "lightningResistance": 90,
+    "lightningResistanceOverCap": 44,
+    "lightningResistanceMax": 90,
+    "chaosResistance": 100,
+    "chaosResistanceOverCap": 0,
+    "chaosResistanceMax": 75,
+    "blockChance": 24,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 10,
+    "spellDodgeChance": 0,
+    "itemRarity": -104,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 2925,
+    "evadeChance": 89,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {},
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 20497
+  },
+  "keyStones": [
+    {
+      "name": "Chaos Inoculation",
+      "icon": "Art/2DArt/SkillIcons/passives/KeystoneChaosInoculation.webp",
+      "stats": [
+        "Maximum Life becomes 1, Immune to Chaos Damage"
+      ]
+    }
+  ],
+  "masteriesCount": 3,
+  "passiveCount": 95,
+  "skillGroups": [
+    {
+      "itemSlot": 3,
+      "gems": [
+        "Malevolence",
+        "Enlighten Support",
+        "Generosity Support",
+        "Wrath",
+        "Destructive Link",
+        "Zealotry"
+      ]
+    },
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Purity of Lightning",
+        "Enlighten Support",
+        "Purity of Ice",
+        "Purity of Fire"
+      ]
+    },
+    {
+      "itemSlot": 1,
+      "gems": [
+        "Vitality",
+        "Clarity",
+        "Precision",
+        "Enlighten Support"
+      ]
+    },
+    {
+      "itemSlot": 2,
+      "gems": [
+        "Grace",
+        "Vaal Smite",
+        "Enlighten Support",
+        "Vaal Discipline"
+      ]
+    },
+    {
+      "itemSlot": 7,
+      "gems": [
+        "Shield Charge",
+        "Faster Attacks Support",
+        "Flame Dash"
+      ]
+    },
+    {
+      "itemSlot": 6,
+      "gems": [
+        "Vaal Haste",
+        "Enlighten Support",
+        "Determination"
+      ]
+    },
+    {
+      "itemSlot": 8,
+      "gems": [
+        "Aspect of the Spider"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Malevolence",
+    "Enlighten Support",
+    "Generosity Support",
+    "Wrath",
+    "Destructive Link",
+    "Zealotry",
+    "Purity of Lightning",
+    "Enlighten Support",
+    "Purity of Ice",
+    "Purity of Fire",
+    "Vitality",
+    "Clarity",
+    "Precision",
+    "Enlighten Support",
+    "Grace",
+    "Vaal Smite",
+    "Enlighten Support",
+    "Vaal Discipline",
+    "Shield Charge",
+    "Faster Attacks Support",
+    "Flame Dash",
+    "Vaal Haste",
+    "Enlighten Support",
+    "Determination",
+    "Aspect of the Spider"
+  ],
+  "items": [
+    {
+      "name": "Widowhail",
+      "typeLine": "Crude Bow",
+      "frameType": 3,
+      "inventoryId": "Weapon2"
+    },
+    {
+      "name": "The Eternal Struggle",
+      "typeLine": "Onyx Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Maloney's Mechanism",
+      "typeLine": "Ornate Quiver",
+      "frameType": 3,
+      "inventoryId": "Offhand2"
+    },
+    {
+      "name": "The Dark Seer",
+      "typeLine": "Shadow Sceptre",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Nemesis Dash",
+      "typeLine": "Synthesised Soldier Boots",
+      "frameType": 2,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Mask of the Tribunal",
+      "typeLine": "Synthesised Magistrate Crown",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Foulborn Matua Tupuna",
+      "typeLine": "Tarnished Spirit Shield",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Hand of Phrecia",
+      "typeLine": "Mesh Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Agony Spiral",
+      "typeLine": "Helical Ring",
+      "frameType": 2,
+      "inventoryId": "Ring"
+    },
+    {
+      "name": "Sorrow Salvation",
+      "typeLine": "Twilight Regalia",
+      "frameType": 2,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Kalandra's Touch",
+      "typeLine": "Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Cyclopean Coil",
+      "typeLine": "Leather Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    }
+  ],
+  "jewelsCount": 16,
+  "lastCheckedUtc": "2026-06-19T02:40:52.659586Z"
+}

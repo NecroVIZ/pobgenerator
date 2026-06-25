@@ -1,0 +1,155 @@
+{
+  "account": "AHNG07-2718",
+  "name": "MinersPOV",
+  "league": "Mirage",
+  "level": 90,
+  "class": "Marauder",
+  "ascendancy": null,
+  "secondaryAscendancy": null,
+  "pantheonMajor": null,
+  "pantheonMinor": null,
+  "banditChoice": "Eramir",
+  "defensiveStats": {
+    "life": 5948,
+    "energyShield": 101,
+    "mana": 716,
+    "ward": 0,
+    "movementSpeed": 175,
+    "lifeRegen": 124,
+    "evasionRating": 428,
+    "armour": 1997,
+    "strength": 305,
+    "dexterity": 89,
+    "intelligence": 178,
+    "enduranceCharges": 4,
+    "frenzyCharges": 3,
+    "powerCharges": 3,
+    "effectiveHealthPool": 17545,
+    "physicalMaximumHitTaken": 6425,
+    "fireMaximumHitTaken": 22404,
+    "coldMaximumHitTaken": 21604,
+    "lightningMaximumHitTaken": 21604,
+    "chaosMaximumHitTaken": 23792,
+    "fireResistance": 76,
+    "fireResistanceOverCap": 16,
+    "fireResistanceMax": 76,
+    "coldResistance": 75,
+    "coldResistanceOverCap": 9,
+    "coldResistanceMax": 75,
+    "lightningResistance": 75,
+    "lightningResistanceOverCap": 39,
+    "lightningResistanceMax": 75,
+    "chaosResistance": 75,
+    "chaosResistanceOverCap": 10,
+    "chaosResistanceMax": 75,
+    "blockChance": 31,
+    "spellBlockChance": 0,
+    "spellSuppressionChance": 0,
+    "spellDodgeChance": 0,
+    "itemRarity": 53,
+    "energyShieldRegen": 0,
+    "lifeReserved": 0,
+    "manaReserved": 280,
+    "evadeChance": 0,
+    "evadeChanceMax": 95,
+    "enemyAccuracy": 538,
+    "baseEvadeChance": 0,
+    "damageReductions": {
+      "physical": {
+        "value": 15,
+        "max": 90,
+        "effectiveAppliedArmour": 1997,
+        "base": 0,
+        "takenDamage": 2257
+      }
+    },
+    "physicalTakenAs": {
+      "physical": 100,
+      "lightning": 0,
+      "fire": 0,
+      "cold": 0,
+      "chaos": 0
+    },
+    "lowestMaximumHitTaken": 6425
+  },
+  "keyStones": [],
+  "masteriesCount": 2,
+  "passiveCount": 82,
+  "skillGroups": [
+    {
+      "itemSlot": 5,
+      "gems": [
+        "Purity of Elements",
+        "Ravenous"
+      ]
+    }
+  ],
+  "allGemNames": [
+    "Purity of Elements",
+    "Ravenous"
+  ],
+  "items": [
+    {
+      "name": "Kaom's Heart",
+      "typeLine": "Glorious Plate",
+      "frameType": 3,
+      "inventoryId": "BodyArmour"
+    },
+    {
+      "name": "Foulborn Le Heup of All",
+      "typeLine": "Iron Ring",
+      "frameType": 3,
+      "inventoryId": "Ring2"
+    },
+    {
+      "name": "Foulborn Goldrim",
+      "typeLine": "Leather Cap",
+      "frameType": 3,
+      "inventoryId": "Helm"
+    },
+    {
+      "name": "Replica Karui Ward",
+      "typeLine": "Jade Amulet",
+      "frameType": 3,
+      "inventoryId": "Amulet"
+    },
+    {
+      "name": "Replica Volkuur's Guidance",
+      "typeLine": "Zealot Gloves",
+      "frameType": 3,
+      "inventoryId": "Gloves"
+    },
+    {
+      "name": "Unlight Extant",
+      "typeLine": "Sage Wand",
+      "frameType": 3,
+      "inventoryId": "Weapon"
+    },
+    {
+      "name": "Veruso's Ambition",
+      "typeLine": "Shackled Boots",
+      "frameType": 3,
+      "inventoryId": "Boots"
+    },
+    {
+      "name": "Crest of Perandus",
+      "typeLine": "Pine Buckler",
+      "frameType": 3,
+      "inventoryId": "Offhand"
+    },
+    {
+      "name": "The Magnate",
+      "typeLine": "Studded Belt",
+      "frameType": 3,
+      "inventoryId": "Belt"
+    },
+    {
+      "name": "Foulborn Le Heup of All",
+      "typeLine": "Iron Ring",
+      "frameType": 3,
+      "inventoryId": "Ring"
+    }
+  ],
+  "jewelsCount": 0,
+  "lastCheckedUtc": "2026-06-22T19:02:31.716976Z"
+}
