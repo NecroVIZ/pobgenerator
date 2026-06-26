@@ -372,11 +372,11 @@ Holdout: **Ninja Holdout (clean subset, n=6)** (исключены `ref_dps <= 0
 
 ### Выводы
 - **Relative Check (Stripped):** **PASS**. ML-seed уверенно побеждает Minimal-seed (3W/0L по DPS, среднее улучшение +4.9pp).
-- **Absolute Check (Stripped, Normalized):** **PASS** (при пороге $\ge 50\%$ от stripped-базиса). Введен замер `ref_stripped_dps` (оригинальное дерево на stripped-снаряжении). ML-seed совместная оптимизация дает:
-  - Build 10: 12.2% vs 22.17% baseline (**55.0%** ratio) -> PASS $\ge 50\%$
-  - Build 8: 23.5% vs 17.37% baseline (**135.4%** ratio) -> PASS $\ge 100\%$
-  - Build 2: 17.0% vs 6.93% baseline (**244.9%** ratio) -> PASS $\ge 100\%$
-  - Среднее отношение по 3 архетипам: **145.1%** (уверенное превосходство над эталоном в 2/3 случаев за счет адаптации под stripped-вещи).
+- **Absolute Check (Stripped, Normalized):** **PASS** (при пороге ratio $\ge 0.50$ от stripped-базиса). Введен замер `ref_stripped_dps` (оригинальное дерево на stripped-снаряжении). ML-seed совместная оптимизация дает:
+  - Build 10: 12.2% vs 22.17% baseline (ratio **0.55**) -> PASS
+  - Build 8: 23.5% vs 17.37% baseline (ratio **1.35**) -> PASS
+  - Build 2: 17.0% vs 6.93% baseline (ratio **2.45**) -> PASS
+  - Среднее отношение по 3 архетипам: **1.45** (уверенное превосходство над эталоном в 2/3 случаев за счет адаптации под stripped-вещи).
 - **Expert Check (Pts/DPS):** Выявлен false positive старых результатов. Реальный лимит дерева на экспертном шмоте без кластеров и джевелов составляет ~12-17% от референса.
-- **Инкубационный вердикт:** **PASS** (Relative gate закрыт на 3W/0L, Normalized absolute gate закрыт на 3W/0L при пороге $\ge 50\%$). Рекомендуется переход к Phase 3 (кодирование `poebuildgen/realizer/` после отмашки автора).
+- **Инкубационный вердикт:** **PASS** (Relative gate закрыт на 3W/0L, Normalized absolute gate закрыт на 3W/0L при пороге ratio $\ge 0.50$). Рекомендуется переход к Phase 3 (кодирование `poebuildgen/realizer/` после отмашки автора).
 
