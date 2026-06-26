@@ -377,6 +377,7 @@ Holdout: **Ninja Holdout (clean subset, n=6)** (исключены `ref_dps <= 0
   - Build 8: 23.5% vs 17.37% baseline (ratio **1.35**) -> PASS
   - Build 2: 17.0% vs 6.93% baseline (ratio **2.45**) -> PASS
   - Среднее отношение по 3 архетипам: **1.45** (уверенное превосходство над эталоном в 2/3 случаев за счет адаптации под stripped-вещи).
+- **Overlap Check (Stripped, Mean-only):** **PASS** (ML-seed mean overlap **36.2%** vs Minimal-seed mean overlap **28.0%**, среднее улучшение **+8.3pp**). На Penance Brand ML проигрывает по overlap (31.6% vs 36.8%), но выигрывает по DPS (+23% relative), что подтверждает нахождение более эффективной альтернативной топологии.
 - **Expert Check (Pts/DPS):** Выявлен false positive старых результатов. Реальный лимит дерева на экспертном шмоте без кластеров и джевелов составляет ~12-17% от референса.
-- **Инкубационный вердикт:** **PASS** (Relative gate закрыт на 3W/0L, Normalized absolute gate закрыт на 3W/0L при пороге ratio $\ge 0.50$). Рекомендуется переход к Phase 3 (кодирование `poebuildgen/realizer/` после отмашки автора).
+- **Инкубационный вердикт:** **PASS** (Relative gate закрыт на 3W/0L, Normalized absolute gate ratio $\ge 0.50$ закрыт на 3W/0L, Overlap mean-only gate закрыт). Рекомендуется переход к Phase 3 (кодирование `poebuildgen/realizer/` после отмашки автора).
 
