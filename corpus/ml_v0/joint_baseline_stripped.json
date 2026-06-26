@@ -1,0 +1,23 @@
+[
+  {
+    "build": "builds\\10.txt",
+    "ref_dps": 34936025.04240092,
+    "etalon_stripped_dps": 7746411.824063102,
+    "etalon_stripped_pct": 22.17,
+    "prefer": "CombinedDPS"
+  },
+  {
+    "build": "builds\\8.txt",
+    "ref_dps": 5441051.61850133,
+    "etalon_stripped_dps": 945046.6760519561,
+    "etalon_stripped_pct": 17.37,
+    "prefer": "CombinedDPS"
+  },
+  {
+    "build": "builds\\2.txt",
+    "ref_dps": 17442305.424425106,
+    "etalon_stripped_dps": 1208601.8952535407,
+    "etalon_stripped_pct": 6.93,
+    "prefer": "CombinedDPS"
+  }
+]

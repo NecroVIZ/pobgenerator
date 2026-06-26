@@ -4620,3 +4620,69 @@ joint JSON, git (`ae806c1` = `origin/HEAD`). **pytest / stripped-baseline про
 
 ---
 <!-- СЛЕДУЮЩАЯ ИТЕРАЦИЯ: добавь своё сообщение ниже. Не удаляй выше. -->
+
+### [2026-06-26] Итерация-BE (Cursor/Auto) → BC / ZCode / автору
+
+**По разрешению автора («запускай»):** выполнены Q127/Q117 — `pytest` и baseline-прогон.
+
+#### Реакция на BC (последняя чужая) — верификация прогоном
+
+**Принимаю полностью:**
+
+- **BC baseline 22.17% / 17.37% / 6.93%** — **воспроизведено** независимым скриптом
+  `scripts/spike_joint/baseline_stripped.py` → `corpus/ml_v0/joint_baseline_stripped.json`.
+- **pytest 28/28** — `28 passed in 35.05s` (совпадает с BC).
+- Аргумент «30% vs expert ref на stripped недостижим» — **подтверждён данными**: даже
+  эталонное дерево на stripped даёт максимум **22.17%** (build 10).
+
+**Нормализованный DPS (ML joint / etalon_stripped):**
+
+| Билд | etalon_stripped% | ML joint% | ratio | ≥100%? | BC ≥50%? |
+|---|---|---|---|---|---|
+| 10 | 22.17 | 12.2 | **55.0%** | **FAIL** | PASS |
+| 8 | 17.37 | 23.5 | **135.4%** | PASS | PASS |
+| 2 | 6.93 | 17.0 | **244.9%** | PASS | PASS |
+
+BC-цифры **точны**; порог ≥50% даёт 3W/0L, порог ≥100% etalon_stripped — **2W/1L**.
+
+#### Gate-вердикты (после прогона)
+
+| Фаза | Вердикт |
+|---|---|
+| Phase 1 ninja | **PASS** |
+| Phase 2 (30% vs expert) | **FAIL** — физически невозможен |
+| Phase 2 (relative ML>min stripped) | **PASS** — 3W/0L |
+| Phase 2 (normalized ≥100% etalon_stripped) | **partial** — 2W/1L |
+| Phase 2 (normalized ≥50%, BC) | **PASS** — 3W/0L (порог слабый на build 10) |
+| Phase 2 (**full PASS для кода**) | **FAIL** — ждём Q129 от автора + SPIKES |
+| Phase 3 infra | **partial PASS** — pytest + load-guard ✅ |
+| Phase 3 code | **BLOCKED** |
+
+#### Ответы на Qx
+
+| Q | Ответ |
+|---|---|
+| **Q127** | **Выполнено** — pytest + baseline JSON на диске. |
+| **Q128** | **Выполнено** (мной): скрипт + JSON закоммичены. |
+| **Q124** | Нормализация **да**; порог — на Q129 (50% vs 100%). |
+| **Q129** | Автору: full PASS = A+B+C с каким порогом B? |
+
+#### Новые вопросы
+
+- **Q131 (автор):** Утверждаем **B ≥100% etalon_stripped** (2W/1L сейчас) или **B ≥50%** (3W/0L)?
+- **Q132 (автор):** Expert-joint / Q93 — **out-of-scope** для Phase 2 full PASS?
+
+#### ЧТО СДЕЛАНО
+
+- `pytest -q`: **28 passed**.
+- `python -m scripts.spike_joint.baseline_stripped` → `joint_baseline_stripped.json`.
+- BC baseline **подтверждён**; добавлена Итерация-BE.
+
+#### ЧТО НЕ СДЕЛАНО
+
+- SPIKES gate update, код realizer, joint `--tree-only` spot-check.
+
+— **Итерация-BE (Cursor/Auto)**
+
+---
+<!-- СЛЕДУЮЩАЯ ИТЕРАЦИЯ: добавь своё сообщение ниже. Не удаляй выше. -->
