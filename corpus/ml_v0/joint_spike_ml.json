@@ -4,23 +4,25 @@
     "gear_start": "stripped",
     "tree_start": "ml",
     "ref_dps": 34936025.04240092,
-    "joint_dps": 3432463.915071589,
-    "dps_pct": 9.8,
+    "joint_dps": 4258059.053235833,
+    "dps_pct": 12.2,
     "tree_overlap_pct": 31.6,
+    "etalon_tree_pts": 104,
+    "joint_tree_pts": 123,
     "history": [
       {
         "iter": 0,
-        "tree_rounds": 13,
-        "tree_pts": 118,
-        "dps": 3443802.714866843,
-        "life": 3866
+        "tree_rounds": 6,
+        "tree_pts": 117,
+        "dps": 4047501.4359688587,
+        "life": 4381
       },
       {
         "iter": 1,
-        "tree_rounds": 11,
-        "tree_pts": 115,
-        "dps": 3432463.915071589,
-        "life": 3879
+        "tree_rounds": 2,
+        "tree_pts": 123,
+        "dps": 4258059.053235833,
+        "life": 3104
       }
     ],
     "evals": 465
@@ -30,49 +32,53 @@
     "gear_start": "stripped",
     "tree_start": "ml",
     "ref_dps": 5441051.61850133,
-    "joint_dps": 707914.2093735298,
-    "dps_pct": 13.0,
-    "tree_overlap_pct": 23.3,
+    "joint_dps": 1279254.899632838,
+    "dps_pct": 23.5,
+    "tree_overlap_pct": 40.0,
+    "etalon_tree_pts": 124,
+    "joint_tree_pts": 123,
     "history": [
       {
         "iter": 0,
-        "tree_rounds": 10,
+        "tree_rounds": 0,
         "tree_pts": 123,
-        "dps": 657126.8915185322,
-        "life": 2784
+        "dps": 1269045.9104783116,
+        "life": 3603
       },
       {
         "iter": 1,
-        "tree_rounds": 12,
+        "tree_rounds": 0,
         "tree_pts": 123,
-        "dps": 707914.2093735298,
-        "life": 3339
+        "dps": 1279254.899632838,
+        "life": 3726
       }
     ],
-    "evals": 301
+    "evals": 465
   },
   {
     "build": "builds\\2.txt",
     "gear_start": "stripped",
     "tree_start": "ml",
     "ref_dps": 17442305.424425106,
-    "joint_dps": 1666117.0240168888,
-    "dps_pct": 9.6,
-    "tree_overlap_pct": 22.9,
+    "joint_dps": 2959550.21086114,
+    "dps_pct": 17.0,
+    "tree_overlap_pct": 37.1,
+    "etalon_tree_pts": 130,
+    "joint_tree_pts": 123,
     "history": [
       {
         "iter": 0,
-        "tree_rounds": 11,
+        "tree_rounds": 6,
         "tree_pts": 123,
-        "dps": 1563085.867073445,
-        "life": 4114
+        "dps": 2950393.9067031993,
+        "life": 4282
       },
       {
         "iter": 1,
-        "tree_rounds": 11,
+        "tree_rounds": 0,
         "tree_pts": 123,
-        "dps": 1666117.0240168888,
-        "life": 3706
+        "dps": 2959550.21086114,
+        "life": 4021
       }
     ],
     "evals": 465

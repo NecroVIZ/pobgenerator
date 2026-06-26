@@ -137,6 +137,8 @@ def joint_fixpoint(
         "joint_dps": final_dps,
         "dps_pct": round(final_dps / ref_dps * 100, 1) if ref_dps else 0,
         "tree_overlap_pct": cmp["overlap_pct_of_etalon"],
+        "etalon_tree_pts": cmp["etalon_points"],
+        "joint_tree_pts": cmp["our_points"],
         "history": history,
         "evals": evals,
     }
