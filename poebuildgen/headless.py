@@ -370,6 +370,24 @@ class PobHeadless:
         self.recalc()
 
     def load_build_xml(self, xml: str | bytes, name: str = "headless") -> None:
+        import xml.etree.ElementTree as ET
+
+        try:
+            root = ET.fromstring(xml)
+        except ET.ParseError as exc:
+            raise PobHeadlessError(f"Ошибка загрузки билда: невалидный XML: {exc}") from exc
+
+        if root.tag != "PathOfBuilding":
+            raise PobHeadlessError(
+                f"Ошибка загрузки билда: корневой элемент должен быть <PathOfBuilding>, получено <{root.tag}>"
+            )
+
+        for tag in ("Build", "Tree", "Skills", "Items"):
+            if root.find(tag) is None:
+                raise PobHeadlessError(
+                    f"Ошибка загрузки билда: отсутствует обязательный элемент <{tag}>"
+                )
+
         self.new_build()
         self.lua.execute(b"if mainObject then mainObject.promptMsg = nil end")
         xml_b = xml.encode("utf-8") if isinstance(xml, str) else bytes(xml)
