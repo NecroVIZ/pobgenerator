@@ -109,7 +109,7 @@ def measure_marginals_ml(
     base_dps = _dps_from(base_res, prefer, DPS_KEYS)
 
     candidates = [n for n in main_tree_notables(graph)
-                  if n.nid not in alloc and n.type in ("Notable", "Keystone")]
+                  if n.nid not in alloc and (n.type == "Notable" or (n.type == "Keystone" and n.nid in graph.allocated))]
     if len(candidates) > max_candidates:
         candidates = sorted(candidates, key=lambda n: -ml_scores.get(n.nid, 0.0))[:max_candidates]
 
@@ -170,7 +170,8 @@ def predict_tree_alloc(
     scores = _score_notables(model, meta, backend, feats, candidates, feat_cols)
 
     # 1. Start from the ML seed targets
-    pruned_nodes = prune_to_budget_ml(graph, all_notables, scores, graph.points_total)
+    filtered_notables = [n for n in all_notables if n.type == "Notable" or (n.type == "Keystone" and n.nid in graph.allocated)]
+    pruned_nodes = prune_to_budget_ml(graph, filtered_notables, scores, graph.points_total)
     seed_targets = {n.nid for n in pruned_nodes}
     alloc = _alloc_from_notables(graph, seed_targets, ascend)
 

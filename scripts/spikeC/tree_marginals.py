@@ -93,7 +93,7 @@ def measure_marginals_from_alloc(
     base_dps = _dps_from(base_res, prefer, DPS_KEYS)
 
     candidates = [n for n in main_tree_notables(graph)
-                  if n.nid not in alloc and n.type in ("Notable", "Keystone")]
+                  if n.nid not in alloc and (n.type == "Notable" or (n.type == "Keystone" and n.nid in graph.allocated))]
     if len(candidates) > max_candidates:
         wanted = derive_wanted_from_etalon(graph)
         candidates = sorted(candidates, key=lambda n: score_node(n, wanted), reverse=True)[:max_candidates]
