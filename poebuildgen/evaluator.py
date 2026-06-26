@@ -25,6 +25,7 @@ def evaluate(
     want_audit: bool = False,
     name: str = "eval",
     timeout: float = 180,
+    fingerprint: dict | None = None,
 ) -> dict:
     """Посчитать билд в отдельном процессе PoB и вернуть статы.
 
@@ -40,6 +41,8 @@ def evaluate(
     }
     if xml is not None:
         req["xml"] = xml
+    if fingerprint is not None:
+        req["fingerprint"] = fingerprint
 
     with tempfile.TemporaryDirectory() as td:
         inp = Path(td) / "in.json"
