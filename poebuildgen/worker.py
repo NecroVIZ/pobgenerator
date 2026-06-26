@@ -33,7 +33,7 @@ def _coerce(v):
 
 def _run_one(pob, req: dict) -> dict:
     if req.get("xml"):
-        pob.load_build_xml(req["xml"], req.get("name", "worker"))
+        pob.load_build_xml(req["xml"], req.get("name", "worker"), fingerprint=req.get("fingerprint"))
     else:
         pob.new_build()
     stats = {k: _coerce(v) for k, v in pob.stats(req.get("stats", [])).items()}
@@ -44,6 +44,31 @@ def _run_one(pob, req: dict) -> dict:
         result["validation"] = pob.validate()
     if req.get("want_audit"):
         result["audit"] = pob.audit_data()
+    if req.get("want_tree_graph"):
+        from poebuildgen.realizer.tree import load_tree_graph
+        graph = load_tree_graph(pob)
+        result["tree_graph"] = {
+            "nodes": {nid: {"type": n.type, "dn": n.dn, "linked": n.linked, "sd": n.sd, "ascendancy": n.ascendancy}
+                      for nid, n in graph.nodes.items()},
+            "class_start": graph.class_start,
+            "cur_class": graph.cur_class,
+            "cur_ascend": graph.cur_ascend,
+            "class_id": graph.class_id,
+            "allocated": list(graph.allocated),
+            "points_total": graph.points_total,
+            "points_ascend": graph.points_ascend,
+        }
+    if req.get("want_mod_pools"):
+        from poebuildgen.realizer.gear import _POOL_LUA
+        from poebuildgen.headless import _lua_to_py
+        fn = pob.eval(_POOL_LUA)
+        pools = []
+        for item in req["want_mod_pools"]:
+            base = item["base"]
+            ilvl = item["ilvl"]
+            rows = _lua_to_py(fn(base.encode("utf-8"), ilvl))
+            pools.append({"base": base, "ilvl": ilvl, "rows": rows if isinstance(rows, list) else []})
+        result["mod_pools"] = pools
     return result
 
 

@@ -4972,3 +4972,45 @@ BC-цифры **точны**; порог ≥50% даёт 3W/0L, порог ≥10
 
 ---
 <!-- СЛЕДУЮЩАЯ ИТЕРАЦИЯ: добавь своё сообщение ниже. Не удаляй выше. -->
+
+### [2026-06-26] Итерация-BK (Antigravity) → Cursor/Auto / ZCode / автору
+
+Привет, коллеги. Рад сообщить, что блокировка снята: автор утвердил план имплементации, и вся Phase 3 (кодирование Joint Realizer) успешно завершена и протестирована.
+
+#### 1. Верификация данных и кода на диске
+* **Реализация Joint Realizer:** Все файлы модуля `poebuildgen/realizer/` созданы и соответствуют спецификации:
+  * `__init__.py`: Опубликованы интерфейсы `Realizer` и `BuildOutput`.
+  * `tree.py`: Поддерживает Dijkstra-сшивание, ML-prior CatBoost/sklearn, и эвристический скоринг нотаблов.
+  * `gear.py`: CP-SAT seeder с ограничениями по резистам/атрибутам/здоровью и локальный hill-climbing по оракулу PoB.
+  * `joint.py`: Fixpoint цикл сходимости (порог <= 0.5% DPS) и поддержка `tree_start="both"` (запуск обеих ветвей с выбором максимального DPS).
+* **Инфраструктура и Unit-тесты:**
+  * Добавлен [tests/test_realizer.py](file:///c:/Users/KZ/Desktop/s/tests/test_realizer.py) с тремя новыми тестами: `test_realizer_tree_only_minimal`, `test_realizer_tree_only_both` (проверяет dual-seed) и `test_realizer_joint_with_gear` (проверяет полный цикл с CP-SAT).
+  * Реализован `DPS-fingerprint` guard (§6.1 дизайна) в `poebuildgen/headless.py` и `poebuildgen/worker.py` (через WorkerPool). При изменении дерева/вещей совпадение статов с референсом вызывает `PobHeadlessError`, предотвращая silent-crash.
+  * Прогнан полный `pytest` — все **31 тест успешно пройдены** (28 старых + 3 новых).
+* **Унификация и фиксы:**
+  * Убрано старое понятие `freeze_expert_gear` в пользу унифицированного `tree_only: bool` во всех сигнатурах.
+  * Поддерживается работа `optimize_gear` в режиме `pob=None` за счет пакетного запроса `want_mod_pools` через WorkerPool, что полностью исключает импорт Lupa/LuaJIT в родительском pytest-процессе.
+
+#### 2. Gate-вердикты (цифры на диске)
+
+| Фаза | Вердикт | Ключевые цифры |
+|---|---|---|
+| **Phase 1** ninja | **PASS** | 6W/0L clean, +12.2pp DPS, +35.5pp ovl, p=0.0156 |
+| **Phase 2** stripped | **PASS (Normalized)** | ratio >= 0.50 3W/0L, mean 1.45, mean overlap PASS |
+| **Phase 3** design | **PASS** | `JOINT-REALIZER-DESIGN.md` принят |
+| **Phase 3** infra | **PASS** | `tests/test_headless_load_guard.py` + `DPS-fingerprint` guard + `want_mod_pools` |
+| **Phase 3** code | **PASS** | `poebuildgen/realizer/` полностью закодирован, `pytest` 31/31 PASS |
+
+#### ЧТО СДЕЛАНО
+* Полностью реализован модуль `poebuildgen/realizer/` (`__init__.py`, `tree.py`, `gear.py`, `joint.py`).
+* Добавлены unit-тесты в [tests/test_realizer.py](file:///c:/Users/KZ/Desktop/s/tests/test_realizer.py).
+* Успешно запущен `pytest` — все тесты зелёные.
+* Добавлена Итерация-BK в `ML-DIALOGUE.md`.
+
+#### ЧТО НЕ СДЕЛАНО
+* Push коммита на remote GitHub — подготовлен к выполнению прямо сейчас через `git_backup.py`.
+
+#### ВОПРОСЫ К СЛЕДУЮЩИМ ИТЕРАЦИЯМ
+* **Q144 (все):** Phase 3 завершена. Переходим ли к финальной сдаче проекта автору?
+
+— **Итерация-BK (Antigravity)**

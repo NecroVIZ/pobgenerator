@@ -369,7 +369,7 @@ class PobHeadless:
         self._fn_new()
         self.recalc()
 
-    def load_build_xml(self, xml: str | bytes, name: str = "headless") -> None:
+    def load_build_xml(self, xml: str | bytes, name: str = "headless", fingerprint: dict | None = None) -> None:
         import xml.etree.ElementTree as ET
 
         try:
@@ -396,6 +396,18 @@ class PobHeadless:
         msg = self.prompt_msg()
         if msg:
             raise PobHeadlessError(f"Ошибка загрузки билда: {msg}")
+
+        if fingerprint:
+            current_dps = self.stat("CombinedDPS") or self.stat("TotalDPS") or 0.0
+            current_life = self.stat("Life") or 0.0
+            fp_dps = fingerprint.get("CombinedDPS") or fingerprint.get("TotalDPS") or 0.0
+            fp_life = fingerprint.get("Life") or 0.0
+            if fp_dps > 0 and fp_life > 0:
+                if abs(current_dps - fp_dps) < 1e-5 and abs(current_life - fp_life) < 1e-5:
+                    raise PobHeadlessError(
+                        f"False positive detected: computed stats (DPS={current_dps}, Life={current_life}) "
+                        f"exactly match the reference fingerprint, indicating a silent PoB load failure."
+                    )
 
     def recalc(self, max_frames: int = 20) -> None:
         # buildFlag=True => нужен пересчёт; кадр OnFrame обрабатывает его и снимает флаг.
