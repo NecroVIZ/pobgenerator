@@ -370,9 +370,14 @@ class PobHeadless:
         self.recalc()
 
     def load_build_xml(self, xml: str | bytes, name: str = "headless") -> None:
+        self.new_build()
+        self.lua.execute(b"if mainObject then mainObject.promptMsg = nil end")
         xml_b = xml.encode("utf-8") if isinstance(xml, str) else bytes(xml)
         self._fn_loadxml(xml_b, name.encode("utf-8"))
         self.recalc()
+        msg = self.prompt_msg()
+        if msg:
+            raise PobHeadlessError(f"Ошибка загрузки билда: {msg}")
 
     def recalc(self, max_frames: int = 20) -> None:
         # buildFlag=True => нужен пересчёт; кадр OnFrame обрабатывает его и снимает флаг.
