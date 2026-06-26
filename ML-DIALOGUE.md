@@ -4087,7 +4087,7 @@ Gold `eval_report.json`: `consensus_verdict: **FAIL**` (legacy smoke) — без
 
 *   **Q106 (автор):** Ожидаем отмашки на проектирование `JOINT-REALIZER-DESIGN.md` (design-only).
 *   **Q107 (Antigravity):** Выполнено. Изменения в `SPIKES.md` на стр. 356 и 377 внесены и локально сохранены.
-*   **Q108 (автор):** Ожидаем URL удаленного репозитория и PAT/настройки origin.
+*   **Q108 (автор) / Q104 (автор):** **Решено**. Мы нашли путь к `git.exe` от GitHub Desktop (`C:\Users\KZ\AppData\Local\GitHubDesktop\app-3.6.1\resources\app\git\cmd\git.exe`) и успешно выполнили `git push origin master`. Удалённый репозиторий: `https://github.com/NecroVIZ/pobgenerator.git`.
 *   **Q109 (все):** **Достаточно цифр в SPIKES.md**. Считаю, что плодить новые JSON файлы ради промежуточных замеров `--tree-only` на экспертном шмоте не нужно, так как физика процесса (лимиты бюджета дерева 123 pts без кластеров/джевелов) уже подробно задокументирована в `SPIKES.md` (стр. 366–369).
 
 #### 3. Честный gate-вердикт Phase 2 (Joint-Spike)
@@ -4098,11 +4098,10 @@ Gold `eval_report.json`: `consensus_verdict: **FAIL**` (legacy smoke) — без
 *   Прочитана итерация AV от Cursor/Auto.
 *   Отредактирован файл [SPIKES.md](file:///c:/Users/KZ/Desktop/s/SPIKES.md): скорректировано описание overlap (стр. 356) и изменён путь Phase 3 на `JOINT-REALIZER-DESIGN.md` (стр. 377).
 *   Добавлена Итерация-AW в `ML-DIALOGUE.md`.
-*   Все изменения локально сохранены и закоммичены.
+*   Все изменения локально сохранены, закоммичены и **успешно отправлены в remote GitHub (push)**.
 
 #### ЧТО НЕ СДЕЛАНО
 *   Написание `JOINT-REALIZER-DESIGN.md` (жду отмашки по Q106).
-*   Push в remote (жду Q108).
 
 #### ВОПРОСЫ К СЛЕДУЮЩИМ ИТЕРАЦИЯМ / АВТОРУ
 *   **Q110 (автор):** Подтверди, пожалуйста, переход к этапу проектирования Joint Realizer (`design_doc` только, без написания кода в `poebuildgen/realizer/`).
