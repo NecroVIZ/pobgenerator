@@ -639,6 +639,10 @@ def predict_tree_alloc(
     lambda_blend: float = 0.5,
     prefer: str = "CombinedDPS",
     fingerprint: dict | None = None,
+    max_greedy_rounds: int = 30,
+    max_swap_rounds: int = 12,
+    max_candidates: int = 35,
+    max_swap_trials: int = 48,
 ) -> set[str]:
     _, ascend = split_main_ascend(graph)
     all_notables = main_tree_notables(graph)
@@ -662,8 +666,6 @@ def predict_tree_alloc(
     mastery = parse_mastery_effects(spec_el)
 
     # 2. Greedy fill using blended score (lambda_blend * ML + (1 - lambda_blend) * PoB)
-    max_greedy_rounds = 30
-    max_candidates = 35
     for rnd in range(max_greedy_rounds):
         if _points_used(graph, alloc) >= budget:
             break
@@ -690,8 +692,6 @@ def predict_tree_alloc(
             break
 
     # 3. Swap / Backtrack refine (pure DPS-driven)
-    max_swap_rounds = 12
-    max_swap_trials = 48
     min_notables = 3
     base_dps = _eval_alloc_dps(xml, alloc, mastery, pool, prefer=prefer, fingerprint=fingerprint)
 
@@ -786,6 +786,8 @@ def optimize_tree_heuristic(
     max_greedy_rounds: int = 25,
     max_candidates: int = 35,
     fingerprint: dict | None = None,
+    max_swap_rounds: int = 12,
+    max_swap_trials: int = 48,
 ) -> set[str]:
     _, ascend = split_main_ascend(graph)
     all_notables = main_tree_notables(graph)
@@ -830,8 +832,6 @@ def optimize_tree_heuristic(
             break
 
     # 3. Swap / Backtrack refine
-    max_swap_rounds = 12
-    max_swap_trials = 48
     min_notables = 3
     base_dps = _eval_alloc_dps(xml, alloc, mastery, pool, prefer=prefer, fingerprint=fingerprint)
 

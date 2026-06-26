@@ -30,6 +30,7 @@ class JointRealizer:
         tree_rounds: int = 25,
         life_frac: float = 0.6,
         tree_only: bool = False,
+        **kwargs,
     ) -> PobBuild:
         """
         Runs the joint tree and gear optimization fixpoint loop.
@@ -45,6 +46,7 @@ class JointRealizer:
                 tree_rounds=tree_rounds,
                 life_frac=life_frac,
                 tree_only=tree_only,
+                **kwargs,
             )
             build_min = self._realize_single(
                 build,
@@ -55,6 +57,7 @@ class JointRealizer:
                 tree_rounds=tree_rounds,
                 life_frac=life_frac,
                 tree_only=tree_only,
+                **kwargs,
             )
 
             res_ml, res_min = self.pool.map([
@@ -80,6 +83,7 @@ class JointRealizer:
             tree_rounds=tree_rounds,
             life_frac=life_frac,
             tree_only=tree_only,
+            **kwargs,
         )
 
     def _realize_single(
@@ -93,7 +97,15 @@ class JointRealizer:
         tree_rounds: int,
         life_frac: float,
         tree_only: bool,
+        **kwargs,
     ) -> PobBuild:
+        max_greedy_rounds_ml = kwargs.get("max_greedy_rounds", 30)
+        max_greedy_rounds_min = kwargs.get("max_greedy_rounds") if "max_greedy_rounds" in kwargs else tree_rounds
+        max_swap_rounds = kwargs.get("max_swap_rounds", 12)
+        max_candidates = kwargs.get("max_candidates", 35)
+        max_swap_trials = kwargs.get("max_swap_trials", 48)
+        bis_evals = kwargs.get("bis_evals", 300)
+
         model, meta, backend = None, None, None
         if tree_start == "ml":
             try:
@@ -165,7 +177,11 @@ class JointRealizer:
             from poebuildgen.realizer.tree import predict_tree_alloc
             tree_alloc = predict_tree_alloc(
                 xml_ref, model, meta, backend, self.pool, graph,
-                prefer=self._prefer, fingerprint=fingerprint
+                prefer=self._prefer, fingerprint=fingerprint,
+                max_greedy_rounds=max_greedy_rounds_ml,
+                max_swap_rounds=max_swap_rounds,
+                max_candidates=max_candidates,
+                max_swap_trials=max_swap_trials,
             )
         else:
             tree_alloc = set(ascend) | {graph.class_start}
@@ -186,13 +202,22 @@ class JointRealizer:
                 from poebuildgen.realizer.tree import predict_tree_alloc
                 tree_alloc = predict_tree_alloc(
                     cx, model, meta, backend, self.pool, graph,
-                    prefer=self._prefer, fingerprint=fingerprint
+                    prefer=self._prefer, fingerprint=fingerprint,
+                    max_greedy_rounds=max_greedy_rounds_ml,
+                    max_swap_rounds=max_swap_rounds,
+                    max_candidates=max_candidates,
+                    max_swap_trials=max_swap_trials,
                 )
             elif tree_start == "minimal":
                 from poebuildgen.realizer.tree import optimize_tree_heuristic
                 tree_alloc = optimize_tree_heuristic(
                     cx, graph, self.pool,
-                    prefer=self._prefer, max_greedy_rounds=tree_rounds, fingerprint=fingerprint
+                    prefer=self._prefer,
+                    max_greedy_rounds=max_greedy_rounds_min,
+                    max_swap_rounds=max_swap_rounds,
+                    max_candidates=max_candidates,
+                    max_swap_trials=max_swap_trials,
+                    fingerprint=fingerprint,
                 )
 
             if not tree_only:
@@ -209,6 +234,7 @@ class JointRealizer:
                     gear_ov,
                     life_frac=life_frac,
                     fingerprint=fingerprint,
+                    bis_evals=bis_evals,
                 )
             else:
                 cx = get_combined_xml(tree_alloc, gear_ov)

@@ -35,8 +35,12 @@ def test_realizer_tree_only_minimal():
             gear_start="stripped",
             tree_start="minimal",
             joint_iters=1,
-            tree_rounds=2,
+            tree_rounds=1,
             tree_only=True,
+            max_greedy_rounds=1,
+            max_swap_rounds=1,
+            max_candidates=2,
+            max_swap_trials=2,
         )
         assert isinstance(out, PobBuild)
         # Check that we can export back to XML and code
@@ -59,6 +63,10 @@ def test_realizer_tree_only_both():
             joint_iters=1,
             tree_rounds=1,
             tree_only=True,
+            max_greedy_rounds=1,
+            max_swap_rounds=1,
+            max_candidates=2,
+            max_swap_trials=2,
         )
         assert isinstance(out, PobBuild)
         assert "<PathOfBuilding>" in out.to_xml()
@@ -79,6 +87,11 @@ def test_realizer_joint_with_gear():
             tree_rounds=1,
             life_frac=0.5,
             tree_only=False,
+            max_greedy_rounds=1,
+            max_swap_rounds=1,
+            max_candidates=2,
+            max_swap_trials=2,
+            bis_evals=2,
         )
         assert isinstance(out, PobBuild)
         assert "<PathOfBuilding>" in out.to_xml()

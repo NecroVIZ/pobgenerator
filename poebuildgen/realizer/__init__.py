@@ -47,6 +47,7 @@ class Realizer:
         tree_rounds: int = 25,
         life_frac: float = 0.6,
         tree_only: bool = False,
+        **kwargs,
     ) -> PobBuild:
         """
         Выполняет совместную оптимизацию дерева и снаряжения.
@@ -61,4 +62,5 @@ class Realizer:
             tree_rounds=tree_rounds,
             life_frac=life_frac,
             tree_only=tree_only,
+            **kwargs,
         )
